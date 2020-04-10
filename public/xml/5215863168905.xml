@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Relationship</MessageType>
+  <PurgeAndReplace>false</PurgeAndReplace>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Relationship>
+      <ParentSKU>DUYER-521585822622-A</ParentSKU>
+      <Relation>
+        <SKU>DUYER-521585822622-0-</SKU>
+        <Type>Variation</Type>
+      </Relation>
+    </Relationship>
+  </Message>
+</AmazonEnvelope>

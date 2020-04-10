@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A268926EX62OY7</MerchantIdentifier>
+  </Header>
+  <MessageType>Relationship</MessageType>
+  <PurgeAndReplace>false</PurgeAndReplace>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Relationship>
+      <ParentSKU>LJJ-281585809908</ParentSKU>
+      <Relation>
+        <SKU>LJJ-281585809908-0</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>LJJ-281585809908-1</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>LJJ-281585809908-2</SKU>
+        <Type>Variation</Type>
+      </Relation>
+    </Relationship>
+  </Message>
+</AmazonEnvelope>

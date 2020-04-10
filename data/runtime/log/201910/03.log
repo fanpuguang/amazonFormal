@@ -1,0 +1,234 @@
+---------------------------------------------------------------
+[ 2019-10-03T01:19:58+08:00 ] 172.21.0.9 123.125.71.25 GET /
+[ info ] www.ldkjmy.com/ [运行时间：0.031637s][吞吐率：31.61req/s] [内存消耗：3,473.45kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (Linux;u;Android 4.2.2;zh-cn;) AppleWebKit/534.46 (KHTML,like Gecko) Version/5.1 Mobile Safari/10600.6.3 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-language' => 'zh-cn,zh-tw',
+  'if-none-match' => '"@NULL@"',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001382s ]
+[ info ] [ RUN ] app\home\controller\Index->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Index.php ]
+[ log ] Cron:clearlog Runat 2019-10-03 01:19:58 Use 0.000092 s
+
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.001482s ]
+---------------------------------------------------------------
+[ 2019-10-03T03:11:35+08:00 ] 172.21.0.9 220.181.108.140 GET /
+[ info ] www.ldkjmy.com/ [运行时间：0.036609s][吞吐率：27.32req/s] [内存消耗：3,486.27kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-language' => 'zh-cn,zh-tw',
+  'if-modified-since' => 'Wed, 31 Jul 2019 08:03:20 GMT',
+  'if-none-match' => '"W/"5d414b48-4808""',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001157s ]
+[ info ] [ RUN ] app\home\controller\Index->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Index.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000456s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-10-03T07:10:49+08:00 ] 172.21.0.9 42.156.138.123 GET /
+[ info ] www.ldkjmy.com/ [运行时间：0.036895s][吞吐率：27.10req/s] [内存消耗：3,485.91kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'www.ldkjmy.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; U; CPU iPhone OS 10_3_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8A293 Safari/6531.22.7',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001277s ]
+[ info ] [ RUN ] app\home\controller\Index->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Index.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000513s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-10-03T13:21:16+08:00 ] 172.21.0.9 221.235.235.89 GET /ueditor/net/controller.ashx
+[ info ] www.ldkjmy.com/ueditor/net/controller.ashx [运行时间：0.025987s][吞吐率：38.48req/s] [内存消耗：2,516.66kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'ueditor',
+    1 => 'net',
+    2 => 'controller.ashx',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Keep-Alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.ldkjmy.com/ueditor/net/controller.ashx',
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)',
+  'host' => 'www.ldkjmy.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-10-03T14:42:51+08:00 ] 172.21.0.9 220.181.108.185 GET /
+[ info ] www.ldkjmy.com/ [运行时间：0.041066s][吞吐率：24.35req/s] [内存消耗：3,485.82kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-language' => 'zh-cn,zh-tw',
+  'if-modified-since' => 'Wed, 31 Jul 2019 08:03:20 GMT',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001347s ]
+[ info ] [ RUN ] app\home\controller\Index->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Index.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000532s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-10-03T20:03:03+08:00 ] 172.21.0.9 40.77.167.9 GET /
+[ info ] www.ldkjmy.com/ [运行时间：0.042039s][吞吐率：23.79req/s] [内存消耗：3,485.59kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'pragma' => 'no-cache',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'www.ldkjmy.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.002824s ]
+[ info ] [ RUN ] app\home\controller\Index->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Index.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000492s ]
+[ info ] [ LOG ] INIT File

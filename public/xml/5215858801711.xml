@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665246</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Portable Air Cooler, Mini Air Conditioner,Small Air Conditioner For Refrigerated Home Dormitory, 3-Speed Cold Air Adjustment, With Night Light Mode, Wireless And Wired Dual-Use</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Fan button<br/>1. Click the fan button to turn the fan on and off. Click the fan button for the first time to start the fan (default low). Click the fan button for the second time to switch to the second fan position. Click the gear button three times to switch the third fan position.<br/>2. Press and hold the fan button to start and close the negative ion work.<br/><br/>✔ function button<br/>Function button. Click the function button to turn on and off the fan gust mode. Blow for 10 seconds and stop for 10 seconds. Press and hold the function to enable and disable the night light function of the water tank.<br/><br/>✔ Indicator function<br/>The blue light is always on when the hair is continuously blowing; the blue light is blinking in the gust mode; the green light is on when the negative ion is working; the red light is always on when charging;<br/><br/>✔ Charging and working time<br/>The unit is fully charged for about 3 hours.<br/>Working time: After the machine is fully charged, the working time of the first gear is about 8 hours, the working time of the second gear is about 4.5 hours, and the working time of the third gear is 2.5 hours.<br/><br/>✔ Product name: mini air conditioner portable<br/>✔ Material: ABS / PP / PC electronic components<br/>✔ Weight: 470g<br/>✔ Battery capacity: 2000mAh<br/>✔ Motor speed: low-grade 5V / mid-range 7V / third-grade 9V<br/>✔ Battery voltage / current: low-grade 300mA / mid-range 540mA / high-grade 720mA<br/>✔ Negative ion working power: 1W<br/>✔ Ion concentration: 1X106PCS / cm3<br/>✔ Ozone concentration: <0.03PPm<br/>✔ Product size: 120X127X 132mm]]></Description>
+        <BulletPoint>✔ Large-capacity water tank: The proper capacity of 150mL can avoid the residual water in the water tank and cause the problem of deterioration and pollution of the air after a long time.</BulletPoint>
+        <BulletPoint>✔ The cold wind quickly cools down: The softness of the refreshing fan with air conditioning Add water and ice to the water tank to quickly send cool, humid air, and enjoy the soft wind!</BulletPoint>
+        <BulletPoint>✔ Third gear wind speed: There is always a pick for a variety of wind types. Enjoy the air quietly, clean and breathe without pressure.</BulletPoint>
+        <BulletPoint>✔ No noise. Quiet and cool: The brushless motor is used for high speed, low noise, stable and quiet operation. The 4 blade design is light and low noise.</BulletPoint>
+        <BulletPoint>✔ Night light: comes with night light mode, 10 hours long battery life, wireless + wired dual-use, immediately enter the cool and enjoy healthy air.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665253</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Portable Air Cooler, Mini Air Conditioner,Small Air Conditioner For Refrigerated Home Dormitory, 3-Speed Cold Air Adjustment, With Night Light Mode, Wireless And Wired Dual-Use</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Fan button<br/>1. Click the fan button to turn the fan on and off. Click the fan button for the first time to start the fan (default low). Click the fan button for the second time to switch to the second fan position. Click the gear button three times to switch the third fan position.<br/>2. Press and hold the fan button to start and close the negative ion work.<br/><br/>✔ function button<br/>Function button. Click the function button to turn on and off the fan gust mode. Blow for 10 seconds and stop for 10 seconds. Press and hold the function to enable and disable the night light function of the water tank.<br/><br/>✔ Indicator function<br/>The blue light is always on when the hair is continuously blowing; the blue light is blinking in the gust mode; the green light is on when the negative ion is working; the red light is always on when charging;<br/><br/>✔ Charging and working time<br/>The unit is fully charged for about 3 hours.<br/>Working time: After the machine is fully charged, the working time of the first gear is about 8 hours, the working time of the second gear is about 4.5 hours, and the working time of the third gear is 2.5 hours.<br/><br/>✔ Product name: mini air conditioner portable<br/>✔ Material: ABS / PP / PC electronic components<br/>✔ Weight: 470g<br/>✔ Battery capacity: 2000mAh<br/>✔ Motor speed: low-grade 5V / mid-range 7V / third-grade 9V<br/>✔ Battery voltage / current: low-grade 300mA / mid-range 540mA / high-grade 720mA<br/>✔ Negative ion working power: 1W<br/>✔ Ion concentration: 1X106PCS / cm3<br/>✔ Ozone concentration: <0.03PPm<br/>✔ Product size: 120X127X 132mm]]></Description>
+        <BulletPoint>✔ Large-capacity water tank: The proper capacity of 150mL can avoid the residual water in the water tank and cause the problem of deterioration and pollution of the air after a long time.</BulletPoint>
+        <BulletPoint>✔ The cold wind quickly cools down: The softness of the refreshing fan with air conditioning Add water and ice to the water tank to quickly send cool, humid air, and enjoy the soft wind!</BulletPoint>
+        <BulletPoint>✔ Third gear wind speed: There is always a pick for a variety of wind types. Enjoy the air quietly, clean and breathe without pressure.</BulletPoint>
+        <BulletPoint>✔ No noise. Quiet and cool: The brushless motor is used for high speed, low noise, stable and quiet operation. The 4 blade design is light and low noise.</BulletPoint>
+        <BulletPoint>✔ Night light: comes with night light mode, 10 hours long battery life, wireless + wired dual-use, immediately enter the cool and enjoy healthy air.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Blue</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665260</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Portable Air Cooler, Mini Air Conditioner,Small Air Conditioner For Refrigerated Home Dormitory, 3-Speed Cold Air Adjustment, With Night Light Mode, Wireless And Wired Dual-Use</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Fan button<br/>1. Click the fan button to turn the fan on and off. Click the fan button for the first time to start the fan (default low). Click the fan button for the second time to switch to the second fan position. Click the gear button three times to switch the third fan position.<br/>2. Press and hold the fan button to start and close the negative ion work.<br/><br/>✔ function button<br/>Function button. Click the function button to turn on and off the fan gust mode. Blow for 10 seconds and stop for 10 seconds. Press and hold the function to enable and disable the night light function of the water tank.<br/><br/>✔ Indicator function<br/>The blue light is always on when the hair is continuously blowing; the blue light is blinking in the gust mode; the green light is on when the negative ion is working; the red light is always on when charging;<br/><br/>✔ Charging and working time<br/>The unit is fully charged for about 3 hours.<br/>Working time: After the machine is fully charged, the working time of the first gear is about 8 hours, the working time of the second gear is about 4.5 hours, and the working time of the third gear is 2.5 hours.<br/><br/>✔ Product name: mini air conditioner portable<br/>✔ Material: ABS / PP / PC electronic components<br/>✔ Weight: 470g<br/>✔ Battery capacity: 2000mAh<br/>✔ Motor speed: low-grade 5V / mid-range 7V / third-grade 9V<br/>✔ Battery voltage / current: low-grade 300mA / mid-range 540mA / high-grade 720mA<br/>✔ Negative ion working power: 1W<br/>✔ Ion concentration: 1X106PCS / cm3<br/>✔ Ozone concentration: <0.03PPm<br/>✔ Product size: 120X127X 132mm]]></Description>
+        <BulletPoint>✔ Large-capacity water tank: The proper capacity of 150mL can avoid the residual water in the water tank and cause the problem of deterioration and pollution of the air after a long time.</BulletPoint>
+        <BulletPoint>✔ The cold wind quickly cools down: The softness of the refreshing fan with air conditioning Add water and ice to the water tank to quickly send cool, humid air, and enjoy the soft wind!</BulletPoint>
+        <BulletPoint>✔ Third gear wind speed: There is always a pick for a variety of wind types. Enjoy the air quietly, clean and breathe without pressure.</BulletPoint>
+        <BulletPoint>✔ No noise. Quiet and cool: The brushless motor is used for high speed, low noise, stable and quiet operation. The 4 blade design is light and low noise.</BulletPoint>
+        <BulletPoint>✔ Night light: comes with night light mode, 10 hours long battery life, wireless + wired dual-use, immediately enter the cool and enjoy healthy air.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585706601-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665895</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Personal Air Cooler, Portable Mini Air Conditioner, Usb Cooling Cooling Fan, Can Add Ice Water, Desktop Office Ultra Quiet</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Wind speed: first gear: 2.0m / s, second gear: 2.5m / s, third gear: 3.5m / s<br/>✔ Noise: first gear: 30dB, second gear: 38dB, third gear: 46dB<br/>✔ Motor speed: first gear: 2570rpm, second gear: 3215rpm, third gear: 3660rpm<br/><br/>✔ Product name: water cooling fan<br/>✔ Water tank capacity: 380ml<br/>✔ Working current: 0.2A-1.4A<br/>✔ Input: DC5V<br/>✔ Power: 1W-7W<br/>✔ Product material: ABS / silicone<br/>✔ Product size: 133mm, 178mm, 170mm<br/><br/>✔ 1: Do not lay the product sideways, lie on its side or upside down to prevent water from penetrating into the circuit board.<br/>✔ 2: The third gear of the cooling fan requires large power. The third gear may not be activated below 1.5A. It requires a 2A adapter or a USB 3.0 port on the computer to supply power.<br/>✔ 3: For the first use, please fill it with water and let it stand for 20 minutes. The dry curtain will be better only if it is filled with water. The water tank at the bottom of the cooling fan is not completely sealed, and water will leak from the side if it is poured. If you need to move the cooling fan, open the water outlet at the bottom of the main unit and move it after draining the water.]]></Description>
+        <BulletPoint>✔ Máquina multipropósito: puede agregar agua helada y enfriarse rápidamente. Filtro de cortina de agua para purificar el aire fresco. La salida de aire se ajusta para enfriar en un amplio rango.</BulletPoint>
+        <BulletPoint>✔ Luz suave y cálida: promete una luz nocturna que cambia de color, que se puede configurar presionando prolongadamente según tu color favorito. Deja que duermas en paz.</BulletPoint>
+        <BulletPoint>✔ Tecnología de doble capa: cortina de hielo con filtro de polvo de alta densidad, sistema de purificación, antibacteriano altamente efectivo. Como el refrescante viento después de la lluvia, como la frescura que aporta el aire acondicionado interior.</BulletPoint>
+        <BulletPoint>✔ Cortina de agua reemplazable: la cortina de agua original se puede usar durante 6 a 8 meses, séquela durante mucho tiempo y déjela secar.</BulletPoint>
+        <BulletPoint>✔ Sistema de humidificación incorporado: la cortina de agua que no se seca en el verano puede aumentar efectivamente la humedad del flujo de aire, garantizar el frescor y dejar que su piel beba agua.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585711622-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665956</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Personal Air Cooler, Portable Mini Air Conditioner, Super-Cooling Silent Sprayer, Humidification Purification Is Not Dry, Desktop Air Cooler On The Bed Of Small Office Student Dormitory</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Are you still worried about these issues?<br/>01 The fan is still hot and not cool enough when it reaches the maximum gear.<br/>02 Not only is the first or third gear very loud? It also causes headaches for a long time.<br/>03 Want to feel the cold wind of the air conditioner, but at home / office; but can't turn on the air conditioner?<br/><br/>✔ Product Name: Icy Fan<br/>✔ Material: ABS + PP + Leather<br/>✔ Product size: 145 * 132 * 172.5mm<br/>✔ Water tank capacity: 200ML<br/>✔ Wind speed gear: stepless speed regulation<br/>✔ Product net weight: 700g<br/>✔ Rated voltage: DC 5V<br/>✔ Product color: white<br/>✔ Rated power: 4.5W]]></Description>
+        <BulletPoint>✔ Light tone, low noise, quiet and cool: After more than 2,000 air duct tests, we use high-quality air duct system technology and long-flowing wind blades to bring you the delicate wind feeling and enjoy the coolness.</BulletPoint>
+        <BulletPoint>✔ Perceived coolness: The new drag-reduction air supply system is adopted. When the special fiber ice curtain material achieves accurate cooling, the humidity of the air is increased to ensure that the skin is not tight while enjoying the coolness.</BulletPoint>
+        <BulletPoint>✔ Dual-cycle cooling: High-performance 7-blade fan, combined with the new drag-reduction air supply system, achieves cooling while circulating air, and increases the oxygen content and humidity of the air, so that you can continue to have no headaches.</BulletPoint>
+        <BulletPoint>✔ High-frequency cooling technology: When high-temperature air is introduced, the heat absorbed by the ice evaporates to cool down quickly. The higher the temperature, the better the cooling effect.</BulletPoint>
+        <BulletPoint>✔ After-sales service: The shop uses international logistics, and the estimated delivery time is 15-30 days. If you encounter any problems when you first receive your product, you can always contact us. Happy shopping.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585721015-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665987</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Personal Air Cooler, Portable Mini Air Conditioner, Usb Small Fan, Desktop Ultra-Quiet Office Water Spray Electric Fan, Strong Cooling + Huge Water Supply</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[WARNING: Keep out of reach of children unless under adult supervision. Do not fill the water tank with water. Must remain on a level surface during use; tilting the device may cause water to leak out of the base. Please read the complete instruction manual before use. Run time will depend on speed settings, room temperature levels, room humidity levels, etc. When not in use for a long time, drain the water tank, remove the filter and air dry.<br/><br/>✔ Product name: USB small fan<br/>✔ Water tank capacity: 180ML<br/>✔ Power: 7.5W<br/>✔ Input: 5V / 1.5A<br/>✔ Spray: 60ml / h<br/>✔ Gear: 3 gears<br/>✔ Cable length: 1.2m<br/>✔ Noise: ≦ 45dB]]></Description>
+        <BulletPoint>✔ Nano Ice Mist Hydration: Using the same ultrasonic atomization technology as the Hydrating Apparatus, 60m / h double-headed powerful spray, penetrates the skin slightly.</BulletPoint>
+        <BulletPoint>✔ Axial flow duct technology: pure copper brushless motor, noise has dropped by 30%, aviation turbine blades, gold three-dimensional wind into the wind.</BulletPoint>
+        <BulletPoint>✔ Large wind distance of 6.5 meters: aviation turbine fan blades, large cross-section and large-angle design of the wind blades, increasing the contact area with the air, the wind speed is 2m / s, and the wind speed is increased by 40%.</BulletPoint>
+        <BulletPoint>✔ Aseptic design: The aseptic design of the separate water tank, add water to 180ML, and humidify for 4 hours to reduce the stagnation of old water. The non-curtain design allows bacteria to hide.</BulletPoint>
+        <BulletPoint>✔ After-sales service: Our store uses international logistics and the estimated delivery time is 15-30 days. If you encounter any problems when receiving the goods, you can contact us at any time. Happy shopping.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Green</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585723775-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666021</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Portable Air Cooler, Mini Air Conditioner,Usb Function Water Cooling Fan, Handheld Spray Humidification, Third Gear Wind Small Dormitory Mute Office Desktop Home Charging</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Instructions for use, just four steps, you can use it with confidence<br/>Open the water injection cover<br/>2. Fill the cistern with ice water or ice cubes<br/>3. Plug in the power<br/>4. Turn on and adjust the wind direction and wind speed, you can use it with confidence<br/><br/>✔ Material: ABS<br/>✔ Color: Royal Blue<br/>✔ Rated voltage: DC 5V 0.84A<br/>✔ Rated power: 4.2W<br/>✔ Fan speed: 3000 RMP<br/>✔ Water tank capacity: 320mL<br/>✔ Product size: 158MM * 180MM * 164MM]]></Description>
+        <BulletPoint>✔ Multiple scenes: Cool summer in anytime, anywhere to meet your different scene needs, office, school dormitory, bedroom bedside.</BulletPoint>
+        <BulletPoint>✔ Spray humidification, beauty and emollient: add water into the water tank, high-efficiency evaporation wet curtain, cool and replenish moisture at the same time.</BulletPoint>
+        <BulletPoint>✔ Top water design: Open the lid and add water and ice directly. The operation is easy and simple. You can experience the cold feeling in winter in summer.</BulletPoint>
+        <BulletPoint>✔ Multiple power supply modes: This product uses USB power supply, suitable for public demand, charging head, computer USB, mobile power, car USB, etc.</BulletPoint>
+        <BulletPoint>✔ 100% after-sales service: our store uses international logistics, you can contact us at any time by email, we will answer your questions within 24 hours, the customer is always the first, you can find your like by searching for "DUYER" Products, I wish you a happy shopping!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585726436-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666328</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Portable Air Cooler, Mini Air Conditioner,3 in 1 Personal Evaporative Cooler, Humidifier, Purifier with USB, 3 Speed Desktop Cooling Fan for Home, Room, Office</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[You want to stay cool in the hot summer, but worry that it will cost a lot to run the air conditioner all day, and ordinary fans will only blow warm air to your face.<br/><br/>Do you want a better way to calm down?<br/>Use our mini air cooler to get this personal space cooler to create your comfort zone. Just add water and ice to the water tank, then relax and enjoy a fresh and moist breath.<br/><br/>✔ Material: ABS / PP / PC electronic components<br/>✔ Net amount: 900g<br/>✔ Gross weight: 1.3kg<br/>✔ Power requirement: 5V--DC2.1A<br/>✔ Noise: 50db at 3rd wind speed<br/>✔ Wind speed gear: 3 gears<br/>✔ Working power: 6W<br/>✔ Product size: 145 * 145 * 190mm<br/>✔ Application area: 60-100cm<br/>✔ Blowing range: <2㎡<br/>✔ Temperature reduction range: 4-12 ° C (depending on ambient temperature)]]></Description>
+        <BulletPoint>✔ Adjustable wind speed and automatic timing: three wind speeds (high, medium, low) can be adjusted, the maximum fan speed reaches 3.24m / s, and the wind direction can be adjusted up and down by 80 degrees manually to create your own personalized cooling zone: three automatic timing (1H / 3H / 6H), you can choose the leisure time, sleep time or work time that suits you best.</BulletPoint>
+        <BulletPoint>✔ Easy to use and portable: All you have to do is add water and ice cubes to the water tank of this desktop air cooler, plug it into a USB port or power bank and turn it on. At just 6.4 inches in height, it is easy to move and is perfect for your desktop and office / dormitory.</BulletPoint>
+        <BulletPoint>✔ Three-in-one function: three-in-one multi-functional design of personal air conditioner cooler, fan, air humidifier. Cool and humidify for better air. The cooling design keeps you away from hot summers and enjoys cool summers.</BulletPoint>
+        <BulletPoint>✔ Personal Air Cooler: A mini personal air cooler designed for personal use. It does not use refrigerants or chemicals to cool the air, so you should not expect the same effect as an air conditioner. Please put it next to you no more than 3ft-4ft.</BulletPoint>
+        <BulletPoint>✔ 100% after-sales service: our store uses international logistics, you can contact us at any time by email, we will answer your questions within 24 hours, the customer is always the first, you can find your like by searching for "DUYER" Products, I wish you a happy shopping!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585728921-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666755</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Portable Air Cooler, Mini Air Conditioner, Usb Cooling Air Conditioner Fan, Household Small Cooler Sprayer, Car Office Fan On Student Dormitory Bed</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[You want to stay cool in the hot summer, but worry that it will cost a lot to run the air conditioner all day, and ordinary fans will only blow warm air to your face.<br/><br/>Do you want a better way to calm down?<br/>Use our mini air cooler to get this personal space cooler to create your comfort zone. Just add water and ice to the water tank, then relax and enjoy a fresh and moist breath.<br/><br/>  ✔ Air volume: 4 levels<br/>  ✔ Rated voltage: 5V<br/>  ✔ Power cord length: 1.8m<br/>  ✔ Rated power: 6-9W<br/>  ✔ Control method: mechanical buttons<br/>  ✔ Safety function: 6 hours anti-dry burning<br/>  ✔ Air volume mode: high / medium / low / sleep<br/>  ✔ Water tank capacity: 500ML<br/>  ✔ product color: white<br/>  ✔ Gross weight / net weight: 1KG / 0.8KG<br/>  ✔ Material: ABS]]></Description>
+        <BulletPoint>✔ 3 speed adjustment: Our mini air conditioner is designed with 3 speed modes, which can be freely adjusted according to your requirements (low / medium / high). If necessary, you can also adjust the wind direction to rotate vertically. (Note: Portable air coolers are not suitable for cooling the entire room.)</BulletPoint>
+        <BulletPoint>✔ 4-in-1 design: This evaporative air cooler has portable fan cooling, spray humidification, air purification and 4-in-1 functions of 7 LED lights, which not only reduces the temperature, but also helps us avoid dry air. In addition, it has a 7-color LED ambient light, and a soft and colorful LED light built in to create a romantic atmosphere and provide you with a better sleeping environment.</BulletPoint>
+        <BulletPoint>✔ Energy saving and health: This portable air cooler has low energy consumption and is freon-free. Not only does it protect the health of your family, it also consumes less power to minimize energy loss and protect the environment. Ideal for summer living room, bedroom, office, etc. cooling. Can also be used at work and travel.</BulletPoint>
+        <BulletPoint>✔ Easy to operate and lightweight: Just add water or ice water, then plug the USB cable into a mobile power supply or any USB interface, and you can use the portable mini air cooler by pressing the function button. This personal air conditioner has a mini-portable design, which is very easy to carry to the office, bedroom, living room, kitchen and outdoor.</BulletPoint>
+        <BulletPoint>✔ 100% after-sales service: our store uses international logistics, you can contact us at any time by email, we will answer your questions within 24 hours, the customer is always the first, you can find your like by searching for "DUYER" Products, I wish you a happy shopping!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585733575-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666960</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Personal Air Cooler, Portable Mini Air Conditioner, Small Cooling Fan Humidifier Spray Cooling Cooling Fan, Home Student Dormitory Office Desktop</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ You want to stay cool in the hot summer, but worry that it will cost a lot to run the air conditioner all day, and ordinary fans will only blow warm air to your face.<br/><br/>✔ Do you want a better way to calm down?<br/>Use our mini air cooler to get this personal space cooler to create your comfort zone. Just add water and ice to the water tank, then relax and enjoy a fresh and moist breath.<br/><br/>✔ Cooling fan and humidifier<br/>The air conditioner, portable evaporative air cooler and atomizing humidifier are combined into one, which can humidify the skin and air, keep away from the dry air, and enjoy the coolness of summer.<br/><br/>✔ Fresh air and enjoy a healthy life<br/>It reduces the temperature by water evaporation and produces fresh air. Low power consumption and long humidification time! It is energy efficient and low carbon.<br/><br/>✔ Portable personal air cooler<br/>Mini personal air cooler designed for personal use, please place no more than 3 feet to 4 feet.<br/><br/>✔ Package includes:<br/>1 x air conditioner<br/>1 x USB data cable]]></Description>
+        <BulletPoint>✔ Quickly cool down and release negative ions: water purification and high wind speed evaporate release negative ions, you can feel the freshness brought by negative ions more, and enjoy clean air easily.</BulletPoint>
+        <BulletPoint>✔ Fog-free humidification system: moisturize every inch of skin, fog-free and powder-free humidification, use a fan to let air flow through a water curtain, and use the principle of natural evaporation of water to increase air humidity. Fog-free humidification is more healthy.</BulletPoint>
+        <BulletPoint>✔ Dual fan technology: The front and rear dual fans solve the problem of air volume and head. The rear fan is responsible for increasing the suction air pressure, and the front is responsible for air supply. The air supply distance is longer and the air volume is larger.</BulletPoint>
+        <BulletPoint>✔ Independent water tank: Separate independent water tank, it is more convenient to add water for cleaning. Simple operation, no water leakage, no water accumulation, more peace of mind.</BulletPoint>
+        <BulletPoint>✔ 100% after-sales service: our store uses international logistics, you can contact us at any time by email, we will answer your questions within 24 hours, the customer is always the first, you can find your like by searching for "DUYER" Products, I wish you a happy shopping!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665192</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Portable Air Cooler, Mini Air Conditioner,Small Air Conditioner For Refrigerated Home Dormitory, 3-Speed Cold Air Adjustment, With Night Light Mode, Wireless And Wired Dual-Use</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Fan button<br/>1. Click the fan button to turn the fan on and off. Click the fan button for the first time to start the fan (default low). Click the fan button for the second time to switch to the second fan position. Click the gear button three times to switch the third fan position.<br/>2. Press and hold the fan button to start and close the negative ion work.<br/><br/>✔ function button<br/>Function button. Click the function button to turn on and off the fan gust mode. Blow for 10 seconds and stop for 10 seconds. Press and hold the function to enable and disable the night light function of the water tank.<br/><br/>✔ Indicator function<br/>The blue light is always on when the hair is continuously blowing; the blue light is blinking in the gust mode; the green light is on when the negative ion is working; the red light is always on when charging;<br/><br/>✔ Charging and working time<br/>The unit is fully charged for about 3 hours.<br/>Working time: After the machine is fully charged, the working time of the first gear is about 8 hours, the working time of the second gear is about 4.5 hours, and the working time of the third gear is 2.5 hours.<br/><br/>✔ Product name: mini air conditioner portable<br/>✔ Material: ABS / PP / PC electronic components<br/>✔ Weight: 470g<br/>✔ Battery capacity: 2000mAh<br/>✔ Motor speed: low-grade 5V / mid-range 7V / third-grade 9V<br/>✔ Battery voltage / current: low-grade 300mA / mid-range 540mA / high-grade 720mA<br/>✔ Negative ion working power: 1W<br/>✔ Ion concentration: 1X106PCS / cm3<br/>✔ Ozone concentration: <0.03PPm<br/>✔ Product size: 120X127X 132mm]]></Description>
+        <BulletPoint>✔ Large-capacity water tank: The proper capacity of 150mL can avoid the residual water in the water tank and cause the problem of deterioration and pollution of the air after a long time.</BulletPoint>
+        <BulletPoint>✔ The cold wind quickly cools down: The softness of the refreshing fan with air conditioning Add water and ice to the water tank to quickly send cool, humid air, and enjoy the soft wind!</BulletPoint>
+        <BulletPoint>✔ Third gear wind speed: There is always a pick for a variety of wind types. Enjoy the air quietly, clean and breathe without pressure.</BulletPoint>
+        <BulletPoint>✔ No noise. Quiet and cool: The brushless motor is used for high speed, low noise, stable and quiet operation. The 4 blade design is light and low noise.</BulletPoint>
+        <BulletPoint>✔ Night light: comes with night light mode, 10 hours long battery life, wireless + wired dual-use, immediately enter the cool and enjoy healthy air.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585706601</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665833</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Personal Air Cooler, Portable Mini Air Conditioner, Usb Cooling Cooling Fan, Can Add Ice Water, Desktop Office Ultra Quiet</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Wind speed: first gear: 2.0m / s, second gear: 2.5m / s, third gear: 3.5m / s<br/>✔ Noise: first gear: 30dB, second gear: 38dB, third gear: 46dB<br/>✔ Motor speed: first gear: 2570rpm, second gear: 3215rpm, third gear: 3660rpm<br/><br/>✔ Product name: water cooling fan<br/>✔ Water tank capacity: 380ml<br/>✔ Working current: 0.2A-1.4A<br/>✔ Input: DC5V<br/>✔ Power: 1W-7W<br/>✔ Product material: ABS / silicone<br/>✔ Product size: 133mm, 178mm, 170mm<br/><br/>✔ 1: Do not lay the product sideways, lie on its side or upside down to prevent water from penetrating into the circuit board.<br/>✔ 2: The third gear of the cooling fan requires large power. The third gear may not be activated below 1.5A. It requires a 2A adapter or a USB 3.0 port on the computer to supply power.<br/>✔ 3: For the first use, please fill it with water and let it stand for 20 minutes. The dry curtain will be better only if it is filled with water. The water tank at the bottom of the cooling fan is not completely sealed, and water will leak from the side if it is poured. If you need to move the cooling fan, open the water outlet at the bottom of the main unit and move it after draining the water.]]></Description>
+        <BulletPoint>✔ Máquina multipropósito: puede agregar agua helada y enfriarse rápidamente. Filtro de cortina de agua para purificar el aire fresco. La salida de aire se ajusta para enfriar en un amplio rango.</BulletPoint>
+        <BulletPoint>✔ Luz suave y cálida: promete una luz nocturna que cambia de color, que se puede configurar presionando prolongadamente según tu color favorito. Deja que duermas en paz.</BulletPoint>
+        <BulletPoint>✔ Tecnología de doble capa: cortina de hielo con filtro de polvo de alta densidad, sistema de purificación, antibacteriano altamente efectivo. Como el refrescante viento después de la lluvia, como la frescura que aporta el aire acondicionado interior.</BulletPoint>
+        <BulletPoint>✔ Cortina de agua reemplazable: la cortina de agua original se puede usar durante 6 a 8 meses, séquela durante mucho tiempo y déjela secar.</BulletPoint>
+        <BulletPoint>✔ Sistema de humidificación incorporado: la cortina de agua que no se seca en el verano puede aumentar efectivamente la humedad del flujo de aire, garantizar el frescor y dejar que su piel beba agua.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>13</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585711622</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665901</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Personal Air Cooler, Portable Mini Air Conditioner, Super-Cooling Silent Sprayer, Humidification Purification Is Not Dry, Desktop Air Cooler On The Bed Of Small Office Student Dormitory</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Are you still worried about these issues?<br/>01 The fan is still hot and not cool enough when it reaches the maximum gear.<br/>02 Not only is the first or third gear very loud? It also causes headaches for a long time.<br/>03 Want to feel the cold wind of the air conditioner, but at home / office; but can't turn on the air conditioner?<br/><br/>✔ Product Name: Icy Fan<br/>✔ Material: ABS + PP + Leather<br/>✔ Product size: 145 * 132 * 172.5mm<br/>✔ Water tank capacity: 200ML<br/>✔ Wind speed gear: stepless speed regulation<br/>✔ Product net weight: 700g<br/>✔ Rated voltage: DC 5V<br/>✔ Product color: white<br/>✔ Rated power: 4.5W]]></Description>
+        <BulletPoint>✔ Light tone, low noise, quiet and cool: After more than 2,000 air duct tests, we use high-quality air duct system technology and long-flowing wind blades to bring you the delicate wind feeling and enjoy the coolness.</BulletPoint>
+        <BulletPoint>✔ Perceived coolness: The new drag-reduction air supply system is adopted. When the special fiber ice curtain material achieves accurate cooling, the humidity of the air is increased to ensure that the skin is not tight while enjoying the coolness.</BulletPoint>
+        <BulletPoint>✔ Dual-cycle cooling: High-performance 7-blade fan, combined with the new drag-reduction air supply system, achieves cooling while circulating air, and increases the oxygen content and humidity of the air, so that you can continue to have no headaches.</BulletPoint>
+        <BulletPoint>✔ High-frequency cooling technology: When high-temperature air is introduced, the heat absorbed by the ice evaporates to cool down quickly. The higher the temperature, the better the cooling effect.</BulletPoint>
+        <BulletPoint>✔ After-sales service: The shop uses international logistics, and the estimated delivery time is 15-30 days. If you encounter any problems when you first receive your product, you can always contact us. Happy shopping.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585721015</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665963</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Personal Air Cooler, Portable Mini Air Conditioner, Usb Small Fan, Desktop Ultra-Quiet Office Water Spray Electric Fan, Strong Cooling + Huge Water Supply</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[WARNING: Keep out of reach of children unless under adult supervision. Do not fill the water tank with water. Must remain on a level surface during use; tilting the device may cause water to leak out of the base. Please read the complete instruction manual before use. Run time will depend on speed settings, room temperature levels, room humidity levels, etc. When not in use for a long time, drain the water tank, remove the filter and air dry.<br/><br/>✔ Product name: USB small fan<br/>✔ Water tank capacity: 180ML<br/>✔ Power: 7.5W<br/>✔ Input: 5V / 1.5A<br/>✔ Spray: 60ml / h<br/>✔ Gear: 3 gears<br/>✔ Cable length: 1.2m<br/>✔ Noise: ≦ 45dB]]></Description>
+        <BulletPoint>✔ Nano Ice Mist Hydration: Using the same ultrasonic atomization technology as the Hydrating Apparatus, 60m / h double-headed powerful spray, penetrates the skin slightly.</BulletPoint>
+        <BulletPoint>✔ Axial flow duct technology: pure copper brushless motor, noise has dropped by 30%, aviation turbine blades, gold three-dimensional wind into the wind.</BulletPoint>
+        <BulletPoint>✔ Large wind distance of 6.5 meters: aviation turbine fan blades, large cross-section and large-angle design of the wind blades, increasing the contact area with the air, the wind speed is 2m / s, and the wind speed is increased by 40%.</BulletPoint>
+        <BulletPoint>✔ Aseptic design: The aseptic design of the separate water tank, add water to 180ML, and humidify for 4 hours to reduce the stagnation of old water. The non-curtain design allows bacteria to hide.</BulletPoint>
+        <BulletPoint>✔ After-sales service: Our store uses international logistics and the estimated delivery time is 15-30 days. If you encounter any problems when receiving the goods, you can contact us at any time. Happy shopping.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>15</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585723775</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665994</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Portable Air Cooler, Mini Air Conditioner,Usb Function Water Cooling Fan, Handheld Spray Humidification, Third Gear Wind Small Dormitory Mute Office Desktop Home Charging</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Instructions for use, just four steps, you can use it with confidence<br/>Open the water injection cover<br/>2. Fill the cistern with ice water or ice cubes<br/>3. Plug in the power<br/>4. Turn on and adjust the wind direction and wind speed, you can use it with confidence<br/><br/>✔ Material: ABS<br/>✔ Color: Royal Blue<br/>✔ Rated voltage: DC 5V 0.84A<br/>✔ Rated power: 4.2W<br/>✔ Fan speed: 3000 RMP<br/>✔ Water tank capacity: 320mL<br/>✔ Product size: 158MM * 180MM * 164MM]]></Description>
+        <BulletPoint>✔ Multiple scenes: Cool summer in anytime, anywhere to meet your different scene needs, office, school dormitory, bedroom bedside.</BulletPoint>
+        <BulletPoint>✔ Spray humidification, beauty and emollient: add water into the water tank, high-efficiency evaporation wet curtain, cool and replenish moisture at the same time.</BulletPoint>
+        <BulletPoint>✔ Top water design: Open the lid and add water and ice directly. The operation is easy and simple. You can experience the cold feeling in winter in summer.</BulletPoint>
+        <BulletPoint>✔ Multiple power supply modes: This product uses USB power supply, suitable for public demand, charging head, computer USB, mobile power, car USB, etc.</BulletPoint>
+        <BulletPoint>✔ 100% after-sales service: our store uses international logistics, you can contact us at any time by email, we will answer your questions within 24 hours, the customer is always the first, you can find your like by searching for "DUYER" Products, I wish you a happy shopping!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>16</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585726436</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666083</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Portable Air Cooler, Mini Air Conditioner,3 in 1 Personal Evaporative Cooler, Humidifier, Purifier with USB, 3 Speed Desktop Cooling Fan for Home, Room, Office</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[You want to stay cool in the hot summer, but worry that it will cost a lot to run the air conditioner all day, and ordinary fans will only blow warm air to your face.<br/><br/>Do you want a better way to calm down?<br/>Use our mini air cooler to get this personal space cooler to create your comfort zone. Just add water and ice to the water tank, then relax and enjoy a fresh and moist breath.<br/><br/>✔ Material: ABS / PP / PC electronic components<br/>✔ Net amount: 900g<br/>✔ Gross weight: 1.3kg<br/>✔ Power requirement: 5V--DC2.1A<br/>✔ Noise: 50db at 3rd wind speed<br/>✔ Wind speed gear: 3 gears<br/>✔ Working power: 6W<br/>✔ Product size: 145 * 145 * 190mm<br/>✔ Application area: 60-100cm<br/>✔ Blowing range: <2㎡<br/>✔ Temperature reduction range: 4-12 ° C (depending on ambient temperature)]]></Description>
+        <BulletPoint>✔ Adjustable wind speed and automatic timing: three wind speeds (high, medium, low) can be adjusted, the maximum fan speed reaches 3.24m / s, and the wind direction can be adjusted up and down by 80 degrees manually to create your own personalized cooling zone: three automatic timing (1H / 3H / 6H), you can choose the leisure time, sleep time or work time that suits you best.</BulletPoint>
+        <BulletPoint>✔ Easy to use and portable: All you have to do is add water and ice cubes to the water tank of this desktop air cooler, plug it into a USB port or power bank and turn it on. At just 6.4 inches in height, it is easy to move and is perfect for your desktop and office / dormitory.</BulletPoint>
+        <BulletPoint>✔ Three-in-one function: three-in-one multi-functional design of personal air conditioner cooler, fan, air humidifier. Cool and humidify for better air. The cooling design keeps you away from hot summers and enjoys cool summers.</BulletPoint>
+        <BulletPoint>✔ Personal Air Cooler: A mini personal air cooler designed for personal use. It does not use refrigerants or chemicals to cool the air, so you should not expect the same effect as an air conditioner. Please put it next to you no more than 3ft-4ft.</BulletPoint>
+        <BulletPoint>✔ 100% after-sales service: our store uses international logistics, you can contact us at any time by email, we will answer your questions within 24 hours, the customer is always the first, you can find your like by searching for "DUYER" Products, I wish you a happy shopping!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>17</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585728921</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666366</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Portable Air Cooler, Mini Air Conditioner, Usb Cooling Air Conditioner Fan, Household Small Cooler Sprayer, Car Office Fan On Student Dormitory Bed</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[You want to stay cool in the hot summer, but worry that it will cost a lot to run the air conditioner all day, and ordinary fans will only blow warm air to your face.<br/><br/>Do you want a better way to calm down?<br/>Use our mini air cooler to get this personal space cooler to create your comfort zone. Just add water and ice to the water tank, then relax and enjoy a fresh and moist breath.<br/><br/>  ✔ Air volume: 4 levels<br/>  ✔ Rated voltage: 5V<br/>  ✔ Power cord length: 1.8m<br/>  ✔ Rated power: 6-9W<br/>  ✔ Control method: mechanical buttons<br/>  ✔ Safety function: 6 hours anti-dry burning<br/>  ✔ Air volume mode: high / medium / low / sleep<br/>  ✔ Water tank capacity: 500ML<br/>  ✔ product color: white<br/>  ✔ Gross weight / net weight: 1KG / 0.8KG<br/>  ✔ Material: ABS]]></Description>
+        <BulletPoint>✔ 3 speed adjustment: Our mini air conditioner is designed with 3 speed modes, which can be freely adjusted according to your requirements (low / medium / high). If necessary, you can also adjust the wind direction to rotate vertically. (Note: Portable air coolers are not suitable for cooling the entire room.)</BulletPoint>
+        <BulletPoint>✔ 4-in-1 design: This evaporative air cooler has portable fan cooling, spray humidification, air purification and 4-in-1 functions of 7 LED lights, which not only reduces the temperature, but also helps us avoid dry air. In addition, it has a 7-color LED ambient light, and a soft and colorful LED light built in to create a romantic atmosphere and provide you with a better sleeping environment.</BulletPoint>
+        <BulletPoint>✔ Energy saving and health: This portable air cooler has low energy consumption and is freon-free. Not only does it protect the health of your family, it also consumes less power to minimize energy loss and protect the environment. Ideal for summer living room, bedroom, office, etc. cooling. Can also be used at work and travel.</BulletPoint>
+        <BulletPoint>✔ Easy to operate and lightweight: Just add water or ice water, then plug the USB cable into a mobile power supply or any USB interface, and you can use the portable mini air cooler by pressing the function button. This personal air conditioner has a mini-portable design, which is very easy to carry to the office, bedroom, living room, kitchen and outdoor.</BulletPoint>
+        <BulletPoint>✔ 100% after-sales service: our store uses international logistics, you can contact us at any time by email, we will answer your questions within 24 hours, the customer is always the first, you can find your like by searching for "DUYER" Products, I wish you a happy shopping!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>18</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585733575</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666953</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Personal Air Cooler, Portable Mini Air Conditioner, Small Cooling Fan Humidifier Spray Cooling Cooling Fan, Home Student Dormitory Office Desktop</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ You want to stay cool in the hot summer, but worry that it will cost a lot to run the air conditioner all day, and ordinary fans will only blow warm air to your face.<br/><br/>✔ Do you want a better way to calm down?<br/>Use our mini air cooler to get this personal space cooler to create your comfort zone. Just add water and ice to the water tank, then relax and enjoy a fresh and moist breath.<br/><br/>✔ Cooling fan and humidifier<br/>The air conditioner, portable evaporative air cooler and atomizing humidifier are combined into one, which can humidify the skin and air, keep away from the dry air, and enjoy the coolness of summer.<br/><br/>✔ Fresh air and enjoy a healthy life<br/>It reduces the temperature by water evaporation and produces fresh air. Low power consumption and long humidification time! It is energy efficient and low carbon.<br/><br/>✔ Portable personal air cooler<br/>Mini personal air cooler designed for personal use, please place no more than 3 feet to 4 feet.<br/><br/>✔ Package includes:<br/>1 x air conditioner<br/>1 x USB data cable]]></Description>
+        <BulletPoint>✔ Quickly cool down and release negative ions: water purification and high wind speed evaporate release negative ions, you can feel the freshness brought by negative ions more, and enjoy clean air easily.</BulletPoint>
+        <BulletPoint>✔ Fog-free humidification system: moisturize every inch of skin, fog-free and powder-free humidification, use a fan to let air flow through a water curtain, and use the principle of natural evaporation of water to increase air humidity. Fog-free humidification is more healthy.</BulletPoint>
+        <BulletPoint>✔ Dual fan technology: The front and rear dual fans solve the problem of air volume and head. The rear fan is responsible for increasing the suction air pressure, and the front is responsible for air supply. The air supply distance is longer and the air volume is larger.</BulletPoint>
+        <BulletPoint>✔ Independent water tank: Separate independent water tank, it is more convenient to add water for cleaning. Simple operation, no water leakage, no water accumulation, more peace of mind.</BulletPoint>
+        <BulletPoint>✔ 100% after-sales service: our store uses international logistics, you can contact us at any time by email, we will answer your questions within 24 hours, the customer is always the first, you can find your like by searching for "DUYER" Products, I wish you a happy shopping!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Mobile Air Conditioners</ItemType>
+        <RecommendedBrowseNode>306929031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586482848</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476763398</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barra De Pilates, Tonificación Resistencia para Ejercicios con Soporte para Pie para Piernas, Glúteos, Hombros, Yoga, Estiramientos, Esculpir y Sentarse</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Este movimiento controlado no solo es excelente para desarrollar la fuerza atlética de todo el cuerpo, también es fácil para las articulaciones y los músculos débiles que se están recuperando del uso excesivo y las lesiones.<br/>★ Bienvenido a la tienda ATRNA, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando Resistance Band para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: banda de resistencia<br/>- Material: tubo de látex natural / nylon / hebilla de acero<br/>- Color: negro-rojo<br/><br/>★ Lista de paquetes:<br/>- 1 * banda de resistencia<br/><br/>★ Nota<br/>- Este producto es solo para la venta de la banda de resistencia, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- El tamaño es una medida manual, habrá un error de 1-2 cm.<br/>- Si tiene alguna pregunta sobre estas bandas de resistencia de pedal, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ CONVENIENTE Y RESISTENTE: el poste se puede dividir y rasgar, el EVA se siente cómodo, duradero.</BulletPoint>
+        <BulletPoint>★ LONGITUD AJUSTABLE: Hebilla ajustable, ajuste de longitud rápido, rápido y conveniente.</BulletPoint>
+        <BulletPoint>★ MATERIAL SEGURO: diseño seguro y anti-rotura, resistente estructura de nylon de imitación.</BulletPoint>
+        <BulletPoint>★ EN CUALQUIER MOMENTO EN CUALQUIER LUGAR: hogar, habitaciones de hotel, oficinas e incluso al aire libre En cualquier momento, en cualquier lugar que desee comenzar un evento deportivo o deportivo, es muy fácil de transportar y un pequeño gimnasio portátil. Entrenamiento de fuerza perfecto en el hogar.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estas bandas de resistencia, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Cuerda ejercitar piernas multifunción Yoga Fitness Pedal dominadas Culturismo Bandas Ejercicio Resistencia Gimnasio Equipo Entrenamiento Elástica Expansor Látex Natural Adelgazamiento Abdomen tracción Ejercicios expansión Abdominales</SearchTerms>
+        <ItemType>Ligas</ItemType>
+        <RecommendedBrowseNode>9788446011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData/>
+            </OutdoorLiving>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

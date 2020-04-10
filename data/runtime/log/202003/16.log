@@ -1,0 +1,1232 @@
+---------------------------------------------------------------
+[ 2020-03-16T23:45:01+08:00 ] 172.21.0.8 223.11.33.59 GET /admin/product/product_edit/goodsId/1011.html
+[ info ] ymx.ldkjmy.com/admin/product/product_edit/goodsId/1011.html [运行时间：2.166660s][吞吐率：0.46req/s] [内存消耗：18,491.66kb] [文件加载：123]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_edit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'ymx.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://ymx.ldkjmy.com/admin/product/product_edit/goodsId/1011.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=28; signin_token=68fd95f6b8ff1e619a227fc505e0aecf6c6c01a8; PHPSESSID=kse0f37mpsbjdq3q9lcvkekak5; yf_logged_user=z2NZIW5dP4Oz%3DV5hO',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'goodsId' => '1011',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.056426s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001921s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_edit[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_edit.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'huilv',
+  7 => 'n_id',
+  8 => 'admin_list',
+  9 => 'list_fenlei',
+  10 => 'admin_realname',
+  11 => 'storeList',
+  12 => 'language',
+  13 => 'goods_extra',
+  14 => 'variant',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000958s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000303s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.000928s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '223.11.33.59' , '中国 山西 太原 ' , 'Windows 10' , 'Chrome(70.0.3538.25)' , '/admin/product/product_edit/goodsId/1011.html' , 'admin' , 'Product' , 'product_edit' , 'GET' , 'a:1:{s:7:\"goodsId\";s:4:\"1011\";}' , 1584373498) [ RunTime:0.000557s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.001267s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_edit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000528s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000901s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_edit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000756s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000221s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000433s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.000885s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000204s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_admin` [ RunTime:0.000829s ]
+[ sql ] [ SQL ] SELECT `admin_id`,`en_name`,`en_brand` FROM `yf_admin` WHERE  (  admin_id = 28 ) [ RunTime:0.000225s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods_variant` [ RunTime:0.000674s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_goods_variant` WHERE  `goods_id` = 1011 [ RunTime:0.002270s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods` [ RunTime:0.000969s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_goods` WHERE  `goodsId` = 1011 LIMIT 1 [ RunTime:0.000454s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_sug` [ RunTime:0.001109s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_sug` WHERE  `plug_uid` = 28 ORDER BY plug_sug_id asc [ RunTime:0.000332s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods_language` [ RunTime:0.001026s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_goods_language` WHERE  `goods_id` = 1011 ORDER BY `language` [ RunTime:0.004166s ]
+---------------------------------------------------------------
+[ 2020-03-16T23:45:01+08:00 ] 172.21.0.8 223.11.33.59 POST /admin/product/productimage.html
+[ info ] ymx.ldkjmy.com/admin/product/productimage.html [运行时间：0.126118s][吞吐率：7.93req/s] [内存消耗：12,733.92kb] [文件加载：122]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'productimage',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'ymx.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'accept' => '*/*',
+  'origin' => 'http://ymx.ldkjmy.com',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://ymx.ldkjmy.com/admin/product/product_edit/goodsId/1011.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=28; signin_token=68fd95f6b8ff1e619a227fc505e0aecf6c6c01a8; PHPSESSID=kse0f37mpsbjdq3q9lcvkekak5; yf_logged_user=z2NZIW5dP4Oz%3DV5hO',
+)
+[ info ] [ PARAM ] array (
+  'goodsId' => '1011',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.070904s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.002216s ]
+[ info ] [ RUN ] app\admin\controller\Product->productImage[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000647s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000344s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.001087s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '223.11.33.59' , '中国 山西 太原 ' , 'Windows 10' , 'Chrome(70.0.3538.25)' , '/admin/product/productimage.html' , 'admin' , 'Product' , 'productimage' , 'Ajax' , 'a:1:{s:7:\"goodsId\";s:4:\"1011\";}' , 1584373501) [ RunTime:0.000720s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.001124s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productimage' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000574s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000968s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productimage'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000422s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000263s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000392s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.000757s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000251s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods` [ RunTime:0.001163s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_goods` WHERE  `goodsId` = 1011 LIMIT 1 [ RunTime:0.000535s ]
+---------------------------------------------------------------
+[ 2020-03-16T23:45:01+08:00 ] 172.21.0.8 223.11.33.59 POST /admin/product/product_price.html
+[ info ] ymx.ldkjmy.com/admin/product/product_price.html [运行时间：0.163985s][吞吐率：6.10req/s] [内存消耗：12,620.97kb] [文件加载：121]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_price',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'ymx.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'content-length' => '77',
+  'accept' => '*/*',
+  'origin' => 'http://ymx.ldkjmy.com',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://ymx.ldkjmy.com/admin/product/product_edit/goodsId/1011.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=28; signin_token=68fd95f6b8ff1e619a227fc505e0aecf6c6c01a8; PHPSESSID=kse0f37mpsbjdq3q9lcvkekak5; yf_logged_user=z2NZIW5dP4Oz%3DV5hO',
+)
+[ info ] [ PARAM ] array (
+  'goodsBuyingPrice' => '58',
+  'goodsWeight' => '3.7',
+  'goodsSizec' => '60',
+  'goodsSizek' => '22',
+  'goodsSizeg' => '15',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.112209s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001745s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_price[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000697s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000446s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.001387s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '223.11.33.59' , '中国 山西 太原 ' , 'Windows 10' , 'Chrome(70.0.3538.25)' , '/admin/product/product_price.html' , 'admin' , 'Product' , 'product_price' , 'Ajax' , 'a:5:{s:16:\"goodsBuyingPrice\";s:2:\"58\";s:11:\"goodsWeight\";s:3:\"3.7\";s:10:\"goodsSizec\";s:2:\"60\";s:10:\"goodsSizek\";s:2:\"22\";s:10:\"goodsSizeg\";s:2:\"15\";}' , 1584373501) [ RunTime:0.000731s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.001042s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_price' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000501s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000706s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_price'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000436s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000238s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000587s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.000783s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000214s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000243s ]
+---------------------------------------------------------------
+[ 2020-03-16T23:47:30+08:00 ] 172.21.0.8 223.11.33.59 POST /admin/product/product_runedit.html
+[ info ] ymx.ldkjmy.com/admin/product/product_runedit.html [运行时间：0.207157s][吞吐率：4.83req/s] [内存消耗：12,965.51kb] [文件加载：124]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_runedit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'ymx.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'content-length' => '24396',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'origin' => 'http://ymx.ldkjmy.com',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryLEjHX8HbmNNgaFJa',
+  'referer' => 'http://ymx.ldkjmy.com/admin/product/product_edit/goodsId/1011.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=28; signin_token=68fd95f6b8ff1e619a227fc505e0aecf6c6c01a8; PHPSESSID=kse0f37mpsbjdq3q9lcvkekak5; yf_logged_user=z2NZIW5dP4Oz%3DV5hO',
+)
+[ info ] [ PARAM ] array (
+  'childType' => '1',
+  'goodsImages' => 'http://ldimg.ldkjmy.com/image/k7ukjsag_641y8ig8f1pn5e6f8e6bc4719.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_k3srl4t5mjw5e6f8e6c11f70.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_4xt4v2ecir8s5e6f8e6c9ebc7.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_2zw50b6g95yk5e6f8e6c60537.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_7b8ptnu3lcoc5e6f8e6ceafe4.jpg,http://ldimg.ldkjmy.com/image/k7ukjtu0_1xc8zhicoq5p5e6f8e6d3de99.jpg,http://ldimg.ldkjmy.com/image/k7ukjsag_2yvbzxoojyp75e6f8e6b5f707.jpg',
+  'goodsId' => '1011',
+  'class1' => '请选择一级分类',
+  'goodsTitle' => '烧烤架',
+  'goodsEnglishabbreviation' => 'charcoal grill',
+  'goodsTradeNames' => 'LDLJJ',
+  'goodsBrandName' => 'LDLJJ',
+  'goodsSku' => 'LDLJJ-281584369239',
+  'correctSku' => '',
+  'goodsEan' => '6954520661019',
+  'goodsUrl' => 'https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.1.43132c6009Wq3b&amp;id=606135863803&amp;skuId=4413807550920&amp;areaId=140100&amp;user_id=2074780942&amp;cat_id=2&amp;is_b=1&amp;rn=04880d2adfc8ffff7b5741c542663f17',
+  'bezhu' => '           升级版',
+  'goodsBuyingPrice' => '58',
+  'goodsWeight' => '3.7',
+  'goodsSizec' => '60',
+  'goodsSizek' => '22',
+  'goodsSizeg' => '15',
+  'goodsInventory' => '146',
+  'manufacturernumber' => '0',
+  'material' => '',
+  'goodsPrice_en' => '123.38',
+  'goodsPrice_jnd' => '177.10',
+  'goodsPrice_mxg' => '3029.46',
+  'goodsPrice_yg' => '69.05',
+  'goodsPrice_fg' => '92.05',
+  'goodsPrice_dg' => '94.08',
+  'goodsPrice_ydl' => '101.94',
+  'goodsPrice_xby' => '98.93',
+  'goodsPrice_rb' => '10812.50',
+  'goodsPrice_adly' => '197.17',
+  'variant_combination' => 
+  array (
+    0 => 'Black',
+  ),
+  'variant_id' => 
+  array (
+    0 => '2944',
+  ),
+  'sku' => 
+  array (
+    0 => 'LDLJJ-281584369239-0',
+  ),
+  'markup' => 
+  array (
+    0 => '',
+  ),
+  'stock' => 
+  array (
+    0 => '54',
+  ),
+  'upc' => 
+  array (
+    0 => '6954520661026',
+  ),
+  'imgs' => 
+  array (
+    0 => 'http://ldimg.ldkjmy.com/image/k7ukjsag_641y8ig8f1pn5e6f8e6bc4719.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_k3srl4t5mjw5e6f8e6c11f70.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_4xt4v2ecir8s5e6f8e6c9ebc7.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_2zw50b6g95yk5e6f8e6c60537.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_7b8ptnu3lcoc5e6f8e6ceafe4.jpg,http://ldimg.ldkjmy.com/image/k7ukjtu0_1xc8zhicoq5p5e6f8e6d3de99.jpg,http://ldimg.ldkjmy.com/image/k7ukjsag_2yvbzxoojyp75e6f8e6b5f707.jpg,',
+  ),
+  'id_en' => '6301',
+  'title_en' => 'Charcoal Barbecue Grill, Portable Mini Foldable Charcoal Barbecue For Camping Picnic Outdoor Garden Party Holidays And Excursions Etc',
+  'keyword_en' => 'Barbecue Grill Portable Charcoal Grill Foldable Bbq Set For Outdoor Cooking Camping Picnic Garden Party Tool Kits Barbecue Removable Grills Fast And Comfortable Easier To Clean Especially The In Garden Picnic Camping Holidays And Excursions Etc',
+  'keypotins_en' => '★ Personality design: When adding charcoal, pull out the grill net from the right without moving food from the grill. Charcoal grills can be individually added with carbon, which is very convenient.
+★ Easy to carry: The barbecue grill can be folded into an ultra-thin and lightweight, saving space. The grill can come in and out on both sides.
+★ Scope of application: This portable barbecue can be used for various occasions, for example, it is very suitable for outdoor camping, hiking, cooking, beach, backpacking, observation, party, etc.
+★ Easy to set up: No tools required, easy assembly and disassembly. Just fold the performance first, and then unfold it directly. In two steps, the charcoal grill can be easily installed. When the charcoal grill is unfolded, it forms a stand on the ground to keep it stable, and you fully enjoy the barbecue fun.
+★ The most beautiful service: Welcome to LDLJJ\'s home. If you have any questions, please contact us first. We will resolve the issue within 24 hours. Hope to bring you the best shopping experience.',
+  'description_en' => 'Welcome to LDLJJ\'s home, we will take care of each customer\'s feelings. This type of barbecue can be used for a variety of purposes when outdoors, such as camping, backpacking, beaches, picnics, cooking, hiking, car tails, etc. It is also suitable for indoor use, such as various parties or family gatherings.
+
+★ Features:
+Quick assembly, light, durable, hygienic, etc., enjoy healthy barbecue
+
+★ Specifications:
+Name: Portable BBQ
+Suitable number: 3-8 people
+Material: Furnace: Iron
+               Grill net: 201 stainless steel
+
+★ Packing content:
+1 * Charcoal grill
+
+
+★ Note:
+1. Due to the influence of the display and light, the actual color may be slightly different from the image color.
+2. Due to manual measurement, please allow a difference of 0.5-1CM.
+3. Place the barbecue grill on a stable, flat and non-combustible property.
+4. Keep the charcoal grill dry when not in use. You can put some oil on the surface of the grill to prevent rust.
+5. Keep the grill away from children to avoid accidents.',
+  'id_fra' => '6303',
+  'title_fra' => 'Barbecue Charbon Portable, Pliable Four Grille De Cuisson DéMontable Pour Barbecue De Jardin ExtéRieur Camping ',
+  'keyword_fra' => 'Barbecue Portable Grill à Charbon De Table En Acier Inoxydable Pliable Four Grille Cuisson DéMontable Pour Jardin ExtéRieur Camping Bois Ajustable Bbq Exterieur Sur Pied Pique-Nique EtagèRes Et Pique Nique Surtout Le Dans Jardin Pique-Nique Camping',
+  'keypotins_fra' => '★ conception de la personnalité: Lorsque vous ajoutez du charbon de bois, retirez le filet de grille du droit sans bouger la nourriture du grill. les barbecues au charbon peuvent être ajoutés individuellement avec le carbone, ce qui est très pratique.
+★ Facile à transporter: Le barbecue peut être plié dans un espace ultra-mince et léger, d\'économie. Le grill peut entrer et sortir des deux côtés.
+★ Champ d\'application: Ce barbecue portable peut être utilisé pour diverses occasions, par exemple, il est très approprié pour le camping en plein air, la randonnée, la cuisine, la plage, la randonnée, l\'observation, fête, etc.
+★ Facile à mettre en place: outils Aucun requis, facile montage et le démontage. Il suffit de plier les performances d\'abord, puis déplier directement. En deux étapes, le gril de charbon de bois peut être facilement installé. Lorsque le gril à charbon est déplié, il forme un pied au sol pour le maintenir stable, et vous profiter pleinement du plaisir de barbecue.
+★ Le plus beau service: Bienvenue à la maison de LDLJJ. Si vous avez des questions, s\'il vous plaît nous contacter d\'abord. Nous allons résoudre le problème dans les 24 heures. Au plaisir de vous apporter la meilleure expérience de magasinage.',
+  'description_fra' => 'Bienvenue à la maison de LDLJJ, nous prendrons soin des sentiments de chaque client. Ce type de barbecue peut être utilisé pour une variété de fins en plein air telles que le camping, la randonnée, des plages, des pique-niques, la cuisine, la randonnée, queues de voiture, etc. Il est également adapté pour une utilisation en intérieur, tels que les différentes parties ou les réunions de famille.
+
+★ Caractéristiques:
+Montage rapide, léger, durable, hygiénique, etc., profitez d\'un barbecue sain
+
+★ Spécifications:
+Nom: barbecue portable
+nombre approprié: 3-8 personnes
+Matériel: Four: Fer
+net Grill: acier inoxydable 201
+
+★ Contenu d\'emballage:
+1 * gril à charbon
+
+
+★ Note:
+1. En raison de l\'influence de l\'affichage et de la lumière, la couleur réelle peut être légèrement différente de celle de la couleur de l\'image.
+2. Compte tenu de la mesure manuelle, s\'il vous plaît permettre une différence de 0.5-1CM.
+3. Placez le barbecue sur une surface stable, plat et propriété incombustible.
+4. Gardez le gril du charbon de bois sec lorsqu\'ils ne sont pas en cours d\'utilisation. Vous pouvez mettre un peu d\'huile sur la surface de la grille pour éviter la rouille.
+5. Gardez le gril loin des enfants aux accidents d\'éviter.',
+  'id_de' => '6304',
+  'title_de' => '',
+  'keyword_de' => '',
+  'keypotins_de' => '★ Personality Design: Beim Holzkohle hinzufügen, den Grill Netz von rechts herausziehen, ohne Essen vom Grill zu bewegen. Holzkohlegrill kann individuell mit Kohlenstoff hinzugefügt werden, was sehr praktisch ist.
+★ Einfach zu tragen: Der Grill in einem ultra-dünnen und leichten gefaltet werden kann, spart Platz. Der Grill kann in und aus auf beiden Seiten kommen.
+★ Anwendungsbereich: Dieser tragbare Grill kann für verschiedene Anlässe genutzt werden, zum Beispiel, ist es sehr geeignet für Outdoor-Camping, Wandern, Kochen, Strand, Wandern, die Beobachtung, Partei, etc.
+★ Einfache Einrichtung: Kein Werkzeug erforderlich, einfache Montage und Demontage. Gerade die Leistung faltet zuerst, und dann direkt entfalten. In zwei Schritten kann der Holzkohlegrill leicht installiert werden. Wenn der Kohlegrill aufgeklappt ist, bildet es einen Stand auf dem Boden stabil zu halten, und Sie in vollem Umfang den Grill Spaß genießen.
+★ Der schönste Service: Willkommen bei LDLJJ zu Hause. Wenn Sie Fragen haben, kontaktieren Sie uns bitte zuerst. Wir werden das Problem innerhalb von 24 Stunden beheben. Hoffnung, die Sie sich das beste Einkaufserlebnis zu bringen.',
+  'description_de' => 'Willkommen bei LDLJJ zu Hause, werden wir von jedem Kunden der Gefühlen kümmern. Diese Art von Grill kann für eine Vielzahl von Zwecken verwendet werden, wenn im Freien, wie Camping, Backpacking, Strände, Picknick, Kochen, Wandern, Auto Schwänze usw. Es ist für den Innenbereich geeignet ist, wie zum Beispiel verschiedene Parteien oder Familienfeiern.
+
+★ Eigenschaften:
+Schnelle Montage, leicht, langlebig, hygienisch, etc. genießen gesunde Grill
+
+★ Technische Daten:
+Name: Tragbarer Grill
+Geeignete Anzahl: 3-8 Personen
+Material: Ofen: Eisen
+Grill net: 201 Edelstahl
+
+★ Verpackungsinhalt:
+1 * Charcoal Grill
+
+
+★ Hinweis:
+1. Aufgrund des Einflusses des Displays und des Lichtes kann die tatsächliche Farbe aus dem Bild Farbe leicht abweichen.
+2. Aufgrund des manuellen Maßes, wählen Sie bitte eine Differenz von 0.5-1CM ermöglichen.
+3. Stellen Sie den Grill auf einer stabilen, ebenen und nicht brennbar Eigenschaft.
+4. Den Holzkohlegrill trocken halten, wenn sie nicht in Gebrauch ist. Sie können etwas Öl auf der Oberfläche des Grillrostes zu verhindern setzen.
+5. Halten von Kindern zu vermeiden Unfälle den Grill weg.',
+  'id_it' => '6305',
+  'title_it' => '',
+  'keyword_it' => 'Barbecue Griglia A Carbone Portatile Carbone Utensile Bbq Grill Pieghevole Per Picnic In Balcone E Giardino Picnic Campeggio Ecc All\'Aperto Da Tavolo Giardino Esterno Professionale Con Gli Amici Riunione Di Famiglia Pieghevole Utensili Barbecue',
+  'keypotins_it' => '★ disegno di personalità: Quando si aggiunge carbone, tirare fuori la rete griglia da destra senza muovere il cibo alla griglia. carbone griglie possono essere aggiunti singolarmente con carbone, che è molto comodo.
+★ Facile da trasportare: Il barbecue può essere ripiegato in uno spazio ultra-sottile e leggero, risparmiando. La griglia può entrare e uscire da entrambi i lati.
+★ Campo di applicazione: Questo barbecue portatile può essere utilizzato per varie occasioni, per esempio, è molto adatto per outdoor campeggio, trekking, cucina, spiaggia, backpacking, l\'osservazione, partito, ecc
+★ Facile da configurare: Nessun attrezzi richiesti, facile montaggio e smontaggio. Basta piegare le prestazioni prima, e quindi aprire direttamente. In due fasi, la griglia a carbone può essere facilmente installato. Quando la griglia a carbone è spiegato, si forma uno stand sul terreno per mantenerlo stabile, e godere appieno del divertimento barbecue.
+★ La bella servizio più: Benvenuti a casa di LDLJJ. Se avete domande, non esitate a contattarci prima. Risolveremo il problema entro 24 ore. Spero di portare la migliore esperienza di shopping.',
+  'description_it' => 'Benvenuti a casa di LDLJJ, ci prenderemo cura dei sentimenti di ogni cliente. Questo tipo di barbecue può essere utilizzato per una varietà di scopi quando si è all\'aperto, come il campeggio, backpacking, spiagge, picnic, cucina, escursioni a piedi, le code di automobili, ecc E \'anche adatto per uso interno, come ad esempio vari partiti o riunioni di famiglia.
+
+★ Caratteristiche:
+Rapido montaggio, leggero, resistente, igienico, ecc, godere di barbecue sano
+
+★ Specifiche tecniche:
+Nome: barbecue portatile
+adeguato numero: 3-8 persone
+Materiale: Furnace: Ferro
+Griglia netto: acciaio inox 201
+
+★ Soddisfare dell\'imballaggio:
+1 * Griglia a carbone
+
+
+★ Nota:
+1. A causa dell\'influenza del display e luce, il colore reale può essere leggermente differente dal colore dell\'immagine.
+2. dovuto la misura manuale, si prega di consentire una differenza di 0.5-1CM.
+3. Inserire la griglia del barbecue su una superficie stabile, piana e la proprietà non combustibile.
+4. Tenere la griglia a carbone asciutto quando non in uso. Si può mettere un po \'di olio sulla superficie della griglia per prevenire la ruggine.
+5. Tenere la griglia lontano dai bambini per incidenti evitare.',
+  'id_es' => '6306',
+  'title_es' => '',
+  'keyword_es' => '',
+  'keypotins_es' => '★ Diseño de la personalidad: Cuando se añade carbón vegetal, tire de la red de la parrilla desde la derecha sin mover los alimentos a la parrilla. Las parrillas de carbón se pueden añadir de forma individual con el carbono, el cual es muy conveniente.
+★ Fácil de transportar: La parrilla de la barbacoa se puede plegar en un espacio ultra-delgado y ligero, el ahorro. La parrilla puede entrar y salir por ambos lados.
+★ Ámbito de aplicación: Esta barbacoa portátil puede ser utilizado para diversas ocasiones, por ejemplo, es muy adecuado para acampar al aire libre, senderismo, cocinar, playa, senderismo, observación, fiesta, etc.
+★ Fácil de instalar: No se requieren herramientas, fácil montaje y desmontaje. Sólo doblar el rendimiento en primer lugar, a continuación, despliegue directamente. En dos etapas, la parrilla de carbón se puede instalar fácilmente. Cuando la parrilla de carbón está desplegado, se forma un soporte en el suelo para mantenerlo estable, y disfrutar plenamente de la diversión barbacoa.
+★ La hermosa servicio más: Bienvenido a la casa de LDLJJ. Si tienes alguna pregunta, por favor, póngase en contacto con nosotros primero. Vamos a resolver el problema dentro de las 24 horas. Esperanza para lograr la mejor experiencia de compra.',
+  'description_es' => 'Bienvenido a la casa de LDLJJ, nosotros nos ocuparemos de los sentimientos de cada cliente. Este tipo de barbacoa puede ser utilizado para una variedad de propósitos cuando al aire libre, tales como camping, excursionismo, playas, días de campo, cocinar, caminar, colas de automóviles, etc. También es adecuado para uso en interiores, tales como diversas fiestas o reuniones familiares.
+
+★ características:
+Montaje rápido, ligero, resistente, higiénico, etc., disfrutar de la barbacoa sana
+
+★ Especificaciones:
+Nombre: Barbacoa portátil
+número adecuado: 3-8 personas
+Material: Horno: Hierro
+neta Grill: acero inoxidable 201
+
+★ Contenido del embalaje:
+1 * Parrilla de carbón
+
+
+★ Nota:
+1. Debido a la influencia de la pantalla y la luz, el color real puede ser ligeramente diferente del color de la imagen.
+2. Debido a la medida manual, por favor permita una diferencia de los 0.5-1CM.
+3. Coloque la parrilla de la barbacoa de forma estable, plana y la propiedad no combustible.
+4. Mantenga la parrilla de carbón seco cuando no esté en uso. Se puede poner un poco de aceite en la superficie de la parrilla para evitar la oxidación.
+5. Mantener la parrilla lejos de los niños a los accidentes de evitar.',
+  'id_jp' => '6307',
+  'title_jp' => '',
+  'keyword_jp' => '',
+  'keypotins_jp' => '★パーソナリティデザイン：チャコールを追加する場合は、グリルから食べ物を移動せずに右からグリルネットを引き出します。木炭グリルは、個別に非常に便利である炭素、で追加することができます。
+★簡単に運ぶため：バーベキューグリルは、スペースを節約し、超薄型・軽量に折り畳むことができます。グリルは、両側の内外に来ることができます。
+★アプリケーションの有効範囲：このポータブルバーベキューは、様々な行事のために使用することができ、例えば、それはなど、屋外でのキャンプ、ハイキング、料理、ビーチ、バックパッキング、観察、パーティーのために非常に適しています
+★簡単にセットアップする：いいえツールが必要な、簡単な組み立てと解体。ただ、最初のパフォーマンスを折るし、次にそれを直接展開。二つのステップでは、炭火グリルを簡単にインストールすることができます。炭火グリルが展開された場合、それは、安定を維持するために地面にスタンドを形成し、あなたは完全にバーベキューの楽しさをお楽しみください。
+★最も美しいのサービス：LDLJJの家へようこそ。ご質問があれば、最初にご連絡ください。私たちは24時間以内に問題を解決します。希望はあなたに最高のショッピング体験をもたらすために。',
+  'description_jp' => 'LDLJJの家へようこそ、私たちは、各顧客の感情の世話をします。などキャンプ、バックパッキング、ビーチ、ピクニック、料理、ハイキング、車の尾、など屋外では、それはまた、このような様々なパーティーや家族の集まりなど屋内での使用に適しているとき、バーベキューのこのタイプは、様々な目的のために使用することができます。
+
+★特長：
+クイックアセンブリ、光、耐久性、衛生など、健康的なバーベキューを楽しみます
+
+★仕様：
+名前：ポータブルBBQ
+適切な数の：3-8人
+材質：炉：アイアン
+グリルネット：201ステンレス鋼
+
+★梱包内容：
+1 *チャコールグリル
+
+
+★注：
+1.による表示光の影響を受けて、実際の色は、画像の色と若干異なっていてもよいです。
+2.により手動測定に、0.5-1CMの違いはお許しください。
+3.安定した、平らで非可燃性にバーベキューグリル。
+使用しないときは、炭火グリルドライをキープ4。あなたは錆を防ぐために、グリルの表面にいくつかのオイルを置くことができます。
+5.事故を避けるために、離れて子供からグリルをしてください。',
+  'id_zh' => '6302',
+  'title_zh' => '',
+  'keyword_zh' => '',
+  'keypotins_zh' => '
+
+
+',
+  'description_zh' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.068105s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.002623s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_runedit[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000790s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000378s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.001304s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '223.11.33.59' , '中国 山西 太原 ' , 'Windows 10' , 'Chrome(70.0.3538.25)' , '/admin/product/product_runedit.html' , 'admin' , 'Product' , 'product_runedit' , 'Ajax' , 'a:73:{s:9:\"childType\";s:1:\"1\";s:11:\"goodsImages\";s:200:\"http://ldimg.ldkjmy.com/image/k7ukjsag_641y8ig8f1pn5e6f8e6bc4719.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_k3srl4t5mjw5e6f8e6c11f70.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_4xt4v2ecir8s5e6f8e6c9ebc\";s:7:\"goodsId\";s:4:\"1011\";s:6:\"class1\";s:21:\"请选择一级分类\";s:10:\"goodsTitle\";s:9:\"烧烤架\";s:24:\"goodsEnglishabbreviation\";s:14:\"charcoal grill\";s:15:\"goodsTradeNames\";s:5:\"LDLJJ\";s:14:\"goodsBrandName\";s:5:\"LDLJJ\";s:8:\"goodsSku\";s:18:\"LDLJJ-281584369239\";s:10:\"correctSku\";s:0:\"\";s:8:\"goodsEan\";s:13:\"6954520661019\";s:8:\"goodsUrl\";s:200:\"https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.1.43132c6009Wq3b&amp;id=606135863803&amp;skuId=4413807550920&amp;areaId=140100&amp;user_id=2074780942&amp;cat_id=2&amp;is_b=1&amp;rn=04880d2\";s:5:\"bezhu\";s:20:\"           升级版\";s:16:\"goodsBuyingPrice\";s:2:\"58\";s:11:\"goodsWeight\";s:3:\"3.7\";s:10:\"goodsSizec\";s:2:\"60\";s:10:\"goodsSizek\";s:2:\"22\";s:10:\"goodsSizeg\";s:2:\"15\";s:14:\"goodsInventory\";s:3:\"146\";s:18:\"manufacturernumber\";s:1:\"0\";s:8:\"material\";s:0:\"\";s:13:\"goodsPrice_en\";s:6:\"123.38\";s:14:\"goodsPrice_jnd\";s:6:\"177.10\";s:14:\"goodsPrice_mxg\";s:7:\"3029.46\";s:13:\"goodsPrice_yg\";s:5:\"69.05\";s:13:\"goodsPrice_fg\";s:5:\"92.05\";s:13:\"goodsPrice_dg\";s:5:\"94.08\";s:14:\"goodsPrice_ydl\";s:6:\"101.94\";s:14:\"goodsPrice_xby\";s:5:\"98.93\";s:13:\"goodsPrice_rb\";s:8:\"10812.50\";s:15:\"goodsPrice_adly\";s:6:\"197.17\";s:19:\"variant_combination\";a:1:{i:0;s:5:\"Black\";}s:10:\"variant_id\";a:1:{i:0;s:4:\"2944\";}s:3:\"sku\";a:1:{i:0;s:20:\"LDLJJ-281584369239-0\";}s:6:\"markup\";a:1:{i:0;s:0:\"\";}s:5:\"stock\";a:1:{i:0;s:2:\"54\";}s:3:\"upc\";a:1:{i:0;s:13:\"6954520661026\";}s:4:\"imgs\";a:1:{i:0;s:482:\"http://ldimg.ldkjmy.com/image/k7ukjsag_641y8ig8f1pn5e6f8e6bc4719.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_k3srl4t5mjw5e6f8e6c11f70.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_4xt4v2ecir8s5e6f8e6c9ebc7.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_2zw50b6g95yk5e6f8e6c60537.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_7b8ptnu3lcoc5e6f8e6ceafe4.jpg,http://ldimg.ldkjmy.com/image/k7ukjtu0_1xc8zhicoq5p5e6f8e6d3de99.jpg,http://ldimg.ldkjmy.com/image/k7ukjsag_2yvbzxoojyp75e6f8e6b5f707.jpg,\";}s:5:\"id_en\";s:4:\"6301\";s:8:\"title_en\";s:133:\"Charcoal Barbecue Grill, Portable Mini Foldable Charcoal Barbecue For Camping Picnic Outdoor Garden Party Holidays And Excursions Etc\";s:10:\"keyword_en\";s:200:\"Barbecue Grill Portable Charcoal Grill Foldable Bbq Set For Outdoor Cooking Camping Picnic Garden Party Tool Kits Barbecue Removable Grills Fast And Comfortable Easier To Clean Especially The In Garde\";s:12:\"keypotins_en\";s:204:\"★ Personality design: When adding charcoal, pull out the grill net from the right without moving food from the grill. Charcoal grills can be individually added with carbon, which is very convenient.\n★\";s:14:\"description_en\";s:200:\"Welcome to LDLJJ\'s home, we will take care of each customer\'s feelings. This type of barbecue can be used for a variety of purposes when outdoors, such as camping, backpacking, beaches, picnics, cooki\";s:6:\"id_fra\";s:4:\"6303\";s:9:\"title_fra\";s:113:\"Barbecue Charbon Portable, Pliable Four Grille De Cuisson DéMontable Pour Barbecue De Jardin ExtéRieur Camping \";s:11:\"keyword_fra\";s:204:\"Barbecue Portable Grill à Charbon De Table En Acier Inoxydable Pliable Four Grille Cuisson DéMontable Pour Jardin ExtéRieur Camping Bois Ajustable Bbq Exterieur Sur Pied Pique-Nique EtagèRes Et Pique \";s:13:\"keypotins_fra\";s:205:\"★ conception de la personnalité: Lorsque vous ajoutez du charbon de bois, retirez le filet de grille du droit sans bouger la nourriture du grill. les barbecues au charbon peuvent être ajoutés individu\";s:15:\"description_fra\";s:206:\"Bienvenue à la maison de LDLJJ, nous prendrons soin des sentiments de chaque client. Ce type de barbecue peut être utilisé pour une variété de fins en plein air telles que le camping, la randonnée, de\";s:5:\"id_de\";s:4:\"6304\";s:8:\"title_de\";s:0:\"\";s:10:\"keyword_de\";s:0:\"\";s:12:\"keypotins_de\";s:204:\"★ Personality Design: Beim Holzkohle hinzufügen, den Grill Netz von rechts herausziehen, ohne Essen vom Grill zu bewegen. Holzkohlegrill kann individuell mit Kohlenstoff hinzugefügt werden, was sehr p\";s:14:\"description_de\";s:204:\"Willkommen bei LDLJJ zu Hause, werden wir von jedem Kunden der Gefühlen kümmern. Diese Art von Grill kann für eine Vielzahl von Zwecken verwendet werden, wenn im Freien, wie Camping, Backpacking, Strä\";s:5:\"id_it\";s:4:\"6305\";s:8:\"title_it\";s:0:\"\";s:10:\"keyword_it\";s:200:\"Barbecue Griglia A Carbone Portatile Carbone Utensile Bbq Grill Pieghevole Per Picnic In Balcone E Giardino Picnic Campeggio Ecc All\'Aperto Da Tavolo Giardino Esterno Professionale Con Gli Amici Riuni\";s:12:\"keypotins_it\";s:203:\"★ disegno di personalità: Quando si aggiunge carbone, tirare fuori la rete griglia da destra senza muovere il cibo alla griglia. carbone griglie possono essere aggiunti singolarmente con carbone, che \";s:14:\"description_it\";s:203:\"Benvenuti a casa di LDLJJ, ci prenderemo cura dei sentimenti di ogni cliente. Questo tipo di barbecue può essere utilizzato per una varietà di scopi quando si è all\'aperto, come il campeggio, backpack\";s:5:\"id_es\";s:4:\"6306\";s:8:\"title_es\";s:0:\"\";s:10:\"keyword_es\";s:0:\"\";s:12:\"keypotins_es\";s:207:\"★ Diseño de la personalidad: Cuando se añade carbón vegetal, tire de la red de la parrilla desde la derecha sin mover los alimentos a la parrilla. Las parrillas de carbón se pueden añadir de forma ind\";s:14:\"description_es\";s:201:\"Bienvenido a la casa de LDLJJ, nosotros nos ocuparemos de los sentimientos de cada cliente. Este tipo de barbacoa puede ser utilizado para una variedad de propósitos cuando al aire libre, tales como c\";s:5:\"id_jp\";s:4:\"6307\";s:8:\"title_jp\";s:0:\"\";s:10:\"keyword_jp\";s:0:\"\";s:12:\"keypotins_jp\";s:596:\"★パーソナリティデザイン：チャコールを追加する場合は、グリルから食べ物を移動せずに右からグリルネットを引き出します。木炭グリルは、個別に非常に便利である炭素、で追加することができます。\n★簡単に運ぶため：バーベキューグリルは、スペースを節約し、超薄型・軽量に折り畳むことができます。グリルは、両側の内外に来ることができます。\n★アプリケーションの有効範囲：このポータブルバーベキューは、様々な行事のた\";s:14:\"description_jp\";s:584:\"LDLJJの家へようこそ、私たちは、各顧客の感情の世話をします。などキャンプ、バックパッキング、ビーチ、ピクニック、料理、ハイキング、車の尾、など屋外では、それはまた、このような様々なパーティーや家族の集まりなど屋内での使用に適しているとき、バーベキューのこのタイプは、様々な目的のために使用することができます。\n\n★特長：\nクイックアセンブリ、光、耐久性、衛生など、健康的なバーベキューを楽しみます\";s:5:\"id_zh\";s:4:\"6302\";s:8:\"title_zh\";s:0:\"\";s:10:\"keyword_zh\";s:0:\"\";s:12:\"keypotins_zh\";s:3:\"\n\n\n\";s:14:\"description_zh\";s:0:\"\";}' , 1584373650) [ RunTime:0.000879s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.001315s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_runedit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000822s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000928s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_runedit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000630s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000274s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000661s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.001084s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000260s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods` [ RunTime:0.001397s ]
+[ sql ] [ SQL ] UPDATE `yf_goods`  SET `goodsTitle`='烧烤架',`bezhu`='           升级版',`manufacturernumber`=0,`material`='',`goodsUrl`='https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.1.43132c6009Wq3b&amp;id=606135863803&amp;skuId=4413807550920&amp;areaId=140100&amp;user_id=2074780942&amp;cat_id=2&amp;is_b=1&amp;rn=04880d2adfc8ffff7b5741c542663f17',`class1`=0,`class2`=NULL,`class3`=NULL,`childType`=1,`goodsEnglishabbreviation`='charcoal grill',`goodsTradeNames`='LDLJJ',`goodsBrandName`='LDLJJ',`goodsSku`='LDLJJ-281584369239',`goodsSize`='{\"goodsSizec\":\"60\",\"goodsSizek\":\"22\",\"goodsSizeg\":\"15\"}',`goodsStaus`=0,`goodsBuyingPrice`=58,`goodsFreight`='',`goodsInventory`='146',`goodsWeight`='3.7',`goodsImages`='http://ldimg.ldkjmy.com/image/k7ukjsag_641y8ig8f1pn5e6f8e6bc4719.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_k3srl4t5mjw5e6f8e6c11f70.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_4xt4v2ecir8s5e6f8e6c9ebc7.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_2zw50b6g95yk5e6f8e6c60537.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_7b8ptnu3lcoc5e6f8e6ceafe4.jpg,http://ldimg.ldkjmy.com/image/k7ukjtu0_1xc8zhicoq5p5e6f8e6d3de99.jpg,http://ldimg.ldkjmy.com/image/k7ukjsag_2yvbzxoojyp75e6f8e6b5f707.jpg',`britain_price`=69.05,`usa_price`=123.38,`canada_price`=177.1,`mexico_price`=3029.46,`france_price`=92.05,`germany_price`=94.08,`italy_price`=101.94,`spain_price`=98.93,`japan_price`=10812.5,`australia_price`=197.17,`upc`='6954520661019'  WHERE  `goodsId` = 1011 [ RunTime:0.000648s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` ORDER BY `id`  asc [ RunTime:0.000299s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods_variant` [ RunTime:0.000787s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_variant`  SET `color`='Black',`type`=1,`goods_id`=1011,`SKU`='LDLJJ-281584369239-0',`stock`='54',`imgs`='http://ldimg.ldkjmy.com/image/k7ukjsag_641y8ig8f1pn5e6f8e6bc4719.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_k3srl4t5mjw5e6f8e6c11f70.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_4xt4v2ecir8s5e6f8e6c9ebc7.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_2zw50b6g95yk5e6f8e6c60537.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_7b8ptnu3lcoc5e6f8e6ceafe4.jpg,http://ldimg.ldkjmy.com/image/k7ukjtu0_1xc8zhicoq5p5e6f8e6d3de99.jpg,http://ldimg.ldkjmy.com/image/k7ukjsag_2yvbzxoojyp75e6f8e6b5f707.jpg,',`markup`='',`UPC`='6954520661026',`usa_price`=123.38,`canada_price`=177.1,`mexico_price`=3029.46,`britain_price`=69.05,`france_price`=92.05,`germany_price`=94.08,`italy_price`=101.94,`spain_price`=98.93,`japan_price`=10812.5,`australia_price`=197.17  WHERE  `id` = 2944 [ RunTime:0.011930s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods_language` [ RunTime:0.001108s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_language`  SET `TITLE`='Charcoal Barbecue Grill, Portable Mini Foldable Charcoal Barbecue For Camping Picnic Outdoor Garden Party Holidays And Excursions Etc',`DESCRIPTION`='Welcome to LDLJJ\'s home, we will take care of each customer\'s feelings. This type of barbecue can be used for a variety of purposes when outdoors, such as camping, backpacking, beaches, picnics, cooking, hiking, car tails, etc. It is also suitable for indoor use, such as various parties or family gatherings.<br/><br/>★ Features:<br/>Quick assembly, light, durable, hygienic, etc., enjoy healthy barbecue<br/><br/>★ Specifications:<br/>Name: Portable BBQ<br/>Suitable number: 3-8 people<br/>Material: Furnace: Iron<br/>               Grill net: 201 stainless steel<br/><br/>★ Packing content:<br/>1 * Charcoal grill<br/><br/><br/>★ Note:<br/>1. Due to the influence of the display and light, the actual color may be slightly different from the image color.<br/>2. Due to manual measurement, please allow a difference of 0.5-1CM.<br/>3. Place the barbecue grill on a stable, flat and non-combustible property.<br/>4. Keep the charcoal grill dry when not in use. You can put some oil on the surface of the grill to prevent rust.<br/>5. Keep the grill away from children to avoid accidents.',`MAIN_POINTS_1`='★ Personality design: When adding charcoal, pull out the grill net from the right without moving food from the grill. Charcoal grills can be individually added with carbon, which is very convenient.',`MAIN_POINTS_2`='★ Easy to carry: The barbecue grill can be folded into an ultra-thin and lightweight, saving space. The grill can come in and out on both sides.',`MAIN_POINTS_3`='★ Scope of application: This portable barbecue can be used for various occasions, for example, it is very suitable for outdoor camping, hiking, cooking, beach, backpacking, observation, party, etc.',`MAIN_POINTS_4`='★ Easy to set up: No tools required, easy assembly and disassembly. Just fold the performance first, and then unfold it directly. In two steps, the charcoal grill can be easily installed. When the charcoal grill is unfolded, it forms a stand on the ground to keep it stable, and you fully enjoy the barbecue fun.',`MAIN_POINTS_5`='★ The most beautiful service: Welcome to LDLJJ\'s home. If you have any questions, please contact us first. We will resolve the issue within 24 hours. Hope to bring you the best shopping experience.',`key_words`='Barbecue Grill Portable Charcoal Grill Foldable Bbq Set For Outdoor Cooking Camping Picnic Garden Party Tool Kits Barbecue Removable Grills Fast And Comfortable Easier To Clean Especially The In Garden Picnic Camping Holidays And Excursions Etc',`id`=6301  WHERE  `id` = 6301 [ RunTime:0.006645s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_language`  SET `TITLE`='',`DESCRIPTION`='',`MAIN_POINTS_1`='',`MAIN_POINTS_2`='',`MAIN_POINTS_3`='',`MAIN_POINTS_4`='',`MAIN_POINTS_5`='',`key_words`='',`id`=6302  WHERE  `id` = 6302 [ RunTime:0.005613s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_language`  SET `TITLE`='Barbecue Charbon Portable, Pliable Four Grille De Cuisson DéMontable Pour Barbecue De Jardin ExtéRieur Camping ',`DESCRIPTION`='Bienvenue à la maison de LDLJJ, nous prendrons soin des sentiments de chaque client. Ce type de barbecue peut être utilisé pour une variété de fins en plein air telles que le camping, la randonnée, des plages, des pique-niques, la cuisine, la randonnée, queues de voiture, etc. Il est également adapté pour une utilisation en intérieur, tels que les différentes parties ou les réunions de famille.<br/><br/>★ Caractéristiques:<br/>Montage rapide, léger, durable, hygiénique, etc., profitez d\'un barbecue sain<br/><br/>★ Spécifications:<br/>Nom: barbecue portable<br/>nombre approprié: 3-8 personnes<br/>Matériel: Four: Fer<br/>net Grill: acier inoxydable 201<br/><br/>★ Contenu d\'emballage:<br/>1 * gril à charbon<br/><br/><br/>★ Note:<br/>1. En raison de l\'influence de l\'affichage et de la lumière, la couleur réelle peut être légèrement différente de celle de la couleur de l\'image.<br/>2. Compte tenu de la mesure manuelle, s\'il vous plaît permettre une différence de 0.5-1CM.<br/>3. Placez le barbecue sur une surface stable, plat et propriété incombustible.<br/>4. Gardez le gril du charbon de bois sec lorsqu\'ils ne sont pas en cours d\'utilisation. Vous pouvez mettre un peu d\'huile sur la surface de la grille pour éviter la rouille.<br/>5. Gardez le gril loin des enfants aux accidents d\'éviter.',`MAIN_POINTS_1`='★ conception de la personnalité: Lorsque vous ajoutez du charbon de bois, retirez le filet de grille du droit sans bouger la nourriture du grill. les barbecues au charbon peuvent être ajoutés individuellement avec le carbone, ce qui est très pratique.',`MAIN_POINTS_2`='★ Facile à transporter: Le barbecue peut être plié dans un espace ultra-mince et léger, d\'économie. Le grill peut entrer et sortir des deux côtés.',`MAIN_POINTS_3`='★ Champ d\'application: Ce barbecue portable peut être utilisé pour diverses occasions, par exemple, il est très approprié pour le camping en plein air, la randonnée, la cuisine, la plage, la randonnée, l\'observation, fête, etc.',`MAIN_POINTS_4`='★ Facile à mettre en place: outils Aucun requis, facile montage et le démontage. Il suffit de plier les performances d\'abord, puis déplier directement. En deux étapes, le gril de charbon de bois peut être facilement installé. Lorsque le gril à charbon est déplié, il forme un pied au sol pour le maintenir stable, et vous profiter pleinement du plaisir de barbecue.',`MAIN_POINTS_5`='★ Le plus beau service: Bienvenue à la maison de LDLJJ. Si vous avez des questions, s\'il vous plaît nous contacter d\'abord. Nous allons résoudre le problème dans les 24 heures. Au plaisir de vous apporter la meilleure expérience de magasinage.',`key_words`='Barbecue Portable Grill à Charbon De Table En Acier Inoxydable Pliable Four Grille Cuisson DéMontable Pour Jardin ExtéRieur Camping Bois Ajustable Bbq Exterieur Sur Pied Pique-Nique EtagèRes Et Pique Nique Surtout Le Dans Jardin Pique-Nique Camping',`id`=6303  WHERE  `id` = 6303 [ RunTime:0.006944s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_language`  SET `TITLE`='',`DESCRIPTION`='Willkommen bei LDLJJ zu Hause, werden wir von jedem Kunden der Gefühlen kümmern. Diese Art von Grill kann für eine Vielzahl von Zwecken verwendet werden, wenn im Freien, wie Camping, Backpacking, Strände, Picknick, Kochen, Wandern, Auto Schwänze usw. Es ist für den Innenbereich geeignet ist, wie zum Beispiel verschiedene Parteien oder Familienfeiern.<br/><br/>★ Eigenschaften:<br/>Schnelle Montage, leicht, langlebig, hygienisch, etc. genießen gesunde Grill<br/><br/>★ Technische Daten:<br/>Name: Tragbarer Grill<br/>Geeignete Anzahl: 3-8 Personen<br/>Material: Ofen: Eisen<br/>Grill net: 201 Edelstahl<br/><br/>★ Verpackungsinhalt:<br/>1 * Charcoal Grill<br/><br/><br/>★ Hinweis:<br/>1. Aufgrund des Einflusses des Displays und des Lichtes kann die tatsächliche Farbe aus dem Bild Farbe leicht abweichen.<br/>2. Aufgrund des manuellen Maßes, wählen Sie bitte eine Differenz von 0.5-1CM ermöglichen.<br/>3. Stellen Sie den Grill auf einer stabilen, ebenen und nicht brennbar Eigenschaft.<br/>4. Den Holzkohlegrill trocken halten, wenn sie nicht in Gebrauch ist. Sie können etwas Öl auf der Oberfläche des Grillrostes zu verhindern setzen.<br/>5. Halten von Kindern zu vermeiden Unfälle den Grill weg.',`MAIN_POINTS_1`='★ Personality Design: Beim Holzkohle hinzufügen, den Grill Netz von rechts herausziehen, ohne Essen vom Grill zu bewegen. Holzkohlegrill kann individuell mit Kohlenstoff hinzugefügt werden, was sehr praktisch ist.',`MAIN_POINTS_2`='★ Einfach zu tragen: Der Grill in einem ultra-dünnen und leichten gefaltet werden kann, spart Platz. Der Grill kann in und aus auf beiden Seiten kommen.',`MAIN_POINTS_3`='★ Anwendungsbereich: Dieser tragbare Grill kann für verschiedene Anlässe genutzt werden, zum Beispiel, ist es sehr geeignet für Outdoor-Camping, Wandern, Kochen, Strand, Wandern, die Beobachtung, Partei, etc.',`MAIN_POINTS_4`='★ Einfache Einrichtung: Kein Werkzeug erforderlich, einfache Montage und Demontage. Gerade die Leistung faltet zuerst, und dann direkt entfalten. In zwei Schritten kann der Holzkohlegrill leicht installiert werden. Wenn der Kohlegrill aufgeklappt ist, bildet es einen Stand auf dem Boden stabil zu halten, und Sie in vollem Umfang den Grill Spaß genießen.',`MAIN_POINTS_5`='★ Der schönste Service: Willkommen bei LDLJJ zu Hause. Wenn Sie Fragen haben, kontaktieren Sie uns bitte zuerst. Wir werden das Problem innerhalb von 24 Stunden beheben. Hoffnung, die Sie sich das beste Einkaufserlebnis zu bringen.',`key_words`='',`id`=6304  WHERE  `id` = 6304 [ RunTime:0.005658s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_language`  SET `TITLE`='',`DESCRIPTION`='Benvenuti a casa di LDLJJ, ci prenderemo cura dei sentimenti di ogni cliente. Questo tipo di barbecue può essere utilizzato per una varietà di scopi quando si è all\'aperto, come il campeggio, backpacking, spiagge, picnic, cucina, escursioni a piedi, le code di automobili, ecc E \'anche adatto per uso interno, come ad esempio vari partiti o riunioni di famiglia.<br/><br/>★ Caratteristiche:<br/>Rapido montaggio, leggero, resistente, igienico, ecc, godere di barbecue sano<br/><br/>★ Specifiche tecniche:<br/>Nome: barbecue portatile<br/>adeguato numero: 3-8 persone<br/>Materiale: Furnace: Ferro<br/>Griglia netto: acciaio inox 201<br/><br/>★ Soddisfare dell\'imballaggio:<br/>1 * Griglia a carbone<br/><br/><br/>★ Nota:<br/>1. A causa dell\'influenza del display e luce, il colore reale può essere leggermente differente dal colore dell\'immagine.<br/>2. dovuto la misura manuale, si prega di consentire una differenza di 0.5-1CM.<br/>3. Inserire la griglia del barbecue su una superficie stabile, piana e la proprietà non combustibile.<br/>4. Tenere la griglia a carbone asciutto quando non in uso. Si può mettere un po \'di olio sulla superficie della griglia per prevenire la ruggine.<br/>5. Tenere la griglia lontano dai bambini per incidenti evitare.',`MAIN_POINTS_1`='★ disegno di personalità: Quando si aggiunge carbone, tirare fuori la rete griglia da destra senza muovere il cibo alla griglia. carbone griglie possono essere aggiunti singolarmente con carbone, che è molto comodo.',`MAIN_POINTS_2`='★ Facile da trasportare: Il barbecue può essere ripiegato in uno spazio ultra-sottile e leggero, risparmiando. La griglia può entrare e uscire da entrambi i lati.',`MAIN_POINTS_3`='★ Campo di applicazione: Questo barbecue portatile può essere utilizzato per varie occasioni, per esempio, è molto adatto per outdoor campeggio, trekking, cucina, spiaggia, backpacking, l\'osservazione, partito, ecc',`MAIN_POINTS_4`='★ Facile da configurare: Nessun attrezzi richiesti, facile montaggio e smontaggio. Basta piegare le prestazioni prima, e quindi aprire direttamente. In due fasi, la griglia a carbone può essere facilmente installato. Quando la griglia a carbone è spiegato, si forma uno stand sul terreno per mantenerlo stabile, e godere appieno del divertimento barbecue.',`MAIN_POINTS_5`='★ La bella servizio più: Benvenuti a casa di LDLJJ. Se avete domande, non esitate a contattarci prima. Risolveremo il problema entro 24 ore. Spero di portare la migliore esperienza di shopping.',`key_words`='Barbecue Griglia A Carbone Portatile Carbone Utensile Bbq Grill Pieghevole Per Picnic In Balcone E Giardino Picnic Campeggio Ecc All\'Aperto Da Tavolo Giardino Esterno Professionale Con Gli Amici Riunione Di Famiglia Pieghevole Utensili Barbecue',`id`=6305  WHERE  `id` = 6305 [ RunTime:0.005683s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_language`  SET `TITLE`='',`DESCRIPTION`='Bienvenido a la casa de LDLJJ, nosotros nos ocuparemos de los sentimientos de cada cliente. Este tipo de barbacoa puede ser utilizado para una variedad de propósitos cuando al aire libre, tales como camping, excursionismo, playas, días de campo, cocinar, caminar, colas de automóviles, etc. También es adecuado para uso en interiores, tales como diversas fiestas o reuniones familiares.<br/><br/>★ características:<br/>Montaje rápido, ligero, resistente, higiénico, etc., disfrutar de la barbacoa sana<br/><br/>★ Especificaciones:<br/>Nombre: Barbacoa portátil<br/>número adecuado: 3-8 personas<br/>Material: Horno: Hierro<br/>neta Grill: acero inoxidable 201<br/><br/>★ Contenido del embalaje:<br/>1 * Parrilla de carbón<br/><br/><br/>★ Nota:<br/>1. Debido a la influencia de la pantalla y la luz, el color real puede ser ligeramente diferente del color de la imagen.<br/>2. Debido a la medida manual, por favor permita una diferencia de los 0.5-1CM.<br/>3. Coloque la parrilla de la barbacoa de forma estable, plana y la propiedad no combustible.<br/>4. Mantenga la parrilla de carbón seco cuando no esté en uso. Se puede poner un poco de aceite en la superficie de la parrilla para evitar la oxidación.<br/>5. Mantener la parrilla lejos de los niños a los accidentes de evitar.',`MAIN_POINTS_1`='★ Diseño de la personalidad: Cuando se añade carbón vegetal, tire de la red de la parrilla desde la derecha sin mover los alimentos a la parrilla. Las parrillas de carbón se pueden añadir de forma individual con el carbono, el cual es muy conveniente.',`MAIN_POINTS_2`='★ Fácil de transportar: La parrilla de la barbacoa se puede plegar en un espacio ultra-delgado y ligero, el ahorro. La parrilla puede entrar y salir por ambos lados.',`MAIN_POINTS_3`='★ Ámbito de aplicación: Esta barbacoa portátil puede ser utilizado para diversas ocasiones, por ejemplo, es muy adecuado para acampar al aire libre, senderismo, cocinar, playa, senderismo, observación, fiesta, etc.',`MAIN_POINTS_4`='★ Fácil de instalar: No se requieren herramientas, fácil montaje y desmontaje. Sólo doblar el rendimiento en primer lugar, a continuación, despliegue directamente. En dos etapas, la parrilla de carbón se puede instalar fácilmente. Cuando la parrilla de carbón está desplegado, se forma un soporte en el suelo para mantenerlo estable, y disfrutar plenamente de la diversión barbacoa.',`MAIN_POINTS_5`='★ La hermosa servicio más: Bienvenido a la casa de LDLJJ. Si tienes alguna pregunta, por favor, póngase en contacto con nosotros primero. Vamos a resolver el problema dentro de las 24 horas. Esperanza para lograr la mejor experiencia de compra.',`key_words`='',`id`=6306  WHERE  `id` = 6306 [ RunTime:0.006467s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_language`  SET `TITLE`='',`DESCRIPTION`='LDLJJの家へようこそ、私たちは、各顧客の感情の世話をします。などキャンプ、バックパッキング、ビーチ、ピクニック、料理、ハイキング、車の尾、など屋外では、それはまた、このような様々なパーティーや家族の集まりなど屋内での使用に適しているとき、バーベキューのこのタイプは、様々な目的のために使用することができます。<br/><br/>★特長：<br/>クイックアセンブリ、光、耐久性、衛生など、健康的なバーベキューを楽しみます<br/><br/>★仕様：<br/>名前：ポータブルBBQ<br/>適切な数の：3-8人<br/>材質：炉：アイアン<br/>グリルネット：201ステンレス鋼<br/><br/>★梱包内容：<br/>1 *チャコールグリル<br/><br/><br/>★注：<br/>1.による表示光の影響を受けて、実際の色は、画像の色と若干異なっていてもよいです。<br/>2.により手動測定に、0.5-1CMの違いはお許しください。<br/>3.安定した、平らで非可燃性にバーベキューグリル。<br/>使用しないときは、炭火グリルドライをキープ4。あなたは錆を防ぐために、グリルの表面にいくつかのオイルを置くことができます。<br/>5.事故を避けるために、離れて子供からグリルをしてください。',`MAIN_POINTS_1`='★パーソナリティデザイン：チャコールを追加する場合は、グリルから食べ物を移動せずに右からグリルネットを引き出します。木炭グリルは、個別に非常に便利である炭素、で追加することができます。',`MAIN_POINTS_2`='★簡単に運ぶため：バーベキューグリルは、スペースを節約し、超薄型・軽量に折り畳むことができます。グリルは、両側の内外に来ることができます。',`MAIN_POINTS_3`='★アプリケーションの有効範囲：このポータブルバーベキューは、様々な行事のために使用することができ、例えば、それはなど、屋外でのキャンプ、ハイキング、料理、ビーチ、バックパッキング、観察、パーティーのために非常に適しています',`MAIN_POINTS_4`='★簡単にセットアップする：いいえツールが必要な、簡単な組み立てと解体。ただ、最初のパフォーマンスを折るし、次にそれを直接展開。二つのステップでは、炭火グリルを簡単にインストールすることができます。炭火グリルが展開された場合、それは、安定を維持するために地面にスタンドを形成し、あなたは完全にバーベキューの楽しさをお楽しみください。',`MAIN_POINTS_5`='★最も美しいのサービス：LDLJJの家へようこそ。ご質問があれば、最初にご連絡ください。私たちは24時間以内に問題を解決します。希望はあなたに最高のショッピング体験をもたらすために。',`key_words`='',`id`=6307  WHERE  `id` = 6307 [ RunTime:0.005759s ]
+---------------------------------------------------------------
+[ 2020-03-16T23:47:33+08:00 ] 172.21.0.8 223.11.33.59 GET /admin/product/product_edit/goodsId/1011.html
+[ info ] ymx.ldkjmy.com/admin/product/product_edit/goodsId/1011.html [运行时间：2.182122s][吞吐率：0.46req/s] [内存消耗：18,491.48kb] [文件加载：123]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_edit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'ymx.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://ymx.ldkjmy.com/admin/product/product_edit/goodsId/1011.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=28; signin_token=68fd95f6b8ff1e619a227fc505e0aecf6c6c01a8; PHPSESSID=kse0f37mpsbjdq3q9lcvkekak5; yf_logged_user=z2NZIW5dP4Oz%3DV5hO',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'goodsId' => '1011',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.074885s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.002008s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_edit[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_edit.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'huilv',
+  7 => 'n_id',
+  8 => 'admin_list',
+  9 => 'list_fenlei',
+  10 => 'admin_realname',
+  11 => 'storeList',
+  12 => 'language',
+  13 => 'goods_extra',
+  14 => 'variant',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000967s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000409s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.001509s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '223.11.33.59' , '中国 山西 太原 ' , 'Windows 10' , 'Chrome(70.0.3538.25)' , '/admin/product/product_edit/goodsId/1011.html' , 'admin' , 'Product' , 'product_edit' , 'GET' , 'a:1:{s:7:\"goodsId\";s:4:\"1011\";}' , 1584373651) [ RunTime:0.000706s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.001234s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_edit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000506s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000751s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_edit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000476s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000213s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000414s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.000985s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000193s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_admin` [ RunTime:0.001032s ]
+[ sql ] [ SQL ] SELECT `admin_id`,`en_name`,`en_brand` FROM `yf_admin` WHERE  (  admin_id = 28 ) [ RunTime:0.000250s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods_variant` [ RunTime:0.000821s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_goods_variant` WHERE  `goods_id` = 1011 [ RunTime:0.002602s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods` [ RunTime:0.001171s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_goods` WHERE  `goodsId` = 1011 LIMIT 1 [ RunTime:0.000412s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_sug` [ RunTime:0.001260s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_sug` WHERE  `plug_uid` = 28 ORDER BY plug_sug_id asc [ RunTime:0.000388s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods_language` [ RunTime:0.001204s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_goods_language` WHERE  `goods_id` = 1011 ORDER BY `language` [ RunTime:0.003828s ]
+---------------------------------------------------------------
+[ 2020-03-16T23:47:34+08:00 ] 172.21.0.8 223.11.33.59 POST /admin/product/productimage.html
+[ info ] ymx.ldkjmy.com/admin/product/productimage.html [运行时间：0.109183s][吞吐率：9.16req/s] [内存消耗：12,733.92kb] [文件加载：122]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'productimage',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'ymx.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'accept' => '*/*',
+  'origin' => 'http://ymx.ldkjmy.com',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://ymx.ldkjmy.com/admin/product/product_edit/goodsId/1011.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=28; signin_token=68fd95f6b8ff1e619a227fc505e0aecf6c6c01a8; PHPSESSID=kse0f37mpsbjdq3q9lcvkekak5; yf_logged_user=z2NZIW5dP4Oz%3DV5hO',
+)
+[ info ] [ PARAM ] array (
+  'goodsId' => '1011',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.059209s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001767s ]
+[ info ] [ RUN ] app\admin\controller\Product->productImage[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000663s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000308s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.000981s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '223.11.33.59' , '中国 山西 太原 ' , 'Windows 10' , 'Chrome(70.0.3538.25)' , '/admin/product/productimage.html' , 'admin' , 'Product' , 'productimage' , 'Ajax' , 'a:1:{s:7:\"goodsId\";s:4:\"1011\";}' , 1584373654) [ RunTime:0.000544s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.001019s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productimage' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000461s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000644s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productimage'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000475s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000211s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000411s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.000810s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000179s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods` [ RunTime:0.001214s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_goods` WHERE  `goodsId` = 1011 LIMIT 1 [ RunTime:0.000501s ]
+---------------------------------------------------------------
+[ 2020-03-16T23:47:34+08:00 ] 172.21.0.8 223.11.33.59 POST /admin/product/product_price.html
+[ info ] ymx.ldkjmy.com/admin/product/product_price.html [运行时间：0.147136s][吞吐率：6.80req/s] [内存消耗：12,620.97kb] [文件加载：121]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_price',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'ymx.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'content-length' => '77',
+  'accept' => '*/*',
+  'origin' => 'http://ymx.ldkjmy.com',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://ymx.ldkjmy.com/admin/product/product_edit/goodsId/1011.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=28; signin_token=68fd95f6b8ff1e619a227fc505e0aecf6c6c01a8; PHPSESSID=kse0f37mpsbjdq3q9lcvkekak5; yf_logged_user=z2NZIW5dP4Oz%3DV5hO',
+)
+[ info ] [ PARAM ] array (
+  'goodsBuyingPrice' => '58',
+  'goodsWeight' => '3.7',
+  'goodsSizec' => '60',
+  'goodsSizek' => '22',
+  'goodsSizeg' => '15',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.095200s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001984s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_price[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000732s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000360s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.001439s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '223.11.33.59' , '中国 山西 太原 ' , 'Windows 10' , 'Chrome(70.0.3538.25)' , '/admin/product/product_price.html' , 'admin' , 'Product' , 'product_price' , 'Ajax' , 'a:5:{s:16:\"goodsBuyingPrice\";s:2:\"58\";s:11:\"goodsWeight\";s:3:\"3.7\";s:10:\"goodsSizec\";s:2:\"60\";s:10:\"goodsSizek\";s:2:\"22\";s:10:\"goodsSizeg\";s:2:\"15\";}' , 1584373654) [ RunTime:0.000529s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.001036s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_price' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000472s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000743s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_price'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000569s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000188s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000479s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.000751s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000195s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000274s ]
+---------------------------------------------------------------
+[ 2020-03-16T23:50:20+08:00 ] 172.21.0.8 223.11.33.59 POST /admin/product/product_runedit.html
+[ info ] ymx.ldkjmy.com/admin/product/product_runedit.html [运行时间：0.211078s][吞吐率：4.74req/s] [内存消耗：12,971.70kb] [文件加载：124]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_runedit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'ymx.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'content-length' => '24502',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'origin' => 'http://ymx.ldkjmy.com',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryeS7mUVxbCAH3krzR',
+  'referer' => 'http://ymx.ldkjmy.com/admin/product/product_edit/goodsId/1011.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=28; signin_token=68fd95f6b8ff1e619a227fc505e0aecf6c6c01a8; PHPSESSID=kse0f37mpsbjdq3q9lcvkekak5; yf_logged_user=z2NZIW5dP4Oz%3DV5hO',
+)
+[ info ] [ PARAM ] array (
+  'childType' => '1',
+  'goodsImages' => 'http://ldimg.ldkjmy.com/image/k7ukjsag_641y8ig8f1pn5e6f8e6bc4719.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_k3srl4t5mjw5e6f8e6c11f70.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_4xt4v2ecir8s5e6f8e6c9ebc7.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_2zw50b6g95yk5e6f8e6c60537.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_7b8ptnu3lcoc5e6f8e6ceafe4.jpg,http://ldimg.ldkjmy.com/image/k7ukjtu0_1xc8zhicoq5p5e6f8e6d3de99.jpg,http://ldimg.ldkjmy.com/image/k7ukjsag_2yvbzxoojyp75e6f8e6b5f707.jpg',
+  'goodsId' => '1011',
+  'class1' => '请选择一级分类',
+  'goodsTitle' => '烧烤架',
+  'goodsEnglishabbreviation' => 'charcoal grill',
+  'goodsTradeNames' => 'LDLJJ',
+  'goodsBrandName' => 'LDLJJ',
+  'goodsSku' => 'LDLJJ-281584369239',
+  'correctSku' => '',
+  'goodsEan' => '6954520661019',
+  'goodsUrl' => 'https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.1.43132c6009Wq3b&amp;id=606135863803&amp;skuId=4413807550920&amp;areaId=140100&amp;user_id=2074780942&amp;cat_id=2&amp;is_b=1&amp;rn=04880d2adfc8ffff7b5741c542663f17',
+  'bezhu' => '            升级版',
+  'goodsBuyingPrice' => '58',
+  'goodsWeight' => '3.7',
+  'goodsSizec' => '60',
+  'goodsSizek' => '22',
+  'goodsSizeg' => '15',
+  'goodsInventory' => '146',
+  'manufacturernumber' => '0',
+  'material' => '',
+  'goodsPrice_en' => '123.38',
+  'goodsPrice_jnd' => '177.10',
+  'goodsPrice_mxg' => '3029.46',
+  'goodsPrice_yg' => '69.05',
+  'goodsPrice_fg' => '92.05',
+  'goodsPrice_dg' => '94.08',
+  'goodsPrice_ydl' => '101.94',
+  'goodsPrice_xby' => '98.93',
+  'goodsPrice_rb' => '10812.50',
+  'goodsPrice_adly' => '197.17',
+  'variant_combination' => 
+  array (
+    0 => 'Black',
+  ),
+  'variant_id' => 
+  array (
+    0 => '2944',
+  ),
+  'sku' => 
+  array (
+    0 => 'LDLJJ-281584369239-0',
+  ),
+  'markup' => 
+  array (
+    0 => '',
+  ),
+  'stock' => 
+  array (
+    0 => '54',
+  ),
+  'upc' => 
+  array (
+    0 => '6954520661026',
+  ),
+  'imgs' => 
+  array (
+    0 => 'http://ldimg.ldkjmy.com/image/k7ukjsag_641y8ig8f1pn5e6f8e6bc4719.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_k3srl4t5mjw5e6f8e6c11f70.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_4xt4v2ecir8s5e6f8e6c9ebc7.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_2zw50b6g95yk5e6f8e6c60537.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_7b8ptnu3lcoc5e6f8e6ceafe4.jpg,http://ldimg.ldkjmy.com/image/k7ukjtu0_1xc8zhicoq5p5e6f8e6d3de99.jpg,http://ldimg.ldkjmy.com/image/k7ukjsag_2yvbzxoojyp75e6f8e6b5f707.jpg,',
+  ),
+  'id_en' => '6301',
+  'title_en' => 'Charcoal Barbecue Grill, Portable Mini Foldable Charcoal Barbecue For Camping Picnic Outdoor Garden Party Holidays And Excursions Etc',
+  'keyword_en' => 'Barbecue Grill Portable Charcoal Grill Foldable Bbq Set For Outdoor Cooking Camping Picnic Garden Party Tool Kits Barbecue Removable Grills Fast And Comfortable Easier To Clean Especially The In Garden Picnic Camping Holidays And Excursions Etc',
+  'keypotins_en' => '★ Personality design: When adding charcoal, pull out the grill net from the right without moving food from the grill. Charcoal grills can be individually added with carbon, which is very convenient.
+★ Easy to carry: The barbecue grill can be folded into an ultra-thin and lightweight, saving space. The grill can come in and out on both sides.
+★ Scope of application: This portable barbecue can be used for various occasions, for example, it is very suitable for outdoor camping, hiking, cooking, beach, backpacking, observation, party, etc.
+★ Easy to set up: No tools required, easy assembly and disassembly. Just fold the performance first, and then unfold it directly. In two steps, the charcoal grill can be easily installed. When the charcoal grill is unfolded, it forms a stand on the ground to keep it stable, and you fully enjoy the barbecue fun.
+★ The most beautiful service: Welcome to LDLJJ\'s home. If you have any questions, please contact us first. We will resolve the issue within 24 hours. Hope to bring you the best shopping experience.',
+  'description_en' => 'Welcome to LDLJJ\'s home, we will take care of each customer\'s feelings. This type of barbecue can be used for a variety of purposes when outdoors, such as camping, backpacking, beaches, picnics, cooking, hiking, car tails, etc. It is also suitable for indoor use, such as various parties or family gatherings.
+
+★ Features:
+Quick assembly, light, durable, hygienic, etc., enjoy healthy barbecue
+
+★ Specifications:
+Name: Portable BBQ
+Suitable number: 3-8 people
+Material: Furnace: Iron
+               Grill net: 201 stainless steel
+
+★ Packing content:
+1 * Charcoal grill
+
+
+★ Note:
+1. Due to the influence of the display and light, the actual color may be slightly different from the image color.
+2. Due to manual measurement, please allow a difference of 0.5-1CM.
+3. Place the barbecue grill on a stable, flat and non-combustible property.
+4. Keep the charcoal grill dry when not in use. You can put some oil on the surface of the grill to prevent rust.
+5. Keep the grill away from children to avoid accidents.',
+  'id_fra' => '6303',
+  'title_fra' => 'Barbecue Charbon Portable, Pliable Four Grille De Cuisson DéMontable Pour Barbecue De Jardin ExtéRieur Camping ',
+  'keyword_fra' => 'Barbecue Portable Grill à Charbon De Table En Acier Inoxydable Pliable Four Grille Cuisson DéMontable Pour Jardin ExtéRieur Camping Bois Ajustable Bbq Exterieur Sur Pied Pique-Nique EtagèRes Et Pique Nique Surtout Le Dans Jardin Pique-Nique Camping',
+  'keypotins_fra' => '★ conception de la personnalité: Lorsque vous ajoutez du charbon de bois, retirez le filet de grille du droit sans bouger la nourriture du grill. les barbecues au charbon peuvent être ajoutés individuellement avec le carbone, ce qui est très pratique.
+★ Facile à transporter: Le barbecue peut être plié dans un espace ultra-mince et léger, d\'économie. Le grill peut entrer et sortir des deux côtés.
+★ Champ d\'application: Ce barbecue portable peut être utilisé pour diverses occasions, par exemple, il est très approprié pour le camping en plein air, la randonnée, la cuisine, la plage, la randonnée, l\'observation, fête, etc.
+★ Facile à mettre en place: outils Aucun requis, facile montage et le démontage. Il suffit de plier les performances d\'abord, puis déplier directement. En deux étapes, le gril de charbon de bois peut être facilement installé. Lorsque le gril à charbon est déplié, il forme un pied au sol pour le maintenir stable, et vous profiter pleinement du plaisir de barbecue.
+★ Le plus beau service: Bienvenue à la maison de LDLJJ. Si vous avez des questions, s\'il vous plaît nous contacter d\'abord. Nous allons résoudre le problème dans les 24 heures. Au plaisir de vous apporter la meilleure expérience de magasinage.',
+  'description_fra' => 'Bienvenue à la maison de LDLJJ, nous prendrons soin des sentiments de chaque client. Ce type de barbecue peut être utilisé pour une variété de fins en plein air telles que le camping, la randonnée, des plages, des pique-niques, la cuisine, la randonnée, queues de voiture, etc. Il est également adapté pour une utilisation en intérieur, tels que les différentes parties ou les réunions de famille.
+
+★ Caractéristiques:
+Montage rapide, léger, durable, hygiénique, etc., profitez d\'un barbecue sain
+
+★ Spécifications:
+Nom: barbecue portable
+nombre approprié: 3-8 personnes
+Matériel: Four: Fer
+net Grill: acier inoxydable 201
+
+★ Contenu d\'emballage:
+1 * gril à charbon
+
+
+★ Note:
+1. En raison de l\'influence de l\'affichage et de la lumière, la couleur réelle peut être légèrement différente de celle de la couleur de l\'image.
+2. Compte tenu de la mesure manuelle, s\'il vous plaît permettre une différence de 0.5-1CM.
+3. Placez le barbecue sur une surface stable, plat et propriété incombustible.
+4. Gardez le gril du charbon de bois sec lorsqu\'ils ne sont pas en cours d\'utilisation. Vous pouvez mettre un peu d\'huile sur la surface de la grille pour éviter la rouille.
+5. Gardez le gril loin des enfants aux accidents d\'éviter.',
+  'id_de' => '6304',
+  'title_de' => '',
+  'keyword_de' => '',
+  'keypotins_de' => '★ Personality Design: Beim Holzkohle hinzufügen, den Grill Netz von rechts herausziehen, ohne Essen vom Grill zu bewegen. Holzkohlegrill kann individuell mit Kohlenstoff hinzugefügt werden, was sehr praktisch ist.
+★ Einfach zu tragen: Der Grill in einem ultra-dünnen und leichten gefaltet werden kann, spart Platz. Der Grill kann in und aus auf beiden Seiten kommen.
+★ Anwendungsbereich: Dieser tragbare Grill kann für verschiedene Anlässe genutzt werden, zum Beispiel, ist es sehr geeignet für Outdoor-Camping, Wandern, Kochen, Strand, Wandern, die Beobachtung, Partei, etc.
+★ Einfache Einrichtung: Kein Werkzeug erforderlich, einfache Montage und Demontage. Gerade die Leistung faltet zuerst, und dann direkt entfalten. In zwei Schritten kann der Holzkohlegrill leicht installiert werden. Wenn der Kohlegrill aufgeklappt ist, bildet es einen Stand auf dem Boden stabil zu halten, und Sie in vollem Umfang den Grill Spaß genießen.
+★ Der schönste Service: Willkommen bei LDLJJ zu Hause. Wenn Sie Fragen haben, kontaktieren Sie uns bitte zuerst. Wir werden das Problem innerhalb von 24 Stunden beheben. Hoffnung, die Sie sich das beste Einkaufserlebnis zu bringen.',
+  'description_de' => 'Willkommen bei LDLJJ zu Hause, werden wir von jedem Kunden der Gefühlen kümmern. Diese Art von Grill kann für eine Vielzahl von Zwecken verwendet werden, wenn im Freien, wie Camping, Backpacking, Strände, Picknick, Kochen, Wandern, Auto Schwänze usw. Es ist für den Innenbereich geeignet ist, wie zum Beispiel verschiedene Parteien oder Familienfeiern.
+
+★ Eigenschaften:
+Schnelle Montage, leicht, langlebig, hygienisch, etc. genießen gesunde Grill
+
+★ Technische Daten:
+Name: Tragbarer Grill
+Geeignete Anzahl: 3-8 Personen
+Material: Ofen: Eisen
+Grill net: 201 Edelstahl
+
+★ Verpackungsinhalt:
+1 * Charcoal Grill
+
+
+★ Hinweis:
+1. Aufgrund des Einflusses des Displays und des Lichtes kann die tatsächliche Farbe aus dem Bild Farbe leicht abweichen.
+2. Aufgrund des manuellen Maßes, wählen Sie bitte eine Differenz von 0.5-1CM ermöglichen.
+3. Stellen Sie den Grill auf einer stabilen, ebenen und nicht brennbar Eigenschaft.
+4. Den Holzkohlegrill trocken halten, wenn sie nicht in Gebrauch ist. Sie können etwas Öl auf der Oberfläche des Grillrostes zu verhindern setzen.
+5. Halten von Kindern zu vermeiden Unfälle den Grill weg.',
+  'id_it' => '6305',
+  'title_it' => 'Barbecue Griglia Carbone Portatile Pieghevole Ideale Per Campeggio, Picnic, All\'Aperto, Feste In Giardino',
+  'keyword_it' => 'Barbecue Griglia A Carbone Portatile Carbone Utensile Bbq Grill Pieghevole Per Picnic In Balcone E Giardino Picnic Campeggio Ecc All\'Aperto Da Tavolo Giardino Esterno Professionale Con Gli Amici Riunione Di Famiglia Pieghevole Utensili Barbecue',
+  'keypotins_it' => '★ disegno di personalità: Quando si aggiunge carbone, tirare fuori la rete griglia da destra senza muovere il cibo alla griglia. carbone griglie possono essere aggiunti singolarmente con carbone, che è molto comodo.
+★ Facile da trasportare: Il barbecue può essere ripiegato in uno spazio ultra-sottile e leggero, risparmiando. La griglia può entrare e uscire da entrambi i lati.
+★ Campo di applicazione: Questo barbecue portatile può essere utilizzato per varie occasioni, per esempio, è molto adatto per outdoor campeggio, trekking, cucina, spiaggia, backpacking, l\'osservazione, partito, ecc
+★ Facile da configurare: Nessun attrezzi richiesti, facile montaggio e smontaggio. Basta piegare le prestazioni prima, e quindi aprire direttamente. In due fasi, la griglia a carbone può essere facilmente installato. Quando la griglia a carbone è spiegato, si forma uno stand sul terreno per mantenerlo stabile, e godere appieno del divertimento barbecue.
+★ La bella servizio più: Benvenuti a casa di LDLJJ. Se avete domande, non esitate a contattarci prima. Risolveremo il problema entro 24 ore. Spero di portare la migliore esperienza di shopping.',
+  'description_it' => 'Benvenuti a casa di LDLJJ, ci prenderemo cura dei sentimenti di ogni cliente. Questo tipo di barbecue può essere utilizzato per una varietà di scopi quando si è all\'aperto, come il campeggio, backpacking, spiagge, picnic, cucina, escursioni a piedi, le code di automobili, ecc E \'anche adatto per uso interno, come ad esempio vari partiti o riunioni di famiglia.
+
+★ Caratteristiche:
+Rapido montaggio, leggero, resistente, igienico, ecc, godere di barbecue sano
+
+★ Specifiche tecniche:
+Nome: barbecue portatile
+adeguato numero: 3-8 persone
+Materiale: Furnace: Ferro
+Griglia netto: acciaio inox 201
+
+★ Soddisfare dell\'imballaggio:
+1 * Griglia a carbone
+
+
+★ Nota:
+1. A causa dell\'influenza del display e luce, il colore reale può essere leggermente differente dal colore dell\'immagine.
+2. dovuto la misura manuale, si prega di consentire una differenza di 0.5-1CM.
+3. Inserire la griglia del barbecue su una superficie stabile, piana e la proprietà non combustibile.
+4. Tenere la griglia a carbone asciutto quando non in uso. Si può mettere un po \'di olio sulla superficie della griglia per prevenire la ruggine.
+5. Tenere la griglia lontano dai bambini per incidenti evitare.',
+  'id_es' => '6306',
+  'title_es' => '',
+  'keyword_es' => '',
+  'keypotins_es' => '★ Diseño de la personalidad: Cuando se añade carbón vegetal, tire de la red de la parrilla desde la derecha sin mover los alimentos a la parrilla. Las parrillas de carbón se pueden añadir de forma individual con el carbono, el cual es muy conveniente.
+★ Fácil de transportar: La parrilla de la barbacoa se puede plegar en un espacio ultra-delgado y ligero, el ahorro. La parrilla puede entrar y salir por ambos lados.
+★ Ámbito de aplicación: Esta barbacoa portátil puede ser utilizado para diversas ocasiones, por ejemplo, es muy adecuado para acampar al aire libre, senderismo, cocinar, playa, senderismo, observación, fiesta, etc.
+★ Fácil de instalar: No se requieren herramientas, fácil montaje y desmontaje. Sólo doblar el rendimiento en primer lugar, a continuación, despliegue directamente. En dos etapas, la parrilla de carbón se puede instalar fácilmente. Cuando la parrilla de carbón está desplegado, se forma un soporte en el suelo para mantenerlo estable, y disfrutar plenamente de la diversión barbacoa.
+★ La hermosa servicio más: Bienvenido a la casa de LDLJJ. Si tienes alguna pregunta, por favor, póngase en contacto con nosotros primero. Vamos a resolver el problema dentro de las 24 horas. Esperanza para lograr la mejor experiencia de compra.',
+  'description_es' => 'Bienvenido a la casa de LDLJJ, nosotros nos ocuparemos de los sentimientos de cada cliente. Este tipo de barbacoa puede ser utilizado para una variedad de propósitos cuando al aire libre, tales como camping, excursionismo, playas, días de campo, cocinar, caminar, colas de automóviles, etc. También es adecuado para uso en interiores, tales como diversas fiestas o reuniones familiares.
+
+★ características:
+Montaje rápido, ligero, resistente, higiénico, etc., disfrutar de la barbacoa sana
+
+★ Especificaciones:
+Nombre: Barbacoa portátil
+número adecuado: 3-8 personas
+Material: Horno: Hierro
+neta Grill: acero inoxidable 201
+
+★ Contenido del embalaje:
+1 * Parrilla de carbón
+
+
+★ Nota:
+1. Debido a la influencia de la pantalla y la luz, el color real puede ser ligeramente diferente del color de la imagen.
+2. Debido a la medida manual, por favor permita una diferencia de los 0.5-1CM.
+3. Coloque la parrilla de la barbacoa de forma estable, plana y la propiedad no combustible.
+4. Mantenga la parrilla de carbón seco cuando no esté en uso. Se puede poner un poco de aceite en la superficie de la parrilla para evitar la oxidación.
+5. Mantener la parrilla lejos de los niños a los accidentes de evitar.',
+  'id_jp' => '6307',
+  'title_jp' => '',
+  'keyword_jp' => '',
+  'keypotins_jp' => '★パーソナリティデザイン：チャコールを追加する場合は、グリルから食べ物を移動せずに右からグリルネットを引き出します。木炭グリルは、個別に非常に便利である炭素、で追加することができます。
+★簡単に運ぶため：バーベキューグリルは、スペースを節約し、超薄型・軽量に折り畳むことができます。グリルは、両側の内外に来ることができます。
+★アプリケーションの有効範囲：このポータブルバーベキューは、様々な行事のために使用することができ、例えば、それはなど、屋外でのキャンプ、ハイキング、料理、ビーチ、バックパッキング、観察、パーティーのために非常に適しています
+★簡単にセットアップする：いいえツールが必要な、簡単な組み立てと解体。ただ、最初のパフォーマンスを折るし、次にそれを直接展開。二つのステップでは、炭火グリルを簡単にインストールすることができます。炭火グリルが展開された場合、それは、安定を維持するために地面にスタンドを形成し、あなたは完全にバーベキューの楽しさをお楽しみください。
+★最も美しいのサービス：LDLJJの家へようこそ。ご質問があれば、最初にご連絡ください。私たちは24時間以内に問題を解決します。希望はあなたに最高のショッピング体験をもたらすために。',
+  'description_jp' => 'LDLJJの家へようこそ、私たちは、各顧客の感情の世話をします。などキャンプ、バックパッキング、ビーチ、ピクニック、料理、ハイキング、車の尾、など屋外では、それはまた、このような様々なパーティーや家族の集まりなど屋内での使用に適しているとき、バーベキューのこのタイプは、様々な目的のために使用することができます。
+
+★特長：
+クイックアセンブリ、光、耐久性、衛生など、健康的なバーベキューを楽しみます
+
+★仕様：
+名前：ポータブルBBQ
+適切な数の：3-8人
+材質：炉：アイアン
+グリルネット：201ステンレス鋼
+
+★梱包内容：
+1 *チャコールグリル
+
+
+★注：
+1.による表示光の影響を受けて、実際の色は、画像の色と若干異なっていてもよいです。
+2.により手動測定に、0.5-1CMの違いはお許しください。
+3.安定した、平らで非可燃性にバーベキューグリル。
+使用しないときは、炭火グリルドライをキープ4。あなたは錆を防ぐために、グリルの表面にいくつかのオイルを置くことができます。
+5.事故を避けるために、離れて子供からグリルをしてください。',
+  'id_zh' => '6302',
+  'title_zh' => '',
+  'keyword_zh' => '',
+  'keypotins_zh' => '
+
+
+',
+  'description_zh' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.075169s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001738s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_runedit[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000723s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000415s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.001089s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '223.11.33.59' , '中国 山西 太原 ' , 'Windows 10' , 'Chrome(70.0.3538.25)' , '/admin/product/product_runedit.html' , 'admin' , 'Product' , 'product_runedit' , 'Ajax' , 'a:73:{s:9:\"childType\";s:1:\"1\";s:11:\"goodsImages\";s:200:\"http://ldimg.ldkjmy.com/image/k7ukjsag_641y8ig8f1pn5e6f8e6bc4719.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_k3srl4t5mjw5e6f8e6c11f70.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_4xt4v2ecir8s5e6f8e6c9ebc\";s:7:\"goodsId\";s:4:\"1011\";s:6:\"class1\";s:21:\"请选择一级分类\";s:10:\"goodsTitle\";s:9:\"烧烤架\";s:24:\"goodsEnglishabbreviation\";s:14:\"charcoal grill\";s:15:\"goodsTradeNames\";s:5:\"LDLJJ\";s:14:\"goodsBrandName\";s:5:\"LDLJJ\";s:8:\"goodsSku\";s:18:\"LDLJJ-281584369239\";s:10:\"correctSku\";s:0:\"\";s:8:\"goodsEan\";s:13:\"6954520661019\";s:8:\"goodsUrl\";s:200:\"https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.1.43132c6009Wq3b&amp;id=606135863803&amp;skuId=4413807550920&amp;areaId=140100&amp;user_id=2074780942&amp;cat_id=2&amp;is_b=1&amp;rn=04880d2\";s:5:\"bezhu\";s:21:\"            升级版\";s:16:\"goodsBuyingPrice\";s:2:\"58\";s:11:\"goodsWeight\";s:3:\"3.7\";s:10:\"goodsSizec\";s:2:\"60\";s:10:\"goodsSizek\";s:2:\"22\";s:10:\"goodsSizeg\";s:2:\"15\";s:14:\"goodsInventory\";s:3:\"146\";s:18:\"manufacturernumber\";s:1:\"0\";s:8:\"material\";s:0:\"\";s:13:\"goodsPrice_en\";s:6:\"123.38\";s:14:\"goodsPrice_jnd\";s:6:\"177.10\";s:14:\"goodsPrice_mxg\";s:7:\"3029.46\";s:13:\"goodsPrice_yg\";s:5:\"69.05\";s:13:\"goodsPrice_fg\";s:5:\"92.05\";s:13:\"goodsPrice_dg\";s:5:\"94.08\";s:14:\"goodsPrice_ydl\";s:6:\"101.94\";s:14:\"goodsPrice_xby\";s:5:\"98.93\";s:13:\"goodsPrice_rb\";s:8:\"10812.50\";s:15:\"goodsPrice_adly\";s:6:\"197.17\";s:19:\"variant_combination\";a:1:{i:0;s:5:\"Black\";}s:10:\"variant_id\";a:1:{i:0;s:4:\"2944\";}s:3:\"sku\";a:1:{i:0;s:20:\"LDLJJ-281584369239-0\";}s:6:\"markup\";a:1:{i:0;s:0:\"\";}s:5:\"stock\";a:1:{i:0;s:2:\"54\";}s:3:\"upc\";a:1:{i:0;s:13:\"6954520661026\";}s:4:\"imgs\";a:1:{i:0;s:482:\"http://ldimg.ldkjmy.com/image/k7ukjsag_641y8ig8f1pn5e6f8e6bc4719.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_k3srl4t5mjw5e6f8e6c11f70.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_4xt4v2ecir8s5e6f8e6c9ebc7.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_2zw50b6g95yk5e6f8e6c60537.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_7b8ptnu3lcoc5e6f8e6ceafe4.jpg,http://ldimg.ldkjmy.com/image/k7ukjtu0_1xc8zhicoq5p5e6f8e6d3de99.jpg,http://ldimg.ldkjmy.com/image/k7ukjsag_2yvbzxoojyp75e6f8e6b5f707.jpg,\";}s:5:\"id_en\";s:4:\"6301\";s:8:\"title_en\";s:133:\"Charcoal Barbecue Grill, Portable Mini Foldable Charcoal Barbecue For Camping Picnic Outdoor Garden Party Holidays And Excursions Etc\";s:10:\"keyword_en\";s:200:\"Barbecue Grill Portable Charcoal Grill Foldable Bbq Set For Outdoor Cooking Camping Picnic Garden Party Tool Kits Barbecue Removable Grills Fast And Comfortable Easier To Clean Especially The In Garde\";s:12:\"keypotins_en\";s:204:\"★ Personality design: When adding charcoal, pull out the grill net from the right without moving food from the grill. Charcoal grills can be individually added with carbon, which is very convenient.\n★\";s:14:\"description_en\";s:200:\"Welcome to LDLJJ\'s home, we will take care of each customer\'s feelings. This type of barbecue can be used for a variety of purposes when outdoors, such as camping, backpacking, beaches, picnics, cooki\";s:6:\"id_fra\";s:4:\"6303\";s:9:\"title_fra\";s:113:\"Barbecue Charbon Portable, Pliable Four Grille De Cuisson DéMontable Pour Barbecue De Jardin ExtéRieur Camping \";s:11:\"keyword_fra\";s:204:\"Barbecue Portable Grill à Charbon De Table En Acier Inoxydable Pliable Four Grille Cuisson DéMontable Pour Jardin ExtéRieur Camping Bois Ajustable Bbq Exterieur Sur Pied Pique-Nique EtagèRes Et Pique \";s:13:\"keypotins_fra\";s:205:\"★ conception de la personnalité: Lorsque vous ajoutez du charbon de bois, retirez le filet de grille du droit sans bouger la nourriture du grill. les barbecues au charbon peuvent être ajoutés individu\";s:15:\"description_fra\";s:206:\"Bienvenue à la maison de LDLJJ, nous prendrons soin des sentiments de chaque client. Ce type de barbecue peut être utilisé pour une variété de fins en plein air telles que le camping, la randonnée, de\";s:5:\"id_de\";s:4:\"6304\";s:8:\"title_de\";s:0:\"\";s:10:\"keyword_de\";s:0:\"\";s:12:\"keypotins_de\";s:204:\"★ Personality Design: Beim Holzkohle hinzufügen, den Grill Netz von rechts herausziehen, ohne Essen vom Grill zu bewegen. Holzkohlegrill kann individuell mit Kohlenstoff hinzugefügt werden, was sehr p\";s:14:\"description_de\";s:204:\"Willkommen bei LDLJJ zu Hause, werden wir von jedem Kunden der Gefühlen kümmern. Diese Art von Grill kann für eine Vielzahl von Zwecken verwendet werden, wenn im Freien, wie Camping, Backpacking, Strä\";s:5:\"id_it\";s:4:\"6305\";s:8:\"title_it\";s:105:\"Barbecue Griglia Carbone Portatile Pieghevole Ideale Per Campeggio, Picnic, All\'Aperto, Feste In Giardino\";s:10:\"keyword_it\";s:200:\"Barbecue Griglia A Carbone Portatile Carbone Utensile Bbq Grill Pieghevole Per Picnic In Balcone E Giardino Picnic Campeggio Ecc All\'Aperto Da Tavolo Giardino Esterno Professionale Con Gli Amici Riuni\";s:12:\"keypotins_it\";s:203:\"★ disegno di personalità: Quando si aggiunge carbone, tirare fuori la rete griglia da destra senza muovere il cibo alla griglia. carbone griglie possono essere aggiunti singolarmente con carbone, che \";s:14:\"description_it\";s:203:\"Benvenuti a casa di LDLJJ, ci prenderemo cura dei sentimenti di ogni cliente. Questo tipo di barbecue può essere utilizzato per una varietà di scopi quando si è all\'aperto, come il campeggio, backpack\";s:5:\"id_es\";s:4:\"6306\";s:8:\"title_es\";s:0:\"\";s:10:\"keyword_es\";s:0:\"\";s:12:\"keypotins_es\";s:207:\"★ Diseño de la personalidad: Cuando se añade carbón vegetal, tire de la red de la parrilla desde la derecha sin mover los alimentos a la parrilla. Las parrillas de carbón se pueden añadir de forma ind\";s:14:\"description_es\";s:201:\"Bienvenido a la casa de LDLJJ, nosotros nos ocuparemos de los sentimientos de cada cliente. Este tipo de barbacoa puede ser utilizado para una variedad de propósitos cuando al aire libre, tales como c\";s:5:\"id_jp\";s:4:\"6307\";s:8:\"title_jp\";s:0:\"\";s:10:\"keyword_jp\";s:0:\"\";s:12:\"keypotins_jp\";s:596:\"★パーソナリティデザイン：チャコールを追加する場合は、グリルから食べ物を移動せずに右からグリルネットを引き出します。木炭グリルは、個別に非常に便利である炭素、で追加することができます。\n★簡単に運ぶため：バーベキューグリルは、スペースを節約し、超薄型・軽量に折り畳むことができます。グリルは、両側の内外に来ることができます。\n★アプリケーションの有効範囲：このポータブルバーベキューは、様々な行事のた\";s:14:\"description_jp\";s:584:\"LDLJJの家へようこそ、私たちは、各顧客の感情の世話をします。などキャンプ、バックパッキング、ビーチ、ピクニック、料理、ハイキング、車の尾、など屋外では、それはまた、このような様々なパーティーや家族の集まりなど屋内での使用に適しているとき、バーベキューのこのタイプは、様々な目的のために使用することができます。\n\n★特長：\nクイックアセンブリ、光、耐久性、衛生など、健康的なバーベキューを楽しみます\";s:5:\"id_zh\";s:4:\"6302\";s:8:\"title_zh\";s:0:\"\";s:10:\"keyword_zh\";s:0:\"\";s:12:\"keypotins_zh\";s:3:\"\n\n\n\";s:14:\"description_zh\";s:0:\"\";}' , 1584373820) [ RunTime:0.000727s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.001202s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_runedit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000593s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000582s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_runedit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000416s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000173s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000363s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.000716s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000173s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods` [ RunTime:0.001363s ]
+[ sql ] [ SQL ] UPDATE `yf_goods`  SET `goodsTitle`='烧烤架',`bezhu`='            升级版',`manufacturernumber`=0,`material`='',`goodsUrl`='https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.1.43132c6009Wq3b&amp;id=606135863803&amp;skuId=4413807550920&amp;areaId=140100&amp;user_id=2074780942&amp;cat_id=2&amp;is_b=1&amp;rn=04880d2adfc8ffff7b5741c542663f17',`class1`=0,`class2`=NULL,`class3`=NULL,`childType`=1,`goodsEnglishabbreviation`='charcoal grill',`goodsTradeNames`='LDLJJ',`goodsBrandName`='LDLJJ',`goodsSku`='LDLJJ-281584369239',`goodsSize`='{\"goodsSizec\":\"60\",\"goodsSizek\":\"22\",\"goodsSizeg\":\"15\"}',`goodsStaus`=0,`goodsBuyingPrice`=58,`goodsFreight`='',`goodsInventory`='146',`goodsWeight`='3.7',`goodsImages`='http://ldimg.ldkjmy.com/image/k7ukjsag_641y8ig8f1pn5e6f8e6bc4719.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_k3srl4t5mjw5e6f8e6c11f70.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_4xt4v2ecir8s5e6f8e6c9ebc7.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_2zw50b6g95yk5e6f8e6c60537.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_7b8ptnu3lcoc5e6f8e6ceafe4.jpg,http://ldimg.ldkjmy.com/image/k7ukjtu0_1xc8zhicoq5p5e6f8e6d3de99.jpg,http://ldimg.ldkjmy.com/image/k7ukjsag_2yvbzxoojyp75e6f8e6b5f707.jpg',`britain_price`=69.05,`usa_price`=123.38,`canada_price`=177.1,`mexico_price`=3029.46,`france_price`=92.05,`germany_price`=94.08,`italy_price`=101.94,`spain_price`=98.93,`japan_price`=10812.5,`australia_price`=197.17,`upc`='6954520661019'  WHERE  `goodsId` = 1011 [ RunTime:0.000514s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` ORDER BY `id`  asc [ RunTime:0.000279s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods_variant` [ RunTime:0.000722s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_variant`  SET `color`='Black',`type`=1,`goods_id`=1011,`SKU`='LDLJJ-281584369239-0',`stock`='54',`imgs`='http://ldimg.ldkjmy.com/image/k7ukjsag_641y8ig8f1pn5e6f8e6bc4719.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_k3srl4t5mjw5e6f8e6c11f70.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_4xt4v2ecir8s5e6f8e6c9ebc7.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_2zw50b6g95yk5e6f8e6c60537.jpg,http://ldimg.ldkjmy.com/image/k7ukjt28_7b8ptnu3lcoc5e6f8e6ceafe4.jpg,http://ldimg.ldkjmy.com/image/k7ukjtu0_1xc8zhicoq5p5e6f8e6d3de99.jpg,http://ldimg.ldkjmy.com/image/k7ukjsag_2yvbzxoojyp75e6f8e6b5f707.jpg,',`markup`='',`UPC`='6954520661026',`usa_price`=123.38,`canada_price`=177.1,`mexico_price`=3029.46,`britain_price`=69.05,`france_price`=92.05,`germany_price`=94.08,`italy_price`=101.94,`spain_price`=98.93,`japan_price`=10812.5,`australia_price`=197.17  WHERE  `id` = 2944 [ RunTime:0.008004s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods_language` [ RunTime:0.001260s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_language`  SET `TITLE`='Charcoal Barbecue Grill, Portable Mini Foldable Charcoal Barbecue For Camping Picnic Outdoor Garden Party Holidays And Excursions Etc',`DESCRIPTION`='Welcome to LDLJJ\'s home, we will take care of each customer\'s feelings. This type of barbecue can be used for a variety of purposes when outdoors, such as camping, backpacking, beaches, picnics, cooking, hiking, car tails, etc. It is also suitable for indoor use, such as various parties or family gatherings.<br/><br/>★ Features:<br/>Quick assembly, light, durable, hygienic, etc., enjoy healthy barbecue<br/><br/>★ Specifications:<br/>Name: Portable BBQ<br/>Suitable number: 3-8 people<br/>Material: Furnace: Iron<br/>               Grill net: 201 stainless steel<br/><br/>★ Packing content:<br/>1 * Charcoal grill<br/><br/><br/>★ Note:<br/>1. Due to the influence of the display and light, the actual color may be slightly different from the image color.<br/>2. Due to manual measurement, please allow a difference of 0.5-1CM.<br/>3. Place the barbecue grill on a stable, flat and non-combustible property.<br/>4. Keep the charcoal grill dry when not in use. You can put some oil on the surface of the grill to prevent rust.<br/>5. Keep the grill away from children to avoid accidents.',`MAIN_POINTS_1`='★ Personality design: When adding charcoal, pull out the grill net from the right without moving food from the grill. Charcoal grills can be individually added with carbon, which is very convenient.',`MAIN_POINTS_2`='★ Easy to carry: The barbecue grill can be folded into an ultra-thin and lightweight, saving space. The grill can come in and out on both sides.',`MAIN_POINTS_3`='★ Scope of application: This portable barbecue can be used for various occasions, for example, it is very suitable for outdoor camping, hiking, cooking, beach, backpacking, observation, party, etc.',`MAIN_POINTS_4`='★ Easy to set up: No tools required, easy assembly and disassembly. Just fold the performance first, and then unfold it directly. In two steps, the charcoal grill can be easily installed. When the charcoal grill is unfolded, it forms a stand on the ground to keep it stable, and you fully enjoy the barbecue fun.',`MAIN_POINTS_5`='★ The most beautiful service: Welcome to LDLJJ\'s home. If you have any questions, please contact us first. We will resolve the issue within 24 hours. Hope to bring you the best shopping experience.',`key_words`='Barbecue Grill Portable Charcoal Grill Foldable Bbq Set For Outdoor Cooking Camping Picnic Garden Party Tool Kits Barbecue Removable Grills Fast And Comfortable Easier To Clean Especially The In Garden Picnic Camping Holidays And Excursions Etc',`id`=6301  WHERE  `id` = 6301 [ RunTime:0.007437s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_language`  SET `TITLE`='',`DESCRIPTION`='',`MAIN_POINTS_1`='',`MAIN_POINTS_2`='',`MAIN_POINTS_3`='',`MAIN_POINTS_4`='',`MAIN_POINTS_5`='',`key_words`='',`id`=6302  WHERE  `id` = 6302 [ RunTime:0.007131s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_language`  SET `TITLE`='Barbecue Charbon Portable, Pliable Four Grille De Cuisson DéMontable Pour Barbecue De Jardin ExtéRieur Camping ',`DESCRIPTION`='Bienvenue à la maison de LDLJJ, nous prendrons soin des sentiments de chaque client. Ce type de barbecue peut être utilisé pour une variété de fins en plein air telles que le camping, la randonnée, des plages, des pique-niques, la cuisine, la randonnée, queues de voiture, etc. Il est également adapté pour une utilisation en intérieur, tels que les différentes parties ou les réunions de famille.<br/><br/>★ Caractéristiques:<br/>Montage rapide, léger, durable, hygiénique, etc., profitez d\'un barbecue sain<br/><br/>★ Spécifications:<br/>Nom: barbecue portable<br/>nombre approprié: 3-8 personnes<br/>Matériel: Four: Fer<br/>net Grill: acier inoxydable 201<br/><br/>★ Contenu d\'emballage:<br/>1 * gril à charbon<br/><br/><br/>★ Note:<br/>1. En raison de l\'influence de l\'affichage et de la lumière, la couleur réelle peut être légèrement différente de celle de la couleur de l\'image.<br/>2. Compte tenu de la mesure manuelle, s\'il vous plaît permettre une différence de 0.5-1CM.<br/>3. Placez le barbecue sur une surface stable, plat et propriété incombustible.<br/>4. Gardez le gril du charbon de bois sec lorsqu\'ils ne sont pas en cours d\'utilisation. Vous pouvez mettre un peu d\'huile sur la surface de la grille pour éviter la rouille.<br/>5. Gardez le gril loin des enfants aux accidents d\'éviter.',`MAIN_POINTS_1`='★ conception de la personnalité: Lorsque vous ajoutez du charbon de bois, retirez le filet de grille du droit sans bouger la nourriture du grill. les barbecues au charbon peuvent être ajoutés individuellement avec le carbone, ce qui est très pratique.',`MAIN_POINTS_2`='★ Facile à transporter: Le barbecue peut être plié dans un espace ultra-mince et léger, d\'économie. Le grill peut entrer et sortir des deux côtés.',`MAIN_POINTS_3`='★ Champ d\'application: Ce barbecue portable peut être utilisé pour diverses occasions, par exemple, il est très approprié pour le camping en plein air, la randonnée, la cuisine, la plage, la randonnée, l\'observation, fête, etc.',`MAIN_POINTS_4`='★ Facile à mettre en place: outils Aucun requis, facile montage et le démontage. Il suffit de plier les performances d\'abord, puis déplier directement. En deux étapes, le gril de charbon de bois peut être facilement installé. Lorsque le gril à charbon est déplié, il forme un pied au sol pour le maintenir stable, et vous profiter pleinement du plaisir de barbecue.',`MAIN_POINTS_5`='★ Le plus beau service: Bienvenue à la maison de LDLJJ. Si vous avez des questions, s\'il vous plaît nous contacter d\'abord. Nous allons résoudre le problème dans les 24 heures. Au plaisir de vous apporter la meilleure expérience de magasinage.',`key_words`='Barbecue Portable Grill à Charbon De Table En Acier Inoxydable Pliable Four Grille Cuisson DéMontable Pour Jardin ExtéRieur Camping Bois Ajustable Bbq Exterieur Sur Pied Pique-Nique EtagèRes Et Pique Nique Surtout Le Dans Jardin Pique-Nique Camping',`id`=6303  WHERE  `id` = 6303 [ RunTime:0.009613s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_language`  SET `TITLE`='',`DESCRIPTION`='Willkommen bei LDLJJ zu Hause, werden wir von jedem Kunden der Gefühlen kümmern. Diese Art von Grill kann für eine Vielzahl von Zwecken verwendet werden, wenn im Freien, wie Camping, Backpacking, Strände, Picknick, Kochen, Wandern, Auto Schwänze usw. Es ist für den Innenbereich geeignet ist, wie zum Beispiel verschiedene Parteien oder Familienfeiern.<br/><br/>★ Eigenschaften:<br/>Schnelle Montage, leicht, langlebig, hygienisch, etc. genießen gesunde Grill<br/><br/>★ Technische Daten:<br/>Name: Tragbarer Grill<br/>Geeignete Anzahl: 3-8 Personen<br/>Material: Ofen: Eisen<br/>Grill net: 201 Edelstahl<br/><br/>★ Verpackungsinhalt:<br/>1 * Charcoal Grill<br/><br/><br/>★ Hinweis:<br/>1. Aufgrund des Einflusses des Displays und des Lichtes kann die tatsächliche Farbe aus dem Bild Farbe leicht abweichen.<br/>2. Aufgrund des manuellen Maßes, wählen Sie bitte eine Differenz von 0.5-1CM ermöglichen.<br/>3. Stellen Sie den Grill auf einer stabilen, ebenen und nicht brennbar Eigenschaft.<br/>4. Den Holzkohlegrill trocken halten, wenn sie nicht in Gebrauch ist. Sie können etwas Öl auf der Oberfläche des Grillrostes zu verhindern setzen.<br/>5. Halten von Kindern zu vermeiden Unfälle den Grill weg.',`MAIN_POINTS_1`='★ Personality Design: Beim Holzkohle hinzufügen, den Grill Netz von rechts herausziehen, ohne Essen vom Grill zu bewegen. Holzkohlegrill kann individuell mit Kohlenstoff hinzugefügt werden, was sehr praktisch ist.',`MAIN_POINTS_2`='★ Einfach zu tragen: Der Grill in einem ultra-dünnen und leichten gefaltet werden kann, spart Platz. Der Grill kann in und aus auf beiden Seiten kommen.',`MAIN_POINTS_3`='★ Anwendungsbereich: Dieser tragbare Grill kann für verschiedene Anlässe genutzt werden, zum Beispiel, ist es sehr geeignet für Outdoor-Camping, Wandern, Kochen, Strand, Wandern, die Beobachtung, Partei, etc.',`MAIN_POINTS_4`='★ Einfache Einrichtung: Kein Werkzeug erforderlich, einfache Montage und Demontage. Gerade die Leistung faltet zuerst, und dann direkt entfalten. In zwei Schritten kann der Holzkohlegrill leicht installiert werden. Wenn der Kohlegrill aufgeklappt ist, bildet es einen Stand auf dem Boden stabil zu halten, und Sie in vollem Umfang den Grill Spaß genießen.',`MAIN_POINTS_5`='★ Der schönste Service: Willkommen bei LDLJJ zu Hause. Wenn Sie Fragen haben, kontaktieren Sie uns bitte zuerst. Wir werden das Problem innerhalb von 24 Stunden beheben. Hoffnung, die Sie sich das beste Einkaufserlebnis zu bringen.',`key_words`='',`id`=6304  WHERE  `id` = 6304 [ RunTime:0.006713s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_language`  SET `TITLE`='Barbecue Griglia Carbone Portatile Pieghevole Ideale Per Campeggio, Picnic, All\'Aperto, Feste In Giardino',`DESCRIPTION`='Benvenuti a casa di LDLJJ, ci prenderemo cura dei sentimenti di ogni cliente. Questo tipo di barbecue può essere utilizzato per una varietà di scopi quando si è all\'aperto, come il campeggio, backpacking, spiagge, picnic, cucina, escursioni a piedi, le code di automobili, ecc E \'anche adatto per uso interno, come ad esempio vari partiti o riunioni di famiglia.<br/><br/>★ Caratteristiche:<br/>Rapido montaggio, leggero, resistente, igienico, ecc, godere di barbecue sano<br/><br/>★ Specifiche tecniche:<br/>Nome: barbecue portatile<br/>adeguato numero: 3-8 persone<br/>Materiale: Furnace: Ferro<br/>Griglia netto: acciaio inox 201<br/><br/>★ Soddisfare dell\'imballaggio:<br/>1 * Griglia a carbone<br/><br/><br/>★ Nota:<br/>1. A causa dell\'influenza del display e luce, il colore reale può essere leggermente differente dal colore dell\'immagine.<br/>2. dovuto la misura manuale, si prega di consentire una differenza di 0.5-1CM.<br/>3. Inserire la griglia del barbecue su una superficie stabile, piana e la proprietà non combustibile.<br/>4. Tenere la griglia a carbone asciutto quando non in uso. Si può mettere un po \'di olio sulla superficie della griglia per prevenire la ruggine.<br/>5. Tenere la griglia lontano dai bambini per incidenti evitare.',`MAIN_POINTS_1`='★ disegno di personalità: Quando si aggiunge carbone, tirare fuori la rete griglia da destra senza muovere il cibo alla griglia. carbone griglie possono essere aggiunti singolarmente con carbone, che è molto comodo.',`MAIN_POINTS_2`='★ Facile da trasportare: Il barbecue può essere ripiegato in uno spazio ultra-sottile e leggero, risparmiando. La griglia può entrare e uscire da entrambi i lati.',`MAIN_POINTS_3`='★ Campo di applicazione: Questo barbecue portatile può essere utilizzato per varie occasioni, per esempio, è molto adatto per outdoor campeggio, trekking, cucina, spiaggia, backpacking, l\'osservazione, partito, ecc',`MAIN_POINTS_4`='★ Facile da configurare: Nessun attrezzi richiesti, facile montaggio e smontaggio. Basta piegare le prestazioni prima, e quindi aprire direttamente. In due fasi, la griglia a carbone può essere facilmente installato. Quando la griglia a carbone è spiegato, si forma uno stand sul terreno per mantenerlo stabile, e godere appieno del divertimento barbecue.',`MAIN_POINTS_5`='★ La bella servizio più: Benvenuti a casa di LDLJJ. Se avete domande, non esitate a contattarci prima. Risolveremo il problema entro 24 ore. Spero di portare la migliore esperienza di shopping.',`key_words`='Barbecue Griglia A Carbone Portatile Carbone Utensile Bbq Grill Pieghevole Per Picnic In Balcone E Giardino Picnic Campeggio Ecc All\'Aperto Da Tavolo Giardino Esterno Professionale Con Gli Amici Riunione Di Famiglia Pieghevole Utensili Barbecue',`id`=6305  WHERE  `id` = 6305 [ RunTime:0.010936s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_language`  SET `TITLE`='',`DESCRIPTION`='Bienvenido a la casa de LDLJJ, nosotros nos ocuparemos de los sentimientos de cada cliente. Este tipo de barbacoa puede ser utilizado para una variedad de propósitos cuando al aire libre, tales como camping, excursionismo, playas, días de campo, cocinar, caminar, colas de automóviles, etc. También es adecuado para uso en interiores, tales como diversas fiestas o reuniones familiares.<br/><br/>★ características:<br/>Montaje rápido, ligero, resistente, higiénico, etc., disfrutar de la barbacoa sana<br/><br/>★ Especificaciones:<br/>Nombre: Barbacoa portátil<br/>número adecuado: 3-8 personas<br/>Material: Horno: Hierro<br/>neta Grill: acero inoxidable 201<br/><br/>★ Contenido del embalaje:<br/>1 * Parrilla de carbón<br/><br/><br/>★ Nota:<br/>1. Debido a la influencia de la pantalla y la luz, el color real puede ser ligeramente diferente del color de la imagen.<br/>2. Debido a la medida manual, por favor permita una diferencia de los 0.5-1CM.<br/>3. Coloque la parrilla de la barbacoa de forma estable, plana y la propiedad no combustible.<br/>4. Mantenga la parrilla de carbón seco cuando no esté en uso. Se puede poner un poco de aceite en la superficie de la parrilla para evitar la oxidación.<br/>5. Mantener la parrilla lejos de los niños a los accidentes de evitar.',`MAIN_POINTS_1`='★ Diseño de la personalidad: Cuando se añade carbón vegetal, tire de la red de la parrilla desde la derecha sin mover los alimentos a la parrilla. Las parrillas de carbón se pueden añadir de forma individual con el carbono, el cual es muy conveniente.',`MAIN_POINTS_2`='★ Fácil de transportar: La parrilla de la barbacoa se puede plegar en un espacio ultra-delgado y ligero, el ahorro. La parrilla puede entrar y salir por ambos lados.',`MAIN_POINTS_3`='★ Ámbito de aplicación: Esta barbacoa portátil puede ser utilizado para diversas ocasiones, por ejemplo, es muy adecuado para acampar al aire libre, senderismo, cocinar, playa, senderismo, observación, fiesta, etc.',`MAIN_POINTS_4`='★ Fácil de instalar: No se requieren herramientas, fácil montaje y desmontaje. Sólo doblar el rendimiento en primer lugar, a continuación, despliegue directamente. En dos etapas, la parrilla de carbón se puede instalar fácilmente. Cuando la parrilla de carbón está desplegado, se forma un soporte en el suelo para mantenerlo estable, y disfrutar plenamente de la diversión barbacoa.',`MAIN_POINTS_5`='★ La hermosa servicio más: Bienvenido a la casa de LDLJJ. Si tienes alguna pregunta, por favor, póngase en contacto con nosotros primero. Vamos a resolver el problema dentro de las 24 horas. Esperanza para lograr la mejor experiencia de compra.',`key_words`='',`id`=6306  WHERE  `id` = 6306 [ RunTime:0.006643s ]
+[ sql ] [ SQL ] UPDATE `yf_goods_language`  SET `TITLE`='',`DESCRIPTION`='LDLJJの家へようこそ、私たちは、各顧客の感情の世話をします。などキャンプ、バックパッキング、ビーチ、ピクニック、料理、ハイキング、車の尾、など屋外では、それはまた、このような様々なパーティーや家族の集まりなど屋内での使用に適しているとき、バーベキューのこのタイプは、様々な目的のために使用することができます。<br/><br/>★特長：<br/>クイックアセンブリ、光、耐久性、衛生など、健康的なバーベキューを楽しみます<br/><br/>★仕様：<br/>名前：ポータブルBBQ<br/>適切な数の：3-8人<br/>材質：炉：アイアン<br/>グリルネット：201ステンレス鋼<br/><br/>★梱包内容：<br/>1 *チャコールグリル<br/><br/><br/>★注：<br/>1.による表示光の影響を受けて、実際の色は、画像の色と若干異なっていてもよいです。<br/>2.により手動測定に、0.5-1CMの違いはお許しください。<br/>3.安定した、平らで非可燃性にバーベキューグリル。<br/>使用しないときは、炭火グリルドライをキープ4。あなたは錆を防ぐために、グリルの表面にいくつかのオイルを置くことができます。<br/>5.事故を避けるために、離れて子供からグリルをしてください。',`MAIN_POINTS_1`='★パーソナリティデザイン：チャコールを追加する場合は、グリルから食べ物を移動せずに右からグリルネットを引き出します。木炭グリルは、個別に非常に便利である炭素、で追加することができます。',`MAIN_POINTS_2`='★簡単に運ぶため：バーベキューグリルは、スペースを節約し、超薄型・軽量に折り畳むことができます。グリルは、両側の内外に来ることができます。',`MAIN_POINTS_3`='★アプリケーションの有効範囲：このポータブルバーベキューは、様々な行事のために使用することができ、例えば、それはなど、屋外でのキャンプ、ハイキング、料理、ビーチ、バックパッキング、観察、パーティーのために非常に適しています',`MAIN_POINTS_4`='★簡単にセットアップする：いいえツールが必要な、簡単な組み立てと解体。ただ、最初のパフォーマンスを折るし、次にそれを直接展開。二つのステップでは、炭火グリルを簡単にインストールすることができます。炭火グリルが展開された場合、それは、安定を維持するために地面にスタンドを形成し、あなたは完全にバーベキューの楽しさをお楽しみください。',`MAIN_POINTS_5`='★最も美しいのサービス：LDLJJの家へようこそ。ご質問があれば、最初にご連絡ください。私たちは24時間以内に問題を解決します。希望はあなたに最高のショッピング体験をもたらすために。',`key_words`='',`id`=6307  WHERE  `id` = 6307 [ RunTime:0.005613s ]
+---------------------------------------------------------------
+[ 2020-03-16T23:50:23+08:00 ] 172.21.0.8 223.11.33.59 GET /admin/product/product_edit/goodsId/1011.html
+[ info ] ymx.ldkjmy.com/admin/product/product_edit/goodsId/1011.html [运行时间：2.083315s][吞吐率：0.48req/s] [内存消耗：18,480.34kb] [文件加载：123]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_edit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'ymx.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://ymx.ldkjmy.com/admin/product/product_edit/goodsId/1011.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=28; signin_token=68fd95f6b8ff1e619a227fc505e0aecf6c6c01a8; PHPSESSID=kse0f37mpsbjdq3q9lcvkekak5; yf_logged_user=z2NZIW5dP4Oz%3DV5hO',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'goodsId' => '1011',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.065762s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001790s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_edit[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_edit.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'huilv',
+  7 => 'n_id',
+  8 => 'admin_list',
+  9 => 'list_fenlei',
+  10 => 'admin_realname',
+  11 => 'storeList',
+  12 => 'language',
+  13 => 'goods_extra',
+  14 => 'variant',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000768s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000331s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.001030s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '223.11.33.59' , '中国 山西 太原 ' , 'Windows 10' , 'Chrome(70.0.3538.25)' , '/admin/product/product_edit/goodsId/1011.html' , 'admin' , 'Product' , 'product_edit' , 'GET' , 'a:1:{s:7:\"goodsId\";s:4:\"1011\";}' , 1584373821) [ RunTime:0.000537s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000982s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_edit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000457s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000605s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_edit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000403s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000188s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000379s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.000782s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000190s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_admin` [ RunTime:0.000794s ]
+[ sql ] [ SQL ] SELECT `admin_id`,`en_name`,`en_brand` FROM `yf_admin` WHERE  (  admin_id = 28 ) [ RunTime:0.000215s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods_variant` [ RunTime:0.000892s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_goods_variant` WHERE  `goods_id` = 1011 [ RunTime:0.003068s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods` [ RunTime:0.001064s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_goods` WHERE  `goodsId` = 1011 LIMIT 1 [ RunTime:0.000491s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_sug` [ RunTime:0.001157s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_sug` WHERE  `plug_uid` = 28 ORDER BY plug_sug_id asc [ RunTime:0.000368s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods_language` [ RunTime:0.000914s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_goods_language` WHERE  `goods_id` = 1011 ORDER BY `language` [ RunTime:0.003295s ]
+---------------------------------------------------------------
+[ 2020-03-16T23:50:24+08:00 ] 172.21.0.8 223.11.33.59 POST /admin/product/product_price.html
+[ info ] ymx.ldkjmy.com/admin/product/product_price.html [运行时间：0.103537s][吞吐率：9.66req/s] [内存消耗：12,627.65kb] [文件加载：121]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_price',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'ymx.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'content-length' => '77',
+  'accept' => '*/*',
+  'origin' => 'http://ymx.ldkjmy.com',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://ymx.ldkjmy.com/admin/product/product_edit/goodsId/1011.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=28; signin_token=68fd95f6b8ff1e619a227fc505e0aecf6c6c01a8; PHPSESSID=kse0f37mpsbjdq3q9lcvkekak5; yf_logged_user=z2NZIW5dP4Oz%3DV5hO',
+)
+[ info ] [ PARAM ] array (
+  'goodsBuyingPrice' => '58',
+  'goodsWeight' => '3.7',
+  'goodsSizec' => '60',
+  'goodsSizek' => '22',
+  'goodsSizeg' => '15',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.057261s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001779s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_price[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000628s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000338s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.000957s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '223.11.33.59' , '中国 山西 太原 ' , 'Windows 10' , 'Chrome(70.0.3538.25)' , '/admin/product/product_price.html' , 'admin' , 'Product' , 'product_price' , 'Ajax' , 'a:5:{s:16:\"goodsBuyingPrice\";s:2:\"58\";s:11:\"goodsWeight\";s:3:\"3.7\";s:10:\"goodsSizec\";s:2:\"60\";s:10:\"goodsSizek\";s:2:\"22\";s:10:\"goodsSizeg\";s:2:\"15\";}' , 1584373824) [ RunTime:0.000503s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000932s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_price' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000442s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000542s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_price'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000360s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000186s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000365s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.000753s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000174s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000337s ]
+---------------------------------------------------------------
+[ 2020-03-16T23:50:24+08:00 ] 172.21.0.8 223.11.33.59 POST /admin/product/productimage.html
+[ info ] ymx.ldkjmy.com/admin/product/productimage.html [运行时间：0.140484s][吞吐率：7.12req/s] [内存消耗：12,740.47kb] [文件加载：122]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'productimage',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'ymx.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'accept' => '*/*',
+  'origin' => 'http://ymx.ldkjmy.com',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://ymx.ldkjmy.com/admin/product/product_edit/goodsId/1011.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=28; signin_token=68fd95f6b8ff1e619a227fc505e0aecf6c6c01a8; PHPSESSID=kse0f37mpsbjdq3q9lcvkekak5; yf_logged_user=z2NZIW5dP4Oz%3DV5hO',
+)
+[ info ] [ PARAM ] array (
+  'goodsId' => '1011',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.093177s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001882s ]
+[ info ] [ RUN ] app\admin\controller\Product->productImage[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000747s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000329s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.000946s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '223.11.33.59' , '中国 山西 太原 ' , 'Windows 10' , 'Chrome(70.0.3538.25)' , '/admin/product/productimage.html' , 'admin' , 'Product' , 'productimage' , 'Ajax' , 'a:1:{s:7:\"goodsId\";s:4:\"1011\";}' , 1584373824) [ RunTime:0.000490s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000937s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productimage' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000476s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000545s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productimage'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000389s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000175s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000380s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.000800s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000190s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_goods` [ RunTime:0.000996s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_goods` WHERE  `goodsId` = 1011 LIMIT 1 [ RunTime:0.000604s ]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2O70136OXEC74</MerchantIdentifier>
+  </Header>
+  <MessageType>Relationship</MessageType>
+  <PurgeAndReplace>false</PurgeAndReplace>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Relationship>
+      <ParentSKU>YXYLD-271586157697-HE</ParentSKU>
+      <Relation>
+        <SKU>YXYLD-271586157697-0-HE</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>YXYLD-271586157697-1-HE</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>YXYLD-271586157697-2-HE</SKU>
+        <Type>Variation</Type>
+      </Relation>
+    </Relationship>
+  </Message>
+</AmazonEnvelope>

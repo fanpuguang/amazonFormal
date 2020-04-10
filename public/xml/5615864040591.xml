@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A1A3K0BAQPDN3U</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>AIWKR-561586230459164</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554858736</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>次亜塩素酸水 生成器 塩+水で8分で電解水生成 細菌対応 家庭用  DIY 3つの濃度  スプレーヘッド/USBケーブル付属</Title>
+        <Brand>AIWKR</Brand>
+        <Description><![CDATA[AIWKRでは、お客様の生活をより快適にすることに努めています。<br/><br/>この次亜塩素酸塩水生成器は、水と塩を使用して独自の消毒剤を作成でき、便利で実用的です。<br/><br/>特徴<br/>1.高いPC材料から成っています。美しくエレガントなデザインで、厚くて耐久性のある高温耐性無臭。<br/>2.家族、ホテル、オフィスビルに適しており、キッチン、バスルーム、トイレなどで使用できます。<br/><br/>仕様<br/>素材：PC<br/><br/>サイズ：75*75*272mm<br/><br/>容量：300ML<br/><br/>生成時間：8mins<br/><br/>電圧：5 V<br/><br/>電力：500W<br/><br/>濃度比と使用範囲：<br/>（1）低濃度：水300ml +食塩7.5g * 8分間の電解*濃度は約300-500mg / L<br/>傷、空気、女性の親密なケア、蚊に刺された、手洗いなどに使用できます。<br/>（2）標準濃度：水300ml +食塩15g * 8分間の電解*濃度は約500-800mg / L<br/>脚気、家庭用品、ベビー用品、食器、キッチントイレ、義歯清掃などに使用できます。<br/>（3）高濃度：水300ml +塩22.5g * 8分間の電解*濃度は約1000-1500mg / L<br/>キッチンまな板、頑固なお茶の汚れ、ぼろきれのクリーニング、ストーブのクリーニング、洗濯機のクリーニング、トイレのクリーニングに適しています。<br/><br/>パッケージに含まれるもの<br/>本体*1<br/>USB充電ケーブル*１<br/><br/>注意事項<br/>1.シルク、ウール、ナイロン、レザー、塗装面には使用しないでください<br/>2.アルミニウム、銅、炭素鋼製品には使用しないでください。ステンレス鋼器具に適しています。<br/>3.酸洗剤製品（トイレ用洗剤など）と混合しないでください。<br/>4.濃度比をご参照ください<br/><br/>アフターサービス<br/>ご質問やご提案がございましたら、お気軽にお問い合わせください。24時間以内に返信し、最高のサービスを提供します。]]></Description>
+        <BulletPoint>★簡単な操作---簡単な操作材料水+塩電解セルは次亜塩素酸ナトリウム= 8 4の消 毒剤を生成できます。それらをスプレーボトルに追加し、作業ボタンを押してください。8分待ってから、クリーナーを入手してください。</BulletPoint>
+        <BulletPoint>★使いやすい---360度に調整できます。それはあなたのスプレーを隅々まで均一にし、水の表面を湿らせてナトリウムを生成し、雑巾で拭くことができます。従来の洗浄剤と同じくらい効果的に洗浄できることが証明されています。</BulletPoint>
+        <BulletPoint>★環境にやさしい---毒性がなく、無害で化学物質を含まない次亜塩素酸ナトリウム発生装置は、家庭で普通の塩と水道水だけで作ることができ、衣服、食品などの生活のあらゆる面を安全に消毒できます、住宅および輸送。</BulletPoint>
+        <BulletPoint>★次亜塩素酸ナトリウム---次亜塩素酸ナトリウムは強力な酸化剤であり、強力な洗浄効果があり、漂白剤などの酸化剤を置き換えることができます。</BulletPoint>
+        <BulletPoint>★適用範囲---さまざまな場所に適用可能で、家庭、学校、オフィス、ホテル、その他の公共の場所で使用できます。物理的には、健康と安全は家族と子供の健康を完全に保護するために作られました。</BulletPoint>
+        <Manufacturer>AIWKR</Manufacturer>
+        <SearchTerms>電解次亜水 生成器 次亜塩素酸水 99%除菌 濃度 360°回転スプレー ナトリウム 小型 USB充電  家庭 DIY 再利用可能  消毒 消臭 アルカリイオン整水器 ワンタッチ</SearchTerms>
+        <ItemType>アルカリイオン整水器</ItemType>
+        <RecommendedBrowseNode>4084041</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <Kitchen>
+              <VariationData/>
+            </Kitchen>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>AIWKR-561586246336</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554857708</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>ワンタッチ次亜塩素酸ナトリウム生成器 99%除菌 電解次亜水メーカー 水と塩8分生成  3つの濃度  家庭用</Title>
+        <Brand>AIWKR</Brand>
+        <Description><![CDATA[AIWKRでは、お客様の生活をより快適にすることに努めています。<br/><br/>この次亜塩素酸塩水生成器は、水と塩を使用して独自の消毒剤を作成でき、便利で実用的です。<br/><br/>特徴<br/>1.高いPC材料から成っています。美しくエレガントなデザインで、厚くて耐久性のある高温耐性無臭。<br/>2.家族、ホテル、オフィスビルに適しており、キッチン、バスルーム、トイレなどで使用できます。<br/><br/>仕様<br/>素材：PC<br/><br/>サイズ：238*93mm<br/><br/>容量：300ML<br/><br/>生成時間：8mins<br/><br/>電圧：5 V<br/><br/>電力：500W<br/><br/>濃度比と使用範囲：<br/>（1）低濃度：水300ml +食塩7.5g * 8分間の電解*濃度は約300-500mg / L<br/>傷、空気、女性の親密なケア、蚊に刺された、手洗いなどに使用できます。<br/>（2）標準濃度：水300ml +食塩15g * 8分間の電解*濃度は約500-800mg / L<br/>脚気、家庭用品、ベビー用品、食器、キッチントイレ、義歯清掃などに使用できます。<br/>（3）高濃度：水300ml +塩22.5g * 8分間の電解*濃度は約1000-1500mg / L<br/>キッチンまな板、頑固なお茶の汚れ、ぼろきれのクリーニング、ストーブのクリーニング、洗濯機のクリーニング、トイレのクリーニングに適しています。<br/><br/>パッケージに含まれるもの<br/>本体*1<br/>USB充電ケーブル*１<br/><br/>注意事項<br/>1.シルク、ウール、ナイロン、レザー、塗装面には使用しないでください<br/>2.アルミニウム、銅、炭素鋼製品には使用しないでください。ステンレス鋼器具に適しています。<br/>3.酸洗剤製品（トイレ用洗剤など）と混合しないでください。<br/>4.濃度比をご参照ください<br/><br/>アフターサービス<br/>ご質問やご提案がございましたら、お気軽にお問い合わせください。24時間以内に返信し、最高のサービスを提供します。]]></Description>
+        <BulletPoint>★【簡単操作/材料】水+塩電解槽は、クリーナーを作る操作しやすく、効果的な洗浄と、あなたとあなたの家族のために健全な環境を提供することができます。</BulletPoint>
+        <BulletPoint>★【エコ】無毒、無害と化学残留物のない次亜塩素酸ナトリウム発生装置は通常の塩と水道水と一緒に家で行うことができ、それが安全に生活のあらゆる側面を消毒することができます。</BulletPoint>
+        <BulletPoint>★【濃度の3種類】界面活性剤は効果的に禁止有害なオブジェクトは、空気中で、有害なオブジェクトの広がりを防ぐ合理的濃度で濃度の選択、及び清浄な様々なオブジェクトの3種類を提供することができます。</BulletPoint>
+        <BulletPoint>★【次亜塩素酸ナトリウム】次亜塩素酸ナトリウムは、強力な酸化剤であり、強力な洗浄効果を有しており、漂白剤などの酸化剤を置き換えることができます。</BulletPoint>
+        <BulletPoint>★広く家庭、学校、オフィス、病院、ホテルなどの公共の場所で使用【さまざまな場所への適用】。物理的には、健康と安全は完全に家族や子どもの健康を守るために作られました。</BulletPoint>
+        <Manufacturer>AIWKR</Manufacturer>
+        <SearchTerms>電解次亜水 生成器 次亜塩素酸水 99%除菌 濃度 360°回転スプレー ナトリウム 小型 USB充電  家庭 DIY 再利用可能  消毒 消臭 アルカリイオン整水器 ワンタッチ</SearchTerms>
+        <ItemType>アルカリイオン整水器</ItemType>
+        <RecommendedBrowseNode>4084041</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <Kitchen>
+              <VariationData/>
+            </Kitchen>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>AIWKR-561586246648</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554857845</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>次亜塩素酸水生成器 電解次亜水 除菌水生成器   除菌 消毒 消臭  水+塩6分間の電解 USBケーブル付属 ウィルス対策 </Title>
+        <Brand>AIWKR</Brand>
+        <Description><![CDATA[AIWKRでは、お客様の生活をより快適にすることに努めています。<br/><br/>この次亜塩素酸塩水生成器は、水と塩を使用して独自の消毒剤を作成でき、便利で実用的です。<br/><br/>特徴<br/>1.高いPC材料から成っています。美しくエレガントなデザインで、厚くて耐久性のある高温耐性無臭。<br/>2.家族、ホテル、オフィスビルに適しており、キッチン、バスルーム、トイレなどで使用できます。<br/><br/>仕様<br/>ポテンシャル値：-650-0mv<br/><br/>容量：400 ml<br/><br/>水温：50℃以下<br/><br/>充電時間：1〜2時間<br/><br/>サイズ：約65mm * 65mm * 245mm / 2.56 * 2.56 * 9.65インチ<br/><br/>ボトルキャップ材質：ABS<br/><br/>ボトル材質：TX1001<br/><br/>電極材料：プラチナチタン+ speイオン膜<br/><br/><br/>パッケージに含まれるもの<br/>本体*1<br/>USB充電ケーブル*１<br/><br/>注意事項<br/>1.シルク、ウール、ナイロン、レザー、塗装面には使用しないでください<br/>2.アルミニウム、銅、炭素鋼製品には使用しないでください。ステンレス鋼器具に適しています。<br/>3.酸洗剤製品（トイレ用洗剤など）と混合しないでください。<br/>4.濃度比をご参照ください<br/><br/>アフターサービス<br/>ご質問やご提案がございましたら、お気軽にお問い合わせください。24時間以内に返信し、最高のサービスを提供します。]]></Description>
+        <BulletPoint>★適用範囲：ジェネレーターを使用して、屋内および体外の微生物を洗浄および殺害できます。また、果物や野菜の残留物、子供のおもちゃ、ペット、空気、衣服の洗浄にも使用できます。</BulletPoint>
+        <BulletPoint>★大容量バッテリー：発電機は1300mAの大容量バッテリー、ボタン一つの電気分解が付属しており、持ち運びが簡単です。</BulletPoint>
+        <BulletPoint>★複数の機能：ジェネレーターは強力な殺菌能力を解放でき、いつでもそれを楽しんで、いつまでも使用できます。</BulletPoint>
+        <BulletPoint>★安全で効果的：家庭用殺菌消臭クリーナーは、浴槽、カウンター、シャワー、ストーブ、トイレ、備品、洗面台、壁、床などの硬くて非多孔性の表面に使用できます。</BulletPoint>
+        <BulletPoint>★高速電解：400ml水+ 20g食用塩、6分間の電解、濃度400mg / L、次亜塩素酸塩発生器は、床を洗浄するための自由洗浄洗浄液を作ることができます。 家具を拭いてください。</BulletPoint>
+        <Manufacturer>AIWKR</Manufacturer>
+        <SearchTerms>電解次亜水 生成器 次亜塩素酸水 99%除菌 濃度 360°回転スプレー ナトリウム 小型 USB充電  家庭 DIY 再利用可能  消毒 消臭 アルカリイオン整水器 ワンタッチ</SearchTerms>
+        <ItemType>アルカリイオン整水器</ItemType>
+        <RecommendedBrowseNode>4084041</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <Kitchen>
+              <VariationData/>
+            </Kitchen>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>AIWKR-561586250610</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554860043</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>2000ml 次亜塩素酸水 生成器 家庭用 電解次亜水メーカー 99%除菌 消毒 広い対応 水と塩  安全無害 操作簡単 </Title>
+        <Brand>AIWKR</Brand>
+        <Description><![CDATA[AIWKRでは、お客様の生活をより快適にすることに努めています。<br/><br/>この次亜塩素酸塩水生成器は、水と塩を使用して独自の消毒剤を作成でき、便利で実用的です。<br/><br/>特徴<br/>1.高いPC材料から成っています。美しくエレガントなデザインで、厚くて耐久性のある高温耐性無臭。<br/>2.家族、ホテル、オフィスビルに適しており、キッチン、バスルーム、トイレなどで使用できます。<br/><br/>仕様<br/>容量：2.0L<br/>主な材料：食品グレードPP + ABS /食品グレードPC<br/>入力電圧：100-240V50 / 60Hz1.0A<br/>出力電圧：24V1.5A<br/>製品サイズ：265mmX300mm<br/><br/>パッケージに含まれるもの<br/>本体*1<br/>電源ケーブル*１<br/>変換プラグ*1<br/><br/>注意事項<br/>1.シルク、ウール、ナイロン、レザー、塗装面には使用しないでください<br/>2.アルミニウム、銅、炭素鋼製品には使用しないでください。ステンレス鋼器具に適しています。<br/>3.酸洗剤製品（トイレ用洗剤など）と混合しないでください。<br/>4.濃度比をご参照ください<br/><br/>アフターサービス<br/>ご質問やご提案がございましたら、お気軽にお問い合わせください。24時間以内に返信し、最高のサービスを提供します。]]></Description>
+        <BulletPoint>【環境にやさしい】無害・無薬品・次亜塩素酸ナトリウム発生装置は、家庭で普通の塩と水道水だけで作れ、生活のあらゆる面を安全に消毒できます。</BulletPoint>
+        <BulletPoint>【使用簡単】お家で水と塩（別売り）をボトルに入れて、電源ケーブルを挿して、ワンタッチでスイッチON、5分で次亜塩素酸水の作りを完了。次亜塩素酸水を作るボトルがそのままスプレーボトルになるので使うのも便利です。家庭で簡単に電解次亜水(除菌消臭水)が作れます。</BulletPoint>
+        <BulletPoint>【多機能】食塩水から作る除菌水は除菌、消臭対策に最適です。空気浄化、トイレ掃除やおむつペールの除菌・消臭、キッチン用品の除菌、ペット臭・タバコ臭の消臭、お風呂場でのカビの予防、あらゆるウイルス対策、一度にたくさんの除菌水が作れるので、精製した次亜水で空間除菌したら汚れた所も綺麗になりました。保育園や幼稚園に通っているお子さんがいらっしゃる家庭には、これは必須のアイテムとなります。</BulletPoint>
+        <BulletPoint>【次亜塩素酸ナトリウム】次亜塩素酸ナトリウムは強力な酸化剤であり、強力な洗浄効果があり、漂白剤などの酸化剤を置き換えることができます。</BulletPoint>
+        <BulletPoint>【注意】①金属製品との相性は良くないことと吹きかけたあとは必ず水で拭いたあと乾拭きが必要ということです。安全のために、生成した残りの水をボトルに入れたまま放置せずに、スプレーヘッド付属しないボトルに移し替えることをお勧めします。②お子様が届かない所にお置いてください。</BulletPoint>
+        <Manufacturer>AIWKR</Manufacturer>
+        <SearchTerms>電解次亜水 生成器 次亜塩素酸水 99%除菌 濃度 360°回転スプレー ナトリウム 小型 USB充電  家庭 DIY 再利用可能  消毒 消臭 アルカリイオン整水器 ワンタッチ</SearchTerms>
+        <ItemType>アルカリイオン整水器</ItemType>
+        <RecommendedBrowseNode>4084041</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <Kitchen>
+              <VariationData/>
+            </Kitchen>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>AIWKR-561586251042</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554860067</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>家庭用 次亜塩素酸ナトリウム生成器 水+塩 で簡単に生成 電解次亜水  除菌 消毒   操作簡単 120ml USBケーブル付属</Title>
+        <Brand>AIWKR</Brand>
+        <Description><![CDATA[AIWKRでは、お客様の生活をより快適にすることに努めています。<br/><br/>この次亜塩素酸塩水生成器は、水と塩を使用して独自の消毒剤を作成でき、便利で実用的です。<br/><br/>特徴<br/>1.高いPC材料から成っています。美しくエレガントなデザインで、厚くて耐久性のある高温耐性無臭。<br/>2.家族、ホテル、オフィスビルに適しており、キッチン、バスルーム、トイレなどで使用できます。<br/><br/>仕様<br/>材質：ABS + PC<br/>作業時間：3分<br/>製品容量：120ml<br/>製品重量：100グラム<br/>サイズ：55 * 199mm<br/><br/>パッケージに含まれるもの<br/>本体*1<br/>USBケーブル*１<br/><br/>注意事項<br/>1.シルク、ウール、ナイロン、レザー、塗装面には使用しないでください<br/>2.アルミニウム、銅、炭素鋼製品には使用しないでください。ステンレス鋼器具に適しています。<br/>3.酸洗剤製品（トイレ用洗剤など）と混合しないでください。<br/><br/>アフターサービス<br/>ご質問やご提案がございましたら、お気軽にお問い合わせください。24時間以内に返信し、最高のサービスを提供します。]]></Description>
+        <BulletPoint>【多機能】食塩水から作る除菌水は除菌、消臭対策に最適です。空気浄化、トイレ掃除やおむつペールの除菌・消臭、キッチン用品の除菌、ペット臭・タバコ臭の消臭、お風呂場でのカビの予防、あらゆるウイルス対策、精製した次亜水で空間除菌したら汚れた所も綺麗になりました。保育園や幼稚園に通っているお子さんがいらっしゃる家庭には、これは必須のアイテムとなります。</BulletPoint>
+        <BulletPoint>【高周波電解技術】業界をリードする高周波電解技術を使用して、迅速な電解による水+塩自作消毒液（次亜塩素酸ナトリウム消毒水）は、滅菌が非常に効率的で環境にやさしいです。</BulletPoint>
+        <BulletPoint>【高品質のコアコンポーネント】高品質の焼結チタンルテニウムイリジウム電極、電解効率を向上させ、長寿命。 異なる塩添加比によると、有効塩素含有量は10〜500 ppmに達し、滅菌率は99.9％と高いです。</BulletPoint>
+        <BulletPoint>【シンプルなデザイン】エッフェル塔にインスパイアされたデザインで、シンプルでスタイリッシュな120ML容量、ポータブルデザインで、いつでもどこでもセキュリティを提供します。</BulletPoint>
+        <BulletPoint>【超微細噴霧スプレーヘッド】電気めっきされた銀の超微細噴霧スプレーヘッド、簡単にプレスでき、省力で耐久性があり、細かく柔らかく、スプレー範囲が広い。</BulletPoint>
+        <Manufacturer>AIWKR</Manufacturer>
+        <SearchTerms>電解次亜水 生成器 次亜塩素酸水 99%除菌 濃度 360°回転スプレー ナトリウム 小型 USB充電  家庭 DIY 再利用可能  消毒 消臭 アルカリイオン整水器 ワンタッチ</SearchTerms>
+        <ItemType>アルカリイオン整水器</ItemType>
+        <RecommendedBrowseNode>4084041</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <Kitchen>
+              <VariationData/>
+            </Kitchen>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>AIWKR-561586252254</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554860081</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>電解次亜水メーカー 次亜塩素酸水 生成器  USB充電式 使い簡単 携帯便利 家庭 学校 コンビニ 滅菌 消毒に適用</Title>
+        <Brand>AIWKR</Brand>
+        <Description><![CDATA[AIWKRでは、お客様の生活をより快適にすることに努めています。<br/><br/>この次亜塩素酸塩水生成器は、水と塩を使用して独自の消毒剤を作成でき、便利で実用的です。<br/><br/>特徴<br/>1.高いPC材料から成っています。美しくエレガントなデザインで、厚くて耐久性のある高温耐性無臭。<br/>2.家族、ホテル、オフィスビルに適しており、キッチン、バスルーム、トイレなどで使用できます。<br/><br/>仕様<br/>材質：ABS + PC<br/>作業時間：1分<br/>製品容量：50ml<br/>製品重量：150グラム<br/>サイズ：70 * 264mm<br/><br/>パッケージに含まれるもの<br/>本体*1<br/>USB充電ケーブル*１<br/><br/>注意事項<br/>1.シルク、ウール、ナイロン、レザー、塗装面には使用しないでください<br/>2.アルミニウム、銅、炭素鋼製品には使用しないでください。ステンレス鋼器具に適しています。<br/>3.酸洗剤製品（トイレ用洗剤など）と混合しないでください。<br/>4.濃度比をご参照ください<br/><br/>アフターサービス<br/>ご質問やご提案がございましたら、お気軽にお問い合わせください。24時間以内に返信し、最高のサービスを提供します。]]></Description>
+        <BulletPoint>★【簡単操作/材料】水+塩電解槽は、クリーナーを作る操作しやすく、効果的な洗浄と、あなたとあなたの家族のために健全な環境を提供することができます。</BulletPoint>
+        <BulletPoint>★【エコ】無毒、無害と化学残留物のない次亜塩素酸ナトリウム発生装置は通常の塩と水道水と一緒に家で行うことができ、それが安全に生活のあらゆる側面を消毒することができます。</BulletPoint>
+        <BulletPoint>★【濃度の3種類】界面活性剤は効果的に禁止有害なオブジェクトは、空気中で、有害なオブジェクトの広がりを防ぐ合理的濃度で濃度の選択、及び清浄な様々なオブジェクトの3種類を提供することができます。</BulletPoint>
+        <BulletPoint>★【次亜塩素酸ナトリウム】次亜塩素酸ナトリウムは、強力な酸化剤であり、強力な洗浄効果を有しており、漂白剤などの酸化剤を置き換えることができます。</BulletPoint>
+        <BulletPoint>★【さまざまな場所への適用】広く家庭、学校、オフィス、病院、ホテルなどの公共の場所で使用。物理的には、健康と安全は完全に家族や子どもの健康を守るために作られました。</BulletPoint>
+        <Manufacturer>AIWKR</Manufacturer>
+        <SearchTerms>電解次亜水 生成器 次亜塩素酸水 99%除菌 濃度 360°回転スプレー ナトリウム 小型 USB充電  家庭 DIY 再利用可能  消毒 消臭 アルカリイオン整水器 ワンタッチ</SearchTerms>
+        <ItemType>アルカリイオン整水器</ItemType>
+        <RecommendedBrowseNode>4084041</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <Kitchen>
+              <VariationData/>
+            </Kitchen>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

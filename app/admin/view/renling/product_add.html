@@ -1,0 +1,2072 @@
+{extend name="admin@public/base" /}
+{block name="main-content"}
+<style type="text/css">
+    .string {
+        color: green;
+    }
+
+    .number {
+        color: darkorange;
+    }
+
+    .boolean {
+        color: blue;
+    }
+
+    .null {
+        color: magenta;
+    }
+
+    .key {
+        color: red;
+    }
+
+    body {
+        padding: 1rem;
+    }
+
+    pre {
+        background-color: #f7f7f9;
+        border: 1px solid #e1e1e8;
+        padding: 5px 10px;
+        margin: 0;
+        border-radius: 8px;
+        min-height: 20px;
+    }
+
+    xmp {
+        margin: 0;
+        padding: 0;
+    }
+
+    #upload_duixiang {
+        display: inline-block;
+        margin-bottom: 5px;
+        color: #fff;
+        background-color: #337ab7;
+        border-color: #2e6da4;
+        padding: 5px 10px;
+        font-size: 12px;
+        line-height: 1.5;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+
+    ul li img:hover {
+        /*transform: scale(4.16);*/
+    }
+</style>
+
+<script>
+    window.onload = function () {
+        var elements = document.querySelectorAll('.demo-image');
+        Intense(elements);
+    }
+</script>
+<div class="page-content">
+    <!--主题-->
+    <div class="page-header">
+        <h1>
+            您当前操作
+            <small>
+                <i class="ace-icon fa fa-angle-double-right"></i>
+                添加产品
+            </small>
+
+        </h1>
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            <form class="form-horizontal ajaxForm2" name="form0" method="post"
+                  action="{:url('admin/Product/product_runadd')}" enctype="multipart/form-data" onkeydown="if(event.keyCode==13)return false;">
+                <div style="margin-right:20px;float: right;margin-top: -20px;">
+                <button class="btn btn-info" type="submit" >
+                    <i class="ace-icon fa fa-check bigger-110"></i>
+                    保存
+                </button>
+                </div>
+                <input type="hidden" id="imagepath" name="goodsImages">  <!-- 保存的图片id 用于表单提交 -->
+                <span id="upload_duixiang">上传产品图片</span><!-- 上传按钮 -->
+                <div class="show"></div> <!-- 输出图片 -->
+
+                <link rel="stylesheet" type="text/css" href="__PUBLIC__/ace/dtsc/FraUpload.css">
+                <!--<script src="__PUBLIC__/ace/dtsc/jquery.min.js?v=2.1.4"></script>-->
+                <!-- 图片排序 -->
+                <script src="__PUBLIC__/ace/dtsc/Sortable/Sortable.js"></script>
+                <script type="text/javascript" src="__PUBLIC__/ace/dtsc/MD5.js"></script>
+                <script type="text/javascript" src="__PUBLIC__/ace/dtsc/FraUpload.js"></script>
+
+                <script type="text/javascript">
+
+                    // 商品图片上传
+                    a = $("#upload_duixiang").FraUpload({
+                        view: ".show",      // 视图输出位置
+                        url: "{:url('admin/Product/fileupload')}", // 上传接口
+                        fetch: "img",   // 视图现在只支持img
+                        debug: false,    // 是否开启调试模式
+                        /* 外部获得的回调接口 */
+                        onLoad: function (e) {                    // 选择文件的回调方法
+
+                            console.log("外部: 初始化完成...");
+                        },
+                        breforePort: function (e) {         // 发送前触发
+                            console.log("文件发送之前触发");
+                        },
+                        successPort: function (e) {         // 发送成功触发
+                            console.log("文件发送成功");
+                            onload_image()
+                        },
+                        errorPort: function (e) {       // 发送失败触发
+                            console.log("文件发送失败");
+                            onload_image()
+                        },
+                        deletePost: function (e) {    // 删除文件触发
+                            console.log("删除文件");
+                            console.log(e);
+                            alert('删除了' + e.filename)
+                            onload_image()
+                        },
+                        sort: function (e) {      // 排序触发
+                            console.log("排序");
+                            onload_image()
+                        },
+                    });
+                    function removeChars(source, chars) {
+                        var reg = new RegExp(chars,'gi');
+                        var result = source.replace(reg,"");
+                        return result;
+                    }
+                    // 获取图片上传信息
+                    function onload_image() {
+                        var res = a.FraUpload.show();
+                        var ids = [];
+                        for (let k in res) {
+                            this_val = res[k]
+                            if (!empty(res[k]['is_upload']) && !empty(res[k]['ajax'])) {
+                                ajax_value = res[k]['ajax'];
+                                ids.push(ajax_value);
+                            }
+                        }
+                       //
+                        //
+                        var ids1 = ids.toString();
+                        ids = ids1.replace(/\ +/g,"");
+                        ids = ids.replace(/[\r\n]/g,"");
+                        ids = ids.replace('fromquery', '');
+                        var ids = removeChars(ids,'fromquery');
+                        //console.log(ids)
+                      
+                        $("#imagepath").val(ids);
+                    }
+
+
+
+                    /**
+                     * 判断变量是否为空
+                     */
+                    function empty(value) {
+                        if (value == "" || value == undefined || value == null || value == false || value == [] || value == {}) {
+                            return true;
+                        } else {
+                            return false;
+                        }
+                    }
+                </script>
+
+
+                <div class="form-group">
+                    <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 产品简称： </label>
+                    <div class="col-sm-10">
+
+                        <input type="text" name="goodsTitle" id="goodsTitle" placeholder="产品简称，建议1~12字数"
+                               class="col-xs-10 col-sm-4" style="margin-left:10px;"  required/>
+                        <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resone"></span>
+											</span>
+                    </div>
+                </div>
+                <div class="space-4"></div>
+                <div class="form-group">
+                    <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 英文简称： </label>
+                    <div class="col-sm-10">
+
+                        <input type="text" name="goodsEnglishabbreviation" id="goodsEnglishabbreviation"
+                               placeholder="产品简称，建议1~12字数" class="col-xs-10 col-sm-4" style="margin-left:10px;"  required/>
+                        <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resone"></span>
+											</span>
+                    </div>
+                </div>
+                <div class="space-4"></div>
+
+                <div class="form-group">
+                    <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 厂商名称： </label>
+                    <div class="col-sm-10">
+
+                        <input type="text" name="goodsTradeNames" id="goodsTradeNames" placeholder="厂商名称"
+                               class="col-xs-10 col-sm-4" style="margin-left:10px;" value="{$admin_list.0.en_name}"/>
+                        <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resone"></span>
+											</span>
+                    </div>
+                </div>
+                <div class="space-4"></div>
+
+                <div class="form-group" style="">
+                    <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 品牌名称： </label>
+                    <div class="col-sm-10">
+
+                        <input type="text" name="goodsBrandName" id="goodsBrandName" placeholder="品牌名称"
+                               class="col-xs-10 col-sm-4 input-icon-right" style="margin-left:10px;"  value="{$admin_list.0.en_brand}"/>
+                        <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resone"></span>
+											</span>
+                    </div>
+                </div>
+                <div class="space-4"></div>
+
+                <div class="form-group">
+                    <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> SKU： </label>
+                    <div class="col-sm-10">
+
+                        <input type="text" name="goodsSku" id="goodsSku" placeholder="SKU编码" value="{$sku}"
+                               class="col-xs-10 col-sm-2" style="margin-left:10px;"/>
+                        <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resone"></span>
+											</span>
+                    </div>
+                </div>
+                <div class="space-4"></div>
+
+
+                <div class="space-4"></div>
+                <div class="form-group">
+                    <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 是否审核： </label>
+                    <div class="col-sm-10" style="padding-top:5px;">
+                        <input name="goodsStaus" id="goodsStaus" value="1" class="ace ace-switch ace-switch-4 btn-flat"
+                               type="checkbox"/>
+                        <span class="lbl">&nbsp;&nbsp;默认关闭</span>
+                    </div>
+                </div>
+                <div class="space-4"></div>
+
+                <div class="form-group">
+                    <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 产品来源： </label>
+                    <div class="col-sm-10">
+                        <input type="text" name="goodsUrl" id="goodsUrl" placeholder="来源URL"
+                               class="col-xs-10 col-sm-6"/>
+
+                        <span class="help-inline col-xs-12 col-sm-6">
+								<span class="middle">正确格式：http:// 开头</span>
+							</span>
+                    </div>
+                </div>
+                <div class="space-4"></div>
+
+                <!--运费模块开始-->
+
+                <script>
+
+                    $(function () {
+                        //售价、运费计算
+                        $('input').blur(function () {
+                            goodsBuyingPrice = $('#goodsBuyingPrice').val();
+
+                            goodsWeight = $('#goodsWeight').val();
+                            goodsSizec = $('#goodsSizec').val();
+                            goodsSizek = $('#goodsSizek').val();
+                            goodsSizeg = $('#goodsSizeg').val();
+                            if (goodsBuyingPrice != 0 && goodsWeight != '' && goodsSizec != '' && goodsSizek != '' && goodsSizeg != '') {
+                                //alert(goodsSizeg);
+                                $.post('{:url(\'admin/Product/product_price\')}', {
+                                    goodsBuyingPrice: goodsBuyingPrice,
+                                    goodsWeight: goodsWeight,
+                                    goodsSizec: goodsSizec,
+                                    goodsSizek: goodsSizek,
+                                    goodsSizeg: goodsSizeg
+                                }, function (data) {
+                                    //运费赋值
+                                    $("#usyf").html(data.Freight.us_Freight);
+                                    $("#cayf").html(data.Freight.ca_Freight);
+                                    $("#mxyf").html(data.Freight.mx_Freight);
+                                    $("#ukyf").html(data.Freight.uk_Freight);
+                                    $("#fryf").html(data.Freight.fr_Freight);
+                                    $("#deyf").html(data.Freight.de_Freight);
+                                    $("#ityf").html(data.Freight.it_Freight);
+                                    $("#esyf").html(data.Freight.es_Freight);
+                                    $("#jpyf").html(data.Freight.jp_Freight);
+                                    $("#auyf").html(data.Freight.au_Freight);
+                                    //售价赋值
+                                    $("#ussj").html(data.Price.us_Price);
+                                    $("#casj").html(data.Price.ca_Price);
+                                    $("#mxsj").html(data.Price.mx_Price);
+                                    $("#uksj").html(data.Price.uk_Price);
+                                    $("#frsj").html(data.Price.fr_Price);
+                                    $("#desj").html(data.Price.de_Price);
+                                    $("#itsj").html(data.Price.it_Price);
+                                    $("#essj").html(data.Price.es_Price);
+                                    $("#jpsj").html(data.Price.jp_Price);
+                                    $("#ausj").html(data.Price.au_Price);
+                                    //外币赋值
+                                    $("#uswb").html(data.Foreign.us_Price);
+                                    $("#cawb").html(data.Foreign.ca_Price);
+                                    $("#mxwb").html(data.Foreign.mx_Price);
+                                    $("#ukwb").html(data.Foreign.uk_Price);
+                                    $("#frwb").html(data.Foreign.fr_Price);
+                                    $("#dewb").html(data.Foreign.de_Price);
+                                    $("#itwb").html(data.Foreign.it_Price);
+                                    $("#eswb").html(data.Foreign.es_Price);
+                                    $("#jpwb").html(data.Foreign.jp_Price);
+                                    $("#auwb").html(data.Foreign.au_Price);
+
+                                    //最终售价赋值
+                                    $("#uszzsj").val(data.Foreign.us_Price);
+                                    $("#cazzsj").val(data.Foreign.ca_Price);
+                                    $("#mxzzsj").val(data.Foreign.mx_Price);
+                                    $("#ukzzsj").val(data.Foreign.uk_Price);
+                                    $("#frzzsj").val(data.Foreign.fr_Price);
+                                    $("#dezzsj").val(data.Foreign.de_Price);
+                                    $("#itzzsj").val(data.Foreign.it_Price);
+                                    $("#eszzsj").val(data.Foreign.es_Price);
+                                    $("#jpzzsj").val(data.Foreign.jp_Price);
+                                    $("#auzzsj").val(data.Foreign.au_Price);
+
+                                    //利润赋值
+                                    $("#uslr").html(data.Profit.us_Price);
+                                    $("#calr").html(data.Profit.ca_Price);
+                                    $("#mxlr").html(data.Profit.mx_Price);
+                                    $("#uklr").html(data.Profit.uk_Price);
+                                    $("#frlr").html(data.Profit.fr_Price);
+                                    $("#delr").html(data.Profit.de_Price);
+                                    $("#itlr").html(data.Profit.it_Price);
+                                    $("#eslr").html(data.Profit.es_Price);
+                                    $("#jplr").html(data.Profit.jp_Price);
+                                    $("#aulr").html(data.Profit.au_Price);
+
+                                });
+                            }
+                        })
+
+
+                    })
+
+
+                </script>
+                <div class="form_item">
+                    <div class="item">
+                        <div>
+                            <h4>
+                                成本运费
+                            </h4>
+                        </div>
+                        <div class="pro_inf chengben">
+            <span>
+                <label for="">
+                    采购价格(￥)：
+                </label>
+                <input type="text" placeholder="采购价格(￥)" name="goodsBuyingPrice" id="goodsBuyingPrice"
+                       onkeyup="this.value=this.value.replace(/[^\d.]/g,'');">
+            </span>
+
+                            <!--<span>
+                                <label for="">
+                                    国内运费(￥)：
+                                </label>
+                                <input type="text" placeholder="国内运费(￥)" name="goodsFreight" id="goodsFreight" value="15" onkeyup="this.value=this.value.replace(/[^\d.]/g,'');">
+                            </span>!-->
+                            <span>
+                <label for="">
+                    包装毛重(kg)：
+                </label>
+                <input type="text" placeholder="包装毛重(kg)" name="goodsWeight" id="goodsWeight"
+                       onkeyup="this.value=this.value.replace(/[^\d.]/g,'');">
+            </span>
+                            <br>
+                            <span>
+                <label for="">
+                    包装尺寸(cm)：
+                </label>
+                <input type="text" placeholder="长" name="goodsSizec" id="goodsSizec"
+                       onkeyup="this.value=this.value.replace(/[^\d.]/g,'');"
+                       class="size_input">
+                *
+                <input type="text" placeholder="宽" name="goodsSizek" id="goodsSizek"
+                       onkeyup="this.value=this.value.replace(/[^\d.]/g,'');"
+                       class="size_input">
+                *
+                <input type="text" placeholder="高" name="goodsSizeg" id="goodsSizeg"
+                       onkeyup="this.value=this.value.replace(/[^\d.]/g,'');"
+                       class="size_input">
+            </span>
+                            <span>
+                <label for="">
+                    库存数量：
+                </label>
+                <input type="text" placeholder="库存数量" name="goodsInventory" id="goodsInventory"
+                       onkeyup="this.value=this.value.replace(/[^\d.]/g,'');" value="{$kucun}">
+            </span>
+                            <table class="tableY">
+                                <tbody>
+                                <tr>
+                                    <th style="color: rgb(243, 125, 13); font-size: 14px; font-weight: bold; cursor: pointer;">
+                                        <i class="layui-icon layui-icon-refresh"
+                                           style="font-size: 10px; cursor: pointer;">
+                                        </i>
+                                        获取利润
+                                    </th>
+                                    <th>
+                                        美国
+                                    </th>
+                                    <th>
+                                        加拿大
+                                    </th>
+                                    <th>
+                                        墨西哥
+                                    </th>
+                                    <th>
+                                        英国
+                                    </th>
+                                    <th>
+                                        法国
+                                    </th>
+                                    <th>
+                                        德国
+                                    </th>
+                                    <th>
+                                        意大利
+                                    </th>
+                                    <th>
+                                        西班牙
+                                    </th>
+                                    <th>
+                                        日本
+                                    </th>
+                                    <th>
+                                        澳大利亚
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        运费（￥）
+                                    </th>
+                                    <td id="usyf">
+                                        0
+                                    </td>
+                                    <td id="cayf">
+                                        0
+                                    </td>
+                                    <td id="mxyf">
+                                        0
+                                    </td>
+                                    <td id="ukyf">
+                                        0
+                                    </td>
+                                    <td id="fryf">
+                                        0
+                                    </td>
+                                    <td id="deyf">
+                                        0
+                                    </td>
+                                    <td id="ityf">
+                                        0
+                                    </td>
+                                    <td id="esyf">
+                                        0
+                                    </td>
+                                    <td id="jpyf">
+                                        0
+                                    </td>
+                                    <td id="auyf">
+                                        0
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        售价（￥）
+                                    </th>
+                                    <td id="ussj">
+                                        0
+                                    </td>
+                                    <td id="casj">
+                                        0
+                                    </td>
+                                    <td id="mxsj">
+                                        0
+                                    </td>
+                                    <td id="uksj">
+                                        0
+                                    </td>
+                                    <td id="frsj">
+                                        0
+                                    </td>
+                                    <td id="desj">
+                                        0
+                                    </td>
+                                    <td id="itsj">
+                                        0
+                                    </td>
+                                    <td id="essj">
+                                        0
+                                    </td>
+                                    <td id="jpsj">
+                                        0
+                                    </td>
+                                    <td id="ausj">
+                                        0
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        外币
+                                    </th>
+                                    <td id="uswb" >
+                                        0
+                                    </td>
+                                    <td id="cawb">
+                                        0
+                                    </td>
+                                    <td id="mxwb">
+                                        0
+                                    </td>
+                                    <td id="ukwb">
+                                        0
+                                    </td>
+                                    <td id="frwb">
+                                        0
+                                    </td>
+                                    <td id="dewb">
+                                        0
+                                    </td>
+                                    <td id="itwb">
+                                        0
+                                    </td>
+                                    <td id="eswb">
+                                        0
+                                    </td>
+                                    <td id="jpwb">
+                                        0
+                                    </td>
+                                    <td id="auwb">
+                                        0
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <th>
+                                        最终售价
+                                    </th>
+                                    <td>
+                                        <input name="goodsPrice_en" id="uszzsj" type="text"
+                                               onkeyup="this.value=this.value.replace(/[^\d.]/g,'');"
+                                               style="width: 90%;">
+                                    </td>
+                                    <td>
+                                        <input name="goodsPrice_jnd" id="cazzsj" type="text"
+                                               onkeyup="this.value=this.value.replace(/[^\d.]/g,'');"
+                                               style="width: 90%;">
+                                    </td>
+                                    <td>
+                                        <input name="goodsPrice_mxg" id="mxzzsj" type="text"
+                                               onkeyup="this.value=this.value.replace(/[^\d.]/g,'');"
+                                               style="width: 90%;">
+                                    </td>
+                                    <td>
+                                        <input name="goodsPrice_yg" id="ukzzsj" type="text"
+                                               onkeyup="this.value=this.value.replace(/[^\d.]/g,'');"
+                                               style="width: 90%;">
+                                    </td>
+                                    <td>
+                                        <input name="goodsPrice_fg" id="frzzsj" type="text"
+                                               onkeyup="this.value=this.value.replace(/[^\d.]/g,'');"
+                                               style="width: 90%;">
+                                    </td>
+                                    <td>
+                                        <input name="goodsPrice_dg" id="dezzsj" type="text"
+                                               onkeyup="this.value=this.value.replace(/[^\d.]/g,'');"
+                                               style="width: 90%;">
+                                    </td>
+                                    <td>
+                                        <input name="goodsPrice_ydl" id="itzzsj" type="text"
+                                               onkeyup="this.value=this.value.replace(/[^\d.]/g,'');"
+                                               style="width: 90%;">
+                                    </td>
+                                    <td>
+                                        <input name="goodsPrice_xby" id="eszzsj" type="text"
+                                               onkeyup="this.value=this.value.replace(/[^\d.]/g,'');"
+                                               style="width: 90%;">
+                                    </td>
+                                    <td>
+                                        <input name="goodsPrice_rb" id="jpzzsj" type="text"
+                                               onkeyup="this.value=this.value.replace(/[^\d.]/g,'');"
+                                               style="width: 90%;">
+                                    </td>
+                                    <td>
+                                        <input name="goodsPrice_adly" id="auzzsj" type="text"
+                                               onkeyup="this.value=this.value.replace(/[^\d.]/g,'');"
+                                               style="width: 90%;">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        利润（￥）
+                                    </th>
+                                    <td id="uslr">
+                                        0 (0.00%)
+                                    </td>
+                                    <td id="calr">
+                                        0 (0.00%)
+                                    </td>
+                                    <td id="mxlr">
+                                        0 (0.00%)
+                                    </td>
+                                    <td id="uklr">
+                                        0 (0.00%)
+                                    </td>
+                                    <td id="frlr">
+                                        0 (0.00%)
+                                    </td>
+                                    <td id="delr">
+                                        0 (0.00%)
+                                    </td>
+                                    <td id="itlr">
+                                        0 (0.00%)
+                                    </td>
+                                    <td id="eslr">
+                                        0 (0.00%)
+                                    </td>
+                                    <td id="jplr">
+                                        0 (0.00%)
+                                    </td>
+                                    <td id="aulr">
+                                        0 (0.00%)
+                                    </td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <!--运费模块结尾-->
+                <!--变体模块开始-->
+
+
+                <div class="form_item">
+                    <div class="item">
+                        <div>
+                            <h4>
+                                规格变体
+                            </h4>
+                        </div>
+                        <div class="pro_inf">
+                            <span>
+                                <label for="">
+                                    变体参数：
+                                </label>
+                                <input type="button" value="添加" id="addVariant">
+                            </span>
+                            <div class="variantName">
+
+                            </div>
+                            <table class="tableY" style="display: none" id="specifica">
+                                <tbody id="specif_content">
+                                <tr>
+                                    <th>
+                                        变体组合
+                                    </th>
+                                    <th>
+                                        SKU修正
+                                    </th>
+                                    <th>
+                                        加价（人民币）
+                                    </th>
+                                    <th>
+                                        库存
+                                    </th>
+                                    <th>
+                                        UPC/EAN
+                                    </th>
+                                    <th>
+                                        操作
+                                    </th>
+                                    <th width="20%">
+                                        选择图片
+                                    </th>
+                                    <th>
+                                        已选图片
+                                    </th>
+                                </tr>
+
+                                </tbody>
+                            </table>
+                            <!---->
+                        </div>
+                    </div>
+                </div>
+                <div class="layui-layer layui-layer-page openClass layer-anim" id="imgAdd" type="page" times="9" showtime="0" contype="object" style="z-index: 19891023; width: 800px; height: 500px; top: 23.5px; left: 450px;display:none">
+                    <div id="" class="layui-layer-content" style="height: 447px;">
+                    <div id="selImg" class="tankuang layui-layer-wrap" style="">
+                        <h3>产品回收站</h3> <div class="some-content-related-div" style="width: 100%; margin: 0px auto;">
+                        <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; height: 400px;">
+                            <div class="inner-content-div2" style="overflow: hidden; width: auto; height: 400px;">
+                                <ul class="proStationUl">
+                                    <li data-url="http://39.105.120.226/images/2019/10/29/10334744/8fc425cf4fa14072b3a303f2d11f5234.jpg"><img src="http://39.105.120.226/images/2019/10/29/10334744/8fc425cf4fa14072b3a303f2d11f5234.jpg" alt="">
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="slimScrollBar" style="background: rgb(40, 149, 229); width: 4px; position: absolute; top: 0px; opacity: 0.4; display: none; border-radius: 7px; z-index: 99; right: 1px; height: 400px;">
+
+                            </div>
+                            <div class="slimScrollRail" style="width: 4px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; background: rgb(4, 254, 233); opacity: 0.2; z-index: 90; right: 1px;">
+
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                    <span class="layui-layer-setwin">
+                        <a class="layui-layer-ico layui-layer-close layui-layer-close2 selectCancle" href="javascript:;"></a>
+                    </span>
+                 <div class="layui-layer-btn layui-layer-btn-">
+                        <a class="layui-layer-btn0" id="selectAdd">确定</a>
+                        <a class="layui-layer-btn1" id="selectCancle">取消</a>
+                    </div>
+                    <span class="layui-layer-resize"></span>
+                </div>
+                <script>
+                    function showClose(id) {
+                        $(id).css('visibility', 'visible');
+                    }
+
+                    function hiddenClose(id) {
+                        $(id).css('visibility', 'hidden');
+                    }
+
+                    function changeVarType() {
+                      $aa = $("#variantType").val();
+                      return $aa;
+                    }
+                    $("#specif_content").on("click",".del",function(){
+                       $(this).parents('tr').remove();
+                    })
+                    //默认选择颜色状态
+                    var selectType = 1;
+                    $('#addVariant').on('click', function () {
+                        var size = $("#size").val(1);
+                        layer.open({
+                            type: 1,
+                            area: ['700px', '500px'],
+                            shadeClose: true, //点击遮罩关闭
+                            btn: ['添加', '取消']
+                            , yes: function (index, layero) {
+
+                                var appendHtml = '';
+                               // var textArr = [];
+                                aa = changeVarType();
+                                arr = aa.split(",");
+                                qq = $('#variantName').val();
+                                if(qq == 0){
+                                    textArr =arr;
+                                }
+                                if(qq == 2){
+                                    textArr1 =arr;
+                                }
+
+                               
+
+                                if(textArr.length<1 && textArr1.length<1){
+                                    alert("变体值不能为空");
+                                    return;
+                                }
+                                if(textArr.length>0 && textArr1.length<1){
+                                    for(var i=0;i<textArr.length;i++){
+                                        appendHtml += "<tr>"
+                                        appendHtml += "<th>"+textArr[i]+"</th> <input type='hidden' value="+textArr[i]+" name='variant_combination["+i+"] '>"
+                                        appendHtml +="<td>";
+                                        appendHtml +="   <input name='sku["+i+"]' type='text' style='width: 90%;' value='{$sku}-"+i+"'>"
+                                        appendHtml +="  </td>"
+                                        appendHtml +=" <td>"
+                                        appendHtml +=" <input name='markup["+i+"]'  type='text'  style='width: 90%;'>"
+                                        appendHtml +=" </td>"
+                                        appendHtml +=" <td >"
+                                        appendHtml +="  <input name='stock["+i+"]' type='text'  style='width: 90%;' value="+Math.round(Math.random()*150+50) +">"
+                                        appendHtml +=" </td>"
+                                        appendHtml +=" <td>"
+                                        appendHtml +="<input name='upc["+i+"]'  type='text'  style='width: 90%;'>"
+                                        appendHtml +=" </td>"
+                                        appendHtml +=" <td>"
+                                        appendHtml +=" <input type='button' data-index='0' value='删除' class='del' name='del' style='outline: none'>"
+                                        appendHtml +=" </td>"
+                                        appendHtml +=" <td >"
+                                        appendHtml +=" <input type='button' value='选择图片' class='chan'>"
+                                        appendHtml +=" <input type='button' value='一键添加' class='all'>"
+                                        appendHtml +=" <input type='hidden' value='' class='imgAction' name='imgs["+i+"]'>"
+                                        appendHtml +=" </td>"
+                                        appendHtml +="<td > <ul class='ul'></ul>"
+                                        appendHtml +=" </td>"
+                                        appendHtml +=" </tr>"
+                                    }
+                                }
+                                if(textArr.length<1 && textArr1.length>0){
+
+                                    for(var i=0;i<textArr1.length;i++){
+                                        appendHtml += "<tr>"
+                                        appendHtml += "<th>"+textArr1[i]+"</th><input type='hidden' value="+textArr1[i]+" name='variant_combination["+i+"] '>"
+                                        appendHtml +="<td>";
+                                        appendHtml +="   <input name='sku["+i+"]' type='text' style='width: 90%;' value='{$sku}-"+i+"'>"
+                                        appendHtml +="  </td>"
+                                        appendHtml +=" <td>"
+                                        appendHtml +=" <input name='markup["+i+"]'  type='text'  style='width: 90%;'>"
+                                        appendHtml +=" </td>"
+                                        appendHtml +=" <td >"
+                                        appendHtml +="   <input name='stock["+i+"]' type='text'  style='width: 90%;' value="+Math.round(Math.random()*150+50)+">"
+                                        appendHtml +=" </td>"
+                                        appendHtml +=" <td>"
+                                        appendHtml +=" <input name='upc["+i+"]' type='text'  style='width: 90%;'>"
+                                        appendHtml +=" </td>"
+                                        appendHtml +=" <td>"
+                                        appendHtml +=" <input type='button' data-index='0' value='删除' class='del' name='del' style='outline: none'>"
+                                        appendHtml +=" </td>"
+                                        appendHtml +=" <td >"
+                                        appendHtml +=" <input type='button' value='选择图片' class='chan'>"
+                                        appendHtml +=" <input type='button' value='一键添加' class='all'>"
+                                        appendHtml +=" <input type='hidden' value='' class='imgAction' name='imgs["+i+"]'>"
+                                        appendHtml +=" </td>"
+                                        appendHtml +="<td ><ul class='ul'></ul>"
+                                        appendHtml +=" </td>"
+                                        appendHtml +=" </tr>"
+                                    }
+                                }
+                                if(textArr.length>0 && textArr1.length>0){
+                                    var count = 1;
+                                    $('#specif_content').html('')
+                                    appendHtml += "<tr> <th>变体组合</th><th>SKU修正 </th> <th>加价（人民币）</th><th>库存</th><th>UPC/EAN</th><th>操作 </th> <th width='20%'> 选择图片</th><th>已选图片 </th></tr>"
+                                    for(var i=0;i<textArr.length;i++){
+                                        for(var j=0;j<textArr1.length;j++){
+                                            appendHtml += "<tr>"
+                                            appendHtml += "<th>"+textArr[i]+"-"+textArr1[j]+"</th><input type='hidden' value="+textArr[i]+"-"+textArr1[j]+" name='variant_combination["+count+"] '>"
+                                            appendHtml +="<td>";
+                                            appendHtml +="   <input name='sku["+count+"]' type='text' style='width: 90%;' value='{$sku}-"+count+"'>"
+                                            appendHtml +="  </td>"
+                                            appendHtml +=" <td>"
+                                            appendHtml +=" <input name='markup["+count+"]'  type='text'  style='width: 90%;'>"
+                                            appendHtml +=" </td>"
+                                            appendHtml +=" <td >"
+                                            appendHtml +="   <input name='stock["+count+"]' type='text'  style='width: 90%;' value="+Math.round(Math.random()*150+50) +">"
+                                            appendHtml +=" </td>"
+                                            appendHtml +=" <td>"
+                                            appendHtml +=" <input name='upc["+count+"]' type='text'  style='width: 90%;'>"
+                                            appendHtml +=" </td>"
+                                            appendHtml +=" <td>"
+                                            appendHtml +=" <input type='button' data-index='0' value='删除' class='del' name='del' style='outline: none'>"
+                                            appendHtml +=" </td>"
+                                            appendHtml +=" <td >"
+                                            appendHtml +=" <input type='button' value='选择图片' class='chan'>"
+                                            appendHtml +=" <input type='button' value='一键添加' class='all'>"
+                                            appendHtml +=" <input type='hidden' value='' class='imgAction' name='imgs["+count+"]'>"
+                                            appendHtml +=" </td>"
+                                            appendHtml +="<td ><ul class='ul'></ul>"
+                                            appendHtml +=" </td>"
+                                            appendHtml +=" </tr>"
+
+                                            count++;
+                                        }
+
+                                    }
+                                }
+                                $('#specif_content').append(appendHtml)
+                                $('#specifica').attr('style','display:block');
+                                // var size = $("#size").val();
+                                // if (size == 1) {
+                                //     var html = '<span style="margin-bottom: 0px;" id="color"><a href="javascript:;" data-id="0" onmouseover="showClose(\'#colorClose\')" onmouseout="hiddenClose(\'#colorClose\')">颜色（color）</a><i\n' +
+                                //         '                                        class="fa fa-times-circle-o" id="colorClose"  aria-hidden="true" style="visibility:hidden;"></i></span>';
+                                //     $('.variantName').append(html);
+                                // } else {
+                                //     var html = '<span style="margin-bottom: 0px;" id="size"><a href="javascript:;" data-id="0" onmouseover="showClose(\'#sizeClose\')" onmouseout="hiddenClose(\'#sizeClose\')">尺寸（sizeNam）</a><i\n' +
+                                //         '                                        class="fa fa-times-circle-o" id="sizeClose"  aria-hidden="true" style="visibility:hidden;"></i></span>';
+                                //     $('.variantName').append(html);
+                                // }
+                                layer.closeAll();
+
+                            }
+                            , cancel: function () {
+                                //右上角关闭回调
+
+                                //return false 开启该代码可禁止点击该按钮关闭
+                            },
+                            content: '<div id="addVariant" class="tankuang" style="display: show;">\n' +
+                                '<h3>\n' +
+                                '添加变体\n' +
+                                '</h3>\n' +
+                                '<div>\n' +
+                                '<label for="">\n' +
+                                '变体名称\n' +
+                                '</label>\n' +
+                                '<select name="" id="variantName" placeholder="变体名称" onchange="gai()">\n' +
+                                '<option id ="color" value="0">\n' +
+                                '颜色（color）\n' +
+                                '</option>\n' +
+                                '<option id ="size" value="1">\n' +
+                                '尺寸（sizeNam）\n' +
+                                '</option>\n' +
+                                '</select>\n' +
+                                '</div>\n' +
+                                '<div>\n' +
+                                '<label for="">\n' +
+                                '变体值:(多个值用逗号隔开如:red,white,black)\n' +
+                                '</label>\n' +
+                                '<textarea name="" id="variantType" placeholder="变体名称" class="variantType" onchange="changeVarType()">\n' +
+                                '</textarea>\n' +
+                                '</div>\n' +
+                                '<div>\n' +
+                                '<label for="">\n' +
+                                '推荐：\n' +
+                                '</label>\n' +
+                                '<div id="tihuan">' +
+                                '<span data-val="Beige" onclick="addText(\'Beige\',1);">\n' +
+                                '米色\n' +
+                                '</span>\n' +
+                                '<span data-val="Black" onclick="addText(\'Black\',1);">\n' +
+                                '黑色\n' +
+                                '</span>\n' +
+                                '\<span data-val="Blue" onclick="addText(\'Blue\',1);">\n' +
+                                '蓝色\n' +
+                                '</span>\n' +
+                                '<span data-val="Bronze" onclick="addText(\'Bronze\',1);">\n' +
+                                '青铜\n' +
+                                '</span>\n' +
+                                '<span data-val="Brown" onclick="addText(\'Brown\',1);">\n' +
+                                '棕色\n' +
+                                '</span>\n' +
+                                '<span data-val="Clear" onclick="addText(\'Clear\',1);">\n' +
+                                '明确\n' +
+                                '</span>\n' +
+                                '<span data-val="Copper" onclick="addText(\'Copper\',1);">\n' +
+                                '铜\n' +
+                                '</span>\n' +
+                                '<span data-val="Cream" onclick="addText(\'Cream\',1);">\n' +
+                                '奶油\n' +
+                                '</span>\n' +
+                                '<span data-val="Gold" onclick="addText(\'Gold\',1);">\n' +
+                                '金\n' +
+                                '</span>\n' +
+                                '<span data-val="Green" onclick="addText(\'Green\',1);">\n' +
+                                '绿色\n' +
+                                '</span>\n' +
+                                '<span data-val="Grey" onclick="addText(\'Grey\',1);">\n' +
+                                '灰色\n' +
+                                '</span>\n' +
+                                '<span data-val="Metallic" onclick="addText(\'Grey\',1);">\n' +
+                                '金属\n' +
+                                '</span>\n' +
+                                '<span data-val="Multi-colored" onclick="addText(\'Multi-colored\',1);">\n' +
+                                '多色\n' +
+                                '</span>\n' +
+                                '<span data-val="Orange" onclick="addText(\'Orange\',1);">\n' +
+                                '橙子\n' +
+                                '</span>\n' +
+                                '<span data-val="Pink" onclick="addText(\'Pink\',1);">\n' +
+                                '粉\n' +
+                                '</span>\n' +
+                                '<span data-val="Purple" onclick="addText(\'Purple\',1);">\n' +
+                                '紫色\n' +
+                                '</span>\n' +
+                                '<span data-val="Red" onclick="addText(\'Red\',1);">\n' +
+                                '红\n' +
+                                '</span>\n' +
+                                '<span data-val="Silver" onclick="addText(\'Silver\',1);">\n' +
+                                '银\n' +
+                                '</span>\n' +
+                                '<span data-val="White" onclick="addText(\'White\',1);">\n' +
+                                ' 白色\n' +
+                                '</span>\n' +
+                                '<span data-val="Yellow" onclick="addText(\'Yellow\',1);">\n' +
+                                '黄色\n' +
+                                '</span>\n' +
+                                '\n' +
+                                '</div>\n' +
+                                '</div>'
+                        });
+                    });
+
+                    function gai() {
+                        var size = $("#size").val();
+                        // textArr = [];
+                        $('#variantType').text('');
+                        if (size == 1) {
+                            var size = $("#size").val(2);
+                            $("#tihuan").html(
+                                '<span data-val="OneSize" onclick="addText(\'OneSize\',2);">\n' +
+                                '均码\n' +
+                                '</span>\n' +
+                                '<span data-val="L" onclick="addText(\'L\',2);">\n' +
+                                'L\n' +
+                                '</span>\n' +
+                                '\<span data-val="XL" onclick="addText(\'XL\',2);">\n' +
+                                'XL\n' +
+                                '</span>\n' +
+                                '<span data-val="XXL" onclick="addText(\'XXL\',2);">\n' +
+                                'XXL\n' +
+                                '</span>\n' +
+                                '<span data-val="XXXL" onclick="addText(\'XXXL\',2);">\n' +
+                                'XXXL\n' +
+                                '</span>\n' +
+                                '<span data-val="XXXXL" onclick="addText(\'XXXXL\',2);">\n' +
+                                'XXXXL\n' +
+                                '</span>\n')
+                        } else {
+                            var size = $("#size").val(1);
+                            $("#tihuan").html(
+                                '<span data-val="Beige" onclick="addText(\'Beige\',1);">\n' +
+                                '米色\n' +
+                                '</span>\n' +
+                                '<span data-val="Black" onclick="addText(\'Black\',1);">\n' +
+                                '黑色\n' +
+                                '</span>\n' +
+                                '\<span data-val="Blue" onclick="addText(\'Blue\',1);">\n' +
+                                '蓝色\n' +
+                                '</span>\n' +
+                                '<span data-val="Bronze" onclick="addText(\'Bronze\',1);">\n' +
+                                '青铜\n' +
+                                '</span>\n' +
+                                '<span data-val="Brown" onclick="addText(\'Brown\',1);">\n' +
+                                '棕色\n' +
+                                '</span>\n' +
+                                '<span data-val="Clear" onclick="addText(\'Clear\',1);">\n' +
+                                '明确\n' +
+                                '</span>\n' +
+                                '<span data-val="Copper" onclick="addText(\'Copper\',1);">\n' +
+                                '铜\n' +
+                                '</span>\n' +
+                                '<span data-val="Cream" onclick="addText(\'Cream\',1);">\n' +
+                                '奶油\n' +
+                                '</span>\n' +
+                                '<span data-val="Gold" onclick="addText(\'Gold\',1);">\n' +
+                                '金\n' +
+                                '</span>\n' +
+                                '<span data-val="Green" onclick="addText(\'Green\',1);">\n' +
+                                '绿色\n' +
+                                '</span>\n' +
+                                '<span data-val="Grey" onclick="addText(\'Grey\',1);">\n' +
+                                '灰色\n' +
+                                '</span>\n' +
+                                '<span data-val="Metallic" onclick="addText(\'Grey\',1);">\n' +
+                                '金属\n' +
+                                '</span>\n' +
+                                '<span data-val="Multi-colored" onclick="addText(\'Multi-colored\',1);">\n' +
+                                '多色\n' +
+                                '</span>\n' +
+                                '<span data-val="Orange" onclick="addText(\'Orange\',1);">\n' +
+                                '橙子\n' +
+                                '</span>\n' +
+                                '<span data-val="Pink" onclick="addText(\'Pink\',1);">\n' +
+                                '粉\n' +
+                                '</span>\n' +
+                                '<span data-val="Purple" onclick="addText(\'Purple\',1);">\n' +
+                                '紫色\n' +
+                                '</span>\n' +
+                                '<span data-val="Red" onclick="addText(\'Red\',1);">\n' +
+                                '红\n' +
+                                '</span>\n' +
+                                '<span data-val="Silver" onclick="addText(\'Silver\',1);">\n' +
+                                '银\n' +
+                                '</span>\n' +
+                                '<span data-val="White" onclick="addText(\'White\',1);">\n' +
+                                ' 白色\n' +
+                                '</span>\n' +
+                                '<span data-val="Yellow" onclick="addText(\'Yellow\',1);">\n' +
+                                '黄色\n' +
+                                '</span>\n')
+                        }
+
+
+                    }
+
+
+                    // 点击添加变体信息
+
+                    $(function () {
+                        $("#tihuan span [data-val='1']").css('backgroundColor:red');
+                    });
+                    var textArr = [];
+                    var textArr1 = [];
+                    function addText(value,type) {
+
+                        if(type == 1){
+                            textArr.push(value);
+                            var textString = textArr.join(',');
+                        }else{
+                            textArr1.push(value);
+                            var textString = textArr1.join(',');
+                        }
+                        if($('#variantType').val()!=""){
+                            var text = ","+value;
+                        }else{
+                            var text = value;
+                        }
+
+                       $('#variantType').append(text);
+
+
+
+                    }
+
+
+
+                    $('#tihuan').on('click', function () {
+                        // console.log($(event.target).text());
+
+                        var _text = $('textarea.variantType').eq(1).val();
+                        if (_text != '') {
+                            _text += ',' + $(event.target).attr('data-val');
+                        } else {
+                            _text += $(event.target).attr('data-val');
+                        }
+                        $('textarea.variantType').val(_text);
+                    })
+                    // 选择图片
+                    $("#specif_content").on("click",".chan",function(){
+                        $(this).parent().parent().addClass("select").siblings().removeClass("select");
+                        var imgPath = [];
+                        var imagepath = $('#imagepath').val()
+                       if(typeof imagepath == "undefined" || imagepath == null || imagepath == ""){
+                           alert('请先上传产品图片');
+                           return;
+                       }
+                        $('#imgAdd').show()
+                        imgPath = imagepath.split(',')
+                        var imgHtml = '';
+                        $('.proStationUl').html('')
+                        for(var i=0;i<imgPath.length;i++){
+                            imgHtml+="<li class='imgLi' data-url="+imgPath[i]+">"
+                            imgHtml+= " <img src="+imgPath[i]+">"
+                            imgHtml+= "</li>";
+                        }
+                        $('.proStationUl').html(imgHtml)
+                        // console.log(imgPath)
+                    })
+                    //选中图片
+                    $('.proStationUl').on("click",".imgLi",function(){
+                        $(this).toggleClass("action");
+                    })
+                    //确定添加图片
+                    $("#selectAdd").click(function(){
+                        $('#imgAdd').hide()
+                        //获取选中图片
+                        var action = $("li").hasClass('action')
+                        var imgAction = '';
+                        var imgUl ="";
+                        $("li.action").each(function(){
+                                imgAction+=$(this).attr('data-url')+",";
+                                $('tr.select').find(".imgAction").val(imgAction)
+                                imgUl+="<li data-url="+$(this).attr('data-url')+" data-index='0' style='list-style: none;float: left'>"
+                                imgUl+="<img src="+$(this).attr('data-url')+" data-url="+$(this).attr('data-url')+" style='width: 50px;height: 50px'>"
+                                imgUl+="<i class='layui-icon layui-icon-close-fill'></i>"
+                                imgUl+="</li>"
+                            });
+                        $('tr.select').find(".ul").html('')
+                        $('tr.select').find(".ul").html(imgUl)
+
+                    })
+                    //一键添加图片
+                    $("#specif_content").on("click",".all",function(){
+                        $(this).parent().parent().addClass("select").siblings().removeClass("select");
+                        var imagepath = $('#imagepath').val()
+                        if(typeof imagepath == "undefined" || imagepath == null || imagepath == ""){
+                            alert('请先上传产品图片');
+                            return;
+                        }
+                        var imagepath = $('#imagepath').val()
+                            imgArray = imagepath.split(',')
+                             var imgUl ="";
+                            var imgAction = '';
+                            console.log(imgArray)
+                            for(var i=0;i<imgArray.length;i++){
+                                imgAction+=imgArray[i]+",";
+                                imgUl+="<li data-url="+imgArray[i]+" data-index='0' style='list-style: none;float: left'>"
+                                imgUl+="<img src="+imgArray[i]+" data-url="+imgArray[i]+" style='width: 50px;height: 50px'>"
+                                imgUl+="<i class='layui-icon layui-icon-close-fill'></i>"
+                                imgUl+="</li>"
+                            }
+                        $('tr.select').find(".imgAction").val(imgAction)
+                        $(this).parent().parent().find(".ul").html('')
+                        $(this).parent().parent().find(".ul").html(imgUl)
+                    })
+                    //取消添加图片
+                    $('.selectCancle').click(function(){
+                        $('#imgAdd').hide()
+                    })
+
+                </script>
+
+                <style>
+                    .ul1 {
+                        width: 100%;
+                        position: relative;
+                        /*margin: 10px auto;*/
+                        /*overflow: hidden;*/
+                        /*height: 100px;*/
+                    }
+
+                    .ul1 li {
+                        width: 50px;
+                        height: 50px;
+                        float: left;
+                        /*overflow: hidden;*/
+                        list-style: none;
+                        margin: 10px;
+                        position: relative;
+                    }
+
+                    .ul1 li img {
+                        width: 100%;
+                        max-height: 100%;
+                        box-shadow: 0 0 10px #ddd;
+                    }
+
+                    .ul1 li i {
+                        position: absolute;
+                        top: -15px;
+                        left: 45px;
+                        color: #00a3e8;
+                        cursor: pointer;
+                        display: none;
+                    }
+
+                    .ul1 li:hover {
+                        border-color: #9a9fa4;
+                        box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.85);
+                    }
+
+                    .ul1 .active {
+                        border: 1px dashed red;
+                    }
+
+                    form .item div:nth-child(2) .imgDiv > div:hover {
+                        /*border: 2px solid #00a3e8;*/
+                        box-shadow: 0 0 10px #888;
+                    }
+
+                    form .item div:nth-child(2) .imgDiv > div.active {
+                        border: 2px solid #00a3e8;
+                        box-shadow: 0 0 10px #888;
+                    }
+
+                    #demo > form:nth-child(2) {
+                        display: none;
+                    }
+
+                    #moveSelected1 {
+                        position: absolute;
+                        background-color: #89d2ff;
+                        opacity: 0.3;
+                        border: 1px dashed #d9d9d9;
+                        top: 0;
+                        left: 0;
+                    }
+
+                </style>
+                <!--变体模块结尾-->
+
+                <ul class="nav nav-tabs" id="myTab" style="width: 76%;margin: 0 auto;">
+                    <li class="active">
+                        <a data-toggle="tab" href="#zh">
+                            中文
+                        </a>
+                    </li>
+
+                    <li>
+                        <a data-toggle="tab" href="#en">
+                            英语
+                        </a>
+                    </li>
+
+                    <li>
+                        <a data-toggle="tab" href="#fr">
+                            法语
+                        </a>
+                    </li>
+                    <li>
+                        <a data-toggle="tab" href="#dy">
+                            德语
+                        </a>
+                    </li>
+                    <li>
+                        <a data-toggle="tab" href="#ydl">
+                            意大利语
+                        </a>
+                    </li>
+                    <li>
+                        <a data-toggle="tab" href="#xby">
+                            西班牙语
+                        </a>
+                    </li>
+                    <li>
+                        <a data-toggle="tab" href="#ry">
+                            日语
+                        </a>
+                    </li>
+                </ul>
+
+                <div class="space-4"></div>
+                <div class="space-4"></div>
+                <style>
+                    .fade {
+                        display: none;
+                    }
+
+                    .active {
+                        display: block;
+                    }
+                </style>
+                <script type="text/javascript">
+                    //首字母大写
+                    function titleCase(str) {
+                        var temp = [];
+                        str = $('#title_zh').val();
+
+                        str = str.toLowerCase();//全部转换为小写
+                        temp = str.split(" ");//分割存入数组
+                        for (var i = 0; i < temp.length; i++) {
+                            var str_temp = temp[i].charAt(0);//获取首字母
+                            str_temp = str_temp.toUpperCase();//转换为大写
+                            temp[i] = temp[i].replace(temp[i].charAt(0), str_temp);//将首字母变换
+                        }
+                        str = temp.join(" ");
+                        $('#title_zh').val(str);
+                        //return str;
+                    }
+
+                </script>
+                <script>
+                    window.onload = function () {
+                        //获取文本内容和长度函数
+                        function txtCount(el) {
+                            var val = el.value;
+                            var eLen = val.length;
+                            return eLen;
+                        }
+
+                        var el = document.getElementById('title_zh');
+                        el.addEventListener('input', function () {
+                            var len = txtCount(this); //   调用函数
+                            document.getElementById('textCount').innerHTML = len;
+                        });
+
+                        var el = document.getElementById('keyword_zh');
+                        el.addEventListener('input', function () {
+                            var len = txtCount(this); //   调用函数
+                            document.getElementById('textCount_gjc').innerHTML = len;
+                        });
+
+
+                    }
+
+                </script>
+                <div id="zh" class="tab-pane fade in active">
+                    <!--<button class="btn btn-info" type="button" style="margin-left:200px;margin-bottom: 20px;" onclick="titleCase('title_zh')">
+
+                        首字母大写
+                    </button>-->
+                    <!---中文内容-->
+                    <div id="loading"></div>
+                    <style>
+                        #loading {
+                            text-align: center;
+                            position: absolute;
+                            left: 50%;
+                            top: 50%;
+                            transform: translate(-50%, -50%);
+                        }
+                    </style>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 标题：(<span id="textCount">0</span>/<span style="color:red;">200</span>)
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1">
+                            <button class="btn btn-info" type="button" style="margin-left:20px;margin-bottom: 20px;"
+                                    onclick="fanyi('zhtitle')">一键翻译
+                            </button>
+                        </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="title_zh" cols="20" rows="2" maxlength="200o"
+                                      class="col-xs-10 col-sm-8 limitedone" id="title_zh"
+                                      style="margin: 0px; height: 80px; width: 800px;" placeholder="标题"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 关键字：(<span id="textCount_gjc">0</span>/<span
+                                style="color:red;">250</span>)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1">
+                            <button class="btn btn-info" type="button" style="margin-left:20px;margin-bottom: 20px;"
+                                    onclick="fanyi('zhkey')">一键翻译
+                            </button>
+                        </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="keyword_zh" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="keyword_zh" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="关键字"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 要点：</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1">
+                            <button class="btn btn-info" type="button" style="margin-left:20px;margin-bottom: 20px;"
+                                    onclick="fanyi('zhpot')">一键翻译
+                            </button>
+                        </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="keypotins_zh" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="keypotins_zh" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="要点说明不超过5行"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">描述：</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1">
+                            <button class="btn btn-info" type="button" style="margin-left:20px;margin-bottom: 20px;"
+                                    onclick="fanyi('zhdes')">一键翻译
+                            </button>
+                        </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="description_zh" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="description_zh" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="描述"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                </div>
+
+                <!---英文内容-->
+                <div id="en" class="tab-pane fade">
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 标题：(<span id="textCount_en">0</span>/<span style="color:red;">200</span>)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1">
+                            <button class="btn btn-info" type="button" style="margin-left:20px;margin-bottom: 20px;"
+                                    onclick="fanyi('entitle')">一键翻译
+                            </button>
+                        </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="title_en" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="title_en" style="margin: 0px; height: 80px; width: 800px;"
+                                      placeholder="标题"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 关键字：(<span id="textCount_gjc_en">0</span>/<span
+                                style="color:red;">250</span>)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1">
+                            <button class="btn btn-info" type="button" style="margin-left:20px;margin-bottom: 20px;"
+                                    onclick="fanyi('enkey')">一键翻译
+                            </button>
+                        </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="keyword_en" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="keyword_en" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="关键字"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 要点：</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1">
+                            <button class="btn btn-info" type="button" style="margin-left:20px;margin-bottom: 20px;"
+                                    onclick="fanyi('enpot')">一键翻译
+                            </button>
+                        </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="keypotins_en" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="keypotins_en" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="要点说明不超过5行"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">描述：</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1">
+                            <button class="btn btn-info" type="button" style="margin-left:20px;margin-bottom: 20px;"
+                                    onclick="fanyi('endes')">一键翻译
+                            </button>
+                        </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="description_en" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="description_en" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="描述"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                </div>
+
+
+                <div id="fr" class="tab-pane fade">
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 标题：(<span id="textCount_fra">0</span>/<span
+                                style="color:red;">200</span>)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="title_fra" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="title_fra" style="margin: 0px; height: 80px; width: 800px;"
+                                      placeholder="标题"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 关键字：(<span id="textCount_gjc_fra">0</span>/<span
+                                style="color:red;">250</span>)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="keyword_fra" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="keyword_fra" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="关键字"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 要点：</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="keypotins_fra" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="keypotins_fra" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="要点说明不超过5行"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">描述：</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="description_fra" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="description_fra" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="描述"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                </div>
+
+
+                <div id="dy" class="tab-pane fade">
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 标题：(<span id="textCount_de">0</span>/<span style="color:red;">200</span>)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="title_de" id="title_de" cols="20" rows="2"
+                                      class="col-xs-10 col-sm-8 limitedone"
+                                      style="margin: 0px; height: 80px; width: 800px;" placeholder="标题"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 关键字：(<span id="textCount_gjc_de">0</span>/<span
+                                style="color:red;">250</span>)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="keyword_de" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="keyword_de" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="关键字"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 要点：</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="keypotins_de" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="keypotins_de" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="要点说明不超过5行"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">描述：</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="description_de" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="description_de" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="描述"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                </div>
+
+                <div id="ydl" class="tab-pane fade">
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 标题：(<span id="textCount_it">0</span>/<span style="color:red;">200</span>)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="title_it" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="title_it" style="margin: 0px; height: 80px; width: 800px;"
+                                      placeholder="标题"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 关键字：(<span id="textCount_gjc_it">0</span>/<span
+                                style="color:red;">250</span>)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="keyword_it" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="keyword_it" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="关键字"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 要点：</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="keypotins_it" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="keypotins_it" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="要点说明不超过5行"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">描述：</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="description_it" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="description_it" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="描述"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                </div>
+
+
+                <div id="xby" class="tab-pane fade">
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 标题：(<span id="textCount_es">0</span>/<span style="color:red;">200</span>)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="title_es" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="title_es" style="margin: 0px; height: 80px; width: 800px;"
+                                      placeholder="标题"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 关键字：(<span id="textCount_gjc_es">0</span>/<span
+                                style="color:red;">250</span>)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="keyword_es" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="keyword_es" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="关键字"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 要点：</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="keypotins_es" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="keypotins_es" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="要点说明不超过5行"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">描述：</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="description_es" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="description_es" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="描述"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                </div>
+
+
+                <div id="ry" class="tab-pane fade">
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 标题：(<span id="textCount_jp">0</span>/<span style="color:red;">200</span>)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="title_jp" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="title_jp" style="margin: 0px; height: 80px; width: 800px;"
+                                      placeholder="标题"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 关键字：(<span id="textCount_gjc_jp">0</span>/<span
+                                style="color:red;">250</span>)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="keyword_jp" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="keyword_jp" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="关键字"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10"> 要点：</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="keypotins_jp" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="keypotins_jp" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="要点说明不超过5行"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">描述：</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label no-padding-right" for="form-field-1"> </label>
+                        <div class="col-sm-10">
+
+                            <textarea name="description_jp" cols="20" rows="2" class="col-xs-10 col-sm-8 limitedone"
+                                      id="description_jp" style="margin: 0px; height: 100px; width: 800px;"
+                                      placeholder="描述"></textarea>
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                </div>
+
+
+                <div class="clearfix form-actions">
+                    <div class="col-md-offset-3 col-md-9">
+                        <input class="ace ace-checkbox-2" name="continue" type="checkbox" value="1">
+                        <span class="lbl"> 发布后继续</span>
+                        <button class="btn btn-info" type="submit">
+                            <i class="ace-icon fa fa-check bigger-110"></i>
+                            保存
+                        </button>
+
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+</div><!-- /.page-content -->
+{/block}
+{block name="scripts"}
+<script>
+    function fanyi(obj) {
+
+        if (obj == 'zhtitle') {
+            var title = $("#title_zh").val();
+            if(title == ''){
+                layer.msg('请输入要翻译的内容');
+                return false;
+            }
+            var yuzhong = 'zh';
+            var zhi = 1;
+        }
+        if (obj == 'entitle') {
+            var title = $("#title_en").val();
+            if(title == ''){
+                layer.msg('请输入要翻译的内容');
+                return false;
+            }
+            var yuzhong = 'en';
+            var zhi = 1;
+        }
+        if (obj == 'zhkey') {
+            var keyword = $("#keyword_zh").val();
+            if(keyword == ''){
+                layer.msg('请输入要翻译的内容');
+                return false;
+            }
+            var yuzhong = 'zh';
+            var zhi = 2;
+        }
+        if (obj == 'enkey') {
+            var keyword = $("#keyword_en").val();
+            if(keyword == ''){
+                layer.msg('请输入要翻译的内容');
+                return false;
+            }
+            var yuzhong = 'en';
+            var zhi = 2;
+        }
+        if (obj == 'zhpot') {
+            var keypotins = $("#keypotins_zh").val();
+            if(keypotins == ''){
+                layer.msg('请输入要翻译的内容');
+                return false;
+            }
+            var yuzhong = 'zh';
+            var zhi = 3;
+        }
+        if (obj == 'enpot') {
+            var keypotins = $("#keypotins_en").val();
+            if(keypotins == ''){
+                layer.msg('请输入要翻译的内容');
+                return false;
+            }
+            var yuzhong = 'en';
+            var zhi = 3;
+        }
+        if (obj == 'zhdes') {
+            var description = $("#description_zh").val();
+            if(description == ''){
+                layer.msg('请输入要翻译的内容');
+                return false;
+            }
+            var yuzhong = 'zh';
+            var zhi = 4;
+        }
+        if (obj == 'endes') {
+            var description = $("#description_en").val();
+            if(description == ''){
+                layer.msg('请输入要翻译的内容');
+                return false;
+            }
+            var yuzhong = 'en';
+            var zhi = 4;
+        }
+        var index1 = layer.load(1, {
+            shade: [0.1,'#fff'] //0.1透明度的白色背景
+        });
+        $.ajax({
+            url: "{:url(\'admin/Product/product_translationguge\')}",
+            type: 'post',
+            data: {
+                title: title,
+                keyword: keyword,
+                keypotins: keypotins,
+                description: description,
+                yuzhong: yuzhong,
+                zhi: zhi
+            },
+            dataType: 'json',
+            beforeSend: function (XMLHttpRequest) {
+
+            },
+            success: function (result) {
+
+                if (result) {
+                    layer.close(index1);
+                    layer.msg('翻译成功');
+                    if (result.lx == 1) {
+
+
+                        $("#title_en").text(result.en);
+                        $("#textCount_en").html(result.en.length);
+
+                        $("#title_fra").html(result.fr);
+                        $("#textCount_fra").html(result.fr.length);
+
+                        $("#title_de").html(result.de);
+                        $("#textCount_de").html(result.de.length);
+
+                        $("#title_it").html(result.it);
+                        $("#textCount_it").html(result.it.length);
+
+                        $("#title_es").html(result.es);
+                        $("#textCount_es").html(result.es.length);
+
+                        $("#title_jp").html(result.ja);
+                        $("#textCount_jp").html(result.ja.length);
+                    }
+                    if (result.lx == 2) {
+
+
+                        $("#keyword_en").html(result.en);
+                        $("#textCount_gjc_en").html(result.en.length);
+
+                        $("#keyword_fra").html(result.fr);
+                        $("#textCount_gjc_fra").html(result.fr.length);
+
+                        $("#keyword_de").html(result.de);
+                        $("#textCount_gjc_de").html(result.de.length);
+
+                        $("#keyword_it").html(result.it);
+                        $("#textCount_gjc_it").html(result.it.length);
+
+                        $("#keyword_es").html(result.es);
+                        $("#textCount_gjc_es").html(result.es.length);
+
+                        $("#keyword_jp").html(result.ja);
+                        $("#textCount_gjc_jp").html(result.ja.length);
+                    }
+                    if (result.lx == 3) {
+                        $("#keypotins_en").html(result.en);
+                        $("#keypotins_fra").html(result.fr);
+                        $("#keypotins_de").html(result.de);
+                        $("#keypotins_it").html(result.it);
+                        $("#keypotins_es").html(result.es);
+                        $("#keypotins_jp").html(result.ja);
+                    }
+                    if (result.lx == 4) {
+                        $("#description_en").html(result.en);
+                        $("#description_fra").html(result.fr);
+                        $("#description_de").html(result.de);
+                        $("#description_it").html(result.it);
+                        $("#description_es").html(result.es);
+                        $("#description_jp").html(result.ja);
+                    }
+
+
+
+                }
+
+            }
+
+        },"josn")
+    }
+
+</script>
+
+<script>
+    //多图设置
+    //$("#pic_list").hide();
+    $("#news_pic_list").click(function () {
+        $("#pic_list").hide();
+    });
+    $("#news_pic_qqlist").click(function () {
+        $("#pic_list").show();
+    });
+    //跳转额外属性
+    $("#pptaddress").hide();
+    $("#news_flag_vaj").click(function () {
+        $("#pptaddress").toggle(400);
+    });
+    $("#cpprice").hide();
+    $("#news_flag_vacp").click(function () {
+        $("#cpprice").toggle(400);
+    });
+    $('.date-picker').datepicker({
+        autoclose: true,
+        todayHighlight: true,
+        language: 'zh-CN',
+    })
+
+
+    //鼠标的移入移出
+    $(".header").mouseover(function () {
+        $(".content").show();
+    }).mouseout(function () {
+        $(".content").hide();
+    });
+</script>
+{/block}

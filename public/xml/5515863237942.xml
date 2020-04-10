@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AEVNUXOBWGAO5</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>LDLL-551586242640-0</SKU>
+      <StandardPrice currency="CAD">22.99</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>LDLL-551586242640-1</SKU>
+      <StandardPrice currency="CAD">22.99</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <Price>
+      <SKU>LDLL-551586242841-0</SKU>
+      <StandardPrice currency="CAD">42.07</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <Price>
+      <SKU>LDLL-551586242841-1</SKU>
+      <StandardPrice currency="CAD">51.85</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <Price>
+      <SKU>LDLL-551586242841-2</SKU>
+      <StandardPrice currency="CAD">55.77</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <Price>
+      <SKU>LDLL-551586243271-0</SKU>
+      <StandardPrice currency="CAD">35.71</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <Price>
+      <SKU>LDLL-551586243439-0</SKU>
+      <StandardPrice currency="CAD">43.05</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <Price>
+      <SKU>LDLL-551586243809-0</SKU>
+      <StandardPrice currency="CAD">64.58</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <Price>
+      <SKU>LDLL-551586243957-0</SKU>
+      <StandardPrice currency="CAD">60.67</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <Price>
+      <SKU>LDLL-551586242640</SKU>
+      <StandardPrice currency="CAD">22.99</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <Price>
+      <SKU>LDLL-551586242841</SKU>
+      <StandardPrice currency="CAD">42.07</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <Price>
+      <SKU>LDLL-551586243271</SKU>
+      <StandardPrice currency="CAD">35.71</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>13</MessageID>
+    <Price>
+      <SKU>LDLL-551586243439</SKU>
+      <StandardPrice currency="CAD">43.05</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <Price>
+      <SKU>LDLL-551586243809</SKU>
+      <StandardPrice currency="CAD">64.58</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>15</MessageID>
+    <Price>
+      <SKU>LDLL-551586243957</SKU>
+      <StandardPrice currency="CAD">60.67</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

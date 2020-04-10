@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>AEVNUXOBWGAO5</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>56792018359</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>133</MessagesProcessed>
+				<MessagesSuccessful>127</MessagesSuccessful>
+				<MessagesWithError>6</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>111</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8e6mmzs_1zicagm11hc15e81a7013fd9c.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LDLL-551585555190</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>119</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8h1l4mw_4929370e29hf5e844a8388a53.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LDLL-551585728120</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>15</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8e4azf4_1uh3jxjrp0w25e8197c23b5bb.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LDLL-551585551283-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>86</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8jud3w0_46zupkj4avue5e86dfb686cca.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LDLL-551585897387-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>91</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8jud3w0_23i2htu5vfzq5e86dfb64369a.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LDLL-551585897387-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>99</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8e4aync_7gvc46j42xtt5e8197c1f004c.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LDLL-551585551283</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

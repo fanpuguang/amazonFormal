@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>AVOBD5045TVT6</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>51781018359</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>14</MessagesProcessed>
+				<MessagesSuccessful>10</MessagesSuccessful>
+				<MessagesWithError>4</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>4</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8541</ResultMessageCode>
+				<ResultDescription>The SKU data provided is different from what&apos;s already in the Amazon catalog. The standard_product_id data provided matches ASIN B07Q33SR3C, but the following data is different from what&apos;s already in the Amazon catalog: color (Merchant: &apos;White&apos; / Amazon: &apos;As Picture&apos;). If this is the right ASIN for your product, update your data to match what&apos;s in the Amazon catalog. If it&apos;s not the right ASIN, make sure that your data for standard_product_id is correct. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521585820217-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>5</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8541</ResultMessageCode>
+				<ResultDescription>The SKU data provided is different from what&apos;s already in the Amazon catalog. The standard_product_id data provided matches ASIN B07Q8J4STN, but the following data is different from what&apos;s already in the Amazon catalog: color (Merchant: &apos;White&apos; / Amazon: &apos;As Picture&apos;). If this is the right ASIN for your product, update your data to match what&apos;s in the Amazon catalog. If it&apos;s not the right ASIN, make sure that your data for standard_product_id is correct. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521585821092-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>6</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8541</ResultMessageCode>
+				<ResultDescription>The SKU data provided is different from what&apos;s already in the Amazon catalog. The standard_product_id data provided matches ASIN B07Q43RG74, but the following data is different from what&apos;s already in the Amazon catalog: color (Merchant: &apos;White&apos; / Amazon: &apos;As Picture&apos;). If this is the right ASIN for your product, update your data to match what&apos;s in the Amazon catalog. If it&apos;s not the right ASIN, make sure that your data for standard_product_id is correct. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521585822622-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>7</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8541</ResultMessageCode>
+				<ResultDescription>The SKU data provided is different from what&apos;s already in the Amazon catalog. The standard_product_id data provided matches ASIN B07Q7GT7L2, but the following data is different from what&apos;s already in the Amazon catalog: color (Merchant: &apos;Black&apos; / Amazon: &apos;As Picture&apos;). If this is the right ASIN for your product, update your data to match what&apos;s in the Amazon catalog. If it&apos;s not the right ASIN, make sure that your data for standard_product_id is correct. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521585823584-0</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

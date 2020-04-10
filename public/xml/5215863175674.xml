@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Inventory</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Inventory>
+      <SKU>DUYER-521585821092-0-</SKU>
+      <FulfillmentCenterID>DEFAULT</FulfillmentCenterID>
+      <Quantity>169</Quantity>
+      <SwitchFulfillmentTo>MFN</SwitchFulfillmentTo>
+    </Inventory>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Inventory>
+      <SKU>DUYER-521585821092-A</SKU>
+      <FulfillmentCenterID>DEFAULT</FulfillmentCenterID>
+      <Quantity>96</Quantity>
+      <SwitchFulfillmentTo>MFN</SwitchFulfillmentTo>
+    </Inventory>
+  </Message>
+</AmazonEnvelope>

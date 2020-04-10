@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Relationship</MessageType>
+  <PurgeAndReplace>false</PurgeAndReplace>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Relationship>
+      <ParentSKU>LDGHL-571585885331</ParentSKU>
+      <Relation>
+        <SKU>LDGHL-571585885331-0</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>LDGHL-571585885331-1</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>LDGHL-571585885331-2</SKU>
+        <Type>Variation</Type>
+      </Relation>
+    </Relationship>
+  </Message>
+</AmazonEnvelope>

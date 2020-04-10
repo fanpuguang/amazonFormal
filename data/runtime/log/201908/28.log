@@ -1,0 +1,3201 @@
+---------------------------------------------------------------
+[ 2019-08-28T10:02:59+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin
+[ info ] www.ldkjmy.com/yamaxun/admin [运行时间：2.061842s][吞吐率：0.49req/s] [内存消耗：5,171.26kb] [文件加载：81]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; yf_logged_user=z2NZIW5Vg3ezaVLRP; __51cke__=; __tins__20025213=%7B%22sid%22%3A%201566957503432%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566959303806%7D; __51laig__=2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.124910s ]
+[ info ] [ RUN ] app\admin\controller\Index->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/index/index.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'news_list',
+  7 => 'news_count',
+  8 => 'members_count',
+  9 => 'sugs_count',
+  10 => 'coms_count',
+  11 => 'tonews_count',
+  12 => 'ztnews_count',
+  13 => 'difday',
+  14 => 'tomembers_count',
+  15 => 'ztmembers_count',
+  16 => 'difday_m',
+  17 => 'tosugs_count',
+  18 => 'ztsugs_count',
+  19 => 'difday_s',
+  20 => 'tocoms_count',
+  21 => 'ztcoms_count',
+  22 => 'difday_c',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000332s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_admin` [ RunTime:0.001218s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_admin` WHERE  `admin_id` = 1 LIMIT 1 [ RunTime:0.000230s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_member_list` [ RunTime:0.000678s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_member_list` WHERE  `member_list_id` = 1 LIMIT 1 [ RunTime:0.000164s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.001360s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000676s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = -1 LIMIT 1 [ RunTime:0.000447s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000212s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_news` [ RunTime:0.000922s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_news` WHERE  `news_l` = 'zh-cn' ORDER BY news_hits desc LIMIT 0,10 [ RunTime:0.000276s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_news` LIMIT 1 [ RunTime:0.000138s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_member_list` LIMIT 1 [ RunTime:0.000102s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_sug` [ RunTime:0.000491s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_plug_sug` LIMIT 1 [ RunTime:0.000139s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_comments` [ RunTime:0.000529s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_comments` LIMIT 1 [ RunTime:0.000088s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_news` WHERE  `news_time` BETWEEN 1566921600 AND 1567007999 LIMIT 1 [ RunTime:0.011271s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_news` WHERE  `news_time` BETWEEN 1566835200 AND 1566921599 LIMIT 1 [ RunTime:0.000242s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_member_list` WHERE  `member_list_addtime` BETWEEN 1566921600 AND 1567007999 LIMIT 1 [ RunTime:0.010822s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_member_list` WHERE  `member_list_addtime` BETWEEN 1566835200 AND 1566921599 LIMIT 1 [ RunTime:0.000193s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_plug_sug` WHERE  `plug_sug_addtime` BETWEEN 1566921600 AND 1567007999 LIMIT 1 [ RunTime:0.000173s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_plug_sug` WHERE  `plug_sug_addtime` BETWEEN 1566835200 AND 1566921599 LIMIT 1 [ RunTime:0.000104s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_comments` WHERE  `createtime` BETWEEN 1566921600 AND 1567007999 LIMIT 1 [ RunTime:0.000137s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_comments` WHERE  `createtime` BETWEEN 1566835200 AND 1566921599 LIMIT 1 [ RunTime:0.000110s ]
+[ log ] Cron:clearlog Runat 2019-08-28 10:02:59 Use 0.022138 s
+
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.131858s ]
+---------------------------------------------------------------
+[ 2019-08-28T10:02:59+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.108893s][吞吐率：9.18req/s] [内存消耗：2,518.97kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; __tins__20025213=%7B%22sid%22%3A%201566957503432%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566959303806%7D; __51laig__=2; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T10:03:02+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_list.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_list.html [运行时间：0.237792s][吞吐率：4.21req/s] [内存消耗：5,286.92kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_list',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; __tins__20025213=%7B%22sid%22%3A%201566957503432%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566959303806%7D; __51laig__=2; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001623s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_list[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_list.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'page',
+  7 => 'menu',
+  8 => 'product',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000694s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011389s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000809s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_list' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000194s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000306s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_list'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.010884s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000216s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000186s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_product` [ RunTime:0.001090s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_product` LIMIT 1 [ RunTime:0.000182s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_product` ORDER BY goodsId desc LIMIT 0,10 [ RunTime:0.000193s ]
+---------------------------------------------------------------
+[ 2019-08-28T10:03:02+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.054942s][吞吐率：18.20req/s] [内存消耗：2,519.45kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_list.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; __tins__20025213=%7B%22sid%22%3A%201566957503432%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566959303806%7D; __51laig__=2; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T10:03:34+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_add.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_add.html [运行时间：0.337183s][吞吐率：2.97req/s] [内存消耗：5,087.84kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_list.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; __tins__20025213=%7B%22sid%22%3A%201566957503432%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566959303806%7D; __51laig__=2; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.002026s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_add[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_add.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'menu',
+  7 => 'news_columnid',
+  8 => 'source',
+  9 => 'diyflag',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.011387s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011004s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.023026s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000247s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000381s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000276s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000142s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000242s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_diyflag` [ RunTime:0.000937s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_diyflag` [ RunTime:0.000178s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_source` [ RunTime:0.000600s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_source` [ RunTime:0.000115s ]
+---------------------------------------------------------------
+[ 2019-08-28T10:03:34+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.055971s][吞吐率：17.87req/s] [内存消耗：2,519.45kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; __tins__20025213=%7B%22sid%22%3A%201566957503432%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566959303806%7D; __51laig__=2; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T10:03:34+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/tpsc/images/image.png
+[ info ] www.ldkjmy.com/yamaxun/public/ace/tpsc/images/image.png [运行时间：0.067606s][吞吐率：14.79req/s] [内存消耗：2,519.30kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'tpsc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/public/ace/tpsc/css/demo.css',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; __tins__20025213=%7B%22sid%22%3A%201566957503432%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566959303806%7D; __51laig__=2; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz',
+)
+[ info ] [ PARAM ] array (
+  'images' => 'image.png',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T10:03:34+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/fileinit.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileinit.html [运行时间：0.128997s][吞吐率：7.75req/s] [内存消耗：4,950.96kb] [文件加载：77]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileinit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; __tins__20025213=%7B%22sid%22%3A%201566957503432%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566959303806%7D; __51laig__=2; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001495s ]
+[ info ] [ RUN ] app\common\controller\Common->_empty[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/common/controller/Common.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000622s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010961s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000805s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000174s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000111s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.001983s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000149s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000122s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000154s ]
+---------------------------------------------------------------
+[ 2019-08-28T10:03:35+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_back.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_back.html [运行时间：0.154827s][吞吐率：6.46req/s] [内存消耗：5,154.04kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_back',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; __tins__20025213=%7B%22sid%22%3A%201566957503432%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566959303806%7D; __51laig__=2; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001224s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_back[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000237s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000778s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_back' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000161s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000203s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_back'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000140s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 25 LIMIT 1 [ RunTime:0.000123s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000138s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_product` [ RunTime:0.000666s ]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'news_back' in 'where clause'[/www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/library/think/db/Connection.php:388]
+---------------------------------------------------------------
+[ 2019-08-28T10:03:37+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_add.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_add.html [运行时间：0.157850s][吞吐率：6.34req/s] [内存消耗：5,087.84kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_list.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; __tins__20025213=%7B%22sid%22%3A%201566957503432%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566959303806%7D; __51laig__=2; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.002027s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_add[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_add.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'menu',
+  7 => 'news_columnid',
+  8 => 'source',
+  9 => 'diyflag',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000767s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000375s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.011523s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000261s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000370s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000217s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000147s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000226s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_diyflag` [ RunTime:0.000918s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_diyflag` [ RunTime:0.000157s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_source` [ RunTime:0.000671s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_source` [ RunTime:0.000133s ]
+---------------------------------------------------------------
+[ 2019-08-28T10:03:37+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/fileinit.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileinit.html [运行时间：0.101291s][吞吐率：9.87req/s] [内存消耗：4,950.96kb] [文件加载：77]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileinit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; __tins__20025213=%7B%22sid%22%3A%201566957503432%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566959303806%7D; __51laig__=2; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001663s ]
+[ info ] [ RUN ] app\common\controller\Common->_empty[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/common/controller/Common.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000505s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010737s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000831s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000188s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000127s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000167s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000114s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000097s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000144s ]
+---------------------------------------------------------------
+[ 2019-08-28T10:38:36+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/productclass.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/productclass.html [运行时间：0.464190s][吞吐率：2.15req/s] [内存消耗：5,274.97kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'productclass',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; __tins__20025213=%7B%22sid%22%3A%201566957503432%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566959303806%7D; __51laig__=2; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.019957s ]
+[ info ] [ RUN ] app\admin\controller\Product->productclass[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/productclass.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'page',
+  7 => 'menu',
+  8 => 'product',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.027442s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025137s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.010198s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.004539s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000199s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000513s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000162s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000252s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000374s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_product` [ RunTime:0.007790s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_product` LIMIT 1 [ RunTime:0.002335s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_product` ORDER BY goodsId desc LIMIT 0,10 [ RunTime:0.000267s ]
+---------------------------------------------------------------
+[ 2019-08-28T10:42:45+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/productclass.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/productclass.html [运行时间：0.072889s][吞吐率：13.72req/s] [内存消耗：5,275.29kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'productclass',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566960140369%2C%20%22vd%22%3A%206%2C%20%22expires%22%3A%201566961968171%7D; __51laig__=8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001687s ]
+[ info ] [ RUN ] app\admin\controller\Product->productclass[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/productclass.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'page',
+  7 => 'menu',
+  8 => 'product',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000661s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000273s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000743s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000195s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000142s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000165s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000135s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000115s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000160s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_product` [ RunTime:0.000869s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_product` LIMIT 1 [ RunTime:0.000107s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_product` ORDER BY goodsId desc LIMIT 0,10 [ RunTime:0.000154s ]
+---------------------------------------------------------------
+[ 2019-08-28T10:42:46+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.038977s][吞吐率：25.66req/s] [内存消耗：2,519.23kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/productclass.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566960140369%2C%20%22vd%22%3A%206%2C%20%22expires%22%3A%201566961968171%7D; __51laig__=8',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T10:42:46+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/productclass.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/productclass.html [运行时间：0.064183s][吞吐率：15.58req/s] [内存消耗：5,275.29kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'productclass',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566960140369%2C%20%22vd%22%3A%206%2C%20%22expires%22%3A%201566961968171%7D; __51laig__=8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001414s ]
+[ info ] [ RUN ] app\admin\controller\Product->productclass[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/productclass.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'page',
+  7 => 'menu',
+  8 => 'product',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000556s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000287s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000793s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000135s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000099s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000135s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000113s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000096s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000132s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_product` [ RunTime:0.000672s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_product` LIMIT 1 [ RunTime:0.000095s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_product` ORDER BY goodsId desc LIMIT 0,10 [ RunTime:0.000129s ]
+---------------------------------------------------------------
+[ 2019-08-28T10:42:47+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.030631s][吞吐率：32.65req/s] [内存消耗：2,519.23kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/productclass.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566960140369%2C%20%22vd%22%3A%206%2C%20%22expires%22%3A%201566961968171%7D; __51laig__=8',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T10:42:47+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/productclass.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/productclass.html [运行时间：0.058047s][吞吐率：17.23req/s] [内存消耗：5,275.29kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'productclass',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566960140369%2C%20%22vd%22%3A%206%2C%20%22expires%22%3A%201566961968171%7D; __51laig__=8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001249s ]
+[ info ] [ RUN ] app\admin\controller\Product->productclass[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/productclass.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'page',
+  7 => 'menu',
+  8 => 'product',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000441s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000211s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000784s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000136s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000099s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000145s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000135s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000096s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000128s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_product` [ RunTime:0.000575s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_product` LIMIT 1 [ RunTime:0.000107s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_product` ORDER BY goodsId desc LIMIT 0,10 [ RunTime:0.000127s ]
+---------------------------------------------------------------
+[ 2019-08-28T10:42:47+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.029976s][吞吐率：33.36req/s] [内存消耗：2,519.23kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/productclass.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566960140369%2C%20%22vd%22%3A%206%2C%20%22expires%22%3A%201566961968171%7D; __51laig__=8',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T10:42:48+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/productclass.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/productclass.html [运行时间：0.057407s][吞吐率：17.42req/s] [内存消耗：5,275.29kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'productclass',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566960140369%2C%20%22vd%22%3A%206%2C%20%22expires%22%3A%201566961968171%7D; __51laig__=8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001530s ]
+[ info ] [ RUN ] app\admin\controller\Product->productclass[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/productclass.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'page',
+  7 => 'menu',
+  8 => 'product',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000442s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000253s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000751s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000159s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000132s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000153s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000106s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000092s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000170s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_product` [ RunTime:0.000741s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_product` LIMIT 1 [ RunTime:0.000100s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_product` ORDER BY goodsId desc LIMIT 0,10 [ RunTime:0.000149s ]
+---------------------------------------------------------------
+[ 2019-08-28T10:42:48+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.031661s][吞吐率：31.58req/s] [内存消耗：2,519.23kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/productclass.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566960140369%2C%20%22vd%22%3A%206%2C%20%22expires%22%3A%201566961968171%7D; __51laig__=8',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:21:48+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_add.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_add.html [运行时间：0.071197s][吞吐率：14.05req/s] [内存消耗：5,087.97kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/productclass.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001281s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_add[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_add.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'menu',
+  7 => 'news_columnid',
+  8 => 'source',
+  9 => 'diyflag',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000545s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000186s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000679s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000386s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000406s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000292s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000170s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000287s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_diyflag` [ RunTime:0.002329s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_diyflag` [ RunTime:0.001617s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_source` [ RunTime:0.002373s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_source` [ RunTime:0.001416s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:21:48+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.042622s][吞吐率：23.46req/s] [内存消耗：2,519.23kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:21:48+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/tpsc/images/image.png
+[ info ] www.ldkjmy.com/yamaxun/public/ace/tpsc/images/image.png [运行时间：0.033708s][吞吐率：29.67req/s] [内存消耗：2,519.18kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'tpsc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/public/ace/tpsc/css/demo.css',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'images' => 'image.png',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:21:48+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/fileinit.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileinit.html [运行时间：0.049232s][吞吐率：20.31req/s] [内存消耗：4,950.87kb] [文件加载：77]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileinit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001377s ]
+[ info ] [ RUN ] app\common\controller\Common->_empty[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/common/controller/Common.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000677s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000223s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000665s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000331s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000122s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000347s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000144s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000117s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000143s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:37:09+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_back.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_back.html [运行时间：0.077174s][吞吐率：12.96req/s] [内存消耗：5,154.55kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_back',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.002140s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_back[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000249s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000902s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_back' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000435s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000255s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_back'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000392s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 25 LIMIT 1 [ RunTime:0.000202s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000201s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_product` [ RunTime:0.000995s ]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'news_back' in 'where clause'[/www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/library/think/db/Connection.php:388]
+---------------------------------------------------------------
+[ 2019-08-28T11:37:11+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_add.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_add.html [运行时间：0.258834s][吞吐率：3.86req/s] [内存消耗：5,449.98kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/productclass.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001396s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_add[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_add.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'menu',
+  7 => 'news_columnid',
+  8 => 'source',
+  9 => 'diyflag',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000635s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000302s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000938s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000148s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000249s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000141s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000132s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000137s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_diyflag` [ RunTime:0.000549s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_diyflag` [ RunTime:0.000094s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_source` [ RunTime:0.000466s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_source` [ RunTime:0.000105s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:37:11+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/fileinit.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileinit.html [运行时间：0.059973s][吞吐率：16.67req/s] [内存消耗：4,950.87kb] [文件加载：77]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileinit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001157s ]
+[ info ] [ RUN ] app\common\controller\Common->_empty[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/common/controller/Common.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000514s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000231s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000731s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000140s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000105s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000159s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000111s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000092s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000136s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:37:12+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/productclass.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/productclass.html [运行时间：0.060233s][吞吐率：16.60req/s] [内存消耗：5,275.45kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'productclass',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001272s ]
+[ info ] [ RUN ] app\admin\controller\Product->productclass[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/productclass.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'page',
+  7 => 'menu',
+  8 => 'product',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000507s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000275s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000955s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000169s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000105s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000132s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/productclass'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000105s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000093s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000126s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_product` [ RunTime:0.000643s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_product` LIMIT 1 [ RunTime:0.000111s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_product` ORDER BY goodsId desc LIMIT 0,10 [ RunTime:0.000137s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:37:12+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.210707s][吞吐率：4.75req/s] [内存消耗：2,519.23kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/productclass.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:37:14+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_list.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_list.html [运行时间：0.088770s][吞吐率：11.27req/s] [内存消耗：5,287.14kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_list',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/productclass.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001822s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_list[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_list.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'page',
+  7 => 'menu',
+  8 => 'product',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000630s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000232s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000923s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_list' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000530s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000264s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_list'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000503s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000205s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000186s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_product` [ RunTime:0.000991s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_product` LIMIT 1 [ RunTime:0.000205s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_product` ORDER BY goodsId desc LIMIT 0,10 [ RunTime:0.000201s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:37:14+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.040908s][吞吐率：24.45req/s] [内存消耗：2,519.23kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_list.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:37:14+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_add.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_add.html [运行时间：0.076846s][吞吐率：13.01req/s] [内存消耗：5,087.97kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_list.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.002094s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_add[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_add.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'menu',
+  7 => 'news_columnid',
+  8 => 'source',
+  9 => 'diyflag',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000659s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000860s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000920s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000148s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000298s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000206s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000208s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000221s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_diyflag` [ RunTime:0.000663s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_diyflag` [ RunTime:0.000162s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_source` [ RunTime:0.000519s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_source` [ RunTime:0.000111s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:37:14+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.033588s][吞吐率：29.77req/s] [内存消耗：2,519.23kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:37:14+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/tpsc/images/image.png
+[ info ] www.ldkjmy.com/yamaxun/public/ace/tpsc/images/image.png [运行时间：0.028047s][吞吐率：35.65req/s] [内存消耗：2,519.18kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'tpsc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/public/ace/tpsc/css/demo.css',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'images' => 'image.png',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:37:15+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/fileinit.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileinit.html [运行时间：0.051896s][吞吐率：19.27req/s] [内存消耗：4,950.87kb] [文件加载：77]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileinit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001430s ]
+[ info ] [ RUN ] app\common\controller\Common->_empty[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/common/controller/Common.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000567s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000196s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000801s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000138s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000121s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000152s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000109s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000090s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000124s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:15+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_back.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_back.html [运行时间：0.054081s][吞吐率：18.49req/s] [内存消耗：5,154.55kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_back',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001210s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_back[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000200s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000672s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_back' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000140s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000165s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_back'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000128s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 25 LIMIT 1 [ RunTime:0.000093s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000143s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_product` [ RunTime:0.000642s ]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'news_back' in 'where clause'[/www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/library/think/db/Connection.php:388]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:17+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_add.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_add.html [运行时间：0.062175s][吞吐率：16.08req/s] [内存消耗：5,449.97kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_list.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001224s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_add[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_add.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'menu',
+  7 => 'news_columnid',
+  8 => 'source',
+  9 => 'diyflag',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000485s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000209s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000763s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000146s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000173s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000156s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000100s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000141s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_diyflag` [ RunTime:0.000609s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_diyflag` [ RunTime:0.000120s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_source` [ RunTime:0.000457s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_source` [ RunTime:0.000129s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:17+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/fileinit.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileinit.html [运行时间：0.048984s][吞吐率：20.41req/s] [内存消耗：4,950.87kb] [文件加载：77]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileinit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001248s ]
+[ info ] [ RUN ] app\common\controller\Common->_empty[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/common/controller/Common.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000510s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000192s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000657s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000139s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000141s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000118s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000119s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000096s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000137s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:18+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_add.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_add.html [运行时间：0.067682s][吞吐率：14.77req/s] [内存消耗：5,087.97kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001650s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_add[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_add.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'menu',
+  7 => 'news_columnid',
+  8 => 'source',
+  9 => 'diyflag',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000516s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000276s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000908s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000186s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000266s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000156s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000108s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000147s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_diyflag` [ RunTime:0.000555s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_diyflag` [ RunTime:0.000118s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_source` [ RunTime:0.000401s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_source` [ RunTime:0.000105s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:18+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.031016s][吞吐率：32.24req/s] [内存消耗：2,519.23kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:42:18+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/fileinit.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileinit.html [运行时间：0.056469s][吞吐率：17.71req/s] [内存消耗：4,950.87kb] [文件加载：77]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileinit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001617s ]
+[ info ] [ RUN ] app\common\controller\Common->_empty[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/common/controller/Common.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000505s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000202s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000835s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000182s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000139s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000144s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000144s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000113s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000137s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:19+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_list.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_list.html [运行时间：0.064939s][吞吐率：15.40req/s] [内存消耗：5,287.14kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_list',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001783s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_list[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_list.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'page',
+  7 => 'menu',
+  8 => 'product',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000539s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000248s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000877s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_list' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000190s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000300s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_list'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000188s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000123s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000175s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_product` [ RunTime:0.000768s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_product` LIMIT 1 [ RunTime:0.000140s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_product` ORDER BY goodsId desc LIMIT 0,10 [ RunTime:0.000138s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:19+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.032332s][吞吐率：30.93req/s] [内存消耗：2,519.23kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_list.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:42:21+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_add.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_add.html [运行时间：0.057005s][吞吐率：17.54req/s] [内存消耗：5,087.97kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_list.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001209s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_add[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_add.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'menu',
+  7 => 'news_columnid',
+  8 => 'source',
+  9 => 'diyflag',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000654s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000187s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000746s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000136s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000203s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000121s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000098s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000136s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_diyflag` [ RunTime:0.000520s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_diyflag` [ RunTime:0.000094s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_source` [ RunTime:0.000482s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_source` [ RunTime:0.000116s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:21+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.029693s][吞吐率：33.68req/s] [内存消耗：2,519.23kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:42:21+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/fileinit.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileinit.html [运行时间：0.047083s][吞吐率：21.24req/s] [内存消耗：4,950.87kb] [文件加载：77]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileinit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001433s ]
+[ info ] [ RUN ] app\common\controller\Common->_empty[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/common/controller/Common.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000469s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000185s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000636s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000146s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000102s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000123s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000126s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000096s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000124s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:22+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_list.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_list.html [运行时间：0.058018s][吞吐率：17.24req/s] [内存消耗：5,287.14kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_list',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001280s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_list[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_list.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'page',
+  7 => 'menu',
+  8 => 'product',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000458s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000200s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000714s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_list' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000142s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000239s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_list'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000130s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000107s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000155s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_product` [ RunTime:0.000625s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_product` LIMIT 1 [ RunTime:0.000094s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_product` ORDER BY goodsId desc LIMIT 0,10 [ RunTime:0.000134s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:22+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.033925s][吞吐率：29.48req/s] [内存消耗：2,519.23kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_list.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:42:24+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_add.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_add.html [运行时间：0.065353s][吞吐率：15.30req/s] [内存消耗：5,087.97kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_list.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001349s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_add[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_add.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'menu',
+  7 => 'news_columnid',
+  8 => 'source',
+  9 => 'diyflag',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000469s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000236s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000682s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000134s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000245s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000247s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000129s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000169s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_diyflag` [ RunTime:0.000597s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_diyflag` [ RunTime:0.000136s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_source` [ RunTime:0.000447s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_source` [ RunTime:0.000086s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:24+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.031784s][吞吐率：31.46req/s] [内存消耗：2,519.23kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:42:24+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/tpsc/images/image.png
+[ info ] www.ldkjmy.com/yamaxun/public/ace/tpsc/images/image.png [运行时间：0.028567s][吞吐率：35.01req/s] [内存消耗：2,519.18kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'tpsc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/public/ace/tpsc/css/demo.css',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'images' => 'image.png',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:42:24+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/fileinit.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileinit.html [运行时间：0.053795s][吞吐率：18.59req/s] [内存消耗：4,950.87kb] [文件加载：77]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileinit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001248s ]
+[ info ] [ RUN ] app\common\controller\Common->_empty[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/common/controller/Common.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000477s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000211s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000704s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000169s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000105s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000115s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000125s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000102s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000149s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:36+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/tpsc/images/progress.png
+[ info ] www.ldkjmy.com/yamaxun/public/ace/tpsc/images/progress.png [运行时间：0.062596s][吞吐率：15.98req/s] [内存消耗：2,519.24kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'tpsc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/public/ace/tpsc/css/demo.css',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'images' => 'progress.png',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:42:36+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/tpsc/images/bg.png
+[ info ] www.ldkjmy.com/yamaxun/public/ace/tpsc/images/bg.png [运行时间：0.066681s][吞吐率：15.00req/s] [内存消耗：2,519.15kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'tpsc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/public/ace/tpsc/css/demo.css',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'images' => 'bg.png',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:42:45+08:00 ] 172.21.0.9 183.184.63.60 POST /yamaxun/admin/product/fileupload.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileupload.html [运行时间：0.115593s][吞吐率：8.65req/s] [内存消耗：4,952.06kb] [文件加载：72]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileupload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => '*/*',
+  'origin' => 'http://www.ldkjmy.com',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryi9u6d0fYUOAzmCNY',
+  'content-length' => '35166',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'WU_FILE_0',
+  'name' => 'QQ截图20190827084256.jpg',
+  'type' => 'image/jpeg',
+  'lastModifiedDate' => 'Tue Aug 27 2019 08:43:00 GMT+0800 (中国标准时间)',
+  'size' => '34305',
+  'sort' => '0',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.005538s ]
+[ info ] [ RUN ] app\admin\controller\Product->fileupload[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000193s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.002194s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000390s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.001665s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000469s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.001090s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000114s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000132s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:45+08:00 ] 172.21.0.9 183.184.63.60 POST /yamaxun/admin/product/fileupload.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileupload.html [运行时间：0.121474s][吞吐率：8.23req/s] [内存消耗：4,952.06kb] [文件加载：72]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileupload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => '*/*',
+  'origin' => 'http://www.ldkjmy.com',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryC9ACgaAJm774wo1u',
+  'content-length' => '12807',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'WU_FILE_2',
+  'name' => 'QQ截图20190828094349.jpg',
+  'type' => 'image/jpeg',
+  'lastModifiedDate' => 'Wed Aug 28 2019 09:43:51 GMT+0800 (中国标准时间)',
+  'size' => '11946',
+  'sort' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001413s ]
+[ info ] [ RUN ] app\admin\controller\Product->fileupload[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000212s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000779s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000146s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000103s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000168s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000137s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000101s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000135s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:45+08:00 ] 172.21.0.9 183.184.63.60 POST /yamaxun/admin/product/fileupload.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileupload.html [运行时间：0.140366s][吞吐率：7.12req/s] [内存消耗：4,952.06kb] [文件加载：72]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileupload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => '*/*',
+  'origin' => 'http://www.ldkjmy.com',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryB8BYMedkNcGSOWE3',
+  'content-length' => '49058',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'WU_FILE_1',
+  'name' => 'QQ截图20190827084341.jpg',
+  'type' => 'image/jpeg',
+  'lastModifiedDate' => 'Tue Aug 27 2019 08:43:43 GMT+0800 (中国标准时间)',
+  'size' => '48197',
+  'sort' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001704s ]
+[ info ] [ RUN ] app\admin\controller\Product->fileupload[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000209s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000866s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000183s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000221s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000164s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000139s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000136s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000163s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:45+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/tpsc/images/success.png
+[ info ] www.ldkjmy.com/yamaxun/public/ace/tpsc/images/success.png [运行时间：0.027089s][吞吐率：36.92req/s] [内存消耗：2,519.27kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'tpsc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/public/ace/tpsc/css/demo.css',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'images' => 'success.png',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:42:46+08:00 ] 172.21.0.9 183.184.63.60 POST /yamaxun/admin/product/fileupload.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileupload.html [运行时间：0.073268s][吞吐率：13.65req/s] [内存消耗：4,952.06kb] [文件加载：72]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileupload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => '*/*',
+  'origin' => 'http://www.ldkjmy.com',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary1iPAVnVPKAjqJpxh',
+  'content-length' => '70449',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'WU_FILE_3',
+  'name' => 'QQ截图20190828100734.jpg',
+  'type' => 'image/jpeg',
+  'lastModifiedDate' => 'Wed Aug 28 2019 10:07:36 GMT+0800 (中国标准时间)',
+  'size' => '69588',
+  'sort' => '4',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.002376s ]
+[ info ] [ RUN ] app\admin\controller\Product->fileupload[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000817s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000846s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000607s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000180s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000186s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000154s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000093s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000217s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:46+08:00 ] 172.21.0.9 183.184.63.60 POST /yamaxun/admin/product/fileupload.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileupload.html [运行时间：0.096887s][吞吐率：10.32req/s] [内存消耗：4,952.06kb] [文件加载：72]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileupload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => '*/*',
+  'origin' => 'http://www.ldkjmy.com',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary1BghswUFr7ydr4DS',
+  'content-length' => '67089',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'WU_FILE_4',
+  'name' => 'QQ截图20190828101441.jpg',
+  'type' => 'image/jpeg',
+  'lastModifiedDate' => 'Wed Aug 28 2019 10:14:43 GMT+0800 (中国标准时间)',
+  'size' => '66228',
+  'sort' => '5',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.002322s ]
+[ info ] [ RUN ] app\admin\controller\Product->fileupload[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000204s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.001230s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000153s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000108s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000187s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000109s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000133s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000166s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:42:46+08:00 ] 172.21.0.9 183.184.63.60 POST /yamaxun/admin/product/fileupload.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileupload.html [运行时间：0.071207s][吞吐率：14.04req/s] [内存消耗：4,952.06kb] [文件加载：72]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileupload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => '*/*',
+  'origin' => 'http://www.ldkjmy.com',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary6hc6GmYeVJ07QbiW',
+  'content-length' => '71104',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'WU_FILE_5',
+  'name' => 'QQ截图20190828101626.jpg',
+  'type' => 'image/jpeg',
+  'lastModifiedDate' => 'Wed Aug 28 2019 10:16:28 GMT+0800 (中国标准时间)',
+  'size' => '70243',
+  'sort' => '3',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001689s ]
+[ info ] [ RUN ] app\admin\controller\Product->fileupload[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000209s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000648s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000154s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000105s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000186s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000170s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000127s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000209s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:47:02+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_add.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_add.html [运行时间：0.064942s][吞吐率：15.40req/s] [内存消耗：5,087.97kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001507s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_add[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_add.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'menu',
+  7 => 'news_columnid',
+  8 => 'source',
+  9 => 'diyflag',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000481s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000189s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000688s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000182s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000173s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000170s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000096s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000140s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_diyflag` [ RunTime:0.000725s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_diyflag` [ RunTime:0.000110s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_source` [ RunTime:0.000406s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_source` [ RunTime:0.000086s ]
+---------------------------------------------------------------
+[ 2019-08-28T11:47:02+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.036530s][吞吐率：27.37req/s] [内存消耗：2,519.23kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:47:03+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/tpsc/images/image.png
+[ info ] www.ldkjmy.com/yamaxun/public/ace/tpsc/images/image.png [运行时间：0.031446s][吞吐率：31.80req/s] [内存消耗：2,519.18kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'tpsc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/public/ace/tpsc/css/demo.css',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+  'images' => 'image.png',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T11:47:03+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/fileinit.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileinit.html [运行时间：0.052656s][吞吐率：18.99req/s] [内存消耗：4,950.87kb] [文件加载：77]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileinit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566962257233%2C%20%22vd%22%3A%202%2C%20%22expires%22%3A%201566964057357%7D; __51laig__=10',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001217s ]
+[ info ] [ RUN ] app\common\controller\Common->_empty[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/common/controller/Common.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000509s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000198s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000728s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000148s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000109s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000117s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000119s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000094s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000126s ]
+---------------------------------------------------------------
+[ 2019-08-28T19:36:02+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/product_add.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/product_add.html [运行时间：0.071840s][吞吐率：13.92req/s] [内存消耗：5,087.62kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'product_add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566972380480%2C%20%22vd%22%3A%204%2C%20%22expires%22%3A%201566974623012%7D; __51laig__=14',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001493s ]
+[ info ] [ RUN ] app\admin\controller\Product->product_add[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Product.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/product/product_add.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'menu',
+  7 => 'news_columnid',
+  8 => 'source',
+  9 => 'diyflag',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000583s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000186s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000773s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000163s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000191s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/product_add'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000143s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000128s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = 7 ORDER BY `sort` [ RunTime:0.000150s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_diyflag` [ RunTime:0.000842s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_diyflag` [ RunTime:0.000097s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_source` [ RunTime:0.000427s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_source` [ RunTime:0.000088s ]
+---------------------------------------------------------------
+[ 2019-08-28T19:36:02+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110
+[ info ] www.ldkjmy.com/yamaxun/public/ace/js/skin/default/layer.css?v=3.0.11110 [运行时间：0.037011s][吞吐率：27.02req/s] [内存消耗：2,519.23kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566972380480%2C%20%22vd%22%3A%204%2C%20%22expires%22%3A%201566974623012%7D; __51laig__=14',
+)
+[ info ] [ PARAM ] array (
+  'v' => '3.0.11110',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T19:36:02+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/public/ace/tpsc/images/image.png
+[ info ] www.ldkjmy.com/yamaxun/public/ace/tpsc/images/image.png [运行时间：0.030705s][吞吐率：32.57req/s] [内存消耗：2,519.18kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'ace',
+    2 => 'tpsc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/public/ace/tpsc/css/demo.css',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566972380480%2C%20%22vd%22%3A%204%2C%20%22expires%22%3A%201566974623012%7D; __51laig__=14',
+)
+[ info ] [ PARAM ] array (
+  'images' => 'image.png',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-28T19:36:02+08:00 ] 172.21.0.9 183.184.63.60 GET /yamaxun/admin/product/fileinit.html
+[ info ] www.ldkjmy.com/yamaxun/admin/product/fileinit.html [运行时间：0.050120s][吞吐率：19.95req/s] [内存消耗：4,950.87kb] [文件加载：77]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'product',
+    2 => 'fileinit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'referer' => 'http://www.ldkjmy.com/yamaxun/admin/product/product_add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; aid=1; signin_token=13de9956c163c943081596224799b1bd71ff1f67; __51cke__=; PHPSESSID=k2thhv45fhl1ktuu24ksmbb8c7; yf_logged_user=mtX5iNYFNR4qIRAFz; __tins__20025213=%7B%22sid%22%3A%201566972380480%2C%20%22vd%22%3A%204%2C%20%22expires%22%3A%201566974623012%7D; __51laig__=14',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001288s ]
+[ info ] [ RUN ] app\common\controller\Common->_empty[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/common/controller/Common.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000483s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000333s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000828s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000175s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000111s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000168s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Product/fileinit'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000105s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000122s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000162s ]

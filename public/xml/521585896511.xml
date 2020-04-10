@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>AVOBD5045TVT6</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>51776018355</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>1</MessagesProcessed>
+				<MessagesSuccessful>0</MessagesSuccessful>
+				<MessagesWithError>1</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 18, Column 24: cvc-minLength-valid: Value &apos;&apos; with length = &apos;0&apos; is not facet-valid with respect to minLength &apos;1&apos; for type &apos;LongStringNotNull&apos;.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521585895972</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 18, Column 24: cvc-type.3.1.3: The value &apos;&apos; of element &apos;Title&apos; is not valid.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521585895972</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

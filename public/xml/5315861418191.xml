@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2ZCNQEQYWJPNJ</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LYTLD-531585711247-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666908</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Springseil Ideal für Fitness, Sicher Und Langlebig, 360-grad-führungslager, Einstellbare Seillänge, Erwachsene, Kinder</Title>
+        <Brand>LYTLD</Brand>
+        <Description><![CDATA[]]></Description>
+        <BulletPoint>360-Grad-Führungslager: Nimmt Stahllagerkonstruktion, Null-Widerstand Hochgeschwindigkeitsbetrieb, keine Knoten und keine Seile, müheloseren Bewegung.</BulletPoint>
+        <BulletPoint>Frei einstellbare Seillänge: Nach Ihrer Ist-Situation, können Sie die Länge des Seils an will.The Seil ist etwa 2,8 Meter lang, geeignet für den Einsatz innerhalb von 185cm groß einzustellen.</BulletPoint>
+        <BulletPoint>Gesundheit verbessern: Das Springseil kann die Durchblutung verbessern und die Herz-Lungen-Funktion und die Atmungsfunktion beschleunigen. So Ihre Kleinen können ihre allgemeine Gesundheit verbessern.</BulletPoint>
+        <BulletPoint>IDEAL Wahl Professionelle &amp; Anfänger Boxer und Kickboxen Athleten Sprungseile verwendet seit Jahren für das Überspringen, sie sind die perfekte Ausrüstung Kraft, Schnelligkeit und Ausdauer zu verbessern.</BulletPoint>
+        <BulletPoint>KUNDENDIENST: Wenn Sie Fragen haben, bitte kontaktieren Sie uns (LYTLD) und wir werden es innerhalb von 24 Stunden lösen. Bitte zögern Sie nicht unseren Kundendienst kontaktieren Feedback zu Ihrer Situation zu geben. Wir sind sehr glücklich, Beratung und Dienstleistungen zur Verfügung zu stellen.</BulletPoint>
+        <Manufacturer>LYTLD</Manufacturer>
+        <SearchTerms>springseil mit digital zähler speed rope stahl seil pvc ummantelung profi kugellager anti-rutsch griffe anzahl der sprünge kalorienverbrauch intervalltraining verstellbare kinder tasche einstiegsguide seilspringen erwachsene training springen fett </SearchTerms>
+        <ItemType>Springseile</ItemType>
+        <RecommendedBrowseNode>190817011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Blue</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LYTLD-531585711247-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666915</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Springseil Ideal für Fitness, Sicher Und Langlebig, 360-grad-führungslager, Einstellbare Seillänge, Erwachsene, Kinder</Title>
+        <Brand>LYTLD</Brand>
+        <Description><![CDATA[]]></Description>
+        <BulletPoint>360-Grad-Führungslager: Nimmt Stahllagerkonstruktion, Null-Widerstand Hochgeschwindigkeitsbetrieb, keine Knoten und keine Seile, müheloseren Bewegung.</BulletPoint>
+        <BulletPoint>Frei einstellbare Seillänge: Nach Ihrer Ist-Situation, können Sie die Länge des Seils an will.The Seil ist etwa 2,8 Meter lang, geeignet für den Einsatz innerhalb von 185cm groß einzustellen.</BulletPoint>
+        <BulletPoint>Gesundheit verbessern: Das Springseil kann die Durchblutung verbessern und die Herz-Lungen-Funktion und die Atmungsfunktion beschleunigen. So Ihre Kleinen können ihre allgemeine Gesundheit verbessern.</BulletPoint>
+        <BulletPoint>IDEAL Wahl Professionelle &amp; Anfänger Boxer und Kickboxen Athleten Sprungseile verwendet seit Jahren für das Überspringen, sie sind die perfekte Ausrüstung Kraft, Schnelligkeit und Ausdauer zu verbessern.</BulletPoint>
+        <BulletPoint>KUNDENDIENST: Wenn Sie Fragen haben, bitte kontaktieren Sie uns (LYTLD) und wir werden es innerhalb von 24 Stunden lösen. Bitte zögern Sie nicht unseren Kundendienst kontaktieren Feedback zu Ihrer Situation zu geben. Wir sind sehr glücklich, Beratung und Dienstleistungen zur Verfügung zu stellen.</BulletPoint>
+        <Manufacturer>LYTLD</Manufacturer>
+        <SearchTerms>springseil mit digital zähler speed rope stahl seil pvc ummantelung profi kugellager anti-rutsch griffe anzahl der sprünge kalorienverbrauch intervalltraining verstellbare kinder tasche einstiegsguide seilspringen erwachsene training springen fett </SearchTerms>
+        <ItemType>Springseile</ItemType>
+        <RecommendedBrowseNode>190817011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Yellow</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LYTLD-531585711247-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666922</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Springseil Ideal für Fitness, Sicher Und Langlebig, 360-grad-führungslager, Einstellbare Seillänge, Erwachsene, Kinder</Title>
+        <Brand>LYTLD</Brand>
+        <Description><![CDATA[]]></Description>
+        <BulletPoint>360-Grad-Führungslager: Nimmt Stahllagerkonstruktion, Null-Widerstand Hochgeschwindigkeitsbetrieb, keine Knoten und keine Seile, müheloseren Bewegung.</BulletPoint>
+        <BulletPoint>Frei einstellbare Seillänge: Nach Ihrer Ist-Situation, können Sie die Länge des Seils an will.The Seil ist etwa 2,8 Meter lang, geeignet für den Einsatz innerhalb von 185cm groß einzustellen.</BulletPoint>
+        <BulletPoint>Gesundheit verbessern: Das Springseil kann die Durchblutung verbessern und die Herz-Lungen-Funktion und die Atmungsfunktion beschleunigen. So Ihre Kleinen können ihre allgemeine Gesundheit verbessern.</BulletPoint>
+        <BulletPoint>IDEAL Wahl Professionelle &amp; Anfänger Boxer und Kickboxen Athleten Sprungseile verwendet seit Jahren für das Überspringen, sie sind die perfekte Ausrüstung Kraft, Schnelligkeit und Ausdauer zu verbessern.</BulletPoint>
+        <BulletPoint>KUNDENDIENST: Wenn Sie Fragen haben, bitte kontaktieren Sie uns (LYTLD) und wir werden es innerhalb von 24 Stunden lösen. Bitte zögern Sie nicht unseren Kundendienst kontaktieren Feedback zu Ihrer Situation zu geben. Wir sind sehr glücklich, Beratung und Dienstleistungen zur Verfügung zu stellen.</BulletPoint>
+        <Manufacturer>LYTLD</Manufacturer>
+        <SearchTerms>springseil mit digital zähler speed rope stahl seil pvc ummantelung profi kugellager anti-rutsch griffe anzahl der sprünge kalorienverbrauch intervalltraining verstellbare kinder tasche einstiegsguide seilspringen erwachsene training springen fett </SearchTerms>
+        <ItemType>Springseile</ItemType>
+        <RecommendedBrowseNode>190817011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LYTLD-531585711247</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665888</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Springseil Ideal für Fitness, Sicher Und Langlebig, 360-grad-führungslager, Einstellbare Seillänge, Erwachsene, Kinder</Title>
+        <Brand>LYTLD</Brand>
+        <Description><![CDATA[]]></Description>
+        <BulletPoint>360-Grad-Führungslager: Nimmt Stahllagerkonstruktion, Null-Widerstand Hochgeschwindigkeitsbetrieb, keine Knoten und keine Seile, müheloseren Bewegung.</BulletPoint>
+        <BulletPoint>Frei einstellbare Seillänge: Nach Ihrer Ist-Situation, können Sie die Länge des Seils an will.The Seil ist etwa 2,8 Meter lang, geeignet für den Einsatz innerhalb von 185cm groß einzustellen.</BulletPoint>
+        <BulletPoint>Gesundheit verbessern: Das Springseil kann die Durchblutung verbessern und die Herz-Lungen-Funktion und die Atmungsfunktion beschleunigen. So Ihre Kleinen können ihre allgemeine Gesundheit verbessern.</BulletPoint>
+        <BulletPoint>IDEAL Wahl Professionelle &amp; Anfänger Boxer und Kickboxen Athleten Sprungseile verwendet seit Jahren für das Überspringen, sie sind die perfekte Ausrüstung Kraft, Schnelligkeit und Ausdauer zu verbessern.</BulletPoint>
+        <BulletPoint>KUNDENDIENST: Wenn Sie Fragen haben, bitte kontaktieren Sie uns (LYTLD) und wir werden es innerhalb von 24 Stunden lösen. Bitte zögern Sie nicht unseren Kundendienst kontaktieren Feedback zu Ihrer Situation zu geben. Wir sind sehr glücklich, Beratung und Dienstleistungen zur Verfügung zu stellen.</BulletPoint>
+        <Manufacturer>LYTLD</Manufacturer>
+        <SearchTerms>springseil mit digital zähler speed rope stahl seil pvc ummantelung profi kugellager anti-rutsch griffe anzahl der sprünge kalorienverbrauch intervalltraining verstellbare kinder tasche einstiegsguide seilspringen erwachsene training springen fett </SearchTerms>
+        <ItemType>Springseile</ItemType>
+        <RecommendedBrowseNode>190817011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

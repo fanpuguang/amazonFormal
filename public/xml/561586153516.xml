@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A1A3K0BAQPDN3U</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>53385018358</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>177</MessagesProcessed>
+				<MessagesSuccessful>61</MessagesSuccessful>
+				<MessagesWithError>116</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>100</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-41-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-41-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>101</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-42-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-42-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>102</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-43-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-43-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>103</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-44-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-44-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>104</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-45-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-45-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>105</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-46-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-46-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>106</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-47-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-47-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>107</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-48-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-48-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>108</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-49-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-49-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>109</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-50-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-50-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>110</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-51-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-51-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>111</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-52-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-52-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>112</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-53-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-53-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>113</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-54-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-54-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>114</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-55-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-55-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>115</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-56-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-56-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>116</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-57-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-57-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>117</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-0 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>118</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-1 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>119</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-2 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>120</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-3 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-3</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>121</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-4 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-4</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>122</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-5 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-5</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>123</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-6 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-6</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>124</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-7 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-7</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>125</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-8 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-8</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>126</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-9 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-9</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>127</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-10 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-10</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>128</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-11 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-11</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>129</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-12 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-12</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>130</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-13 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-13</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>131</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-14 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-14</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>132</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-15 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-15</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>133</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-16 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-16</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>134</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-17 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-17</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>135</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-18 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-18</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>136</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-19 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-19</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>137</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-20 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-20</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>138</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-21 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-21</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>139</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-22 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-22</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>140</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-23 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-23</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>141</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-24 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-24</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>142</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-25 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-25</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>143</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-26 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-26</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>144</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-27 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-27</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>145</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-28 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-28</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>146</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-29 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-29</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>147</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-30 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-30</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>148</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-31 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-31</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>149</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-32 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-32</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>150</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-33 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-33</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>151</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-34 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-34</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>152</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-35 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-35</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>153</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-36 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-36</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>154</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-37 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-37</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>155</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-38 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-38</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>156</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-39 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-39</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>157</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-40 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-40</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>158</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-41 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-41</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>159</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-42 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-42</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>160</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-43 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-43</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>161</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-44 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-44</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>162</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-45 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-45</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>163</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-46 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-46</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>164</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-47 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-47</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>165</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-48 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-48</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>166</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-49 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-49</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>167</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-50 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-50</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>168</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-51 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-51</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>169</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-52 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-52</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>170</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-53 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-53</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>171</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-54 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-54</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>172</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-55 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-55</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>173</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-56 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-56</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>174</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-57 does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-57</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>59</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-0-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-0-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>60</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-1-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-1-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>61</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-2-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-2-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>62</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-3-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-3-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>63</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-4-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-4-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>64</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-5-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-5-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>65</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-6-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-6-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>66</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-7-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-7-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>67</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-8-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-8-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>68</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-9-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-9-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>69</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-10-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-10-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>70</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-11-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-11-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>71</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-12-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-12-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>72</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-13-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-13-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>73</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-14-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-14-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>74</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-15-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-15-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>75</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-16-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-16-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>76</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-17-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-17-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>77</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-18-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-18-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>78</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-19-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-19-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>79</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-20-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-20-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>80</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-21-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-21-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>81</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-22-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-22-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>82</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-23-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-23-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>83</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-24-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-24-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>84</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-25-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-25-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>85</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-26-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-26-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>86</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-27-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-27-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>87</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-28-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-28-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>88</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-29-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-29-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>89</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-30-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-30-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>90</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-31-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-31-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>91</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-32-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-32-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>92</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-33-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-33-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>93</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-34-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-34-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>94</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-35-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-35-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>95</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-36-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-36-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>96</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-37-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-37-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>97</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-38-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-38-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>98</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-39-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-39-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>99</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-40-PO does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-40-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

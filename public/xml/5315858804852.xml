@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2ZCNQEQYWJPNJ</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>LYTLD-531585637224-LX</SKU>
+      <StandardPrice currency="MXN">1160.37</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

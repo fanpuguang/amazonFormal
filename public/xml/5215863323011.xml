@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585706601-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665895</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Personal Air Cooler, Portable Mini Air Conditioner, Usb Cooling Cooling Fan, Can Add Ice Water, Desktop Office Ultra Quiet</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Wind speed: first gear: 2.0m / s, second gear: 2.5m / s, third gear: 3.5m / s<br/>✔ Noise: first gear: 30dB, second gear: 38dB, third gear: 46dB<br/>✔ Motor speed: first gear: 2570rpm, second gear: 3215rpm, third gear: 3660rpm<br/><br/>✔ Product name: water cooling fan<br/>✔ Water tank capacity: 380ml<br/>✔ Working current: 0.2A-1.4A<br/>✔ Input: DC5V<br/>✔ Power: 1W-7W<br/>✔ Product material: ABS / silicone<br/>✔ Product size: 133mm, 178mm, 170mm<br/><br/>✔ 1: Do not lay the product sideways, lie on its side or upside down to prevent water from penetrating into the circuit board.<br/>✔ 2: The third gear of the cooling fan requires large power. The third gear may not be activated below 1.5A. It requires a 2A adapter or a USB 3.0 port on the computer to supply power.<br/>✔ 3: For the first use, please fill it with water and let it stand for 20 minutes. The dry curtain will be better only if it is filled with water. The water tank at the bottom of the cooling fan is not completely sealed, and water will leak from the side if it is poured. If you need to move the cooling fan, open the water outlet at the bottom of the main unit and move it after draining the water.]]></Description>
+        <BulletPoint>✔ Máquina multipropósito: puede agregar agua helada y enfriarse rápidamente. Filtro de cortina de agua para purificar el aire fresco. La salida de aire se ajusta para enfriar en un amplio rango.</BulletPoint>
+        <BulletPoint>✔ Luz suave y cálida: promete una luz nocturna que cambia de color, que se puede configurar presionando prolongadamente según tu color favorito. Deja que duermas en paz.</BulletPoint>
+        <BulletPoint>✔ Tecnología de doble capa: cortina de hielo con filtro de polvo de alta densidad, sistema de purificación, antibacteriano altamente efectivo. Como el refrescante viento después de la lluvia, como la frescura que aporta el aire acondicionado interior.</BulletPoint>
+        <BulletPoint>✔ Cortina de agua reemplazable: la cortina de agua original se puede usar durante 6 a 8 meses, séquela durante mucho tiempo y déjela secar.</BulletPoint>
+        <BulletPoint>✔ Sistema de humidificación incorporado: la cortina de agua que no se seca en el verano puede aumentar efectivamente la humedad del flujo de aire, garantizar el frescor y dejar que su piel beba agua.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Air Conditioners</ItemType>
+        <RecommendedBrowseNode>14554126011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585706601</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665833</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Personal Air Cooler, Portable Mini Air Conditioner, Usb Cooling Cooling Fan, Can Add Ice Water, Desktop Office Ultra Quiet</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Wind speed: first gear: 2.0m / s, second gear: 2.5m / s, third gear: 3.5m / s<br/>✔ Noise: first gear: 30dB, second gear: 38dB, third gear: 46dB<br/>✔ Motor speed: first gear: 2570rpm, second gear: 3215rpm, third gear: 3660rpm<br/><br/>✔ Product name: water cooling fan<br/>✔ Water tank capacity: 380ml<br/>✔ Working current: 0.2A-1.4A<br/>✔ Input: DC5V<br/>✔ Power: 1W-7W<br/>✔ Product material: ABS / silicone<br/>✔ Product size: 133mm, 178mm, 170mm<br/><br/>✔ 1: Do not lay the product sideways, lie on its side or upside down to prevent water from penetrating into the circuit board.<br/>✔ 2: The third gear of the cooling fan requires large power. The third gear may not be activated below 1.5A. It requires a 2A adapter or a USB 3.0 port on the computer to supply power.<br/>✔ 3: For the first use, please fill it with water and let it stand for 20 minutes. The dry curtain will be better only if it is filled with water. The water tank at the bottom of the cooling fan is not completely sealed, and water will leak from the side if it is poured. If you need to move the cooling fan, open the water outlet at the bottom of the main unit and move it after draining the water.]]></Description>
+        <BulletPoint>✔ Máquina multipropósito: puede agregar agua helada y enfriarse rápidamente. Filtro de cortina de agua para purificar el aire fresco. La salida de aire se ajusta para enfriar en un amplio rango.</BulletPoint>
+        <BulletPoint>✔ Luz suave y cálida: promete una luz nocturna que cambia de color, que se puede configurar presionando prolongadamente según tu color favorito. Deja que duermas en paz.</BulletPoint>
+        <BulletPoint>✔ Tecnología de doble capa: cortina de hielo con filtro de polvo de alta densidad, sistema de purificación, antibacteriano altamente efectivo. Como el refrescante viento después de la lluvia, como la frescura que aporta el aire acondicionado interior.</BulletPoint>
+        <BulletPoint>✔ Cortina de agua reemplazable: la cortina de agua original se puede usar durante 6 a 8 meses, séquela durante mucho tiempo y déjela secar.</BulletPoint>
+        <BulletPoint>✔ Sistema de humidificación incorporado: la cortina de agua que no se seca en el verano puede aumentar efectivamente la humedad del flujo de aire, garantizar el frescor y dejar que su piel beba agua.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Air Conditioners</ItemType>
+        <RecommendedBrowseNode>14554126011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

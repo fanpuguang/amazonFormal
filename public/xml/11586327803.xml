@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>ADXLEO062K5E6</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>80238018360</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>3</MessagesProcessed>
+				<MessagesSuccessful>2</MessagesSuccessful>
+				<MessagesWithError>1</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>13013</ResultMessageCode>
+				<ResultDescription>We&apos;re unable to complete your request because this SKU is not in the Amazon catalog. If this was a deleted SKU, wait 24 hours before resubmitting it. If you tried to add this SKU to the Amazon catalog before, check your data and correct any errors before resubmitting. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>LJLD-11577065847-0</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

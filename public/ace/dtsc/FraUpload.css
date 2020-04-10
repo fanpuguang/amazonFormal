@@ -1,0 +1,127 @@
+@font-face {font-family: "iconfont";
+src: url('iconfont.eot?t=1562983282253'); /* IE9 */
+src: url('iconfont.eot?t=1562983282253#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOsAAsAAAAAB8AAAANeAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDJIMCATYCJAMMCwgABCAFhG0HPBvOBlGU7kmD7AtsG/YkUCsZx4ZOgE9ogEdMhABABAAAgAcgHr72+527u+99Q7xBEk0M0byRRBNDIhRCgwShUQLTKZlQvEL+Fq1pEIRdn7CMChcV2se5B97bkmNla6tUhWyF60/7qzfz9VY6OTSFpgYyGvPTwu3OkYpm3I2H/BcfyJegp/85ZroEr/y2tUtUUkTiaG+A4wENKKIvkuwO5ID8HuLVxe0wzxNomzBW3jle3pRaCjItEHeBZ5VaKZtSUxmaQl2ytohnlWZ6TNd48n8/fi1Fi6TKyNyj24NbWn/0qZfuqEsXQT6eB8ImMhaVFOK61HeqGiYXVbU1Xa2+sFaENFYEfJluqFf6j5eIGinvAbNoSU5KbrMJPkmRiDy5RgsPeAXsSG1RDfb0xkY7ZODY/df03Wip0CmvjIX4c72jR3Wvr0Vvb8UvL4XPz1WWpiCQJGteXxuYi8y/kUHpsnPUodx5vn+O9vO7ubGVJSihRlvnFsbcwnBIVcznV+lkr0dZA1VpdHGZlDOLq2DUwVwhxO1WaWSnBRypPoSk5cTU6AKBZItvJlQX1hMMJvf5n3pdZ3R3lzrqOR7HuDlOgmqGfebah+nKCh2iw6AZ5iWxBMU4Nzdd7BENiWUZGWWJ8WKzmq85y475jclWSeET4SfpRxUergLJh4A+CdCr9+LPSJbSalV+O9bzxTptErqsidGn7KSW45rOK3WJPkxCn9gleXVrWA41Tiihe37J8X5Ensh/7m/8DUTVjOHKP6oKeP+SMdC9aO/QvC9/8J/kLVuKriT2XFSZLTMz2aH6W7Bq63p/pxqG/PU3jLYuJzSNxpA0jEPWNIks2EWodCxDrWkd2hacbO4YxqqitDDvEyAM+IakzxtkA36QBfsLlTH/UBuIKrQdx/CeHdMRdLYZlsAl+5kCJ0uV5ZROUHkF7z62OKn0aXdgHURoMZ1nMydIwWMs0A/eUkSR4iyhI1yGOM4o5yyEI1NfJF/NZqrsm6ZOlpQ6tjGwCHAR2zMScGRSyu0sOrmfvwKeezEL1zTVRO8A04LeycLUvAXyRJe2arqW12gPPEtCKERhmQQ5ggdimsyQvHxUCBxiyu8Rz63MmHaqrW46vyF5vl3QRhpzpMhRtE69z0SgpXGDGGAtlQAAAA==') format('woff2'),
+url('iconfont.woff?t=1562983282253') format('woff'),
+url('iconfont.ttf?t=1562983282253') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+url('iconfont.svg?t=1562983282253#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-icon-test:before {
+  content: "\e641";
+}
+
+.icon-delete:before {
+  content: "\e72f";
+}
+
+.file-preview{
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    width: auto;
+    margin: 0 10px 5px;
+    min-width: 150px;
+    max-width: 100%;
+}
+.FraUpload_imglist{
+    border: 1px dashed #aaa;
+    border-radius: 4px;
+    height: 100%;
+    text-align: center;
+    vertical-align: middle;
+    margin: 12px 15px 12px 12px;
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 100px;  
+}
+.FraUpload_imglist li{
+    margin: 8px;
+    border: 1px solid #ddd;
+    box-shadow: 1px 1px 5px 0 #a2958a;
+    padding: 6px;
+    list-style: none;
+    max-width: 65%;
+}
+.FraUpload_imglist li img{
+    height: 160px;
+    max-width: 100%;
+}
+.FraUpload_imglist .file-tit{
+    max-width: 80%;
+    overflow: hidden;
+    text-align: center;
+    margin: auto;
+    color: #777;
+    font-size: 12px;
+}
+.FraUpload_imglist .file-tit div:nth-child(1){
+    max-width: 190px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin: auto;
+}
+.FraUpload_imglist .file-footer-buttons{
+    display: flex;
+    flex-direction: row-reverse;
+    position: relative;
+
+}
+.FraUpload_imglist .file-footer-buttons .icon-loading{
+    display: block;
+    background: url(loading.gif) no-repeat;
+    background-size: 70% 70%;
+    background-position: center;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    border: 0;
+    width: 16px;
+    height: 16px;
+    margin-top: -8px;
+}
+.FraUpload_imglist .file-footer-buttons .icon-success{
+    display: block;
+    background: url(success.png) no-repeat;
+    background-size: 70% 70%;
+    background-position: center;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    border: 0;
+    width: 16px;
+    height: 16px;
+    margin-top: -8px;
+}
+.FraUpload_imglist .file-footer-buttons .icon-error{
+    display: block;
+    background: url(error.png) no-repeat;
+    background-size: 70% 70%;
+    background-position: center;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    border: 0;
+    width: 16px;
+    height: 16px;
+    margin-top: -8px;
+}
+.FraUpload_imglist .file-footer-buttons span{ 
+    color: #000;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 1px 2px;
+    font-size: 16px;
+    line-height: 18px;
+    border-radius: 3px;
+    margin: 0 3px;
+}

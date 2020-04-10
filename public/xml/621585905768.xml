@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A2YQ4PBKNR44AF</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>67560018355</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>756</MessagesProcessed>
+				<MessagesSuccessful>754</MessagesSuccessful>
+				<MessagesWithError>2</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>21</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/B086M5C9D2_02297d0c05842d20cf314213838d79fe_7.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>52O3HFWQJT-5</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>516</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/B083R7FBDK_5582bc20acac62492ca4e6c64d72b6bd_4.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>XNL65XEST5-0</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

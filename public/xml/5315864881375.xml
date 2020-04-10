@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2ZCNQEQYWJPNJ</MerchantIdentifier>
+  </Header>
+  <MessageType>Relationship</MessageType>
+  <PurgeAndReplace>false</PurgeAndReplace>
+</AmazonEnvelope>

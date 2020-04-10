@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2ZCNQEQYWJPNJ</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>LYTLD-531585880517-0</SKU>
+      <StandardPrice currency="EUR">37.77</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>LYTLD-531585880517-1</SKU>
+      <StandardPrice currency="EUR">41.11</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <Price>
+      <SKU>LYTLD-531585883023--0</SKU>
+      <StandardPrice currency="EUR">33.42</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <Price>
+      <SKU>LYTLD-531585883023--1</SKU>
+      <StandardPrice currency="EUR">33.42</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <Price>
+      <SKU>LYTLD-531585883023--2</SKU>
+      <StandardPrice currency="EUR">33.42</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <Price>
+      <SKU>LYTLD-531585892024-0</SKU>
+      <StandardPrice currency="EUR">28.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <Price>
+      <SKU>LYTLD-531585892024-1</SKU>
+      <StandardPrice currency="EUR">28.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <Price>
+      <SKU>LYTLD-531585892024-2</SKU>
+      <StandardPrice currency="EUR">28.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <Price>
+      <SKU>LYTLD-531585892024-3</SKU>
+      <StandardPrice currency="EUR">28.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <Price>
+      <SKU>LYTLD-531585892024-4</SKU>
+      <StandardPrice currency="EUR">28.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <Price>
+      <SKU>LYTLD-531585892024-5</SKU>
+      <StandardPrice currency="EUR">28.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <Price>
+      <SKU>LYTLD-531585892024-6</SKU>
+      <StandardPrice currency="EUR">28.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>13</MessageID>
+    <Price>
+      <SKU>LYTLD-531585897651-0</SKU>
+      <StandardPrice currency="EUR">24.73</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <Price>
+      <SKU>LYTLD-531585897651-1</SKU>
+      <StandardPrice currency="EUR">24.73</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>15</MessageID>
+    <Price>
+      <SKU>LYTLD-531585897651-2</SKU>
+      <StandardPrice currency="EUR">24.73</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>16</MessageID>
+    <Price>
+      <SKU>LYTLD-531585880517</SKU>
+      <StandardPrice currency="EUR">37.77</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>17</MessageID>
+    <Price>
+      <SKU>LYTLD-531585883023-</SKU>
+      <StandardPrice currency="EUR">33.42</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>18</MessageID>
+    <Price>
+      <SKU>LYTLD-531585885477</SKU>
+      <StandardPrice currency="EUR">43.11</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>19</MessageID>
+    <Price>
+      <SKU>LYTLD-531585892024</SKU>
+      <StandardPrice currency="EUR">28.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>20</MessageID>
+    <Price>
+      <SKU>LYTLD-531585893991</SKU>
+      <StandardPrice currency="EUR">31.75</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>21</MessageID>
+    <Price>
+      <SKU>LYTLD-531585896019</SKU>
+      <StandardPrice currency="EUR">54.48</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>22</MessageID>
+    <Price>
+      <SKU>LYTLD-531585897651</SKU>
+      <StandardPrice currency="EUR">24.73</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>23</MessageID>
+    <Price>
+      <SKU>LYTLD-531585900407</SKU>
+      <StandardPrice currency="EUR">28.74</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

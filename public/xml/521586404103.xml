@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>55739018361</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>223</MessagesProcessed>
+				<MessagesSuccessful>222</MessagesSuccessful>
+				<MessagesWithError>1</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>200</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8pnhz8o_76gtu0qz3ffd5e8c3bd9e6baf.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521586248653</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

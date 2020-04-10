@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A1A3K0BAQPDN3U</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>AIWKR-561585733533</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666939</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Improve Hunchback Back Stretcher, Multi-Level Back Stretching Device, Lower And Upper Back Pain Relief Massager Lumbar Support Waist Spine Pain Relax</Title>
+        <Brand>AIWKR</Brand>
+        <Description><![CDATA[Welcome to AIWKR！ we will continue to update our products, thank you for your trust!<br/><br/>The  Back Stretcher, Can Stretch Your Lumbar to Healthy Curve! <br/><br/>✔ Features: <br/>◆ Easy installation.<br/>◆ Gives your back fully stretch and support. <br/>◆ Reduces nerve compression. <br/>◆ Helps align your spinal back to healthy physical curve.<br/>◆ It is portable that you can do stretching anywhere.<br/><br/>✔Specification: <br/>◆ Material: ABS<br/>◆Dimension: 25.5*38.5*16.8cm(10.04*15.16*6.61in)<br/>◆ Package Content: 1* Home use back traction devices<br/><br/>✔Tips: <br/>◆ Please allow measuring deviation due to manual measurement.<br/>◆Due to shooting conditions, the colors may vary, please focus on the actual product color.<br/>◆ If you have any questions or dissatisfaction with our products, you can send us an email at any time, We will serve you within 24 hours.]]></Description>
+        <BulletPoint>★ERGONOMIC DESIGN FOR BACK PAIN RELIEF: The ergonomic design can support comfortably the back, acupuncture therapy your back pain and discomfort, Improve muscle flexibility and stimulate blood circulation in back.</BulletPoint>
+        <BulletPoint>★PERFECT PORTABLE SOLUTION FOR ALL BACK PROBLEMS: Such as bulging disc, herniated disc and other lower back pain issues. This simply arched lumbar stretcher allows the spine to realign itself relieving spinal pressure. </BulletPoint>
+        <BulletPoint>★EASY INSTALLATION WITH 3 DIFFERENT LEVELS: The lumbar Back Stretcher with adjustable multi-level therapy device, it's flexible to adjust according to your different degree require, fully stretch and relieve pain in the lower back, shoulder and back muscles. </BulletPoint>
+        <BulletPoint>★MULTI PURPOSE: The lumbar alignment stretcher can be used whenever you are lying or sitting. The back alignment device can be placed on a chair to help correct your sitting posture, or car seat to serve as a lumbar support for car that helps reduce the tiredness especially.</BulletPoint>
+        <BulletPoint>★SATISFACTION OF AFTER-SELL SERVICE: You can find more products you like by searching for AIWKR. If you have any questions, feel free to contact us. We will answer you within 24 hours.</BulletPoint>
+        <Manufacturer>AIWKR</Manufacturer>
+        <SearchTerms>lower back stretcher lumbar support stabilizing brace pain relief treatment stretching device herniated disc sciatica scoliosis upper massager spinal muscle chronic nerve stenosis posture corrector</SearchTerms>
+        <ItemType>Back Massagers</ItemType>
+        <RecommendedBrowseNode>6370070011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData/>
+            </BedAndBath>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

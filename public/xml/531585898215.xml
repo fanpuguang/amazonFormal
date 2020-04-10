@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A2ZCNQEQYWJPNJ</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>54104018355</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>173</MessagesProcessed>
+				<MessagesSuccessful>170</MessagesSuccessful>
+				<MessagesWithError>3</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8ifgaeo_4wjw2kjgricu5e8591ae9d9c8.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LYTLD-531585808929-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>18</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8ifk4iw_7698w3mrn9ep5e859261e6ab4.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LYTLD-531585812035-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>36</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8igsrs0_75jbxbivvg5g5e859a84e5e65.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LYTLD-531585814084-1</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

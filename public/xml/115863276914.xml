@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>ADXLEO062K5E6</MerchantIdentifier>
+  </Header>
+  <MessageType>Inventory</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Inventory>
+      <SKU>LJLD-11577065847-0</SKU>
+      <FulfillmentCenterID>DEFAULT</FulfillmentCenterID>
+      <Quantity>106</Quantity>
+      <SwitchFulfillmentTo>MFN</SwitchFulfillmentTo>
+    </Inventory>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Inventory>
+      <SKU>LJLD-11577065847-1</SKU>
+      <FulfillmentCenterID>DEFAULT</FulfillmentCenterID>
+      <Quantity>71</Quantity>
+      <SwitchFulfillmentTo>MFN</SwitchFulfillmentTo>
+    </Inventory>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Inventory>
+      <SKU>LJLD-11577065847-h</SKU>
+      <FulfillmentCenterID>DEFAULT</FulfillmentCenterID>
+      <Quantity>31</Quantity>
+      <SwitchFulfillmentTo>MFN</SwitchFulfillmentTo>
+    </Inventory>
+  </Message>
+</AmazonEnvelope>

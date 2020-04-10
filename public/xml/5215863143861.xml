@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585823584-0--</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554861057</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Enfriador De Aire PortáTil, Velocidad Del Viento De 3 Velocidades, DiseñO De Manija Elevable, Fuente De AlimentacióN Usb Para MúLtiples Escenas, Escritorio De Oficina, Dormitorio Dormitorio</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Desea mantenerse fresco en el caluroso verano, pero le preocupa que le cueste mucho hacer funcionar el aire acondicionado todo el día, y los ventiladores comunes solo le darán aire caliente en la cara.<br/><br/>✔ ¿Quieres una mejor manera de calmarte?<br/>Use nuestro mini enfriador de aire para obtener este enfriador de espacio personal para crear su zona de confort. Simplemente agréguelo al tanque de agua, luego relájese y disfrute de un aliento fresco y húmedo.<br/><br/>✔ Aire fresco y disfruta de una vida saludable<br/>Reduce la temperatura por evaporación del agua y produce aire fresco. ¡Bajo consumo de energía y largo tiempo de humidificación! Es energéticamente eficiente y baja en carbono.<br/><br/>✔ enfriador de aire personal portátil<br/>Mini refrigerador de aire personal diseñado para uso personal, coloque no más de 3 pies a 4 pies.<br/><br/>✔ Nombre del producto: Personal Ice Fan<br/>✔ Peso neto: 650G<br/>✔ Rango de soplado: 40-60 cm<br/>✔ Volumen: 460ML<br/>✔ Corriente de trabajo: 500MA<br/>✔ Interfaz: interfaz USB MICRO 5V2A<br/>✔ Potencia de enfriamiento: 150-300W<br/>✔ Tamaño: 13.1 * 13.1 * 17CM<br/>✔ Rango de enfriamiento: 3-10 ° C (la temperatura real depende de la humedad y la temperatura del entorno de uso)<br/><br/>✔ El paquete incluye:<br/>1 x aire acondicionado<br/>1 x cable de datos USB<br/>1 x manual de instrucciones<br/><br/>✔ Nota:<br/>Puede haber ligeros errores en los datos debido a mediciones manuales y diferentes herramientas de medición.<br/>Debido a los diferentes monitores, puede haber ligeras diferencias de color. Por favor, consulte el producto real.]]></Description>
+        <BulletPoint>✔ Velocidad del viento de 3 velocidades: ventilador de hielo personal, velocidad del viento ligera: adecuada para la meditación sentada para expulsar la impetuosidad del verano; velocidad del golpe: adecuada para escritorios y mesas; fuerte velocidad del viento: adecuada para dormitorios sofocantes, disipación --- calor corporal.</BulletPoint>
+        <BulletPoint>✔ Versátil: tamaño pequeño, tamaño pequeño, fácil de transportar y mover, y tipo USB, por lo que puede usarse no solo en la oficina, el dormitorio o el hogar.</BulletPoint>
+        <BulletPoint>✔ Ahorro de energía y salud: el pequeño circulador de aire no contiene refrigerante de ozono. Puede proteger la salud de su familia. Este mini aire acondicionado ahorra espacio y es económico. En verano, es el regalo ideal para usted, su familia y amigos.</BulletPoint>
+        <BulletPoint>✔ Múltiples modos de suministro de energía: tres modos de suministro de energía, que pueden ser alimentados por puertos USB de dispositivos móviles como computadoras portátiles. Utilice el cargador para alimentar desde una toma de corriente. Al usar energía móvil, no tiene que preocuparse por fallas de energía.</BulletPoint>
+        <BulletPoint>✔ 100% servicio postventa: nuestra tienda utiliza logística internacional, puede contactarnos en cualquier momento por correo electrónico, responderemos sus preguntas dentro de las 24 horas, el cliente siempre es el primero, puede encontrarse buscando &amp;quot;DUYER&amp;quot; ¡Productos favoritos, le deseo una feliz compra!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Black</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585823584-A</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554861040</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Enfriador De Aire PortáTil, Velocidad Del Viento De 3 Velocidades, DiseñO De Manija Elevable, Fuente De AlimentacióN Usb Para MúLtiples Escenas, Escritorio De Oficina, Dormitorio Dormitorio</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Desea mantenerse fresco en el caluroso verano, pero le preocupa que le cueste mucho hacer funcionar el aire acondicionado todo el día, y los ventiladores comunes solo le darán aire caliente en la cara.<br/><br/>✔ ¿Quieres una mejor manera de calmarte?<br/>Use nuestro mini enfriador de aire para obtener este enfriador de espacio personal para crear su zona de confort. Simplemente agréguelo al tanque de agua, luego relájese y disfrute de un aliento fresco y húmedo.<br/><br/>✔ Aire fresco y disfruta de una vida saludable<br/>Reduce la temperatura por evaporación del agua y produce aire fresco. ¡Bajo consumo de energía y largo tiempo de humidificación! Es energéticamente eficiente y baja en carbono.<br/><br/>✔ enfriador de aire personal portátil<br/>Mini refrigerador de aire personal diseñado para uso personal, coloque no más de 3 pies a 4 pies.<br/><br/>✔ Nombre del producto: Personal Ice Fan<br/>✔ Peso neto: 650G<br/>✔ Rango de soplado: 40-60 cm<br/>✔ Volumen: 460ML<br/>✔ Corriente de trabajo: 500MA<br/>✔ Interfaz: interfaz USB MICRO 5V2A<br/>✔ Potencia de enfriamiento: 150-300W<br/>✔ Tamaño: 13.1 * 13.1 * 17CM<br/>✔ Rango de enfriamiento: 3-10 ° C (la temperatura real depende de la humedad y la temperatura del entorno de uso)<br/><br/>✔ El paquete incluye:<br/>1 x aire acondicionado<br/>1 x cable de datos USB<br/>1 x manual de instrucciones<br/><br/>✔ Nota:<br/>Puede haber ligeros errores en los datos debido a mediciones manuales y diferentes herramientas de medición.<br/>Debido a los diferentes monitores, puede haber ligeras diferencias de color. Por favor, consulte el producto real.]]></Description>
+        <BulletPoint>✔ Velocidad del viento de 3 velocidades: ventilador de hielo personal, velocidad del viento ligera: adecuada para la meditación sentada para expulsar la impetuosidad del verano; velocidad del golpe: adecuada para escritorios y mesas; fuerte velocidad del viento: adecuada para dormitorios sofocantes, disipación --- calor corporal.</BulletPoint>
+        <BulletPoint>✔ Versátil: tamaño pequeño, tamaño pequeño, fácil de transportar y mover, y tipo USB, por lo que puede usarse no solo en la oficina, el dormitorio o el hogar.</BulletPoint>
+        <BulletPoint>✔ Ahorro de energía y salud: el pequeño circulador de aire no contiene refrigerante de ozono. Puede proteger la salud de su familia. Este mini aire acondicionado ahorra espacio y es económico. En verano, es el regalo ideal para usted, su familia y amigos.</BulletPoint>
+        <BulletPoint>✔ Múltiples modos de suministro de energía: tres modos de suministro de energía, que pueden ser alimentados por puertos USB de dispositivos móviles como computadoras portátiles. Utilice el cargador para alimentar desde una toma de corriente. Al usar energía móvil, no tiene que preocuparse por fallas de energía.</BulletPoint>
+        <BulletPoint>✔ 100% servicio postventa: nuestra tienda utiliza logística internacional, puede contactarnos en cualquier momento por correo electrónico, responderemos sus preguntas dentro de las 24 horas, el cliente siempre es el primero, puede encontrarse buscando &amp;quot;DUYER&amp;quot; ¡Productos favoritos, le deseo una feliz compra!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

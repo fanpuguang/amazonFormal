@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585822622-0-</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554861088</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Aire Acondicionado Portatil Usb, Control TáCtil Velocidad Del Ventilador De 3 Velocidades, AlimentacióN Por Usb, Para Oficina En El Hogar Al Aire Libre</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Desea mantenerse fresco en el caluroso verano, pero le preocupa que le cueste mucho hacer funcionar el aire acondicionado todo el día, y los ventiladores comunes solo le darán aire caliente en la cara.<br/><br/>✔ ¿Quieres una mejor manera de calmarte?<br/>Use nuestro mini enfriador de aire para obtener este enfriador de espacio personal para crear su zona de confort. Simplemente agregue agua y hielo al tanque de agua, luego relájese y disfrute de un aliento fresco y húmedo.<br/><br/>✔ Nombre del producto: USB Mini Cooler<br/>✔ Material: material ABS<br/>✔ Tamaño del producto: 140 * 155 * 175 mm<br/>✔ Potencia: 5W<br/>✔ Voltaje de trabajo: 1A<br/>✔ Voltaje de entrada: 5V<br/>✔ Tamaño: 170 * 170 * 205 mm<br/><br/>✔ lista de embalaje<br/>1 * refrigerador<br/>1 * cable USB<br/>1 * Manual (chino e inglés)]]></Description>
+        <BulletPoint>✔ Con tres funciones de enfriamiento, humidificación y purificación de aire, la velocidad del viento se puede ajustar en tres velocidades;</BulletPoint>
+        <BulletPoint>✔ Uso silencioso, libre de freón en la protección del medio ambiente y la refrigeración;</BulletPoint>
+        <BulletPoint>✔ El tanque de agua incorporado de 160 ml, una vez lleno, puede durar 8 horas;</BulletPoint>
+        <BulletPoint>✔ Carga USB o fuente de alimentación de CA; longitud del cable USB: 85 cm</BulletPoint>
+        <BulletPoint>✔ Use el lugar: oficina, sala de estar en el hogar, cocina, dormitorio, baño y área de construcción de la casa, etc.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585822622-A</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554861071</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Aire Acondicionado Portatil Usb, Control TáCtil Velocidad Del Ventilador De 3 Velocidades, AlimentacióN Por Usb, Para Oficina En El Hogar Al Aire Libre</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Desea mantenerse fresco en el caluroso verano, pero le preocupa que le cueste mucho hacer funcionar el aire acondicionado todo el día, y los ventiladores comunes solo le darán aire caliente en la cara.<br/><br/>✔ ¿Quieres una mejor manera de calmarte?<br/>Use nuestro mini enfriador de aire para obtener este enfriador de espacio personal para crear su zona de confort. Simplemente agregue agua y hielo al tanque de agua, luego relájese y disfrute de un aliento fresco y húmedo.<br/><br/>✔ Nombre del producto: USB Mini Cooler<br/>✔ Material: material ABS<br/>✔ Tamaño del producto: 140 * 155 * 175 mm<br/>✔ Potencia: 5W<br/>✔ Voltaje de trabajo: 1A<br/>✔ Voltaje de entrada: 5V<br/>✔ Tamaño: 170 * 170 * 205 mm<br/><br/>✔ lista de embalaje<br/>1 * refrigerador<br/>1 * cable USB<br/>1 * Manual (chino e inglés)]]></Description>
+        <BulletPoint>✔ Con tres funciones de enfriamiento, humidificación y purificación de aire, la velocidad del viento se puede ajustar en tres velocidades;</BulletPoint>
+        <BulletPoint>✔ Uso silencioso, libre de freón en la protección del medio ambiente y la refrigeración;</BulletPoint>
+        <BulletPoint>✔ El tanque de agua incorporado de 160 ml, una vez lleno, puede durar 8 horas;</BulletPoint>
+        <BulletPoint>✔ Carga USB o fuente de alimentación de CA; longitud del cable USB: 85 cm</BulletPoint>
+        <BulletPoint>✔ Use el lugar: oficina, sala de estar en el hogar, cocina, dormitorio, baño y área de construcción de la casa, etc.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

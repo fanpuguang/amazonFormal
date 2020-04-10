@@ -1,0 +1,105 @@
+{extend name="admin@public/base" /}
+{block name="main-content"}
+	<div class="page-content">
+
+		<div class="row maintop">
+			<div class="col-xs-12 col-sm-1">
+
+			</div>
+
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12">
+				<div>
+					<form class="ajaxForm" name="source_order" method="post" action="{:url('admin/Dataanalysis/dataanalysis_list')}" >
+						<table class="table table-striped table-bordered table-hover" id="dynamic-table">
+							<thead>
+							<tr>
+								<th>序号</th>
+								<th>标题</th>
+								<th>价格</th>
+								<th>是否是中国卖家</th>
+								<th>链接</th>
+
+								<th>产品日期</th>
+								<th>ASIN码</th>
+								<th>分类名称</th>
+								<th>排名</th>
+								<th>评分</th>
+								<th>创建时间</th>
+								<!--<th style="border-right:#CCC solid 1px;">操作</th>-->
+							</tr>
+							</thead>
+
+							<tbody>
+
+							{foreach name="dataanalysis" item="v" key="k"}
+								<tr>
+									<td height="28" >{$k+1}</td>
+									<td>{$v.title|mb_substr=0,10,'utf-8'}...</td>
+									<td>{$v.price}</td>
+									<td>{if condition="$v['is_chinese'] == 'True'"}是{else/}否{/if}</td>
+									<td><a href="{$v.url}" target="_blank">访问</a></td>
+
+									<td>{$v.fa_data}</td>
+									<td>{$v.asin}</td>
+									<td>{$v.class_name}</td>
+									<td>{$v.raking}</td>
+									<td>{$v.starts}</td>
+									<td>{$v.create_time}</td>
+
+									<!--<td>
+										<div class="hidden-sm hidden-xs action-buttons">
+											<a class="green fwqedit-btn"  href="{:url('admin/Fwq/fwq_edit')}" data-id="{$v.id}"  title="修改">
+												<i class="ace-icon fa fa-pencil bigger-130"></i>
+											</a>
+											<a class="red confirm-rst-url-btn" data-info="你确定要删除吗？" href="{:url('admin/Fwq/fwq_del',array('id'=>$v['id'],'p'=>input('p',1)))}" title="删除">
+												<i class="ace-icon fa fa-trash-o bigger-130"></i>
+											</a>
+										</div>
+										<div class="hidden-md hidden-lg">
+											<div class="inline position-relative">
+												<button class="btn btn-minier btn-primary dropdown-toggle" data-toggle="dropdown" data-position="auto">
+													<i class="ace-icon fa fa-cog icon-only bigger-110"></i>
+												</button>
+												<ul class="dropdown-menu dropdown-only-icon dropdown-yellow dropdown-menu-right dropdown-caret dropdown-close">
+													<li>
+														<a href="{:url('admin/Fwq/fwq_edit')}" data-id="{$v.id}" class="tooltip-success sourceedit-btn" data-rel="tooltip" title="" data-original-title="修改">
+																	<span class="green">
+																		<i class="ace-icon fa fa-pencil-square-o bigger-120"></i>
+																	</span>
+														</a>
+													</li>
+
+													<li>
+														<a href="{:url('admin/Fwq/fwq_del',array('id'=>$v['id'],'p'=>input('p',1)))}"  class="tooltip-error confirm-rst-url-btn" data-rel="tooltip" title="" data-info="你确定要删除吗？" data-original-title="删除">
+																	<span class="red">
+																		<i class="ace-icon fa fa-trash-o bigger-120"></i>
+																	</span>
+														</a>
+													</li>
+												</ul>
+											</div>
+										</div>
+									</td>-->
+								</tr>
+							{/foreach}
+							<tr>
+								<!--<td height="50" align="left"><button  id="btnorder" class="btn btn-white btn-yellow btn-sm">排序</button></td>-->
+								<td height="50" colspan="11" align="right">{$page}</td>
+							</tr>
+							</tbody>
+						</table>
+					</form>
+				</div>
+			</div>
+		</div>
+
+
+
+
+	</div><!-- /.page-content -->
+{/block}
+
+

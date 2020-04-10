@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585884530-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674453</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Guantes de Látex Desechables, Ambiental Anti-bacteriana Guantes Latex Desechables para Limpiar la Cocina Doméstica</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Fácil de usar, irrompible, ligero y flexible.<br/>★ Bienvenido a la tienda LDGHL, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando los guantes desechables para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: guantes desechables<br/>- Color blanco<br/>- Material: emulsión<br/><br/>★ Lista de paquetes:<br/>- 100 piezas / caja<br/><br/>★ Nota<br/>- Este producto es solo para la venta de guantes desechables, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- Diferentes métodos o herramientas de medición, el error de tamaño es de aproximadamente 1-2 cm<br/>- Por favor, recorte las uñas antes de usar. Las uñas demasiado largas o afiladas pueden dañar fácilmente los guantes.<br/>- Cuando lo use, use el vientre de sus dedos para evitar que los guantes se caigan<br/>- Al quitarse los guantes, suba los guantes en su muñeca y quítelos en los dedos.<br/>- Si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ BUENA RESISTENCIA: Fácil de usar, irrompible, ligero y flexible.</BulletPoint>
+        <BulletPoint>★ ANTIPUNCIÓN LATEX: sin miedo a tirar, explosión fácil de usar, más segura.</BulletPoint>
+        <BulletPoint>★ PRUEBA ANTICUERDA: En el procesamiento diario de alimentos, se contactarán algunos alimentos como la harina pegajosa. Especialmente en contacto con el aceite, el valor de usar guantes para la comida de peces se refleja perfectamente.</BulletPoint>
+        <BulletPoint>★ MUY FLEXIBLE: es fácil de agarrar y tiene un amplio rango de movimiento.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Guantes Desechables Goma Látex Nitrilo Cocina Baño Protección Anti-Virus Anti-bacteriana Ambiental Mecánicos Automotrices Limpieza Hogar Tatuajes Multifuncionales Grado Alimenticio Reutilizables Transparentes PVC Confort Fino Hornear Catering</SearchTerms>
+        <ItemType>Desechables</ItemType>
+        <RecommendedBrowseNode>9829609011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size</VariationTheme>
+                <Size>S</Size>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585884530-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674460</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Guantes de Látex Desechables, Ambiental Anti-bacteriana Guantes Latex Desechables para Limpiar la Cocina Doméstica</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Fácil de usar, irrompible, ligero y flexible.<br/>★ Bienvenido a la tienda LDGHL, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando los guantes desechables para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: guantes desechables<br/>- Color blanco<br/>- Material: emulsión<br/><br/>★ Lista de paquetes:<br/>- 100 piezas / caja<br/><br/>★ Nota<br/>- Este producto es solo para la venta de guantes desechables, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- Diferentes métodos o herramientas de medición, el error de tamaño es de aproximadamente 1-2 cm<br/>- Por favor, recorte las uñas antes de usar. Las uñas demasiado largas o afiladas pueden dañar fácilmente los guantes.<br/>- Cuando lo use, use el vientre de sus dedos para evitar que los guantes se caigan<br/>- Al quitarse los guantes, suba los guantes en su muñeca y quítelos en los dedos.<br/>- Si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ BUENA RESISTENCIA: Fácil de usar, irrompible, ligero y flexible.</BulletPoint>
+        <BulletPoint>★ ANTIPUNCIÓN LATEX: sin miedo a tirar, explosión fácil de usar, más segura.</BulletPoint>
+        <BulletPoint>★ PRUEBA ANTICUERDA: En el procesamiento diario de alimentos, se contactarán algunos alimentos como la harina pegajosa. Especialmente en contacto con el aceite, el valor de usar guantes para la comida de peces se refleja perfectamente.</BulletPoint>
+        <BulletPoint>★ MUY FLEXIBLE: es fácil de agarrar y tiene un amplio rango de movimiento.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Guantes Desechables Goma Látex Nitrilo Cocina Baño Protección Anti-Virus Anti-bacteriana Ambiental Mecánicos Automotrices Limpieza Hogar Tatuajes Multifuncionales Grado Alimenticio Reutilizables Transparentes PVC Confort Fino Hornear Catering</SearchTerms>
+        <ItemType>Desechables</ItemType>
+        <RecommendedBrowseNode>9829609011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size</VariationTheme>
+                <Size>M</Size>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585884530-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674477</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Guantes de Látex Desechables, Ambiental Anti-bacteriana Guantes Latex Desechables para Limpiar la Cocina Doméstica</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Fácil de usar, irrompible, ligero y flexible.<br/>★ Bienvenido a la tienda LDGHL, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando los guantes desechables para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: guantes desechables<br/>- Color blanco<br/>- Material: emulsión<br/><br/>★ Lista de paquetes:<br/>- 100 piezas / caja<br/><br/>★ Nota<br/>- Este producto es solo para la venta de guantes desechables, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- Diferentes métodos o herramientas de medición, el error de tamaño es de aproximadamente 1-2 cm<br/>- Por favor, recorte las uñas antes de usar. Las uñas demasiado largas o afiladas pueden dañar fácilmente los guantes.<br/>- Cuando lo use, use el vientre de sus dedos para evitar que los guantes se caigan<br/>- Al quitarse los guantes, suba los guantes en su muñeca y quítelos en los dedos.<br/>- Si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ BUENA RESISTENCIA: Fácil de usar, irrompible, ligero y flexible.</BulletPoint>
+        <BulletPoint>★ ANTIPUNCIÓN LATEX: sin miedo a tirar, explosión fácil de usar, más segura.</BulletPoint>
+        <BulletPoint>★ PRUEBA ANTICUERDA: En el procesamiento diario de alimentos, se contactarán algunos alimentos como la harina pegajosa. Especialmente en contacto con el aceite, el valor de usar guantes para la comida de peces se refleja perfectamente.</BulletPoint>
+        <BulletPoint>★ MUY FLEXIBLE: es fácil de agarrar y tiene un amplio rango de movimiento.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Guantes Desechables Goma Látex Nitrilo Cocina Baño Protección Anti-Virus Anti-bacteriana Ambiental Mecánicos Automotrices Limpieza Hogar Tatuajes Multifuncionales Grado Alimenticio Reutilizables Transparentes PVC Confort Fino Hornear Catering</SearchTerms>
+        <ItemType>Desechables</ItemType>
+        <RecommendedBrowseNode>9829609011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size</VariationTheme>
+                <Size>L</Size>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585885244-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674507</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Guantes Desechables, Guantes de Goma de Látex, Cocina de Baño en Casa, Protección Ambiental Anti-bacteriana Anti-Virus</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Fácil de usar, irrompible, ligero y flexible.<br/>★ Bienvenido a la tienda LDGHL, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando los guantes desechables para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: guantes desechables<br/>- Color: azul, blanco<br/>- Material: caucho<br/><br/>★ Lista de paquetes:<br/>- 50 piezas / caja<br/><br/>★ Nota<br/>- Este producto es solo para la venta de guantes desechables, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- Diferentes métodos o herramientas de medición, el error de tamaño es de aproximadamente 1-2 cm<br/>- Por favor, recorte las uñas antes de usar. Las uñas demasiado largas o afiladas pueden dañar fácilmente los guantes.<br/>- Cuando lo use, use el vientre de sus dedos para evitar que los guantes se caigan<br/>- Al quitarse los guantes, suba los guantes en su muñeca y quítelos en los dedos.<br/>- Si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ AJUSTE CÓMODO: Materia prima de butironitrilo de alta calidad, ajuste anti-aceite y agradable para la piel.</BulletPoint>
+        <BulletPoint>★ EXCELENTE ELASTICIDAD: buen efecto elástico, fuerte y resistente a los pinchazos, duradero y duradero.</BulletPoint>
+        <BulletPoint>★ DEDO ANTIDESLIZANTE: diseño de superficie de lino micro, antideslizante efectivo, mejor agarre.</BulletPoint>
+        <BulletPoint>★ FUERTE Y RESISTENTE A LA PUNCIÓN: Excelente resistencia a la perforación, fuerte y duradero.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Guantes Desechables Goma Látex Nitrilo Cocina Baño Protección Anti-Virus Anti-bacteriana Ambiental Mecánicos Automotrices Limpieza Hogar Tatuajes Multifuncionales Grado Alimenticio Reutilizables Transparentes PVC Confort Fino Hornear Catering</SearchTerms>
+        <ItemType>Desechables</ItemType>
+        <RecommendedBrowseNode>9829609011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>S</Size>
+                <Color>Blue</Color>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585885244-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674514</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Guantes Desechables, Guantes de Goma de Látex, Cocina de Baño en Casa, Protección Ambiental Anti-bacteriana Anti-Virus</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Fácil de usar, irrompible, ligero y flexible.<br/>★ Bienvenido a la tienda LDGHL, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando los guantes desechables para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: guantes desechables<br/>- Color: azul, blanco<br/>- Material: caucho<br/><br/>★ Lista de paquetes:<br/>- 50 piezas / caja<br/><br/>★ Nota<br/>- Este producto es solo para la venta de guantes desechables, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- Diferentes métodos o herramientas de medición, el error de tamaño es de aproximadamente 1-2 cm<br/>- Por favor, recorte las uñas antes de usar. Las uñas demasiado largas o afiladas pueden dañar fácilmente los guantes.<br/>- Cuando lo use, use el vientre de sus dedos para evitar que los guantes se caigan<br/>- Al quitarse los guantes, suba los guantes en su muñeca y quítelos en los dedos.<br/>- Si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ AJUSTE CÓMODO: Materia prima de butironitrilo de alta calidad, ajuste anti-aceite y agradable para la piel.</BulletPoint>
+        <BulletPoint>★ EXCELENTE ELASTICIDAD: buen efecto elástico, fuerte y resistente a los pinchazos, duradero y duradero.</BulletPoint>
+        <BulletPoint>★ DEDO ANTIDESLIZANTE: diseño de superficie de lino micro, antideslizante efectivo, mejor agarre.</BulletPoint>
+        <BulletPoint>★ FUERTE Y RESISTENTE A LA PUNCIÓN: Excelente resistencia a la perforación, fuerte y duradero.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Guantes Desechables Goma Látex Nitrilo Cocina Baño Protección Anti-Virus Anti-bacteriana Ambiental Mecánicos Automotrices Limpieza Hogar Tatuajes Multifuncionales Grado Alimenticio Reutilizables Transparentes PVC Confort Fino Hornear Catering</SearchTerms>
+        <ItemType>Desechables</ItemType>
+        <RecommendedBrowseNode>9829609011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>M</Size>
+                <Color>Blue</Color>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585885244-3</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674521</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Guantes Desechables, Guantes de Goma de Látex, Cocina de Baño en Casa, Protección Ambiental Anti-bacteriana Anti-Virus</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Fácil de usar, irrompible, ligero y flexible.<br/>★ Bienvenido a la tienda LDGHL, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando los guantes desechables para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: guantes desechables<br/>- Color: azul, blanco<br/>- Material: caucho<br/><br/>★ Lista de paquetes:<br/>- 50 piezas / caja<br/><br/>★ Nota<br/>- Este producto es solo para la venta de guantes desechables, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- Diferentes métodos o herramientas de medición, el error de tamaño es de aproximadamente 1-2 cm<br/>- Por favor, recorte las uñas antes de usar. Las uñas demasiado largas o afiladas pueden dañar fácilmente los guantes.<br/>- Cuando lo use, use el vientre de sus dedos para evitar que los guantes se caigan<br/>- Al quitarse los guantes, suba los guantes en su muñeca y quítelos en los dedos.<br/>- Si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ AJUSTE CÓMODO: Materia prima de butironitrilo de alta calidad, ajuste anti-aceite y agradable para la piel.</BulletPoint>
+        <BulletPoint>★ EXCELENTE ELASTICIDAD: buen efecto elástico, fuerte y resistente a los pinchazos, duradero y duradero.</BulletPoint>
+        <BulletPoint>★ DEDO ANTIDESLIZANTE: diseño de superficie de lino micro, antideslizante efectivo, mejor agarre.</BulletPoint>
+        <BulletPoint>★ FUERTE Y RESISTENTE A LA PUNCIÓN: Excelente resistencia a la perforación, fuerte y duradero.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Guantes Desechables Goma Látex Nitrilo Cocina Baño Protección Anti-Virus Anti-bacteriana Ambiental Mecánicos Automotrices Limpieza Hogar Tatuajes Multifuncionales Grado Alimenticio Reutilizables Transparentes PVC Confort Fino Hornear Catering</SearchTerms>
+        <ItemType>Desechables</ItemType>
+        <RecommendedBrowseNode>9829609011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>L</Size>
+                <Color>Blue</Color>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585885244-4</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674538</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Guantes Desechables, Guantes de Goma de Látex, Cocina de Baño en Casa, Protección Ambiental Anti-bacteriana Anti-Virus</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Fácil de usar, irrompible, ligero y flexible.<br/>★ Bienvenido a la tienda LDGHL, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando los guantes desechables para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: guantes desechables<br/>- Color: azul, blanco<br/>- Material: caucho<br/><br/>★ Lista de paquetes:<br/>- 50 piezas / caja<br/><br/>★ Nota<br/>- Este producto es solo para la venta de guantes desechables, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- Diferentes métodos o herramientas de medición, el error de tamaño es de aproximadamente 1-2 cm<br/>- Por favor, recorte las uñas antes de usar. Las uñas demasiado largas o afiladas pueden dañar fácilmente los guantes.<br/>- Cuando lo use, use el vientre de sus dedos para evitar que los guantes se caigan<br/>- Al quitarse los guantes, suba los guantes en su muñeca y quítelos en los dedos.<br/>- Si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ AJUSTE CÓMODO: Materia prima de butironitrilo de alta calidad, ajuste anti-aceite y agradable para la piel.</BulletPoint>
+        <BulletPoint>★ EXCELENTE ELASTICIDAD: buen efecto elástico, fuerte y resistente a los pinchazos, duradero y duradero.</BulletPoint>
+        <BulletPoint>★ DEDO ANTIDESLIZANTE: diseño de superficie de lino micro, antideslizante efectivo, mejor agarre.</BulletPoint>
+        <BulletPoint>★ FUERTE Y RESISTENTE A LA PUNCIÓN: Excelente resistencia a la perforación, fuerte y duradero.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Guantes Desechables Goma Látex Nitrilo Cocina Baño Protección Anti-Virus Anti-bacteriana Ambiental Mecánicos Automotrices Limpieza Hogar Tatuajes Multifuncionales Grado Alimenticio Reutilizables Transparentes PVC Confort Fino Hornear Catering</SearchTerms>
+        <ItemType>Desechables</ItemType>
+        <RecommendedBrowseNode>9829609011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>S</Size>
+                <Color>White</Color>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585885244-5</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674545</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Guantes Desechables, Guantes de Goma de Látex, Cocina de Baño en Casa, Protección Ambiental Anti-bacteriana Anti-Virus</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Fácil de usar, irrompible, ligero y flexible.<br/>★ Bienvenido a la tienda LDGHL, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando los guantes desechables para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: guantes desechables<br/>- Color: azul, blanco<br/>- Material: caucho<br/><br/>★ Lista de paquetes:<br/>- 50 piezas / caja<br/><br/>★ Nota<br/>- Este producto es solo para la venta de guantes desechables, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- Diferentes métodos o herramientas de medición, el error de tamaño es de aproximadamente 1-2 cm<br/>- Por favor, recorte las uñas antes de usar. Las uñas demasiado largas o afiladas pueden dañar fácilmente los guantes.<br/>- Cuando lo use, use el vientre de sus dedos para evitar que los guantes se caigan<br/>- Al quitarse los guantes, suba los guantes en su muñeca y quítelos en los dedos.<br/>- Si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ AJUSTE CÓMODO: Materia prima de butironitrilo de alta calidad, ajuste anti-aceite y agradable para la piel.</BulletPoint>
+        <BulletPoint>★ EXCELENTE ELASTICIDAD: buen efecto elástico, fuerte y resistente a los pinchazos, duradero y duradero.</BulletPoint>
+        <BulletPoint>★ DEDO ANTIDESLIZANTE: diseño de superficie de lino micro, antideslizante efectivo, mejor agarre.</BulletPoint>
+        <BulletPoint>★ FUERTE Y RESISTENTE A LA PUNCIÓN: Excelente resistencia a la perforación, fuerte y duradero.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Guantes Desechables Goma Látex Nitrilo Cocina Baño Protección Anti-Virus Anti-bacteriana Ambiental Mecánicos Automotrices Limpieza Hogar Tatuajes Multifuncionales Grado Alimenticio Reutilizables Transparentes PVC Confort Fino Hornear Catering</SearchTerms>
+        <ItemType>Desechables</ItemType>
+        <RecommendedBrowseNode>9829609011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>M</Size>
+                <Color>White</Color>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585885244-6</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674552</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Guantes Desechables, Guantes de Goma de Látex, Cocina de Baño en Casa, Protección Ambiental Anti-bacteriana Anti-Virus</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Fácil de usar, irrompible, ligero y flexible.<br/>★ Bienvenido a la tienda LDGHL, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando los guantes desechables para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: guantes desechables<br/>- Color: azul, blanco<br/>- Material: caucho<br/><br/>★ Lista de paquetes:<br/>- 50 piezas / caja<br/><br/>★ Nota<br/>- Este producto es solo para la venta de guantes desechables, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- Diferentes métodos o herramientas de medición, el error de tamaño es de aproximadamente 1-2 cm<br/>- Por favor, recorte las uñas antes de usar. Las uñas demasiado largas o afiladas pueden dañar fácilmente los guantes.<br/>- Cuando lo use, use el vientre de sus dedos para evitar que los guantes se caigan<br/>- Al quitarse los guantes, suba los guantes en su muñeca y quítelos en los dedos.<br/>- Si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ AJUSTE CÓMODO: Materia prima de butironitrilo de alta calidad, ajuste anti-aceite y agradable para la piel.</BulletPoint>
+        <BulletPoint>★ EXCELENTE ELASTICIDAD: buen efecto elástico, fuerte y resistente a los pinchazos, duradero y duradero.</BulletPoint>
+        <BulletPoint>★ DEDO ANTIDESLIZANTE: diseño de superficie de lino micro, antideslizante efectivo, mejor agarre.</BulletPoint>
+        <BulletPoint>★ FUERTE Y RESISTENTE A LA PUNCIÓN: Excelente resistencia a la perforación, fuerte y duradero.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Guantes Desechables Goma Látex Nitrilo Cocina Baño Protección Anti-Virus Anti-bacteriana Ambiental Mecánicos Automotrices Limpieza Hogar Tatuajes Multifuncionales Grado Alimenticio Reutilizables Transparentes PVC Confort Fino Hornear Catering</SearchTerms>
+        <ItemType>Desechables</ItemType>
+        <RecommendedBrowseNode>9829609011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>L</Size>
+                <Color>White</Color>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585884530</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520668568</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Guantes de Látex Desechables, Ambiental Anti-bacteriana Guantes Latex Desechables para Limpiar la Cocina Doméstica</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Fácil de usar, irrompible, ligero y flexible.<br/>★ Bienvenido a la tienda LDGHL, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando los guantes desechables para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: guantes desechables<br/>- Color blanco<br/>- Material: emulsión<br/><br/>★ Lista de paquetes:<br/>- 100 piezas / caja<br/><br/>★ Nota<br/>- Este producto es solo para la venta de guantes desechables, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- Diferentes métodos o herramientas de medición, el error de tamaño es de aproximadamente 1-2 cm<br/>- Por favor, recorte las uñas antes de usar. Las uñas demasiado largas o afiladas pueden dañar fácilmente los guantes.<br/>- Cuando lo use, use el vientre de sus dedos para evitar que los guantes se caigan<br/>- Al quitarse los guantes, suba los guantes en su muñeca y quítelos en los dedos.<br/>- Si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ BUENA RESISTENCIA: Fácil de usar, irrompible, ligero y flexible.</BulletPoint>
+        <BulletPoint>★ ANTIPUNCIÓN LATEX: sin miedo a tirar, explosión fácil de usar, más segura.</BulletPoint>
+        <BulletPoint>★ PRUEBA ANTICUERDA: En el procesamiento diario de alimentos, se contactarán algunos alimentos como la harina pegajosa. Especialmente en contacto con el aceite, el valor de usar guantes para la comida de peces se refleja perfectamente.</BulletPoint>
+        <BulletPoint>★ MUY FLEXIBLE: es fácil de agarrar y tiene un amplio rango de movimiento.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Guantes Desechables Goma Látex Nitrilo Cocina Baño Protección Anti-Virus Anti-bacteriana Ambiental Mecánicos Automotrices Limpieza Hogar Tatuajes Multifuncionales Grado Alimenticio Reutilizables Transparentes PVC Confort Fino Hornear Catering</SearchTerms>
+        <ItemType>Desechables</ItemType>
+        <RecommendedBrowseNode>9829609011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size</VariationTheme>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585885244</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520668582</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Guantes Desechables, Guantes de Goma de Látex, Cocina de Baño en Casa, Protección Ambiental Anti-bacteriana Anti-Virus</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Fácil de usar, irrompible, ligero y flexible.<br/>★ Bienvenido a la tienda LDGHL, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando los guantes desechables para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: guantes desechables<br/>- Color: azul, blanco<br/>- Material: caucho<br/><br/>★ Lista de paquetes:<br/>- 50 piezas / caja<br/><br/>★ Nota<br/>- Este producto es solo para la venta de guantes desechables, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- Diferentes métodos o herramientas de medición, el error de tamaño es de aproximadamente 1-2 cm<br/>- Por favor, recorte las uñas antes de usar. Las uñas demasiado largas o afiladas pueden dañar fácilmente los guantes.<br/>- Cuando lo use, use el vientre de sus dedos para evitar que los guantes se caigan<br/>- Al quitarse los guantes, suba los guantes en su muñeca y quítelos en los dedos.<br/>- Si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ AJUSTE CÓMODO: Materia prima de butironitrilo de alta calidad, ajuste anti-aceite y agradable para la piel.</BulletPoint>
+        <BulletPoint>★ EXCELENTE ELASTICIDAD: buen efecto elástico, fuerte y resistente a los pinchazos, duradero y duradero.</BulletPoint>
+        <BulletPoint>★ DEDO ANTIDESLIZANTE: diseño de superficie de lino micro, antideslizante efectivo, mejor agarre.</BulletPoint>
+        <BulletPoint>★ FUERTE Y RESISTENTE A LA PUNCIÓN: Excelente resistencia a la perforación, fuerte y duradero.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estos guantes desechables, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Guantes Desechables Goma Látex Nitrilo Cocina Baño Protección Anti-Virus Anti-bacteriana Ambiental Mecánicos Automotrices Limpieza Hogar Tatuajes Multifuncionales Grado Alimenticio Reutilizables Transparentes PVC Confort Fino Hornear Catering</SearchTerms>
+        <ItemType>Desechables</ItemType>
+        <RecommendedBrowseNode>9829609011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

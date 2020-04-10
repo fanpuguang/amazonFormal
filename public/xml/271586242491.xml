@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A7WLACVLY9SQQ</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>55566018359</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>267</MessagesProcessed>
+				<MessagesSuccessful>257</MessagesSuccessful>
+				<MessagesWithError>10</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>122</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8jucj20_46p51o8bmobf5e86df9b868b1.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585897357-3-HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>140</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8jucklk_lrhkdhlv44d5e86df9d1371b.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585897357-6-HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>176</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8jv15mo_2otv1ylui3c5e86e418026b1.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585898497-4-HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>187</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8jv13bc_7gfbe51s6lud5e86e415efa15.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585898497-5-HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>202</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8jv12jk_2qla6fnppd785e86e41458058.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585898497-8-HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>24</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8js0t60_4w6xxxvp3u555e86d0599d4a9.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732-3--HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>245</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8jtfxg0_57zv436w0z3e5e86d9aaa7d3b.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>4</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8js0txs_6qiedu4v866y5e86d05ad87cb.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732-0--HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>64</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8jtfyzk_6j4y7sibzbu45e86d9acd1e7c.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-3--HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>66</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20000</ResultMessageCode>
+				<ResultDescription>We could not access the media at URL http://ldimg.ldkjmy.com/image/k8jtg1aw_5h00mtt0zulr5e86d9afafdd1.jpg. The download request timed out. Ensure that the URL is correct and the media is publicly accessible.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-3--HR</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

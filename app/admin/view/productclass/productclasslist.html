@@ -1,0 +1,113 @@
+{extend name="admin@public/base" /}
+{block name="main-content"}
+	<div class="page-content">
+		<script>
+			onload = function()
+			{
+				//startCheckOrder();
+			}
+			var imgPlus = new Image();
+			imgPlus.src = "__PUBLIC__/ace/menu_plus.gif";
+
+			function rowClicked(obj)
+			{
+				// 当前图像
+				img = obj;
+				
+				// 取得上二级tr>td>img对象
+				obj = obj.parentNode.parentNode;
+				// 整个分类列表表格
+				var tbl = document.getElementById("list-table");
+				// 当前分类级别
+				var lvl = parseInt(obj.className);
+				// 是否找到元素
+				var fnd = false;
+				var sub_display = img.src.indexOf('__PUBLIC__/ace/menu_minus.gif') > 0 ? 'none' : (Browser.isIE) ? 'block' : 'table-row' ;
+
+				// 遍历所有的分类
+				for (i = 0; i < tbl.rows.length; i++)
+				{
+					var row = tbl.rows[i];
+					if (row == obj)
+					{
+						// 找到当前行
+						fnd = true;
+						//document.getElementById('result').innerHTML += 'Find row at ' + i +"<br/>";
+					}
+					else
+					{
+						if (fnd == true)
+						{
+							var cur = parseInt(row.className);
+							var icon = 'icon_' + row.id;
+							if (cur > lvl)
+							{
+								row.style.display = sub_display;
+								if (sub_display != 'none')
+								{
+									var iconimg = document.getElementById(icon);
+									iconimg.src = iconimg.src.replace('__PUBLIC__/ace/plus.gif', '__PUBLIC__/ace/minus.gif');
+								}
+							}
+							else
+							{
+								fnd = false;
+								break;
+							}
+						}
+					}
+				}
+
+				for (i = 0; i < obj.cells[0].childNodes.length; i++)
+				{
+					var imgObj = obj.cells[0].childNodes[i];
+					if (imgObj.tagName == "IMG" && imgObj.src != '__PUBLIC__/ace/menu_arrow.gif')
+					{
+						imgObj.src = (imgObj.src == imgPlus.src) ? '__PUBLIC__/ace/menu_minus.gif' : imgPlus.src;
+					}
+				}
+			}
+		</script>
+		<div class="row">
+			<div class="col-xs-12">
+				<div>
+					<form class="ajaxForm2" name="leftnav" method="post" action="" >
+						<table class="table table-bordered table-striped with-check" id="list-table">
+							<thead>
+							<tr>
+								<th>ID</th>
+								<th>分类名称</th>
+								<th style="border-right:#CCC solid 1px;">操作</th>
+							</tr>
+							</thead>
+
+							<tbody >
+							{foreach name="list" item="vo"}
+
+										<tr class="{$vo.flags}" id="{$vo.parentId}_{$vo.categoryId}">
+											<td valign="middle">&nbsp;{$vo.categoryId}</td>
+											<td width="25%" valign="middle">
+												{if condition="$vo['parentId'] eq 0"}
+													<img src="__PUBLIC__/ace/menu_minus.gif" id="icon_{$vo.parentId}_{$vo.categoryId}" onclick="rowClicked(this)"/><strong style="color:#000000">{$vo.categoryName}</strong>
+												{else/}
+													{$vo.tmp}<img src="__PUBLIC__/ace/menu_minus.gif" id="icon_{$vo.parentId}_{$vo.categoryId}" onclick="rowClicked(this)"/>{$vo.categoryName}
+												{/if}
+											</td>
+
+											<td valign="middle">
+
+												<a href="{:url('editclassify?categoryId='.$vo['categoryId'])}" class="btn btn-info">修改</a>
+												<a href="{:url('delclassify?categoryId='.$vo['categoryId'])}" class="btn btn-danger" onClick="return confirm('您确定要将它删除吗')">删除</a>
+												<a href="{:url('addclassify?categoryId='.$vo['categoryId'])}" class="btn btn-success">添加子栏目</a>
+											</td>
+										</tr>
+
+							{/foreach}
+							</tbody>
+						</table>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div><!-- /.page-content -->
+{/block}

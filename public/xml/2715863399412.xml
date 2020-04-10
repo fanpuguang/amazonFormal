@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2O70136OXEC74</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>YXYLD-271586157697-0-HE</SKU>
+      <StandardPrice currency="EUR">23.56</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>YXYLD-271586157697-1-HE</SKU>
+      <StandardPrice currency="EUR">23.56</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <Price>
+      <SKU>YXYLD-271586157697-2-HE</SKU>
+      <StandardPrice currency="EUR">23.56</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158235-1-HE</SKU>
+      <StandardPrice currency="EUR">18.72</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158235-2-HE</SKU>
+      <StandardPrice currency="EUR">18.72</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158235-3-HE</SKU>
+      <StandardPrice currency="EUR">18.72</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158235-4-HE</SKU>
+      <StandardPrice currency="EUR">18.72</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158235-5-HE</SKU>
+      <StandardPrice currency="EUR">18.72</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158235-6-HE</SKU>
+      <StandardPrice currency="EUR">18.72</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158235-7-HE</SKU>
+      <StandardPrice currency="EUR">18.72</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158235-8-HE</SKU>
+      <StandardPrice currency="EUR">18.72</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158235-9-HE</SKU>
+      <StandardPrice currency="EUR">18.72</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>13</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158235-10-HE</SKU>
+      <StandardPrice currency="EUR">18.72</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158235-11-HE</SKU>
+      <StandardPrice currency="EUR">18.72</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>15</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158235-12-HE</SKU>
+      <StandardPrice currency="EUR">18.72</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>16</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-1-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>17</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-2-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>18</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-3-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>19</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-4-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>20</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-5-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>21</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-6-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>22</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-7-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>23</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-8-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>24</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-9-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>25</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-10-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>26</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-11-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>27</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-12-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>28</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-13-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>29</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-14-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>30</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-15-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>31</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-16-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>32</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-17-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>33</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-18-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>34</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158583-0-HE</SKU>
+      <StandardPrice currency="EUR">50.47</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>35</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158583-1-HE</SKU>
+      <StandardPrice currency="EUR">50.47</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>36</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158583-2-HE</SKU>
+      <StandardPrice currency="EUR">50.47</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>37</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158583-3-HE</SKU>
+      <StandardPrice currency="EUR">50.47</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>38</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158583-4-HE</SKU>
+      <StandardPrice currency="EUR">50.47</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>39</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158785-0-HE</SKU>
+      <StandardPrice currency="EUR">30.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>40</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158785-1-HE</SKU>
+      <StandardPrice currency="EUR">30.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>41</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158785-2-HE</SKU>
+      <StandardPrice currency="EUR">30.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>42</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158893-1-HE</SKU>
+      <StandardPrice currency="EUR">87.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>43</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158893-2-HE</SKU>
+      <StandardPrice currency="EUR">87.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>44</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158893-3-HE</SKU>
+      <StandardPrice currency="EUR">87.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>45</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158893-4-HE</SKU>
+      <StandardPrice currency="EUR">87.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>46</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158893-5-HE</SKU>
+      <StandardPrice currency="EUR">87.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>47</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158893-6-HE</SKU>
+      <StandardPrice currency="EUR">87.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>48</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158893-7-HE</SKU>
+      <StandardPrice currency="EUR">87.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>49</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158893-8-HE</SKU>
+      <StandardPrice currency="EUR">87.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>50</MessageID>
+    <Price>
+      <SKU>YXYLD-271586242661-1-HE</SKU>
+      <StandardPrice currency="EUR">102.11</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>51</MessageID>
+    <Price>
+      <SKU>YXYLD-271586242661-2-HE</SKU>
+      <StandardPrice currency="EUR">102.11</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>52</MessageID>
+    <Price>
+      <SKU>YXYLD-271586242661-3-HE</SKU>
+      <StandardPrice currency="EUR">102.11</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>53</MessageID>
+    <Price>
+      <SKU>YXYLD-271586242661-4-HE</SKU>
+      <StandardPrice currency="EUR">102.11</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>54</MessageID>
+    <Price>
+      <SKU>YXYLD-271586242661-5-HE</SKU>
+      <StandardPrice currency="EUR">102.11</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>55</MessageID>
+    <Price>
+      <SKU>YXYLD-271586242661-6-HE</SKU>
+      <StandardPrice currency="EUR">102.11</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>56</MessageID>
+    <Price>
+      <SKU>YXYLD-271586242839-0-HE</SKU>
+      <StandardPrice currency="EUR">16.88</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>57</MessageID>
+    <Price>
+      <SKU>YXYLD-271586242839-1-HE</SKU>
+      <StandardPrice currency="EUR">16.88</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>58</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-1-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>59</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-2-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>60</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-3-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>61</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-4-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>62</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-5-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>63</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-6-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>64</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-7-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>65</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-8-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>66</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-9-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>67</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-10-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>68</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-11-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>69</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-12-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>70</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-13-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>71</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-14-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>72</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-15-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>73</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243130-1-HE</SKU>
+      <StandardPrice currency="EUR">28.24</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>74</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243130-2-HE</SKU>
+      <StandardPrice currency="EUR">28.24</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>75</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243130-3-HE</SKU>
+      <StandardPrice currency="EUR">28.24</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>76</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243130-4-HE</SKU>
+      <StandardPrice currency="EUR">28.24</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>77</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243130-5-HE</SKU>
+      <StandardPrice currency="EUR">28.24</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>78</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243130-6-HE</SKU>
+      <StandardPrice currency="EUR">28.24</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>79</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243130-7-HE</SKU>
+      <StandardPrice currency="EUR">28.24</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>80</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243130-8-HE</SKU>
+      <StandardPrice currency="EUR">28.24</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>81</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243130-9-HE</SKU>
+      <StandardPrice currency="EUR">28.24</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>82</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243130-10-HE</SKU>
+      <StandardPrice currency="EUR">28.24</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>83</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243130-11-HE</SKU>
+      <StandardPrice currency="EUR">28.24</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>84</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243130-12-HE</SKU>
+      <StandardPrice currency="EUR">28.24</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>85</MessageID>
+    <Price>
+      <SKU>YXYLD-271586157697-HE</SKU>
+      <StandardPrice currency="EUR">23.56</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>86</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158235-HE</SKU>
+      <StandardPrice currency="EUR">18.72</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>87</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158470-HE</SKU>
+      <StandardPrice currency="EUR">25.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>88</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158583-HE</SKU>
+      <StandardPrice currency="EUR">50.47</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>89</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158785-HE</SKU>
+      <StandardPrice currency="EUR">30.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>90</MessageID>
+    <Price>
+      <SKU>YXYLD-271586158893-HE</SKU>
+      <StandardPrice currency="EUR">87.4</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>91</MessageID>
+    <Price>
+      <SKU>YXYLD-271586242661-HE</SKU>
+      <StandardPrice currency="EUR">102.11</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>92</MessageID>
+    <Price>
+      <SKU>YXYLD-271586242839-HE</SKU>
+      <StandardPrice currency="EUR">16.88</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>93</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243018-HE</SKU>
+      <StandardPrice currency="EUR">46.79</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>94</MessageID>
+    <Price>
+      <SKU>YXYLD-271586243130-HE</SKU>
+      <StandardPrice currency="EUR">28.24</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

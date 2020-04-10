@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2O70136OXEC74</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>YXYLD-271585732-0--HR-HE</SKU>
+      <StandardPrice currency="GBP">48.26</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>YXYLD-271585732-1--HR-HE</SKU>
+      <StandardPrice currency="GBP">48.26</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <Price>
+      <SKU>YXYLD-271585732-2--HR-HE</SKU>
+      <StandardPrice currency="GBP">48.26</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <Price>
+      <SKU>YXYLD-271585732-3--HR-HE</SKU>
+      <StandardPrice currency="GBP">48.26</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <Price>
+      <SKU>YXYLD-271585732-4--HR-HE</SKU>
+      <StandardPrice currency="GBP">48.26</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <Price>
+      <SKU>YXYLD-271585732-5--HR-HE</SKU>
+      <StandardPrice currency="GBP">48.26</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <Price>
+      <SKU>YXYLD-271585732-6--HR-HE</SKU>
+      <StandardPrice currency="GBP">48.26</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <Price>
+      <SKU>YXYLD-2715857-HE</SKU>
+      <StandardPrice currency="GBP">48.26</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

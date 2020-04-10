@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A1BXR3JT8264T2</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>50564018358</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>118</MessagesProcessed>
+				<MessagesSuccessful>2</MessagesSuccessful>
+				<MessagesWithError>116</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-0-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-0-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-0-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>10</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-9-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-9-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-9-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>100</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-41-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-41-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-41-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>101</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-42-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-42-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-42-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>102</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-43-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-43-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-43-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>103</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-44-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-44-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-44-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>104</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-45-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-45-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-45-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>105</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-46-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-46-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-46-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>106</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-47-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-47-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-47-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>107</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-48-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-48-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-48-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>108</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-49-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-49-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-49-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>109</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-50-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-50-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-50-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>11</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-10-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-10-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-10-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>110</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-51-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-51-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-51-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>111</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-52-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-52-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-52-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>112</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-53-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-53-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-53-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>113</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-54-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-54-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-54-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>114</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-55-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-55-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-55-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>115</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-56-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-56-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-56-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>116</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-57-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-57-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-57-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>12</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-11-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-11-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-11-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>13</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-12-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-12-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-12-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>14</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-13-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-13-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-13-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>15</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-14-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-14-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-14-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>16</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-15-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-15-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-15-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>17</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-16-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-16-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-16-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>18</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-17-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-17-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-17-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>19</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-18-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-18-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-18-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-1-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-1-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-1-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>20</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-19-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-19-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-19-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>21</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-20-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-20-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-20-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>22</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-21-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-21-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-21-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>23</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-22-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-22-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-22-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>24</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-23-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-23-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-23-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>25</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-24-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-24-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-24-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>26</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-25-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-25-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-25-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>27</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-26-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-26-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-26-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>28</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-27-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-27-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-27-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>29</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-28-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-28-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-28-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>3</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-2-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-2-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-2-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>30</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-29-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-29-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-29-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>31</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-30-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-30-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-30-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>32</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-31-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-31-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-31-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>33</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-32-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-32-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-32-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>34</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-33-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-33-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-33-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>35</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-34-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-34-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-34-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>36</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-35-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-35-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-35-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>37</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-36-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-36-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-36-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>38</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-37-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-37-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-37-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>39</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-38-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-38-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-38-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>4</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-3-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-3-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-3-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>40</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-39-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-39-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-39-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>41</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-40-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-40-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-40-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>42</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-41-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-41-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-41-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>43</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-42-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-42-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-42-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>44</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-43-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-43-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-43-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>45</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-44-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-44-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-44-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>46</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-45-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-45-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-45-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>47</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-46-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-46-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-46-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>48</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-47-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-47-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-47-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>49</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-48-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-48-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-48-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>5</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-4-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-4-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-4-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>50</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-49-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-49-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-49-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>51</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-50-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-50-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-50-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>52</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-51-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-51-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-51-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>53</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-52-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-52-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-52-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>54</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-53-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-53-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-53-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>55</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-54-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-54-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-54-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>56</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-55-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-55-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-55-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>57</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-56-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-56-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-56-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>58</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-57-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-57-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-57-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>59</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-0-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-0-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-0-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>6</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-5-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-5-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-5-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>60</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-1-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-1-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-1-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>61</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-2-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-2-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-2-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>62</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-3-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-3-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-3-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>63</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-4-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-4-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-4-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>64</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-5-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-5-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-5-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>65</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-6-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-6-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-6-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>66</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-7-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-7-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-7-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>67</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-8-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-8-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-8-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>68</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-9-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-9-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-9-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>69</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-10-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-10-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-10-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>7</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-6-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-6-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-6-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>70</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-11-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-11-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-11-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>71</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-12-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-12-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-12-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>72</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-13-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-13-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-13-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>73</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-14-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-14-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-14-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>74</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-15-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-15-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-15-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>75</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-16-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-16-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-16-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>76</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-17-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-17-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-17-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>77</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-18-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-18-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-18-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>78</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-19-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-19-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-19-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>79</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-20-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-20-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-20-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>8</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-7-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-7-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-7-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>80</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-21-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-21-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-21-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>81</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-22-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-22-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-22-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>82</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-23-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-23-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-23-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>83</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-24-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-24-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-24-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>84</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-25-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-25-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-25-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>85</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-26-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-26-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-26-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>86</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-27-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-27-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-27-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>87</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-28-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-28-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-28-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>88</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-29-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-29-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-29-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>89</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-30-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-30-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-30-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>9</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-8-PO、 指定のない属性 part_number。 SKU AIWKR-561586134757-8-POはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-8-PO</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>90</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-31-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-31-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-31-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>91</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-32-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-32-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-32-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>92</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-33-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-33-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-33-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>93</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-34-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-34-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-34-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>94</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-35-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-35-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-35-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>95</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-36-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-36-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-36-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>96</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-37-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-37-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-37-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>97</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-38-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-38-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-38-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>98</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-39-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-39-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-39-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>99</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-40-RB、 指定のない属性 part_number。 SKU AIWKR-561586138299-40-RBはどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-40-RB</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

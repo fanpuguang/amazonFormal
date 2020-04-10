@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A1A3K0BAQPDN3U</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>AIWKR-561585733533</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666939</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barella Posteriore, Migliorare Gobbo Indietro Barella, Dolore Alla Schiena Massager Di Rilievo Sostegno Lombare Della Colonna Vertebrale Vita Dolore Relax</Title>
+        <Brand>AIWKR</Brand>
+        <Description><![CDATA[Benvenuti a AIWKR! Noi continueremo ad aggiornare i nostri prodotti, grazie per la vostra fiducia!<br/><br/>The Back Barella, possono allungare il tuo lombare al sano curva!<br/><br/>✔ Caratteristiche:<br/>l'installazione ◆ facile.<br/>◆ Dà la schiena completamente elasticizzato e sostegno.<br/>◆ Riduzione compressione del nervo.<br/>◆ aiuta ad allineare la schiena spinale per salutare la curva fisica.<br/>◆ È portatile che si può fare di stretching ovunque.<br/><br/>✔Specification:<br/>◆ Materiale: ABS<br/>◆ Dimensione: 25.5 * 38.5 * 16,8 centimetri (10.04 * 15.16 * 6.61in)<br/>◆ Contenuto della confezione: 1 * Uso privato dispositivi di trazione posteriore<br/><br/>✔Tips:<br/>◆ Si prega di consentire la misurazione deviazione dovuto la misura manuale.<br/>◆ A causa delle condizioni di ripresa, i colori possono variare, si prega di concentrarsi sul colore del prodotto reale.<br/>◆ Se avete domande o insoddisfazione con i nostri prodotti, c'è possibile inviare una e-mail in qualsiasi momento, Vi serviremo entro le 24 ore.]]></Description>
+        <BulletPoint>★ ERGONOMIA PER Back Pain Relief: Il design ergonomico in grado di supportare comodamente la schiena, terapia di agopuntura il mal di schiena e il disagio, migliorare la flessibilità muscolare e stimolare la circolazione del sangue nel retro.</BulletPoint>
+        <BulletPoint>★ PERFETTA soluzione portatile PER TUTTI problemi alla schiena: Quale disco sporgente, ernia del disco e di altre questioni mal di schiena. Questa barella lombare semplicemente arcuata permette la colonna vertebrale per riallineare stessa alleviare la pressione spinale.</BulletPoint>
+        <BulletPoint>INSTALLAZIONE ★ FACILE CON 3 diversi livelli: Il lombare posteriore barella con dispositivo di terapia multi-livello regolabile, è flessibile registrare in base al vostro grado diverso richiede, completamente il dolore e alleviare tratto dei muscoli della schiena, delle spalle e parte bassa della schiena.</BulletPoint>
+        <BulletPoint>★ MULTIUSO: L'allineamento barella lombare può essere utilizzato ogni volta che si è sdraiato o seduto. Il dispositivo di allineamento posteriore può essere posizionato su una sedia per contribuire a correggere la postura di seduta, o seggiolino auto per servire come supporto lombare per auto che aiuta a ridurre la stanchezza in particolare.</BulletPoint>
+        <BulletPoint>★ SODDISFAZIONE DEL SERVIZIO POST-VENDITA: Potete trovare più prodotti che, come la ricerca di AIWKR. Se avete domande, non esitate a contattarci. Vi risponderemo entro 24 ore.</BulletPoint>
+        <Manufacturer>AIWKR</Manufacturer>
+        <SearchTerms>dispositivo barella lombare posteriore fascia cintura schiena supporto allungamento della multi-livello massaggiatore trazione stretching rilassare decompressione spinale correttore posizione</SearchTerms>
+        <ItemType>Massaggiatori per la schiena</ItemType>
+        <RecommendedBrowseNode>4327504031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData/>
+            </BedAndBath>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

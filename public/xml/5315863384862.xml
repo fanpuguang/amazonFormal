@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2ZCNQEQYWJPNJ</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>LYTLD-531586226653-0</SKU>
+      <StandardPrice currency="EUR">53.48</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>LYTLD-531586226653-1</SKU>
+      <StandardPrice currency="EUR">53.48</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <Price>
+      <SKU>LYTLD-531586226653</SKU>
+      <StandardPrice currency="EUR">53.48</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

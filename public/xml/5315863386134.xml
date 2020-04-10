@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2ZCNQEQYWJPNJ</MerchantIdentifier>
+  </Header>
+  <MessageType>Inventory</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Inventory>
+      <SKU>LYTLD-531586226653-0</SKU>
+      <FulfillmentCenterID>DEFAULT</FulfillmentCenterID>
+      <Quantity>182</Quantity>
+      <SwitchFulfillmentTo>MFN</SwitchFulfillmentTo>
+    </Inventory>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Inventory>
+      <SKU>LYTLD-531586226653-1</SKU>
+      <FulfillmentCenterID>DEFAULT</FulfillmentCenterID>
+      <Quantity>107</Quantity>
+      <SwitchFulfillmentTo>MFN</SwitchFulfillmentTo>
+    </Inventory>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Inventory>
+      <SKU>LYTLD-531586226653</SKU>
+      <FulfillmentCenterID>DEFAULT</FulfillmentCenterID>
+      <Quantity>23</Quantity>
+      <SwitchFulfillmentTo>MFN</SwitchFulfillmentTo>
+    </Inventory>
+  </Message>
+</AmazonEnvelope>

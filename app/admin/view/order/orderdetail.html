@@ -1,0 +1,906 @@
+{extend name="admin@public/base" /}
+{block name="main-content"}
+	<style type="text/css">
+		 label {
+		    font-weight: bold;
+		}
+		.details>span{
+			margin-right: 10px;
+		}
+		.jijian_content>span{
+		    display: inline-block;
+		    margin-bottom: 6px;
+		    width: 310px;
+		}
+		.jijian_content>label {
+    display: inline-block;
+    /* width: 108px; */
+    line-height: 28px;
+    color: #444;
+    padding-left: 5px;
+}
+	</style>
+	<form>
+	<p>
+		<span class="layui-breadcrumb1" style="visibility: visible;">
+			<a>
+				<cite>
+					订单详情
+				</cite>
+			</a>
+		</span>
+	</p>
+	<div class="form_item one">
+		<div class="item">
+			<div>
+				<h4>
+					基本信息
+				</h4>
+			</div>
+			<div class="details">
+				<span>
+					<label for="">
+						订单ID：
+					</label>
+					<span>
+						{$detail['OrderId']}
+					</span>
+				</span>
+				<span>
+					<label for="">
+						店铺：
+					</label>
+					<span>
+						崔建勤({$detail['MarketplaceId']})
+					</span>
+				</span>
+				<br>
+				<span>
+					<label for="">
+						总数量：
+					</label>
+					<span>
+						{$detail['GoodsNumber']}
+					</span>
+				</span>
+				<span>
+					<label for="">
+						总采购价（￥）：
+					</label>
+					<span>
+						34.34
+					</span>
+				</span>
+				<span>
+					<label for="">
+						订单状态：
+					</label>
+					<span>
+						{$detail['OrderStatus']}
+					</span>
+				</span>
+				<span>
+					<label for="">
+						亚马逊单号：
+					</label>
+					<span>
+						{$detail['AmazonOrderId']}
+					</span>
+				</span>
+				<span>
+					<label for="">
+						购买日期：
+					</label>
+					<span>
+						{$detail['PurchaseDate']}
+					</span>
+				</span>
+				<!---->
+				<!---->
+			</div>
+		</div>
+	</div>
+	<div class="form_item one">
+		<div class="item">
+			<div>
+				<img src="{$detail['smallImage']}"
+				alt="" width="100%">
+			</div>
+			<div>
+				<h4 style="margin-bottom: 20px;color: #444;font-weight: bold;font-size: 16px;">
+
+
+					{if $detail['MarketplaceId'] == "A1F83G8C2ARO7P"}
+					<a href="https://www.amazon.co.uk//gp/product/{$detail['ASIN']}" target="_blank">
+						{$detail['GoodsTitle']}
+					</a>
+					{elseif $detail['MarketplaceId'] == "A13V1IB3VIYZZH"}
+					<a href="https://www.amazon.fr//gp/product/{$detail['ASIN']}" target="_blank">
+						{$detail['GoodsTitle']}
+					</a>
+					{elseif $detail['MarketplaceId'] == "A1PA6795UKMFR9"}
+					<a href="https://www.amazon.de//gp/product/{$detail['ASIN']}" target="_blank">
+						{$detail['GoodsTitle']}
+					</a>
+					{elseif $detail['MarketplaceId'] == "A1RKKUPIHCS9HS"}
+					<a href="https://www.amazon.es//gp/product/{$detail['ASIN']}" target="_blank">
+						{$detail['GoodsTitle']}
+					</a>
+					{elseif $detail['MarketplaceId'] == "APJ6JRA9NG5V4"}
+					<a href="https://www.amazon.it//gp/product/{$detail['ASIN']}" target="_blank">
+						{$detail['GoodsTitle']}
+					</a>
+					{elseif $detail['MarketplaceId'] == "ATVPDKIKX0DER"}
+					<a href="https://www.amazon.com//gp/product/{$detail['ASIN']}" target="_blank">
+						{$detail['GoodsTitle']}
+					</a>
+					{elseif $detail['MarketplaceId'] == "A1AM78C64UM0Y8"}
+					<a href="https://www.amazon.mx//gp/product/{$detail['ASIN']}" target="_blank">
+						{$detail['GoodsTitle']}
+					</a>
+					{elseif $detail['MarketplaceId'] == "A2EUQ1WTGCTBG2"}
+					<a href="https://www.amazon.ca//gp/product/{$detail['ASIN']}" target="_blank">
+						{$detail['GoodsTitle']}
+					</a>
+					{elseif $detail['MarketplaceId'] == "A1VC38T7YXB528"}
+					<a href="https://www.amazon.co.jp//gp/product/{$detail['ASIN']}" target="_blank">
+						{$detail['GoodsTitle']}
+					</a>
+					{/if}
+
+
+
+				</h4>
+				<!---->
+				<span>
+					<label for="">
+						SKU：
+					</label>
+					<span lay-href="modules/product/detailsProduct1.html?id=10272845" layadmin-event="message"
+					lay-text="产品详情" style="color: rgb(18, 172, 232); cursor: pointer;">
+						{$detail['GoodsSku']}
+					</span>
+				</span>
+				<span>
+					<label for="">
+						ASIN：
+					</label>
+					<span>
+						{$detail['ASIN']}
+					</span>
+				</span>
+				<br>
+				<span>
+					<label for="">
+						数量：
+					</label>
+					<span>
+						{$detail['GoodsNumber']}
+					</span>
+				</span>
+				<span>
+					<label for="">
+						金额：
+					</label>
+					<span>
+						{$detail['GoodAmount']}
+					</span>
+				</span>
+			</div>
+		</div>
+		<div class="item">
+			<div>
+				<h4>
+					国内物流
+				</h4>
+			</div>
+			<div class="pro_inf chengben okEdit">
+				<!---->
+				<div>
+					<span>
+						<label for="">
+							采购价(￥)：
+						</label>
+						<input type="text" id="purchase_price" {if isset($DomesticLogistics['shipment_company'])} value="{$DomesticLogistics['purchase_price']}" {/if}>
+					</span>
+					<span>
+						<label for="">
+							物流单号(￥)：
+						</label>
+						<a href="javascript:;" data-ok="true" class="logistics">
+							<input data-ok="true" id="shipment_number" type="text" placeholder="物流单号"  {if isset($DomesticLogistics['shipment_number'])} value="{$DomesticLogistics['shipment_number']}" {/if}>
+						</a>
+					</span>
+					<span>
+						<label for="">
+							物流公司：
+						</label>
+						<input type="text" id="shipment_company" {if isset($DomesticLogistics['shipment_company'])} value="{$DomesticLogistics['shipment_company']}" {/if}>
+					</span>
+					<span>
+						<label for="">
+							发货日期(￥)：
+						</label>
+						<input type="date" id="shipping_date"  {if isset($DomesticLogistics['shipment_company'])} value="{$DomesticLogistics['shipping_date']}" placeholder="{$DomesticLogistics['shipping_date']}" {/if}> 
+					</span>
+					<div class="fr">
+						<input type="hidden" id="OrderId" value="{$detail['OrderId']}">
+						<input type="button" value="修改" class="edit" id="editDomestic">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="form_item">
+		<div class="item">
+			<div>
+				<h4>
+					寄件信息
+				</h4>
+			</div>
+			<div class="pro_inf okEdit jijian">
+				<div >
+					<span>
+						<label for="">
+							收件人：
+						</label>
+						<input type="text" placeholder="建议填写" disabled="disabled" >
+					</span>
+					<span>
+						<label for="">
+							TEL：
+						</label>
+						<input type="text" placeholder="建议填写" disabled="disabled">
+					</span>
+					<span>
+						<label for="">
+							收件人国家：
+						</label>
+						<input type="text" placeholder="建议填写" disabled="disabled" value="{$detail['CountryCode']}">
+					</span>
+					<span>
+						<label for="">
+							收件人国家(中文)：
+						</label>
+						<input type="text" placeholder="建议填写" disabled="disabled">
+					</span>
+					<span>
+						<label for="">
+							ZIP：
+						</label>
+						<input type="text" placeholder="建议填写" disabled="disabled">
+					</span>
+					<span>
+						<label for="" style="width: 64px;">
+							州：
+						</label>
+						<input type="text" placeholder="建议填写" disabled="disabled" value="{$detail['StateOrRegion']}">
+					</span>
+					<span>
+						<label for="" style="width: 47.8px;">
+							市：
+						</label>
+						<input type="text" placeholder="建议填写" disabled="disabled" value="{$detail['City']}">
+					</span>
+					<span>
+						<label for="">
+							街道：
+						</label>
+						<input type="text" placeholder="建议填写" disabled="disabled">
+					</span>
+					<br>
+					<span>
+						<label for="">
+							详细地址：
+						</label>
+						<textarea disabled="disabled" style="width: 409px;height: 68px;vertical-align: text-top;">
+							1153 Pitt Street
+						</textarea>
+					</span>
+					<div class="fr">
+						<input type="button" value="修改" class="edit">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="form_item">
+		<div class="item">
+			<div>
+				<h4>
+					国际物流
+				</h4>
+			</div>
+			<div class="pro_inf chengben">
+				<p>
+					<span style="color: rgb(0, 163, 232); cursor: pointer;">
+						<!-- 添加 -->
+					</span>
+				</p>
+				<div style="margin-bottom: 20px;" class="jijian_content">
+					<span>
+						<label for="" >
+							国际物流单号：
+						</label>
+						<span>
+							
+							<input type="text" id="international_no" {if isset($international['international_no'])} value="{$international['international_no']}" {/if} >
+						</span>
+					</span>
+					<span>
+						<label for="" >
+							国际跟踪号：
+						</label>
+						<span>
+							<input type="text" name="" id="tracking_number" {if isset($international['tracking_number'])} value="{$international['tracking_number']}" {/if}>
+						</span>
+					</span>
+					<span>
+						<label for="" >
+							国际运费：
+						</label>
+						<span>
+							<input type="text" name="" id="freight" {if isset($international['freight'])} value="{$international['freight']}" {/if}>
+						</span>
+					</span>
+					<br>
+					<span>
+						<label for="">
+							线路：
+						</label>
+						<span>
+							<input type="text" name="" id="line" {if isset($international['line'])} value="{$international['freight']}" {/if}>
+						</span>
+					</span>
+					<span>
+						<label for="">
+							重量：
+						</label>
+						<span>
+							<input type="text" name="" id="weight" {if isset($international['weight'])} value="{$international['weight']}" {/if}>
+						</span>
+					</span>
+					<span>
+						<label for="">
+							发货时间：
+						</label>
+						<span>
+							<input type="date" name="" id="international_date" {if isset($international['shipping_date'])} value="{$international['shipping_date']}" {/if}>
+						</span>
+					</span>
+					<div class="fr">
+						<!-- <span style="width: 110px; text-align: center; display: inline-block;">
+							物流状态：未发货
+						</span>
+						<span style="width: 140px; text-align: center; display: inline-block;">
+							2019-12-28 19:34:43
+						</span>
+						<p style="width: 60px; text-align: center;">
+							<span href="javascript:;">
+								已同步
+							</span>
+						</p> -->
+						<p style="display: block;">
+							<span style="color: rgb(0, 163, 232); cursor: pointer;" id="updateInternation">
+								修改
+							</span>
+							<!---->
+							<span style="color: rgb(0, 163, 232); cursor: pointer; margin: 0px 10px;">
+								打印
+							</span>
+							<span style="color: rgb(0, 163, 232); cursor: pointer;">
+								明细
+							</span>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="form_item">
+		<div class="item">
+			<div>
+				<h4>
+					订单明细
+				</h4>
+			</div>
+			<div class="details">
+				<table>
+					<tbody>
+						<tr>
+							<th>
+							</th>
+							<th>
+								订单金额
+								<span>
+									（汇率 {$detail['currency']}）
+								</span>
+							</th>
+							<th>
+								Amazon佣金
+							</th>
+							<th>
+								到账金额
+							</th>
+							<th>
+								采购价
+							</th>
+							<th>
+								国际运费
+							</th>
+							<th>
+								平台佣金
+							</th>
+							<th>
+								退货费用
+							</th>
+							<th>
+								利润
+							</th>
+							<th>
+								利润率
+							</th>
+						</tr>
+						<tr class="two">
+							<th>
+								国际币种
+							</th>
+							<td>
+								{$detail['Amount']}
+							</td>
+							<td>
+								7.02
+							</td>
+							<td>
+								39.75
+							</td>
+							<td>
+								--
+							</td>
+							<td>
+								--
+							</td>
+							<td>
+								--
+							</td>
+							<td>
+								--
+							</td>
+							<td>
+								--
+							</td>
+							<td>
+								--
+							</td>
+						</tr>
+						<tr>
+							<th>
+								人民币
+							</th>
+							<td>
+								{$detail['currency'] * $detail['Amount']}
+							</td>
+							<td>
+								37.39
+							</td>
+							<td>
+								211.89
+							</td>
+							<td>
+								34.34
+							</td>
+							<td>
+							</td>
+							<td>
+							</td>
+							<td>
+							</td>
+							<td>
+							</td>
+							<td>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+	<div id="logisticsDiv" class="logisticsDiv" style="display: none;">
+		<div>
+			<p>
+				<span style="color: rgb(102, 102, 102);">
+					单号：
+					<span>
+					</span>
+				</span>
+			</p>
+			<ul>
+				<!---->
+			</ul>
+		</div>
+	</div>
+	<div id="addorder" class="addorder" style="display: none;">
+		<h3>
+			国际运单
+		</h3>
+		<div class="form_item one" style="box-shadow: transparent 0px 0px 0px;">
+			<div class="item">
+				<div>
+					<img src="http://ecx.images-amazon.com/images/I/41FxFZNSSTL._SL500_.jpg"
+					alt="">
+				</div>
+				<div>
+					<p class="addDecP" style="font-weight: bold; font-size: 16px;">
+						Knee Guards Protection Knee Self-Heating Magnet Kneepad Sports Knee Pads
+						Warm Sports Protective Gear Black
+					</p>
+					<span>
+						<label for="">
+							SKU：
+						</label>
+						<span>
+							LYTLD-LYTLD-10272845-LYT-1
+						</span>
+					</span>
+					<span>
+						<label for="">
+							数量：
+						</label>
+						<span>
+							1
+						</span>
+					</span>
+					<br>
+					<span>
+						<label for="">
+							运输数量：
+						</label>
+						<div class="el-select">
+							<!---->
+							<div class="el-input el-input--suffix">
+								<!---->
+								<input type="text" readonly="readonly" autocomplete="off" placeholder="请选择"
+								class="el-input__inner">
+								<!---->
+								<span class="el-input__suffix">
+									<span class="el-input__suffix-inner">
+										<i class="el-select__caret el-input__icon el-icon-arrow-up">
+										</i>
+										<!---->
+										<!---->
+										<!---->
+										<!---->
+										<!---->
+									</span>
+									<!---->
+								</span>
+								<!---->
+								<!---->
+							</div>
+							<div class="el-select-dropdown el-popper" style="display: none;">
+								<div class="el-scrollbar" style="">
+									<div class="el-select-dropdown__wrap el-scrollbar__wrap" style="margin-bottom: -17px; margin-right: -17px;">
+										<ul class="el-scrollbar__view el-select-dropdown__list">
+											<!---->
+											<li class="el-select-dropdown__item">
+												<span>
+													0
+												</span>
+											</li>
+											<li class="el-select-dropdown__item selected">
+												<span>
+													1
+												</span>
+											</li>
+										</ul>
+									</div>
+									<div class="el-scrollbar__bar is-horizontal">
+										<div class="el-scrollbar__thumb" style="transform: translateX(0%);">
+										</div>
+									</div>
+									<div class="el-scrollbar__bar is-vertical">
+										<div class="el-scrollbar__thumb" style="transform: translateY(0%);">
+										</div>
+									</div>
+								</div>
+								<!---->
+							</div>
+						</div>
+					</span>
+					<br>
+				</div>
+			</div>
+			<div class="item">
+				<div>
+					<h4>
+						运单信息
+					</h4>
+				</div>
+				<div class="pro_inf">
+					<span>
+						<label for="">
+							中文：
+						</label>
+						<input type="text" name="chineseName" placeholder="中文">
+					</span>
+					<span>
+						<label for="">
+							英文：
+						</label>
+						<input type="text" name="englishName" placeholder="英文">
+					</span>
+					<br>
+					<span>
+						<label for="">
+							重量（kg）：
+						</label>
+						<input type="text" placeholder="重量（kg）">
+					</span>
+					<span style="width: 370px;">
+						<label for="">
+							体积（cm）：
+						</label>
+						<input type="text" placeholder="长（CM）" class="size_input">
+						*
+						<input type="text" placeholder="宽（CM）" class="size_input">
+						*
+						<input type="text" placeholder="高（CM）" class="size_input">
+					</span>
+					<br>
+					<span style="width: auto;">
+						<label for="">
+							物流：
+						</label>
+						<div class="el-select">
+							<!---->
+							<div class="el-input el-input--suffix">
+								<!---->
+								<input type="text" readonly="readonly" autocomplete="off" placeholder="请选择"
+								class="el-input__inner">
+								<!---->
+								<span class="el-input__suffix">
+									<span class="el-input__suffix-inner">
+										<i class="el-select__caret el-input__icon el-icon-arrow-up">
+										</i>
+										<!---->
+										<!---->
+										<!---->
+										<!---->
+										<!---->
+									</span>
+									<!---->
+								</span>
+								<!---->
+								<!---->
+							</div>
+							<div class="el-select-dropdown el-popper" style="display: none;">
+								<div class="el-scrollbar" style="">
+									<div class="el-select-dropdown__wrap el-scrollbar__wrap" style="margin-bottom: -17px; margin-right: -17px;">
+										<ul class="el-scrollbar__view el-select-dropdown__list">
+											<!---->
+											<li class="el-select-dropdown__item">
+												<span>
+													云途小包
+												</span>
+											</li>
+											<li class="el-select-dropdown__item">
+												<span>
+													三态大包
+												</span>
+											</li>
+										</ul>
+									</div>
+									<div class="el-scrollbar__bar is-horizontal">
+										<div class="el-scrollbar__thumb" style="transform: translateX(0%);">
+										</div>
+									</div>
+									<div class="el-scrollbar__bar is-vertical">
+										<div class="el-scrollbar__thumb" style="transform: translateY(0%);">
+										</div>
+									</div>
+								</div>
+								<!---->
+							</div>
+						</div>
+						<div class="el-select">
+							<!---->
+							<div class="el-input el-input--suffix">
+								<!---->
+								<input type="text" readonly="readonly" autocomplete="off" placeholder="请选择"
+								class="el-input__inner">
+								<!---->
+								<span class="el-input__suffix">
+									<span class="el-input__suffix-inner">
+										<i class="el-select__caret el-input__icon el-icon-arrow-up">
+										</i>
+										<!---->
+										<!---->
+										<!---->
+										<!---->
+										<!---->
+									</span>
+									<!---->
+								</span>
+								<!---->
+								<!---->
+							</div>
+							<div class="el-select-dropdown el-popper" style="display: none;">
+								<div class="el-scrollbar" style="display: none;">
+									<div class="el-select-dropdown__wrap el-scrollbar__wrap" style="margin-bottom: -17px; margin-right: -17px;">
+										<ul class="el-scrollbar__view el-select-dropdown__list">
+										</ul>
+									</div>
+									<div class="el-scrollbar__bar is-horizontal">
+										<div class="el-scrollbar__thumb" style="transform: translateX(0%);">
+										</div>
+									</div>
+									<div class="el-scrollbar__bar is-vertical">
+										<div class="el-scrollbar__thumb" style="transform: translateY(0%);">
+										</div>
+									</div>
+								</div>
+								<p class="el-select-dropdown__empty">
+									无数据
+								</p>
+							</div>
+						</div>
+					</span>
+					<!---->
+					<input type="button" value="生成运单号">
+					<br>
+					<span>
+						<label for="">
+							运单号：
+						</label>
+						<input type="text" placeholder="运单号" disabled="disabled">
+					</span>
+					<span>
+						<label for="">
+							追踪号：
+						</label>
+						<input type="text" placeholder="追踪号" disabled="disabled">
+					</span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="detailsorder" class="addorder" style="display: none;">
+		<h3>
+			国际运单
+		</h3>
+		<div class="form_item one" style="box-shadow: transparent 0px 0px 0px; margin: 0px;">
+			<div class="item">
+				<div>
+					<h4>
+						运单信息
+					</h4>
+				</div>
+				<div class="pro_inf">
+					<span>
+						<label for="">
+							运单状态：
+						</label>
+						<span style="color: rgb(0, 163, 232);">
+						</span>
+					</span>
+					<br>
+					<span>
+						<label for="">
+							中文：
+						</label>
+						<input type="text" placeholder="中文" disabled="disabled">
+					</span>
+					<span>
+						<label for="">
+							英文：
+						</label>
+						<input type="text" placeholder="英文" disabled="disabled">
+					</span>
+					<br>
+					<span>
+						<label for="">
+							重量（kg）：
+						</label>
+						<input type="text" placeholder="重量（kg）" disabled="disabled">
+					</span>
+					<span style="width: 370px;">
+						<label for="">
+							体积（cm）：
+						</label>
+						<input type="text" placeholder="长（CM）" disabled="disabled" class="size_input">
+						*
+						<input type="text" placeholder="宽（CM）" disabled="disabled" class="size_input">
+						*
+						<input type="text" placeholder="高（CM）" disabled="disabled" class="size_input">
+					</span>
+					<br>
+					<span style="width: auto;">
+						<label for="">
+							物流：
+						</label>
+						<!---->
+						<!---->
+						<span>
+						</span>
+					</span>
+					<!---->
+					<br>
+					<span>
+						<label for="">
+							运单号：
+						</label>
+						<input type="text" placeholder="运单号" disabled="disabled">
+					</span>
+					<span>
+						<label for="">
+							追踪号：
+						</label>
+						<input type="text" placeholder="追踪号" disabled="disabled">
+					</span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="addWul" style="display: none;">
+		<h3>
+			添加国内物流
+		</h3>
+		<span>
+			<label for="">
+				采购价
+			</label>
+			<input type="text" placeholder="采购价" {if isset($DomesticLogistics['purchase_price'])} value="{$DomesticLogistics['purchase_price']}" {/if}>
+		</span>
+		<br>
+		<span>
+			<label for="">
+				物流单号
+			</label>
+			<input type="text" placeholder="物流单号" {if isset($DomesticLogistics['shipment_number'])} value="{$DomesticLogistics['shipment_number']}" {/if}>
+		</span>
+		<br>
+		<span>
+			<label for="">
+				物流公司
+			</label>
+			<input type="text" placeholder="物流公司" {if isset($DomesticLogistics['shipment_company'])} value="{$DomesticLogistics['shipment_company']}" {/if}>
+		</span>
+	</div>
+</form>
+<script type="text/javascript">
+	$('#editDomestic').click(function(){
+		var purchase_price = $('#purchase_price').val()
+		var shipment_company = $('#shipment_company').val()
+		var shipment_number = $('#shipment_number').val()
+		var shipping_date = $('#shipping_date').val()
+		var OrderId = $('#OrderId').val()
+		$.ajax({
+			url:'{:url(\'admin/Order/updateDomestic\')}',
+			data:{purchase_price:purchase_price,shipment_company:shipment_company,shipment_number:shipment_number,shipping_date:shipping_date,OrderId:OrderId},
+			type:'post',
+			dataType: 'json',
+			success:function(result){
+				alert(result.msg)
+			}
+		},'json');
+	})
+	$('#updateInternation').click(function(){
+		var international_no = $('#international_no').val()
+		var tracking_number = $('#tracking_number').val()
+		var freight = $('#freight').val()
+		var line = $('#line').val()
+		var weight = $('#weight').val()
+		var shipping_date = $('#international_date').val()
+		var OrderId = $('#OrderId').val()
+		$.ajax({
+			url:'{:url(\'admin/Order/updateInternation\')}',
+			data:{international_no:international_no,tracking_number:tracking_number,freight:freight,line:line,weight:weight,shipping_date:shipping_date,OrderId:OrderId},
+			type:'post',
+			dataType: 'json',
+			success:function(result){
+				alert(result.msg)
+			}
+		},'json');
+	})
+</script>
+{/block}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A2O70136OXEC74</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>51858018359</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>37</MessagesProcessed>
+				<MessagesSuccessful>36</MessagesSuccessful>
+				<MessagesWithError>1</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>6039</ResultMessageCode>
+				<ResultDescription>Merchant is not authorized to sell products under this restricted product group.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-HR</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411355-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761714</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates Bar, Pilates Stick Übungsschläuche Trainingsbänder Stapelbare Trainingsschläuche für Bauch, Taille, Arm, Yoga Stretching Schlankheitstraining</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Diese kontrollierte Bewegung eignet sich nicht nur hervorragend zum Aufbau sportlicher Ganzkörperkraft, sondern schont auch Gelenke und schwache Muskeln, die sich von Überbeanspruchung und Verletzungen erholen.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Resistance Band weiterhin aktualisieren, um Kunden Qualitätsprodukte anzubieten.<br/><br/>★ Spezifikation<br/>- Gegenstandstyp: Widerstandsband<br/>- Material: NBR + Metallschlauch + Latexschlauch<br/>- Farbe: Pink, Schwarz, Blau<br/><br/>★ Paketliste:<br/>- 1 * Widerstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ Rutschfester Fußgurt: Bequem zu berühren, rutschfest, um den Knöchel vor Belastung zu schützen.</BulletPoint>
+        <BulletPoint>★ ANTI-BREAKING LATEX-SEIL: Hohe Elastizität, nach mehreren Zugversuchen nicht leicht zu verformen.</BulletPoint>
+        <BulletPoint>★ KOMFORTABLER SCHAUM: Dicker Schaum umhüllt das Metallrohr, das stark und bruchsicher ist und sich angenehm anfühlt.</BulletPoint>
+        <BulletPoint>★ ENTFERNBARES DESIGN: Abnehmbares Design, einfache Aufbewahrung nimmt keinen Platz ein, leicht zu tragen.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu dieser Tischlampe haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411355-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761721</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates Bar, Pilates Stick Übungsschläuche Trainingsbänder Stapelbare Trainingsschläuche für Bauch, Taille, Arm, Yoga Stretching Schlankheitstraining</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Diese kontrollierte Bewegung eignet sich nicht nur hervorragend zum Aufbau sportlicher Ganzkörperkraft, sondern schont auch Gelenke und schwache Muskeln, die sich von Überbeanspruchung und Verletzungen erholen.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Resistance Band weiterhin aktualisieren, um Kunden Qualitätsprodukte anzubieten.<br/><br/>★ Spezifikation<br/>- Gegenstandstyp: Widerstandsband<br/>- Material: NBR + Metallschlauch + Latexschlauch<br/>- Farbe: Pink, Schwarz, Blau<br/><br/>★ Paketliste:<br/>- 1 * Widerstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ Rutschfester Fußgurt: Bequem zu berühren, rutschfest, um den Knöchel vor Belastung zu schützen.</BulletPoint>
+        <BulletPoint>★ ANTI-BREAKING LATEX-SEIL: Hohe Elastizität, nach mehreren Zugversuchen nicht leicht zu verformen.</BulletPoint>
+        <BulletPoint>★ KOMFORTABLER SCHAUM: Dicker Schaum umhüllt das Metallrohr, das stark und bruchsicher ist und sich angenehm anfühlt.</BulletPoint>
+        <BulletPoint>★ ENTFERNBARES DESIGN: Abnehmbares Design, einfache Aufbewahrung nimmt keinen Platz ein, leicht zu tragen.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu dieser Tischlampe haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Black</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411355-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761738</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates Bar, Pilates Stick Übungsschläuche Trainingsbänder Stapelbare Trainingsschläuche für Bauch, Taille, Arm, Yoga Stretching Schlankheitstraining</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Diese kontrollierte Bewegung eignet sich nicht nur hervorragend zum Aufbau sportlicher Ganzkörperkraft, sondern schont auch Gelenke und schwache Muskeln, die sich von Überbeanspruchung und Verletzungen erholen.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Resistance Band weiterhin aktualisieren, um Kunden Qualitätsprodukte anzubieten.<br/><br/>★ Spezifikation<br/>- Gegenstandstyp: Widerstandsband<br/>- Material: NBR + Metallschlauch + Latexschlauch<br/>- Farbe: Pink, Schwarz, Blau<br/><br/>★ Paketliste:<br/>- 1 * Widerstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ Rutschfester Fußgurt: Bequem zu berühren, rutschfest, um den Knöchel vor Belastung zu schützen.</BulletPoint>
+        <BulletPoint>★ ANTI-BREAKING LATEX-SEIL: Hohe Elastizität, nach mehreren Zugversuchen nicht leicht zu verformen.</BulletPoint>
+        <BulletPoint>★ KOMFORTABLER SCHAUM: Dicker Schaum umhüllt das Metallrohr, das stark und bruchsicher ist und sich angenehm anfühlt.</BulletPoint>
+        <BulletPoint>★ ENTFERNBARES DESIGN: Abnehmbares Design, einfache Aufbewahrung nimmt keinen Platz ein, leicht zu tragen.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu dieser Tischlampe haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Blue</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411767-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761769</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Fitness-Sit-up-Trainingsgerät, Fitness Exerciser Rope Pull Bands, Pedal Resistance Band für Bauch / Taille / Arm / Yoga Stretching Schlankheitstraining</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Warum Sit-Ups Puller wählen?<br/>1. Beste Geschenkwahl - Es ist eines der besten Geschenke an Ihre Familie und Freunde zum Abnehmen.<br/>2.Training mit den Widerstandsbändern kann nicht nur bei Rehabilitationsübungen, Fettabbau, Muskelaufbau helfen, sondern auch Halsschmerzen und Schmerzen in der Lendenwirbelsäule verhindern und einen gesunden Körper für Sie erhalten.<br/>3.Ideal für die Straffung und Stärkung von Bauch, Taille und Beinen, Armen, Hüften, Oberschenkeln und wirkt gleichzeitig auf den Bauch.<br/>4. Bodybuilding Expander für Bauch / Taille / Arm / Bein Stretching Schlankheitstraining.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Pedal Resistance Band weiterhin aktualisieren, um Kunden mit Qualitätsprodukten zu versorgen.<br/><br/>★ Spezifikation<br/>- Artikeltyp: Pedalwiderstandsband<br/>- Material: Hochwertige Rohre, Schaum, Latex<br/>- Farbe: Rot, Schwarz<br/><br/>★ Paketliste:<br/>- 1 * Pedalwiderstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Pedal Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ FUSSUNTERSTÜTZUNG: Erhöhen Sie die Fußstützstange, rutschfest ist sicherer. Die Oberfläche ist mit rutschfestem Schaum bedeckt, um Sportverletzungen zu vermeiden</BulletPoint>
+        <BulletPoint>★ SCHLOSS KANN BEFESTIGT WERDEN: Drücken Sie leicht auf das Schloss, um es fest zu befestigen, einfach zu bedienen und bequemer zu bedienen.</BulletPoint>
+        <BulletPoint>★ HÖHE EINSTELLBAR: 3 Gänge können je nach Bedarf eingestellt werden und können frei geschaltet werden.</BulletPoint>
+        <BulletPoint>★ ANTI-SLIP SWEAT: Verdickte Schaumfolie, effektive Dämpfung, Reduzierung von Sportverletzungen, Sport sicherer.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesem Widerstandsband haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Red</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411767-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761776</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Fitness-Sit-up-Trainingsgerät, Fitness Exerciser Rope Pull Bands, Pedal Resistance Band für Bauch / Taille / Arm / Yoga Stretching Schlankheitstraining</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Warum Sit-Ups Puller wählen?<br/>1. Beste Geschenkwahl - Es ist eines der besten Geschenke an Ihre Familie und Freunde zum Abnehmen.<br/>2.Training mit den Widerstandsbändern kann nicht nur bei Rehabilitationsübungen, Fettabbau, Muskelaufbau helfen, sondern auch Halsschmerzen und Schmerzen in der Lendenwirbelsäule verhindern und einen gesunden Körper für Sie erhalten.<br/>3.Ideal für die Straffung und Stärkung von Bauch, Taille und Beinen, Armen, Hüften, Oberschenkeln und wirkt gleichzeitig auf den Bauch.<br/>4. Bodybuilding Expander für Bauch / Taille / Arm / Bein Stretching Schlankheitstraining.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Pedal Resistance Band weiterhin aktualisieren, um Kunden mit Qualitätsprodukten zu versorgen.<br/><br/>★ Spezifikation<br/>- Artikeltyp: Pedalwiderstandsband<br/>- Material: Hochwertige Rohre, Schaum, Latex<br/>- Farbe: Rot, Schwarz<br/><br/>★ Paketliste:<br/>- 1 * Pedalwiderstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Pedal Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ FUSSUNTERSTÜTZUNG: Erhöhen Sie die Fußstützstange, rutschfest ist sicherer. Die Oberfläche ist mit rutschfestem Schaum bedeckt, um Sportverletzungen zu vermeiden</BulletPoint>
+        <BulletPoint>★ SCHLOSS KANN BEFESTIGT WERDEN: Drücken Sie leicht auf das Schloss, um es fest zu befestigen, einfach zu bedienen und bequemer zu bedienen.</BulletPoint>
+        <BulletPoint>★ HÖHE EINSTELLBAR: 3 Gänge können je nach Bedarf eingestellt werden und können frei geschaltet werden.</BulletPoint>
+        <BulletPoint>★ ANTI-SLIP SWEAT: Verdickte Schaumfolie, effektive Dämpfung, Reduzierung von Sportverletzungen, Sport sicherer.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesem Widerstandsband haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Black</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412177-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761806</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates Bar, Pilates Stick Bodybuilding Yoga Pilates Stick Gym Resistance Band Ideal für Hause Ganzkörpertraining, Fitnessstudio, Gewichtheben</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Diese kontrollierte Bewegung eignet sich nicht nur hervorragend zum Aufbau sportlicher Ganzkörperkraft, sondern schont auch Gelenke und schwache Muskeln, die sich von Überbeanspruchung und Verletzungen erholen.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Resistance Band weiterhin aktualisieren, um Kunden Qualitätsprodukte anzubieten.<br/><br/>★ Spezifikation<br/>- Gegenstandstyp: Widerstandsband<br/>- Material: NBR + Metallschlauch + weicher Schlauch<br/>- Farbe: Lila, Schwarz, Pink<br/><br/>★ Paketliste:<br/>- 1 * Widerstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ DICKES METALLINNENROHR: Kostenlose Demontage und Montage.</BulletPoint>
+        <BulletPoint>★ DICKER UND KOMFORTABLER SCHAUM: Vermeiden Sie Verletzungen der Hände während des Trainings.</BulletPoint>
+        <BulletPoint>★ Gute Zähigkeit: Viele Male gedehnt, nicht leicht zu brechen.</BulletPoint>
+        <BulletPoint>★ VERDICKTER SCHUTZGÜRTEL: Hände und Knöchel vor Verletzungen schützen.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesem Widerstandsband haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Purple</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412177-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761813</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates Bar, Pilates Stick Bodybuilding Yoga Pilates Stick Gym Resistance Band Ideal für Hause Ganzkörpertraining, Fitnessstudio, Gewichtheben</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Diese kontrollierte Bewegung eignet sich nicht nur hervorragend zum Aufbau sportlicher Ganzkörperkraft, sondern schont auch Gelenke und schwache Muskeln, die sich von Überbeanspruchung und Verletzungen erholen.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Resistance Band weiterhin aktualisieren, um Kunden Qualitätsprodukte anzubieten.<br/><br/>★ Spezifikation<br/>- Gegenstandstyp: Widerstandsband<br/>- Material: NBR + Metallschlauch + weicher Schlauch<br/>- Farbe: Lila, Schwarz, Pink<br/><br/>★ Paketliste:<br/>- 1 * Widerstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ DICKES METALLINNENROHR: Kostenlose Demontage und Montage.</BulletPoint>
+        <BulletPoint>★ DICKER UND KOMFORTABLER SCHAUM: Vermeiden Sie Verletzungen der Hände während des Trainings.</BulletPoint>
+        <BulletPoint>★ Gute Zähigkeit: Viele Male gedehnt, nicht leicht zu brechen.</BulletPoint>
+        <BulletPoint>★ VERDICKTER SCHUTZGÜRTEL: Hände und Knöchel vor Verletzungen schützen.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesem Widerstandsband haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Black</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412177-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761820</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates Bar, Pilates Stick Bodybuilding Yoga Pilates Stick Gym Resistance Band Ideal für Hause Ganzkörpertraining, Fitnessstudio, Gewichtheben</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Diese kontrollierte Bewegung eignet sich nicht nur hervorragend zum Aufbau sportlicher Ganzkörperkraft, sondern schont auch Gelenke und schwache Muskeln, die sich von Überbeanspruchung und Verletzungen erholen.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Resistance Band weiterhin aktualisieren, um Kunden Qualitätsprodukte anzubieten.<br/><br/>★ Spezifikation<br/>- Gegenstandstyp: Widerstandsband<br/>- Material: NBR + Metallschlauch + weicher Schlauch<br/>- Farbe: Lila, Schwarz, Pink<br/><br/>★ Paketliste:<br/>- 1 * Widerstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ DICKES METALLINNENROHR: Kostenlose Demontage und Montage.</BulletPoint>
+        <BulletPoint>★ DICKER UND KOMFORTABLER SCHAUM: Vermeiden Sie Verletzungen der Hände während des Trainings.</BulletPoint>
+        <BulletPoint>★ Gute Zähigkeit: Viele Male gedehnt, nicht leicht zu brechen.</BulletPoint>
+        <BulletPoint>★ VERDICKTER SCHUTZGÜRTEL: Hände und Knöchel vor Verletzungen schützen.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesem Widerstandsband haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412823-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761851</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Multifunktions-Zugseilzieher, Walze Multifunktionale Trainingsgeräte Einfach Bedienen Kein Lärm Bauchübungen Core Wheels Trainer Frauen Maschine</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Diese kontrollierte Bewegung eignet sich nicht nur hervorragend zum Aufbau sportlicher Ganzkörperkraft, sondern schont auch Gelenke und schwache Muskeln, die sich von Überbeanspruchung und Verletzungen erholen.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Resistance Band weiterhin aktualisieren, um Kunden Qualitätsprodukte anzubieten.<br/><br/>★ Spezifikation<br/>- Gegenstandstyp: Widerstandsband<br/>- Farbe: Lila, Pink, Grün<br/><br/>★ Paketliste:<br/>- 1 * Widerstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ EINSTELLBARE ÜBUNGSINTENSITÄT: Je größer der Trennwinkel der beiden Räder ist, desto besser ist der Effekt und desto höher ist die Trainingsintensität.</BulletPoint>
+        <BulletPoint>★ VERLETZUNGSFREIER BODEN: Verschleißfester TPR-Weichgummi des Radaußenrings, der den Boden nicht verletzt.</BulletPoint>
+        <BulletPoint>★ THIN WAIST MODE: Automatischer Rückprall, vier Räder sind stabiler, geräuschloser und rutschfester.</BulletPoint>
+        <BulletPoint>★ JEDERZEIT ÜBERALL: Zuhause, Hotelzimmer, Büros und sogar im Freien Immer und überall, wo Sie ein Sportereignis oder eine Sportart starten möchten, ist es sehr einfach zu tragen und ein kleines tragbares Fitnessstudio. Perfektes Krafttraining zu Hause</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesem Widerstandsband haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Purple</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412823-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761868</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Multifunktions-Zugseilzieher, Walze Multifunktionale Trainingsgeräte Einfach Bedienen Kein Lärm Bauchübungen Core Wheels Trainer Frauen Maschine</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Diese kontrollierte Bewegung eignet sich nicht nur hervorragend zum Aufbau sportlicher Ganzkörperkraft, sondern schont auch Gelenke und schwache Muskeln, die sich von Überbeanspruchung und Verletzungen erholen.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Resistance Band weiterhin aktualisieren, um Kunden Qualitätsprodukte anzubieten.<br/><br/>★ Spezifikation<br/>- Gegenstandstyp: Widerstandsband<br/>- Farbe: Lila, Pink, Grün<br/><br/>★ Paketliste:<br/>- 1 * Widerstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ EINSTELLBARE ÜBUNGSINTENSITÄT: Je größer der Trennwinkel der beiden Räder ist, desto besser ist der Effekt und desto höher ist die Trainingsintensität.</BulletPoint>
+        <BulletPoint>★ VERLETZUNGSFREIER BODEN: Verschleißfester TPR-Weichgummi des Radaußenrings, der den Boden nicht verletzt.</BulletPoint>
+        <BulletPoint>★ THIN WAIST MODE: Automatischer Rückprall, vier Räder sind stabiler, geräuschloser und rutschfester.</BulletPoint>
+        <BulletPoint>★ JEDERZEIT ÜBERALL: Zuhause, Hotelzimmer, Büros und sogar im Freien Immer und überall, wo Sie ein Sportereignis oder eine Sportart starten möchten, ist es sehr einfach zu tragen und ein kleines tragbares Fitnessstudio. Perfektes Krafttraining zu Hause</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesem Widerstandsband haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412823-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761875</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Multifunktions-Zugseilzieher, Walze Multifunktionale Trainingsgeräte Einfach Bedienen Kein Lärm Bauchübungen Core Wheels Trainer Frauen Maschine</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Diese kontrollierte Bewegung eignet sich nicht nur hervorragend zum Aufbau sportlicher Ganzkörperkraft, sondern schont auch Gelenke und schwache Muskeln, die sich von Überbeanspruchung und Verletzungen erholen.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Resistance Band weiterhin aktualisieren, um Kunden Qualitätsprodukte anzubieten.<br/><br/>★ Spezifikation<br/>- Gegenstandstyp: Widerstandsband<br/>- Farbe: Lila, Pink, Grün<br/><br/>★ Paketliste:<br/>- 1 * Widerstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ EINSTELLBARE ÜBUNGSINTENSITÄT: Je größer der Trennwinkel der beiden Räder ist, desto besser ist der Effekt und desto höher ist die Trainingsintensität.</BulletPoint>
+        <BulletPoint>★ VERLETZUNGSFREIER BODEN: Verschleißfester TPR-Weichgummi des Radaußenrings, der den Boden nicht verletzt.</BulletPoint>
+        <BulletPoint>★ THIN WAIST MODE: Automatischer Rückprall, vier Räder sind stabiler, geräuschloser und rutschfester.</BulletPoint>
+        <BulletPoint>★ JEDERZEIT ÜBERALL: Zuhause, Hotelzimmer, Büros und sogar im Freien Immer und überall, wo Sie ein Sportereignis oder eine Sportart starten möchten, ist es sehr einfach zu tragen und ein kleines tragbares Fitnessstudio. Perfektes Krafttraining zu Hause</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesem Widerstandsband haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Green</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411355</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761707</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates Bar, Pilates Stick Übungsschläuche Trainingsbänder Stapelbare Trainingsschläuche für Bauch, Taille, Arm, Yoga Stretching Schlankheitstraining</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Diese kontrollierte Bewegung eignet sich nicht nur hervorragend zum Aufbau sportlicher Ganzkörperkraft, sondern schont auch Gelenke und schwache Muskeln, die sich von Überbeanspruchung und Verletzungen erholen.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Resistance Band weiterhin aktualisieren, um Kunden Qualitätsprodukte anzubieten.<br/><br/>★ Spezifikation<br/>- Gegenstandstyp: Widerstandsband<br/>- Material: NBR + Metallschlauch + Latexschlauch<br/>- Farbe: Pink, Schwarz, Blau<br/><br/>★ Paketliste:<br/>- 1 * Widerstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ Rutschfester Fußgurt: Bequem zu berühren, rutschfest, um den Knöchel vor Belastung zu schützen.</BulletPoint>
+        <BulletPoint>★ ANTI-BREAKING LATEX-SEIL: Hohe Elastizität, nach mehreren Zugversuchen nicht leicht zu verformen.</BulletPoint>
+        <BulletPoint>★ KOMFORTABLER SCHAUM: Dicker Schaum umhüllt das Metallrohr, das stark und bruchsicher ist und sich angenehm anfühlt.</BulletPoint>
+        <BulletPoint>★ ENTFERNBARES DESIGN: Abnehmbares Design, einfache Aufbewahrung nimmt keinen Platz ein, leicht zu tragen.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu dieser Tischlampe haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>13</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411637</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761745</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Fitness-Sit-up-Trainingsgerät, Elastisches Zugseil Fitnessgeräte Bodybuilding Expander Für Bauch / Taille / Arm / Bein Stretching Schlankheitstraining</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Warum Sit-Ups Puller wählen?<br/>1. Beste Geschenkwahl - Es ist eines der besten Geschenke an Ihre Familie und Freunde zum Abnehmen.<br/>2.Training mit den Widerstandsbändern kann nicht nur bei Rehabilitationsübungen, Fettabbau, Muskelaufbau helfen, sondern auch Halsschmerzen und Schmerzen in der Lendenwirbelsäule verhindern und einen gesunden Körper für Sie erhalten.<br/>3.Ideal für die Straffung und Stärkung von Bauch, Taille und Beinen, Armen, Hüften, Oberschenkeln und wirkt gleichzeitig auf den Bauch.<br/>4. Bodybuilding Expander für Bauch / Taille / Arm / Bein Stretching Schlankheitstraining.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Pedal Resistance Band weiterhin aktualisieren, um Kunden mit Qualitätsprodukten zu versorgen.<br/><br/>★ Spezifikation<br/>- Artikeltyp: Pedalwiderstandsband<br/>- Material: TPE + Schaum + legierter Stahl<br/>- Farbe lila<br/><br/>★ Paketliste:<br/>- 1 * Pedalwiderstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Pedal Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ SCHAUMGRIFF: Weicher Schaumstoffgriff, hohe Dichte, bequem und ohne Händeverletzung.</BulletPoint>
+        <BulletPoint>★ Rutschfeste Fußstütze: NBR-Material, sicher und sicher zu verwenden.</BulletPoint>
+        <BulletPoint>★ ANTI-BREAKING-TUCH: Nicht brechen, Stoff fest weben, der Sicherheitsfaktor ist gegenüber dem alten Modell um 50% erhöht.</BulletPoint>
+        <BulletPoint>★ BOLD STEEL BUCKLE: Stellen Sie sich willkürlich ein, wählen Sie Ihre Kraft und trainieren Sie genau richtig.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu dieser Tischlampe haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData/>
+            </OutdoorLiving>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411767</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761752</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Fitness-Sit-up-Trainingsgerät, Fitness Exerciser Rope Pull Bands, Pedal Resistance Band für Bauch / Taille / Arm / Yoga Stretching Schlankheitstraining</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Warum Sit-Ups Puller wählen?<br/>1. Beste Geschenkwahl - Es ist eines der besten Geschenke an Ihre Familie und Freunde zum Abnehmen.<br/>2.Training mit den Widerstandsbändern kann nicht nur bei Rehabilitationsübungen, Fettabbau, Muskelaufbau helfen, sondern auch Halsschmerzen und Schmerzen in der Lendenwirbelsäule verhindern und einen gesunden Körper für Sie erhalten.<br/>3.Ideal für die Straffung und Stärkung von Bauch, Taille und Beinen, Armen, Hüften, Oberschenkeln und wirkt gleichzeitig auf den Bauch.<br/>4. Bodybuilding Expander für Bauch / Taille / Arm / Bein Stretching Schlankheitstraining.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Pedal Resistance Band weiterhin aktualisieren, um Kunden mit Qualitätsprodukten zu versorgen.<br/><br/>★ Spezifikation<br/>- Artikeltyp: Pedalwiderstandsband<br/>- Material: Hochwertige Rohre, Schaum, Latex<br/>- Farbe: Rot, Schwarz<br/><br/>★ Paketliste:<br/>- 1 * Pedalwiderstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Pedal Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ FUSSUNTERSTÜTZUNG: Erhöhen Sie die Fußstützstange, rutschfest ist sicherer. Die Oberfläche ist mit rutschfestem Schaum bedeckt, um Sportverletzungen zu vermeiden</BulletPoint>
+        <BulletPoint>★ SCHLOSS KANN BEFESTIGT WERDEN: Drücken Sie leicht auf das Schloss, um es fest zu befestigen, einfach zu bedienen und bequemer zu bedienen.</BulletPoint>
+        <BulletPoint>★ HÖHE EINSTELLBAR: 3 Gänge können je nach Bedarf eingestellt werden und können frei geschaltet werden.</BulletPoint>
+        <BulletPoint>★ ANTI-SLIP SWEAT: Verdickte Schaumfolie, effektive Dämpfung, Reduzierung von Sportverletzungen, Sport sicherer.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesem Widerstandsband haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>15</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411966</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761783</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates Bar, Pilates Stick Übungswiderstand Band Yoga Pilates Bar Tragbare Muskeltonus Bar Home Gym für die Verbesserung des Ganzkörpertrainings</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Diese kontrollierte Bewegung eignet sich nicht nur hervorragend zum Aufbau sportlicher Ganzkörperkraft, sondern schont auch Gelenke und schwache Muskeln, die sich von Überbeanspruchung und Verletzungen erholen.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Resistance Band weiterhin aktualisieren, um Kunden Qualitätsprodukte anzubieten.<br/><br/>★ Spezifikation<br/>- Gegenstandstyp: Widerstandsband<br/>- Material: Schnalle aus Naturlatexrohr / Nylon / Stahl<br/>- Farbe: Schwarz-Rot<br/><br/>★ Paketliste:<br/>- 1 * Widerstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ Praktisch und robust: Die Stange kann gespalten und zerrissen werden, der EVA fühlt sich angenehm und langlebig an.</BulletPoint>
+        <BulletPoint>★ EINSTELLBARE LÄNGE: Einstellbare Schnalle, schnelle Längeneinstellung, schnell und bequem.</BulletPoint>
+        <BulletPoint>★ SICHERES MATERIAL: Sicheres und bruchsicheres Design, robuste Nylonimitatstruktur.</BulletPoint>
+        <BulletPoint>★ JEDERZEIT ÜBERALL: Zuhause, Hotelzimmer, Büros und sogar im Freien Immer und überall, wo Sie ein Sportereignis oder eine Sportart starten möchten, ist es sehr einfach zu tragen und ein kleines tragbares Fitnessstudio. Perfektes Krafttraining zu Hause.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesem Widerstandsband haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData/>
+            </OutdoorLiving>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>16</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412177</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761790</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates Bar, Pilates Stick Bodybuilding Yoga Pilates Stick Gym Resistance Band Ideal für Hause Ganzkörpertraining, Fitnessstudio, Gewichtheben</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Diese kontrollierte Bewegung eignet sich nicht nur hervorragend zum Aufbau sportlicher Ganzkörperkraft, sondern schont auch Gelenke und schwache Muskeln, die sich von Überbeanspruchung und Verletzungen erholen.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Resistance Band weiterhin aktualisieren, um Kunden Qualitätsprodukte anzubieten.<br/><br/>★ Spezifikation<br/>- Gegenstandstyp: Widerstandsband<br/>- Material: NBR + Metallschlauch + weicher Schlauch<br/>- Farbe: Lila, Schwarz, Pink<br/><br/>★ Paketliste:<br/>- 1 * Widerstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ DICKES METALLINNENROHR: Kostenlose Demontage und Montage.</BulletPoint>
+        <BulletPoint>★ DICKER UND KOMFORTABLER SCHAUM: Vermeiden Sie Verletzungen der Hände während des Trainings.</BulletPoint>
+        <BulletPoint>★ Gute Zähigkeit: Viele Male gedehnt, nicht leicht zu brechen.</BulletPoint>
+        <BulletPoint>★ VERDICKTER SCHUTZGÜRTEL: Hände und Knöchel vor Verletzungen schützen.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesem Widerstandsband haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>17</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412429</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761837</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates Bar, Pilates Stick Widerstandsband Yoga Pilates Stick Yoga Übungsstange mit Fußschlaufe für Yoga, Stretch, Sculpt, Twisting, Sit-Up Bar Widerstandsband</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Diese kontrollierte Bewegung eignet sich nicht nur hervorragend zum Aufbau sportlicher Ganzkörperkraft, sondern schont auch Gelenke und schwache Muskeln, die sich von Überbeanspruchung und Verletzungen erholen.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Resistance Band weiterhin aktualisieren, um Kunden Qualitätsprodukte anzubieten.<br/><br/>★ Spezifikation<br/>- Gegenstandstyp: Widerstandsband<br/>- Material: Latex / Polyestergarn / Eisen / PP-Baumwolle<br/>- Farbe orange<br/><br/>★ Paketliste:<br/>- 1 * Widerstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ STATT BARBELL: Die Fitnessbar kann die Langhantel ersetzen, die sicherer, bequemer zu verstauen und die Rückenmuskulatur zu trainieren ist.</BulletPoint>
+        <BulletPoint>★ YOGA-UNTERSTÜTZUNG: Der Fitness-Stick kann Yoga-Übungen unterstützen und dabei helfen, die Hüftform zu trainieren.</BulletPoint>
+        <BulletPoint>★ STATT DREHEN DER TAILLE: Der Fitness-Stick kann die Taillendrehmaschine ersetzen und die Taille vor Verstauchungen schützen.</BulletPoint>
+        <BulletPoint>★ STATT ZIEHEN: Die Fitnessstange kann das Zugseil ersetzen, mehr Übungsmethoden zeigen, den Schmetterlingsarm abschütteln und lange Beine erzeugen.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesem Widerstandsband haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData/>
+            </OutdoorLiving>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>18</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412823</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761844</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Multifunktions-Zugseilzieher, Walze Multifunktionale Trainingsgeräte Einfach Bedienen Kein Lärm Bauchübungen Core Wheels Trainer Frauen Maschine</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Diese kontrollierte Bewegung eignet sich nicht nur hervorragend zum Aufbau sportlicher Ganzkörperkraft, sondern schont auch Gelenke und schwache Muskeln, die sich von Überbeanspruchung und Verletzungen erholen.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Resistance Band weiterhin aktualisieren, um Kunden Qualitätsprodukte anzubieten.<br/><br/>★ Spezifikation<br/>- Gegenstandstyp: Widerstandsband<br/>- Farbe: Lila, Pink, Grün<br/><br/>★ Paketliste:<br/>- 1 * Widerstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ EINSTELLBARE ÜBUNGSINTENSITÄT: Je größer der Trennwinkel der beiden Räder ist, desto besser ist der Effekt und desto höher ist die Trainingsintensität.</BulletPoint>
+        <BulletPoint>★ VERLETZUNGSFREIER BODEN: Verschleißfester TPR-Weichgummi des Radaußenrings, der den Boden nicht verletzt.</BulletPoint>
+        <BulletPoint>★ THIN WAIST MODE: Automatischer Rückprall, vier Räder sind stabiler, geräuschloser und rutschfester.</BulletPoint>
+        <BulletPoint>★ JEDERZEIT ÜBERALL: Zuhause, Hotelzimmer, Büros und sogar im Freien Immer und überall, wo Sie ein Sportereignis oder eine Sportart starten möchten, ist es sehr einfach zu tragen und ein kleines tragbares Fitnessstudio. Perfektes Krafttraining zu Hause</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesem Widerstandsband haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

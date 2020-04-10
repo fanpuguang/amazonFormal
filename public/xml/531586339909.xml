@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A2ZCNQEQYWJPNJ</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>54248018360</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>3</MessagesProcessed>
+				<MessagesSuccessful>0</MessagesSuccessful>
+				<MessagesWithError>3</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5561</ResultMessageCode>
+				<ResultDescription>You may not use trademarked terms in the keywords attribute. Please review our prohibited seller activities and actions at https://sellercentral.amazon.com/gp/help/help.html?itemID=200386250. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>LYTLD-531586226653-0-</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8566</ResultMessageCode>
+				<ResultDescription>SKU does not match any ASIN and the product data provided is not eligible for ASIN creation.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LYTLD-531586226653-0-</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5561</ResultMessageCode>
+				<ResultDescription>You may not use trademarked terms in the keywords attribute. Please review our prohibited seller activities and actions at https://sellercentral.amazon.com/gp/help/help.html?itemID=200386250. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>LYTLD-531586226653-1-</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8566</ResultMessageCode>
+				<ResultDescription>SKU does not match any ASIN and the product data provided is not eligible for ASIN creation.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LYTLD-531586226653-1-</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>3</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5561</ResultMessageCode>
+				<ResultDescription>You may not use trademarked terms in the keywords attribute. Please review our prohibited seller activities and actions at https://sellercentral.amazon.com/gp/help/help.html?itemID=200386250. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>LYTLD-531586226653-</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>3</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8566</ResultMessageCode>
+				<ResultDescription>SKU does not match any ASIN and the product data provided is not eligible for ASIN creation.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LYTLD-531586226653-</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

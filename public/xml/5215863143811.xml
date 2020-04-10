@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585821092-0-</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554861118</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Aire Acondicionado Portatil Usb, Ventilador De HumidificacióN De Escritorio Con Refrigerador Usb Y Enfriador De Agua, Oficina, Dormitorio, Sala De Estar, Cocina Y Exterior</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Desea mantenerse fresco en el caluroso verano, pero le preocupa que le cueste mucho hacer funcionar el aire acondicionado todo el día, y los ventiladores comunes solo le darán aire caliente en la cara.<br/><br/>✔ ¿Quieres una mejor manera de calmarte?<br/>Use nuestro mini enfriador de aire para obtener este enfriador de espacio personal para crear su zona de confort. Simplemente agregue agua y hielo al tanque de agua, luego relájese y disfrute de un aliento fresco y húmedo.<br/><br/>✔ Ventilador de enfriamiento y humidificador<br/>El aire acondicionado, el enfriador de aire evaporativo portátil y el humidificador atomizador se combinan en uno, lo que puede humedecer la piel y el aire, mantenerse alejado del aire seco y disfrutar del frescor del verano.<br/><br/>✔ Aire fresco y disfruta de una vida saludable<br/>Reduce la temperatura por evaporación del agua y produce aire fresco. ¡Bajo consumo de energía y largo tiempo de humidificación! Es energéticamente eficiente y baja en carbono.<br/><br/>✔ Nombre: Desktop Cooler<br/>✔ Color: blanco<br/>✔ Material: ABS<br/>✔ Concentración de iones negativos: 3 millones / cm3<br/>✔ Voltaje de entrada: 5V<br/>✔ Concentración de ozono: &lt;0.05PPM<br/>✔ Corriente de entrada: 1.5-2A<br/>✔ Potencia nominal: 5W<br/><br/>✔ El paquete incluye:<br/>1 x aire acondicionado<br/>1 x cable de datos USB]]></Description>
+        <BulletPoint>✔ Doble protección de la humidificación profunda: además de la humidificación evaporativa normal, se puede activar la atomización activa</BulletPoint>
+        <BulletPoint>Sí, puede fortalecer el efecto humidificador para hacer frente al verano severo y caluroso.</BulletPoint>
+        <BulletPoint>✔ Fácil de operar y liviano: solo agregue agua o agua helada, luego conecte el cable USB a una fuente de alimentación móvil o cualquier interfaz USB, y puede usar el mini enfriador de aire portátil presionando el botón de función.</BulletPoint>
+        <BulletPoint>✔ Diseño portátil: este aire acondicionado personal utiliza un diseño mini-portátil, con un asa retráctil en la parte superior del enfriador de aire, que tiene solo 7.2 pulgadas de alto. Es muy fácil de transportar a la oficina, dormitorio, sala de estar, cocina y exterior.</BulletPoint>
+        <BulletPoint>✔ Ahorro de energía y salud: este enfriador de aire portátil tiene un bajo consumo de energía y no contiene freón. No solo protege la salud de su familia, sino que también minimiza la pérdida de energía y protege el medio ambiente. También se puede usar en el trabajo y los viajes.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585821092-A</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554861101</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Aire Acondicionado Portatil Usb, Ventilador De HumidificacióN De Escritorio Con Refrigerador Usb Y Enfriador De Agua, Oficina, Dormitorio, Sala De Estar, Cocina Y Exterior</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Desea mantenerse fresco en el caluroso verano, pero le preocupa que le cueste mucho hacer funcionar el aire acondicionado todo el día, y los ventiladores comunes solo le darán aire caliente en la cara.<br/><br/>✔ ¿Quieres una mejor manera de calmarte?<br/>Use nuestro mini enfriador de aire para obtener este enfriador de espacio personal para crear su zona de confort. Simplemente agregue agua y hielo al tanque de agua, luego relájese y disfrute de un aliento fresco y húmedo.<br/><br/>✔ Ventilador de enfriamiento y humidificador<br/>El aire acondicionado, el enfriador de aire evaporativo portátil y el humidificador atomizador se combinan en uno, lo que puede humedecer la piel y el aire, mantenerse alejado del aire seco y disfrutar del frescor del verano.<br/><br/>✔ Aire fresco y disfruta de una vida saludable<br/>Reduce la temperatura por evaporación del agua y produce aire fresco. ¡Bajo consumo de energía y largo tiempo de humidificación! Es energéticamente eficiente y baja en carbono.<br/><br/>✔ Nombre: Desktop Cooler<br/>✔ Color: blanco<br/>✔ Material: ABS<br/>✔ Concentración de iones negativos: 3 millones / cm3<br/>✔ Voltaje de entrada: 5V<br/>✔ Concentración de ozono: &lt;0.05PPM<br/>✔ Corriente de entrada: 1.5-2A<br/>✔ Potencia nominal: 5W<br/><br/>✔ El paquete incluye:<br/>1 x aire acondicionado<br/>1 x cable de datos USB]]></Description>
+        <BulletPoint>✔ Doble protección de la humidificación profunda: además de la humidificación evaporativa normal, se puede activar la atomización activa</BulletPoint>
+        <BulletPoint>Sí, puede fortalecer el efecto humidificador para hacer frente al verano severo y caluroso.</BulletPoint>
+        <BulletPoint>✔ Fácil de operar y liviano: solo agregue agua o agua helada, luego conecte el cable USB a una fuente de alimentación móvil o cualquier interfaz USB, y puede usar el mini enfriador de aire portátil presionando el botón de función.</BulletPoint>
+        <BulletPoint>✔ Diseño portátil: este aire acondicionado personal utiliza un diseño mini-portátil, con un asa retráctil en la parte superior del enfriador de aire, que tiene solo 7.2 pulgadas de alto. Es muy fácil de transportar a la oficina, dormitorio, sala de estar, cocina y exterior.</BulletPoint>
+        <BulletPoint>✔ Ahorro de energía y salud: este enfriador de aire portátil tiene un bajo consumo de energía y no contiene freón. No solo protege la salud de su familia, sino que también minimiza la pérdida de energía y protege el medio ambiente. También se puede usar en el trabajo y los viajes.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

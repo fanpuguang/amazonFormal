@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586482848</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476763398</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Yoga Pilates Stick, Barra di Pilates Foot Loop Kit Elastico Portatile per Esercizio Yoga Allenatore del Corpo Canna Fitness per Bodybuilding Allenarsi</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Questo movimento controllato non è solo ottimo per sviluppare la forza atletica di tutto il corpo, ma è anche facile per le articolazioni e i muscoli deboli che si stanno riprendendo da un uso eccessivo e da lesioni.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza<br/>- Materiale: tubo in lattice naturale / fibbia in nylon / acciaio<br/>- Colore: nero-rosso<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * banda di resistenza<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di Resistance Band, altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ COMODO E ROBUSTO: il palo può essere diviso e strappato, l'EVA si sente comodo, resistente.</BulletPoint>
+        <BulletPoint>★ LUNGHEZZA REGOLABILE: fibbia regolabile, regolazione rapida della lunghezza, rapida e comoda.</BulletPoint>
+        <BulletPoint>★ MATERIALE SICURO: design sicuro e anti-rottura, robusta struttura in nylon imitazione.</BulletPoint>
+        <BulletPoint>★ IN QUALSIASI MOMENTO OVUNQUE: Casa, camere d'albergo, uffici e persino all'aperto Sempre e ovunque tu voglia iniziare un evento sportivo o lo sport che desideri, è molto facile da trasportare e una piccola palestra portatile. Perfetto allenamento della forza a casa.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste bande di resistenza, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData/>
+            </OutdoorLiving>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

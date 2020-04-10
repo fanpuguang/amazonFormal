@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>ADXLEO062K5E6</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>80241018360</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>8</MessagesProcessed>
+				<MessagesSuccessful>5</MessagesSuccessful>
+				<MessagesWithError>3</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20005</ResultMessageCode>
+				<ResultDescription>We cannot associate an image with this SKU because the SKU was not created due to another error. Correct all other errors associated with it and resubmit your inventory file to resolve this error.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LJLD-11577065847-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20005</ResultMessageCode>
+				<ResultDescription>We cannot associate an image with this SKU because the SKU was not created due to another error. Correct all other errors associated with it and resubmit your inventory file to resolve this error.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LJLD-11577065847-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>3</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>20005</ResultMessageCode>
+				<ResultDescription>We cannot associate an image with this SKU because the SKU was not created due to another error. Correct all other errors associated with it and resubmit your inventory file to resolve this error.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LJLD-11577065847-0</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

@@ -1,0 +1,206 @@
+{extend name="admin@public/base" /}
+{block name="main-content"}
+<div class="page-content">
+
+	<div class="row maintop">
+		<div class="col-xs-4 col-sm-2 margintop5">
+			<!-- 点击模态框（Modal） -->
+			<button class="btn btn-sm btn-danger" data-toggle="modal" data-target="#myModal">
+				<i class="ace-icon fa fa-bolt bigger-110"></i>
+				添加店铺账号
+			</button>
+
+		</div>
+
+	</div>
+
+
+	<div class="row">
+		<div class="col-xs-12">
+			<div>
+				<form class="ajaxForm" name="plug_ad_allorder" method="post" action="{:url('admin/plug/plug_ad_order')}" >
+					<table class="table table-striped table-bordered table-hover" id="dynamic-table">
+						<thead>
+						<tr>
+							<th class="hidden-xs">序号</th>
+							<th>法人</th>
+							<th class="hidden-sm hidden-xs">注册时间</th>
+
+							<th class="hidden-sm hidden-xs">亚马逊账号</th>
+
+							<th class="hidden-sm hidden-xs">亚马逊密码</th>
+							<th class="hidden-sm hidden-xs">户主邮箱</th>
+							<th class="hidden-sm hidden-xs">邮箱密码</th>
+							<th class="hidden-sm hidden-xs">已注册站点</th>
+							<th class="hidden-sm hidden-xs">手机号码机主</th>
+							<th class="hidden-sm hidden-xs">银行卡号卡主</th>
+							<th >还款日</th>
+							<th >账号状态</th>
+							<th style="border-right:#CCC solid 1px;">操作</th>
+						</tr>
+						</thead>
+
+						<tbody id="ajax-data">
+						{include file="dianpu/ajax_dianpu_ad_list"/}
+						</tbody>
+					</table>
+				</form>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- 显示模态框（Modal） -->
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<form class="form-horizontal ajaxForm2" name="plug_ad_add" method="post" action="{:url('admin/dianpu/dianpu_ad_runadd')}">
+			<div class="modal-dialog" style="width:1000px;">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal"
+								aria-hidden="true">×
+						</button>
+						<h4 class="modal-title" id="myModalLabel">
+							添加店铺
+						</h4>
+					</div>
+					<div class="modal-body">
+
+
+						<div class="row">
+							<div class="col-xs-12">
+
+
+
+								<div class="form-group">
+									<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 营业执照法人：  </label>
+									<div class="col-sm-10">
+										<input type="text" name="yyzzfr" id="yyzzfr" placeholder="输入营业执照法人" class="col-xs-10 col-sm-5"/>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 亚马逊账号：  </label>
+									<div class="col-sm-10">
+										<input type="text" name="dianpu_name" id="dianpu_name" placeholder="输入亚马逊账号" class="col-xs-10 col-sm-5"/>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 亚马逊密码：  </label>
+									<div class="col-sm-10">
+										<input type="text" name="dianpu_password" id="dianpu_password" placeholder="输入亚马逊密码" class="col-xs-10 col-sm-5"/>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 户主邮箱：  </label>
+									<div class="col-sm-10">
+										<input type="text" name="dianpu_email" id="dianpu_email" placeholder="输入户主邮箱" class="col-xs-10 col-sm-5"/>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 邮箱密码：  </label>
+									<div class="col-sm-10">
+										<input type="text" name="dianpu_emailpassword" id="dianpu_emailpassword" placeholder="输入邮箱密码" class="col-xs-10 col-sm-5"/>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 已注册站点：  </label>
+									<div class="col-sm-10">
+										<input type="text" name="zhandian" id="zhandian" placeholder="输入已注册站点" class="col-xs-10 col-sm-5"/>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 手机号码机主：  </label>
+									<div class="col-sm-10">
+										<input type="text" name="dianpu_jizhu" id="dianpu_jizhu"  placeholder="输入手机号码机主" class="col-xs-10 col-sm-5"/>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 手机号码：  </label>
+									<div class="col-sm-10">
+										<input type="text" name="dianpu_phone" id="dianpu_phone"  placeholder="输入手机号码" class="col-xs-10 col-sm-5"/>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 银行卡号卡主：  </label>
+									<div class="col-sm-10">
+										<input type="text" name="dianpu_yhkhjz" id="dianpu_yhkhjz"  placeholder="输入银行卡号卡主" class="col-xs-10 col-sm-5"/>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 银行卡号：  </label>
+									<div class="col-sm-10">
+										<input type="text" name="dianpu_yhkh" id="dianpu_yhkh" placeholder="输入银行卡号卡主" class="col-xs-10 col-sm-5"/>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-2 control-label no-padding-right" for="form-field-1">银行卡号名称：  </label>
+									<div class="col-sm-10">
+										<input type="text" name="dianpu_yhmc" id="dianpu_yhmc" placeholder="输入银行卡号名称" class="col-xs-10 col-sm-5"/>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-2 control-label no-padding-right" for="form-field-1">每月还款日：  </label>
+									<div class="col-sm-10">
+										<input type="text" name="dianpu_yhkhkr" id="dianpu_yhkhkr"  placeholder="输入每月还款日" class="col-xs-10 col-sm-5"/>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-2 control-label no-padding-right" for="form-field-1">注册时间：  </label>
+									<div class="col-sm-10">
+										<input type="date" name="zc_time" id="zc_time"  placeholder="输入店铺注册时间" class="col-xs-10 col-sm-5"/>
+									</div>
+								</div>
+
+
+
+							</div>
+
+
+
+
+						</div>
+						<div class="modal-footer">
+							<button type="submit" class="btn btn-primary">
+								提交保存
+							</button>
+							<button class="btn btn-info" type="reset">
+								重置
+							</button>
+							<button type="button" class="btn btn-default" data-dismiss="modal">
+								关闭
+							</button>
+						</div>
+					</div><!-- /.modal-content -->
+				</div><!-- /.modal-dialog -->
+		</form>
+	</div><!-- /.modal -->
+
+</div><!-- /.page-content -->
+{/block}
+{block name="scripts"}
+<script>
+	$("#pic_jslist").hide();
+	$("#plug_ad_checkjsid").click(function(){
+		$("#pic_jslist").show();
+		$("#pic_list").hide();
+		$("#pic_listurl").hide();
+	});
+
+	$("#plug_ad_checkid").click(function(){
+		$("#pic_jslist").hide();
+		$("#pic_list").show();
+		$("#pic_listurl").show();
+	});
+</script>
+{/block}

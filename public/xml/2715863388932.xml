@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2O70136OXEC74</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>YXYLD-271586157697-0-HE</SKU>
+      <StandardPrice currency="GBP">19.22</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>YXYLD-271586157697-1-HE</SKU>
+      <StandardPrice currency="GBP">19.22</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <Price>
+      <SKU>YXYLD-271586157697-2-HE</SKU>
+      <StandardPrice currency="GBP">19.22</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <Price>
+      <SKU>YXYLD-271586157697-HE</SKU>
+      <StandardPrice currency="GBP">19.22</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

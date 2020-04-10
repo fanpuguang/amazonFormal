@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A1A3K0BAQPDN3U</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>AIWKR-561585733533</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666939</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Civière Dorsale, Améliorer Bossu Retour Brancard, Multi-level Retour Dispositif D'étirement,  Soutien Lombaire Taille Colonne Vertébrale Douleur Relax</Title>
+        <Brand>AIWKR</Brand>
+        <Description><![CDATA[Bienvenue à AIWKR! Nous continuerons de mettre à jour nos produits, je vous remercie de votre confiance!<br/><br/>Le Retour Brancard, peut étirer votre courbe lombaire pour la santé!<br/><br/>✔ Caractéristiques:<br/>◆ Installation facile.<br/>◆ Donne votre dos entièrement extensible et de soutien.<br/>◆ Réduit la compression du nerf.<br/>◆ aide à aligner le dos de la colonne vertébrale à la courbe physique saine.<br/>◆ Il est portable que vous pouvez faire l'étirement partout.<br/><br/>✔Specification:<br/>◆ Matériel: ABS<br/>◆ Dimension: 25.5 * 38.5 * 16.8cm (10.04 * 15.16 * 6.61in)<br/>◆ Contenu: 1 * usage domestique dispositifs de traction arrière<br/><br/>✔Tips:<br/>◆ S'il vous plaît permettre de mesurer l'écart en raison de la mesure manuelle.<br/>◆ En raison de conditions de prise de vue, les couleurs peuvent varier, s'il vous plaît se concentrer sur la couleur réelle du produit.<br/>◆ Si vous avez des questions ou insatisfaction à l'égard de nos produits, vous pouvez nous envoyer un e-mail à tout moment, nous allons vous servir dans les 24 heures.]]></Description>
+        <BulletPoint>★ ERGONOMIQUE POUR RETOUR DE LA DOULEUR: La conception ergonomique peut supporter confortablement le dos, la thérapie d'acupuncture vos maux de dos et l'inconfort, améliorer la flexibilité des muscles et stimuler la circulation sanguine dans le dos.</BulletPoint>
+        <BulletPoint>★ PERFECT SOLUTION PORTABLE POUR TOUS LES PROBLÈMES RETOUR: Tels que bombement du disque, la hernie discale et d'autres problèmes de douleur au bas du dos. Cette civière lombaire simplement en arc permet la colonne vertébrale de se réaligner soulager la pression de la colonne vertébrale.</BulletPoint>
+        <BulletPoint>★ INSTALLATION FACILE AVEC 3 niveaux: Le lombaire Brancard avec dispositif réglable de thérapie multi-niveau, il est flexible pour adapter en fonction de votre degré différent besoin, entièrement extensible et soulagent la douleur dans le bas du dos, les muscles des épaules et du dos.</BulletPoint>
+        <BulletPoint>★ POLYVALENT: La civière d'alignement lombaire peut être utilisé chaque fois que vous mentez ou assis. Le dispositif d'alignement arrière peut être placé sur une chaise pour aider à corriger votre posture assise ou siège de voiture pour servir de support lombaire pour voiture qui aide à réduire la fatigue en particulier.</BulletPoint>
+        <BulletPoint>★ SATISFACTION DE SERVICE APRÈS-VENTE: Vous pouvez trouver plus de produits que vous aimez en recherchant AIWKR. Si vous avez des questions, ne hésitez pas à nous contacter. Nous vous répondrons dans les 24 heures.</BulletPoint>
+        <Manufacturer>AIWKR</Manufacturer>
+        <SearchTerms>civière lombaire dorsale appareil massage relaxant courbe d'extension bas dos acupuncture masseurs posture d'auto-massage dispositif d'étirement soulagement douleur améliorée hernie discale </SearchTerms>
+        <ItemType>Masseurs pour le dos</ItemType>
+        <RecommendedBrowseNode>212175031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData/>
+            </BedAndBath>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2ZCNQEQYWJPNJ</MerchantIdentifier>
+  </Header>
+  <MessageType>Relationship</MessageType>
+  <PurgeAndReplace>false</PurgeAndReplace>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Relationship>
+      <ParentSKU>LYTLD-531586226653-LX</ParentSKU>
+      <Relation>
+        <SKU>LYTLD-531586226653-0-LX</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>LYTLD-531586226653-1-LX</SKU>
+        <Type>Variation</Type>
+      </Relation>
+    </Relationship>
+  </Message>
+</AmazonEnvelope>

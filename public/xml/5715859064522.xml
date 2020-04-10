@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>LDGHL-571585884530-0</SKU>
+      <StandardPrice currency="EUR">27.94</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>LDGHL-571585884530-1</SKU>
+      <StandardPrice currency="EUR">27.94</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <Price>
+      <SKU>LDGHL-571585884530-2</SKU>
+      <StandardPrice currency="EUR">27.94</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <Price>
+      <SKU>LDGHL-571585885244-1</SKU>
+      <StandardPrice currency="EUR">27.34</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <Price>
+      <SKU>LDGHL-571585885244-2</SKU>
+      <StandardPrice currency="EUR">27.34</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <Price>
+      <SKU>LDGHL-571585885244-3</SKU>
+      <StandardPrice currency="EUR">27.34</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <Price>
+      <SKU>LDGHL-571585885244-4</SKU>
+      <StandardPrice currency="EUR">27.34</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <Price>
+      <SKU>LDGHL-571585885244-5</SKU>
+      <StandardPrice currency="EUR">27.34</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <Price>
+      <SKU>LDGHL-571585885244-6</SKU>
+      <StandardPrice currency="EUR">27.34</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <Price>
+      <SKU>LDGHL-571585884530</SKU>
+      <StandardPrice currency="EUR">27.94</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <Price>
+      <SKU>LDGHL-571585885244</SKU>
+      <StandardPrice currency="EUR">27.34</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

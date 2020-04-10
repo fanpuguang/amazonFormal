@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680102</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lámpara de Mesa, Antiguo Metal Lámpara de Mesa de Luz del Escritorio para Dormitorio Cafe Bar Estudio de Luz Nocturna de la Cabecera con Decoración</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Material de luminio, múltiples procesos de horneado, sello de manguera de silicona incorporado, duradero.<br/>★ Bienvenido a la tienda ATRNA, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando la lámpara de pie para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: lámpara de mesa<br/>- Material: hierro forjado + silicona + resina + aluminio<br/>- Adecuado: dormitorio / sala de estar / estudio<br/>- Portalámparas: E27<br/><br/>★ Lista de paquetes:<br/>- 1 * lámpara de mesa<br/><br/>★ Nota<br/>- Este producto es solo para la venta de la lámpara de mesa, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- El tamaño es una medida manual, habrá un error de 1-2 cm.<br/>- Si tiene alguna pregunta sobre estas lámparas de mesa, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ ALUMINIO PINTADO: Material de aluminio, múltiples procesos de cocción, sello de manguera de silicona incorporado, duradero.</BulletPoint>
+        <BulletPoint>★ PERLAS DE LÁMPARA LED DE ALTO BRILLO: decoración de hardware de cuerno, alta capacidad de carga, textura delicada, color brillante y textura rica.</BulletPoint>
+        <BulletPoint>★ CUERPO DE LÁMPARA DECORATIVA DE RESINA: Decoración de material de resina, laca tallada, delicada, moda y estilo hogareño.</BulletPoint>
+        <BulletPoint>★ BASE ESTABLE DE HARDWARE: chasis de pintura de hardware, cuerpo de lámpara estable, atmósfera exquisita, anticorrosión y óxido, duradero.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estas lámparas de mesa, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lámpara Mesa LED Con Pantalla Colgante Inteligente Moderna Para Salón Lectura Regulable Control Táctil Alta Intensidad Temperaturas Color Cable Diseño Moderno Dormitorio Sala Estar Salon Metal Brillo Niveles Interruptor Bajo Consumo</SearchTerms>
+        <ItemType>Lámparas de mesa y mesilla de noche</ItemType>
+        <RecommendedBrowseNode>4204460031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680119</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lámpara de Mesa, Antiguo Metal Lámpara de Mesa de Luz del Escritorio para Dormitorio Cafe Bar Estudio de Luz Nocturna de la Cabecera con Decoración</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Material de luminio, múltiples procesos de horneado, sello de manguera de silicona incorporado, duradero.<br/>★ Bienvenido a la tienda ATRNA, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando la lámpara de pie para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: lámpara de mesa<br/>- Material: hierro forjado + silicona + resina + aluminio<br/>- Adecuado: dormitorio / sala de estar / estudio<br/>- Portalámparas: E27<br/><br/>★ Lista de paquetes:<br/>- 1 * lámpara de mesa<br/><br/>★ Nota<br/>- Este producto es solo para la venta de la lámpara de mesa, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- El tamaño es una medida manual, habrá un error de 1-2 cm.<br/>- Si tiene alguna pregunta sobre estas lámparas de mesa, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ ALUMINIO PINTADO: Material de aluminio, múltiples procesos de cocción, sello de manguera de silicona incorporado, duradero.</BulletPoint>
+        <BulletPoint>★ PERLAS DE LÁMPARA LED DE ALTO BRILLO: decoración de hardware de cuerno, alta capacidad de carga, textura delicada, color brillante y textura rica.</BulletPoint>
+        <BulletPoint>★ CUERPO DE LÁMPARA DECORATIVA DE RESINA: Decoración de material de resina, laca tallada, delicada, moda y estilo hogareño.</BulletPoint>
+        <BulletPoint>★ BASE ESTABLE DE HARDWARE: chasis de pintura de hardware, cuerpo de lámpara estable, atmósfera exquisita, anticorrosión y óxido, duradero.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estas lámparas de mesa, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lámpara Mesa LED Con Pantalla Colgante Inteligente Moderna Para Salón Lectura Regulable Control Táctil Alta Intensidad Temperaturas Color Cable Diseño Moderno Dormitorio Sala Estar Salon Metal Brillo Niveles Interruptor Bajo Consumo</SearchTerms>
+        <ItemType>Lámparas de mesa y mesilla de noche</ItemType>
+        <RecommendedBrowseNode>4204460031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Red</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680126</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lámpara de Mesa, Antiguo Metal Lámpara de Mesa de Luz del Escritorio para Dormitorio Cafe Bar Estudio de Luz Nocturna de la Cabecera con Decoración</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Material de luminio, múltiples procesos de horneado, sello de manguera de silicona incorporado, duradero.<br/>★ Bienvenido a la tienda ATRNA, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando la lámpara de pie para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: lámpara de mesa<br/>- Material: hierro forjado + silicona + resina + aluminio<br/>- Adecuado: dormitorio / sala de estar / estudio<br/>- Portalámparas: E27<br/><br/>★ Lista de paquetes:<br/>- 1 * lámpara de mesa<br/><br/>★ Nota<br/>- Este producto es solo para la venta de la lámpara de mesa, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- El tamaño es una medida manual, habrá un error de 1-2 cm.<br/>- Si tiene alguna pregunta sobre estas lámparas de mesa, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ ALUMINIO PINTADO: Material de aluminio, múltiples procesos de cocción, sello de manguera de silicona incorporado, duradero.</BulletPoint>
+        <BulletPoint>★ PERLAS DE LÁMPARA LED DE ALTO BRILLO: decoración de hardware de cuerno, alta capacidad de carga, textura delicada, color brillante y textura rica.</BulletPoint>
+        <BulletPoint>★ CUERPO DE LÁMPARA DECORATIVA DE RESINA: Decoración de material de resina, laca tallada, delicada, moda y estilo hogareño.</BulletPoint>
+        <BulletPoint>★ BASE ESTABLE DE HARDWARE: chasis de pintura de hardware, cuerpo de lámpara estable, atmósfera exquisita, anticorrosión y óxido, duradero.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estas lámparas de mesa, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lámpara Mesa LED Con Pantalla Colgante Inteligente Moderna Para Salón Lectura Regulable Control Táctil Alta Intensidad Temperaturas Color Cable Diseño Moderno Dormitorio Sala Estar Salon Metal Brillo Niveles Interruptor Bajo Consumo</SearchTerms>
+        <ItemType>Lámparas de mesa y mesilla de noche</ItemType>
+        <RecommendedBrowseNode>4204460031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-3</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680133</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lámpara de Mesa, Antiguo Metal Lámpara de Mesa de Luz del Escritorio para Dormitorio Cafe Bar Estudio de Luz Nocturna de la Cabecera con Decoración</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Material de luminio, múltiples procesos de horneado, sello de manguera de silicona incorporado, duradero.<br/>★ Bienvenido a la tienda ATRNA, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando la lámpara de pie para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: lámpara de mesa<br/>- Material: hierro forjado + silicona + resina + aluminio<br/>- Adecuado: dormitorio / sala de estar / estudio<br/>- Portalámparas: E27<br/><br/>★ Lista de paquetes:<br/>- 1 * lámpara de mesa<br/><br/>★ Nota<br/>- Este producto es solo para la venta de la lámpara de mesa, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- El tamaño es una medida manual, habrá un error de 1-2 cm.<br/>- Si tiene alguna pregunta sobre estas lámparas de mesa, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ ALUMINIO PINTADO: Material de aluminio, múltiples procesos de cocción, sello de manguera de silicona incorporado, duradero.</BulletPoint>
+        <BulletPoint>★ PERLAS DE LÁMPARA LED DE ALTO BRILLO: decoración de hardware de cuerno, alta capacidad de carga, textura delicada, color brillante y textura rica.</BulletPoint>
+        <BulletPoint>★ CUERPO DE LÁMPARA DECORATIVA DE RESINA: Decoración de material de resina, laca tallada, delicada, moda y estilo hogareño.</BulletPoint>
+        <BulletPoint>★ BASE ESTABLE DE HARDWARE: chasis de pintura de hardware, cuerpo de lámpara estable, atmósfera exquisita, anticorrosión y óxido, duradero.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estas lámparas de mesa, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lámpara Mesa LED Con Pantalla Colgante Inteligente Moderna Para Salón Lectura Regulable Control Táctil Alta Intensidad Temperaturas Color Cable Diseño Moderno Dormitorio Sala Estar Salon Metal Brillo Niveles Interruptor Bajo Consumo</SearchTerms>
+        <ItemType>Lámparas de mesa y mesilla de noche</ItemType>
+        <RecommendedBrowseNode>4204460031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Blue</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-4</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680140</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lámpara de Mesa, Antiguo Metal Lámpara de Mesa de Luz del Escritorio para Dormitorio Cafe Bar Estudio de Luz Nocturna de la Cabecera con Decoración</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Material de luminio, múltiples procesos de horneado, sello de manguera de silicona incorporado, duradero.<br/>★ Bienvenido a la tienda ATRNA, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando la lámpara de pie para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: lámpara de mesa<br/>- Material: hierro forjado + silicona + resina + aluminio<br/>- Adecuado: dormitorio / sala de estar / estudio<br/>- Portalámparas: E27<br/><br/>★ Lista de paquetes:<br/>- 1 * lámpara de mesa<br/><br/>★ Nota<br/>- Este producto es solo para la venta de la lámpara de mesa, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- El tamaño es una medida manual, habrá un error de 1-2 cm.<br/>- Si tiene alguna pregunta sobre estas lámparas de mesa, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ ALUMINIO PINTADO: Material de aluminio, múltiples procesos de cocción, sello de manguera de silicona incorporado, duradero.</BulletPoint>
+        <BulletPoint>★ PERLAS DE LÁMPARA LED DE ALTO BRILLO: decoración de hardware de cuerno, alta capacidad de carga, textura delicada, color brillante y textura rica.</BulletPoint>
+        <BulletPoint>★ CUERPO DE LÁMPARA DECORATIVA DE RESINA: Decoración de material de resina, laca tallada, delicada, moda y estilo hogareño.</BulletPoint>
+        <BulletPoint>★ BASE ESTABLE DE HARDWARE: chasis de pintura de hardware, cuerpo de lámpara estable, atmósfera exquisita, anticorrosión y óxido, duradero.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estas lámparas de mesa, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lámpara Mesa LED Con Pantalla Colgante Inteligente Moderna Para Salón Lectura Regulable Control Táctil Alta Intensidad Temperaturas Color Cable Diseño Moderno Dormitorio Sala Estar Salon Metal Brillo Niveles Interruptor Bajo Consumo</SearchTerms>
+        <ItemType>Lámparas de mesa y mesilla de noche</ItemType>
+        <RecommendedBrowseNode>4204460031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Yellow</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680096</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lámpara de Mesa, Antiguo Metal Lámpara de Mesa de Luz del Escritorio para Dormitorio Cafe Bar Estudio de Luz Nocturna de la Cabecera con Decoración</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Material de luminio, múltiples procesos de horneado, sello de manguera de silicona incorporado, duradero.<br/>★ Bienvenido a la tienda ATRNA, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando la lámpara de pie para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: lámpara de mesa<br/>- Material: hierro forjado + silicona + resina + aluminio<br/>- Adecuado: dormitorio / sala de estar / estudio<br/>- Portalámparas: E27<br/><br/>★ Lista de paquetes:<br/>- 1 * lámpara de mesa<br/><br/>★ Nota<br/>- Este producto es solo para la venta de la lámpara de mesa, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- El tamaño es una medida manual, habrá un error de 1-2 cm.<br/>- Si tiene alguna pregunta sobre estas lámparas de mesa, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ ALUMINIO PINTADO: Material de aluminio, múltiples procesos de cocción, sello de manguera de silicona incorporado, duradero.</BulletPoint>
+        <BulletPoint>★ PERLAS DE LÁMPARA LED DE ALTO BRILLO: decoración de hardware de cuerno, alta capacidad de carga, textura delicada, color brillante y textura rica.</BulletPoint>
+        <BulletPoint>★ CUERPO DE LÁMPARA DECORATIVA DE RESINA: Decoración de material de resina, laca tallada, delicada, moda y estilo hogareño.</BulletPoint>
+        <BulletPoint>★ BASE ESTABLE DE HARDWARE: chasis de pintura de hardware, cuerpo de lámpara estable, atmósfera exquisita, anticorrosión y óxido, duradero.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estas lámparas de mesa, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lámpara Mesa LED Con Pantalla Colgante Inteligente Moderna Para Salón Lectura Regulable Control Táctil Alta Intensidad Temperaturas Color Cable Diseño Moderno Dormitorio Sala Estar Salon Metal Brillo Niveles Interruptor Bajo Consumo</SearchTerms>
+        <ItemType>Lámparas de mesa y mesilla de noche</ItemType>
+        <RecommendedBrowseNode>4204460031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585897315</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680355</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lámpara de Mesa, Mesita de Noche Pantalla de Tela Lámpara Escritorio Diseño Clasico Vintage para Dormitorio Estudio Salon etc</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Material de luminio, múltiples procesos de horneado, sello de manguera de silicona incorporado, duradero.<br/>★ Bienvenido a la tienda ATRNA, ¡gracias por su presencia y confianza! Puede hacer clic en nuestra tienda para ver más productos.<br/>★ Continuaremos actualizando la lámpara de pie para proporcionar a los clientes productos de calidad.<br/><br/>★ especificación<br/>- Tipo de artículo: lámpara de mesa<br/>- Material: dedo natural del árbol + pintado a mano<br/>- Adecuado: dormitorio / sala de estar / estudio<br/>- Portalámparas: E27<br/><br/>★ Lista de paquetes:<br/>- 1 * lámpara de mesa<br/><br/>★ Nota<br/>- Este producto es solo para la venta de la lámpara de mesa, otros accesorios no están incluidos en el alcance de la venta, preste atención al comprar.<br/>- Debido al efecto de luz y los diferentes monitores de computadora, puede haber una diferencia de color.<br/>- El tamaño es una medida manual, habrá un error de 1-2 cm.<br/>- Si tiene alguna pregunta sobre estas lámparas de mesa, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.]]></Description>
+        <BulletPoint>★ FUNCIÓN DE DIMMING: conveniente y práctico, se puede atenuar, iluminar para leer y escribir, ¡y se puede utilizar como luz nocturna!</BulletPoint>
+        <BulletPoint>★ FÁCIL DE INSTALAR Y LIMPIAR: La instalación de la lámpara es muy conveniente, siempre y cuando la pantalla esté instalada, la pantalla tiene una bobina fija para fijar la pantalla, la pantalla se puede quitar y lavar.</BulletPoint>
+        <BulletPoint>★ MEJOR REGALO: el lenguaje de flores de lavanda está esperando el amor, muy romántico. Toda chica tiene un sueño romántico. Este osito es la mejor opción para regalos para niñas. El lindo oso lavanda se inserta con hermosa lavanda.</BulletPoint>
+        <BulletPoint>★ LÁMPARA DE MESA + JARRÓN / SOPORTE DE LÁPIZ: conecte un hermoso ramo de lavanda, muy decorativo. También se puede utilizar como portalápices para estudiar y trabajar, y es muy práctico.</BulletPoint>
+        <BulletPoint>★ SERVICIO AL CLIENTE: si tiene alguna pregunta sobre estas lámparas de mesa, no dude en contactarnos y le responderemos por correo electrónico y resolveremos su problema en 24 horas.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lámpara Mesa LED Con Pantalla Colgante Inteligente Moderna Para Salón Lectura Regulable Control Táctil Alta Intensidad Temperaturas Color Cable Diseño Moderno Dormitorio Sala Estar Salon Metal Brillo Niveles Interruptor Bajo Consumo</SearchTerms>
+        <ItemType>Lámparas de mesa y mesilla de noche</ItemType>
+        <RecommendedBrowseNode>4204460031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData/>
+            </FurnitureAndDecor>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

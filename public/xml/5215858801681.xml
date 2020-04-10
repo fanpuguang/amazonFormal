@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665246</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Piccolo Condizionatore D'Aria Per Dormitorio Domestico Refrigerato, 3 Velocità Di Regolazione Dell'Aria Fredda, Con Modalità Luce Notturna</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Pulsante ventola<br/>1. Fare clic sul pulsante della ventola per accendere e spegnere la ventola. Fare clic sul pulsante della ventola per la prima volta per avviare la ventola (impostazione predefinita bassa). Fare clic per la seconda volta sul pulsante della ventola per passare alla seconda posizione della ventola. Fai clic tre volte sul pulsante dell'ingranaggio per cambiare la terza posizione della ventola.<br/>2. Tenere premuto il pulsante della ventola per avviare e chiudere il lavoro agli ioni negativi.<br/><br/>✔ pulsante funzione<br/>Pulsante funzione. Fare clic sul pulsante funzione per attivare e disattivare la modalità raffica della ventola. Soffiare per 10 secondi e fermarsi per 10 secondi. Tenere premuta la funzione per abilitare e disabilitare la funzione luce notturna del serbatoio dell'acqua.<br/><br/>✔ Funzione indicatore<br/>La luce blu è sempre accesa quando i capelli soffiano continuamente; la luce blu lampeggia in modalità raffica; la luce verde è accesa quando lo ione negativo funziona; la luce rossa è sempre accesa durante la ricarica;<br/><br/>✔ Carica e orario di lavoro<br/>L'unità è completamente carica per circa 3 ore.<br/>Orario di lavoro: dopo che la macchina è completamente carica, il tempo di lavoro della prima marcia è di circa 8 ore, il tempo di lavoro della seconda marcia è di circa 4,5 ore e il tempo di lavoro della terza marcia è di 2,5 ore.<br/><br/>✔ Nome del prodotto: mini condizionatore portatile<br/>✔ Materiale: componenti elettronici ABS / PP / PC<br/>✔ Peso: 470 g<br/>✔ Capacità della batteria: 2000 mAh<br/>✔ Velocità del motore: bassa tensione 5 V / media portata 7 V / terza qualità 9 V<br/>✔ Tensione / corrente della batteria: 300 mA di bassa qualità / 540 mA di fascia media / 720 mA di alta qualità<br/>✔ Potenza di lavoro agli ioni negativi: 1W<br/>✔ Concentrazione ionica: 1X106PCS / cm3<br/>✔ Concentrazione di ozono: <0.03PPm<br/>✔ Dimensioni del prodotto: 120X127X 132mm]]></Description>
+        <BulletPoint>✔ serbatoio di grande capacità: La corretta capacità di 150mL può evitare l'acqua residua nel serbatoio dell'acqua e causare il problema del degrado e l'inquinamento dell'aria, dopo un lungo periodo di tempo.</BulletPoint>
+        <BulletPoint>✔ Il vento freddo si raffredda rapidamente verso il basso: La morbidezza del ventilatore rinfrescante di aria condizionata Aggiungere l'acqua e il ghiaccio al serbatoio di acqua per raffreddare rapidamente trasmettere, aria umida, e godere il vento morbido!</BulletPoint>
+        <BulletPoint>✔ Terza velocità del cambio del vento: C'è sempre una scelta per una varietà di tipi di vento. Godetevi l'aria calma, pulita e respirare senza pressione.</BulletPoint>
+        <BulletPoint>✔ Nessun rumore. Tranquillo e fresco: Il motore brushless è usato per l'alta velocità, a basso rumore, stabile e un funzionamento silenzioso. Il 4 disegno della pala è rumore leggero e basso.</BulletPoint>
+        <BulletPoint>✔ Notte di luce: è dotato di modalità di luce di notte, 10 ore di durata della batteria, wireless + wired a duplice uso, immediatamente accedere al fresco e godere di aria sana.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665253</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Piccolo Condizionatore D'Aria Per Dormitorio Domestico Refrigerato, 3 Velocità Di Regolazione Dell'Aria Fredda, Con Modalità Luce Notturna</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Pulsante ventola<br/>1. Fare clic sul pulsante della ventola per accendere e spegnere la ventola. Fare clic sul pulsante della ventola per la prima volta per avviare la ventola (impostazione predefinita bassa). Fare clic per la seconda volta sul pulsante della ventola per passare alla seconda posizione della ventola. Fai clic tre volte sul pulsante dell'ingranaggio per cambiare la terza posizione della ventola.<br/>2. Tenere premuto il pulsante della ventola per avviare e chiudere il lavoro agli ioni negativi.<br/><br/>✔ pulsante funzione<br/>Pulsante funzione. Fare clic sul pulsante funzione per attivare e disattivare la modalità raffica della ventola. Soffiare per 10 secondi e fermarsi per 10 secondi. Tenere premuta la funzione per abilitare e disabilitare la funzione luce notturna del serbatoio dell'acqua.<br/><br/>✔ Funzione indicatore<br/>La luce blu è sempre accesa quando i capelli soffiano continuamente; la luce blu lampeggia in modalità raffica; la luce verde è accesa quando lo ione negativo funziona; la luce rossa è sempre accesa durante la ricarica;<br/><br/>✔ Carica e orario di lavoro<br/>L'unità è completamente carica per circa 3 ore.<br/>Orario di lavoro: dopo che la macchina è completamente carica, il tempo di lavoro della prima marcia è di circa 8 ore, il tempo di lavoro della seconda marcia è di circa 4,5 ore e il tempo di lavoro della terza marcia è di 2,5 ore.<br/><br/>✔ Nome del prodotto: mini condizionatore portatile<br/>✔ Materiale: componenti elettronici ABS / PP / PC<br/>✔ Peso: 470 g<br/>✔ Capacità della batteria: 2000 mAh<br/>✔ Velocità del motore: bassa tensione 5 V / media portata 7 V / terza qualità 9 V<br/>✔ Tensione / corrente della batteria: 300 mA di bassa qualità / 540 mA di fascia media / 720 mA di alta qualità<br/>✔ Potenza di lavoro agli ioni negativi: 1W<br/>✔ Concentrazione ionica: 1X106PCS / cm3<br/>✔ Concentrazione di ozono: <0.03PPm<br/>✔ Dimensioni del prodotto: 120X127X 132mm]]></Description>
+        <BulletPoint>✔ serbatoio di grande capacità: La corretta capacità di 150mL può evitare l'acqua residua nel serbatoio dell'acqua e causare il problema del degrado e l'inquinamento dell'aria, dopo un lungo periodo di tempo.</BulletPoint>
+        <BulletPoint>✔ Il vento freddo si raffredda rapidamente verso il basso: La morbidezza del ventilatore rinfrescante di aria condizionata Aggiungere l'acqua e il ghiaccio al serbatoio di acqua per raffreddare rapidamente trasmettere, aria umida, e godere il vento morbido!</BulletPoint>
+        <BulletPoint>✔ Terza velocità del cambio del vento: C'è sempre una scelta per una varietà di tipi di vento. Godetevi l'aria calma, pulita e respirare senza pressione.</BulletPoint>
+        <BulletPoint>✔ Nessun rumore. Tranquillo e fresco: Il motore brushless è usato per l'alta velocità, a basso rumore, stabile e un funzionamento silenzioso. Il 4 disegno della pala è rumore leggero e basso.</BulletPoint>
+        <BulletPoint>✔ Notte di luce: è dotato di modalità di luce di notte, 10 ore di durata della batteria, wireless + wired a duplice uso, immediatamente accedere al fresco e godere di aria sana.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Blue</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665260</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Piccolo Condizionatore D'Aria Per Dormitorio Domestico Refrigerato, 3 Velocità Di Regolazione Dell'Aria Fredda, Con Modalità Luce Notturna</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Pulsante ventola<br/>1. Fare clic sul pulsante della ventola per accendere e spegnere la ventola. Fare clic sul pulsante della ventola per la prima volta per avviare la ventola (impostazione predefinita bassa). Fare clic per la seconda volta sul pulsante della ventola per passare alla seconda posizione della ventola. Fai clic tre volte sul pulsante dell'ingranaggio per cambiare la terza posizione della ventola.<br/>2. Tenere premuto il pulsante della ventola per avviare e chiudere il lavoro agli ioni negativi.<br/><br/>✔ pulsante funzione<br/>Pulsante funzione. Fare clic sul pulsante funzione per attivare e disattivare la modalità raffica della ventola. Soffiare per 10 secondi e fermarsi per 10 secondi. Tenere premuta la funzione per abilitare e disabilitare la funzione luce notturna del serbatoio dell'acqua.<br/><br/>✔ Funzione indicatore<br/>La luce blu è sempre accesa quando i capelli soffiano continuamente; la luce blu lampeggia in modalità raffica; la luce verde è accesa quando lo ione negativo funziona; la luce rossa è sempre accesa durante la ricarica;<br/><br/>✔ Carica e orario di lavoro<br/>L'unità è completamente carica per circa 3 ore.<br/>Orario di lavoro: dopo che la macchina è completamente carica, il tempo di lavoro della prima marcia è di circa 8 ore, il tempo di lavoro della seconda marcia è di circa 4,5 ore e il tempo di lavoro della terza marcia è di 2,5 ore.<br/><br/>✔ Nome del prodotto: mini condizionatore portatile<br/>✔ Materiale: componenti elettronici ABS / PP / PC<br/>✔ Peso: 470 g<br/>✔ Capacità della batteria: 2000 mAh<br/>✔ Velocità del motore: bassa tensione 5 V / media portata 7 V / terza qualità 9 V<br/>✔ Tensione / corrente della batteria: 300 mA di bassa qualità / 540 mA di fascia media / 720 mA di alta qualità<br/>✔ Potenza di lavoro agli ioni negativi: 1W<br/>✔ Concentrazione ionica: 1X106PCS / cm3<br/>✔ Concentrazione di ozono: <0.03PPm<br/>✔ Dimensioni del prodotto: 120X127X 132mm]]></Description>
+        <BulletPoint>✔ serbatoio di grande capacità: La corretta capacità di 150mL può evitare l'acqua residua nel serbatoio dell'acqua e causare il problema del degrado e l'inquinamento dell'aria, dopo un lungo periodo di tempo.</BulletPoint>
+        <BulletPoint>✔ Il vento freddo si raffredda rapidamente verso il basso: La morbidezza del ventilatore rinfrescante di aria condizionata Aggiungere l'acqua e il ghiaccio al serbatoio di acqua per raffreddare rapidamente trasmettere, aria umida, e godere il vento morbido!</BulletPoint>
+        <BulletPoint>✔ Terza velocità del cambio del vento: C'è sempre una scelta per una varietà di tipi di vento. Godetevi l'aria calma, pulita e respirare senza pressione.</BulletPoint>
+        <BulletPoint>✔ Nessun rumore. Tranquillo e fresco: Il motore brushless è usato per l'alta velocità, a basso rumore, stabile e un funzionamento silenzioso. Il 4 disegno della pala è rumore leggero e basso.</BulletPoint>
+        <BulletPoint>✔ Notte di luce: è dotato di modalità di luce di notte, 10 ore di durata della batteria, wireless + wired a duplice uso, immediatamente accedere al fresco e godere di aria sana.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585706601-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665895</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Ventola Di Raffreddamento Usb Di Raffreddamento, Può Aggiungere Acqua Ghiacciata, Ufficio Desktop Ultra Silenzioso</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Velocità del vento: prima marcia: 2,0 m / s, seconda marcia: 2,5 m / s, terza marcia: 3,5 m / s<br/>✔ Rumore: prima marcia: 30 dB, seconda marcia: 38 dB, terza marcia: 46 dB<br/>✔ Velocità del motore: prima marcia: 2570 giri / min, seconda marcia: 3215 giri / min, terza marcia: 3660 giri / min<br/><br/>✔ Nome del prodotto: ventola di raffreddamento ad acqua<br/>✔ Capacità serbatoio acqua: 380 ml<br/>✔ Corrente di lavoro: 0,2 A-1,4 A.<br/>✔ Ingresso: DC5V<br/>✔ Potenza: 1W-7W<br/>✔ Materiale del prodotto: ABS / silicone<br/>✔ Dimensioni del prodotto: 133 mm, 178 mm, 170 mm<br/><br/>✔ 1: non appoggiare il prodotto lateralmente, sdraiarsi su un lato o capovolto per impedire all'acqua di penetrare nel circuito.<br/>✔ 2: la terza marcia della ventola di raffreddamento richiede una grande potenza, la terza marcia potrebbe non essere attivata al di sotto di 1,5 A. Richiede un adattatore da 2 A o una porta USB 3.0 sul computer per fornire energia.<br/>✔ 3: per il primo utilizzo, si prega di riempirlo con acqua e lasciarlo riposare per 20 minuti.La tenda asciutta sarà migliore solo se è riempita con acqua. Il serbatoio dell'acqua nella parte inferiore della ventola di raffreddamento non è completamente sigillato e, se viene versato, perderà acqua dal lato. Se è necessario spostare la ventola di raffreddamento, aprire l'uscita dell'acqua sul fondo dell'unità principale e spostarla dopo aver scaricato l'acqua.]]></Description>
+        <BulletPoint>✔ Macchina multiuso: può aggiungere acqua ghiacciata e raffreddarsi rapidamente. Filtro a cortina d'acqua per purificare l'aria fresca. L'uscita dell'aria è regolata per raffreddare in una vasta gamma.</BulletPoint>
+        <BulletPoint>✔ Luce soffusa e calda: promette una luce notturna che cambia colore, che può essere impostata premendo a lungo in base al tuo colore preferito. Lasciati dormire sonni tranquilli.</BulletPoint>
+        <BulletPoint>✔ Tecnologia a doppio strato: cortina di ghiaccio con filtro antipolvere ad alta densità, sistema di purificazione, antibatterico altamente efficace. Come il vento rinfrescante dopo la pioggia, come il fresco portato dall'aria condizionata interna.</BulletPoint>
+        <BulletPoint>✔ Cortina d'acqua sostituibile: la cortina d'acqua originale può essere utilizzata per 6-8 mesi, asciugarla a lungo e lasciarla asciugare.</BulletPoint>
+        <BulletPoint>✔ Sistema di umidificazione incorporato: la cortina d'acqua non secca in estate può aumentare efficacemente l'umidità del flusso d'aria, garantire la freschezza e lasciare che la pelle beva acqua.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585711622-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665956</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Spruzzatore Silenzioso Super-Raffreddante, Umidificante E Purificante Senza Essiccare, Dispositivo Di Raffreddamento Desktop Su Piccolo Dormitorio Per Ufficio</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Sei ancora preoccupato per questi problemi?<br/>01 La ventola è ancora calda e non abbastanza fredda quando raggiunge la marcia massima.<br/>02 Non solo la prima o la terza marcia sono molto rumorose, ma causano anche mal di testa a lungo.<br/>03Vuoi sentire il vento freddo del condizionatore d'aria, ma a casa / in ufficio; ma non riesci ad accenderlo?<br/><br/>✔ Nome prodotto: Icy Fan<br/>✔ Materiale: ABS + PP + pelle<br/>✔ Dimensioni del prodotto: 145 * 132 * 172,5 mm<br/>✔ Capacità serbatoio acqua: 200 ML<br/>✔ Velocità del vento: regolazione continua della velocità<br/>✔ Peso netto del prodotto: 700 g<br/>✔ Tensione nominale: DC 5 V.<br/>✔ Colore del prodotto: bianco<br/>✔ Potenza nominale: 4,5 W.]]></Description>
+        <BulletPoint>✔ Tonalità leggera, bassa rumorosità, silenziosa e fresca: dopo oltre 2.000 test sui condotti dell'aria, utilizziamo la tecnologia del sistema di condotti dell'aria di alta qualità e le pale del vento a flusso lungo per offrirti la delicata sensazione del vento e goderti il fresco.</BulletPoint>
+        <BulletPoint>✔ Raffreddamento percepito: viene adottato il nuovo sistema di alimentazione dell'aria a riduzione della resistenza. Quando il materiale speciale della cortina di ghiaccio in fibra raggiunge un raffreddamento accurato, l'umidità dell'aria viene aumentata per garantire che la pelle non sia tesa mentre si gode il fresco.</BulletPoint>
+        <BulletPoint>✔ Raffreddamento a doppio ciclo: ventilatore a 7 pale ad alte prestazioni, combinato con il nuovo sistema di alimentazione dell'aria a riduzione della resistenza, consente il raffreddamento durante la circolazione dell'aria e aumenta il contenuto di ossigeno e l'umidità dell'aria, in modo da poter continuare a non avere mal di testa.</BulletPoint>
+        <BulletPoint>✔ Tecnologia di raffreddamento ad alta frequenza: quando viene introdotta l'aria ad alta temperatura, il calore assorbito dal ghiaccio evapora per raffreddarsi rapidamente: maggiore è la temperatura, migliore è l'effetto di raffreddamento.</BulletPoint>
+        <BulletPoint>✔ Servizio post-vendita: il negozio utilizza la logistica internazionale e il tempo di consegna stimato è di 15-30 giorni. Se riscontri problemi quando ricevi il tuo prodotto per la prima volta, puoi sempre contattarci. Ti auguro un acquisto felice.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585721015-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665987</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Piccola Ventola Usb, Ventola Elettrica Da Ufficio Ultra Silenziosa Per Desktop, Forte Raffreddamento + Enorme Approvvigionamento Idrico</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[AVVERTENZA: tenere fuori dalla portata dei bambini se non sotto la supervisione di un adulto. Non riempire il serbatoio dell'acqua con acqua. Deve rimanere su una superficie piana durante l'uso; l'inclinazione del dispositivo può provocare la fuoriuscita di acqua dalla base. Si prega di leggere il manuale di istruzioni completo prima dell'uso. Il tempo di esecuzione dipenderà dalle impostazioni di velocità, livelli di temperatura ambiente, livelli di umidità ambiente, ecc. Quando non viene utilizzato per lungo tempo, scaricare il serbatoio dell'acqua, rimuovere il filtro e asciugare all'aria.<br/><br/>✔ Nome prodotto: piccola ventola USB<br/>✔ Capacità serbatoio acqua: 180 ML<br/>✔ Potenza: 7,5 W.<br/>✔ Ingresso: 5 V / 1,5 A.<br/>✔ Spray: 60 ml / h<br/>✔ Gear: 3 marce<br/>✔ Lunghezza cavo: 1,2 m<br/>✔ Rumore: ≦ 45dB]]></Description>
+        <BulletPoint>✔ Nano Ice Mist Hydration: utilizzando la stessa tecnologia di atomizzazione ultrasonica dell'apparato idratante, potente spray a doppia testa 60m / h, penetra leggermente nella pelle.</BulletPoint>
+        <BulletPoint>✔ Tecnologia dei condotti di flusso assiale: motore brushless in rame puro, il rumore è diminuito del 30%, pale delle turbine aeronautiche, vento tridimensionale nel vento.</BulletPoint>
+        <BulletPoint>✔ Ampia distanza del vento di 6,5 metri: pale del ventilatore della turbina per aviazione, grande sezione trasversale e design ad ampio angolo delle pale del vento, aumentando l'area di contatto con l'aria, la velocità del vento è di 2m / se la velocità del vento è aumentata del 40%.</BulletPoint>
+        <BulletPoint>✔ Design asettico: il design asettico del serbatoio separato dell'acqua, aggiungere acqua a 180 ml e umidificare per 4 ore per ridurre il ristagno di acqua vecchia, mentre il design senza cortina consente ai batteri di nascondersi.</BulletPoint>
+        <BulletPoint>✔ Servizio post-vendita: il nostro negozio utilizza la logistica internazionale e il tempo di consegna stimato è di 15-30 giorni. In caso di problemi durante la ricezione della merce, è possibile contattarci in qualsiasi momento. Ti auguro un acquisto felice.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Green</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585723775-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666021</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Funzione Usb Ventola Di Raffreddamento Ad Acqua, Umidificazione A Spruzzo Palmare, Carica Casa Desktop Da Ufficio Muto Piccolo Dormitorio</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Istruzioni per l'uso, solo quattro passaggi, puoi usarlo con fiducia<br/>Aprire il coperchio dell'iniezione d'acqua<br/>2. Riempi la cisterna con acqua ghiacciata o cubetti di ghiaccio<br/>3. Collegare l'alimentazione<br/>4. Accendi e regola la direzione e la velocità del vento, puoi usarlo con sicurezza<br/><br/>✔ Materiale: ABS<br/>✔ Colore: blu reale<br/>✔ Tensione nominale: 5 V CC 0,84 A.<br/>✔ Potenza nominale: 4,2 W.<br/>✔ Velocità della ventola: 3000 RMP<br/>✔ Capacità serbatoio acqua: 320mL<br/>✔ Dimensioni del prodotto: 158MM * 180MM * 164MM]]></Description>
+        <BulletPoint>✔ Scene multiple: fresca estate sempre e ovunque per soddisfare le diverse esigenze della scena, ufficio, dormitorio della scuola, comodino della camera da letto.</BulletPoint>
+        <BulletPoint>✔ Umidificazione spray, bellezza ed emolliente: aggiungere acqua nel serbatoio dell'acqua, cortina bagnata ad evaporazione ad alta efficienza, raffreddare e riempire l'umidità allo stesso tempo.</BulletPoint>
+        <BulletPoint>✔ Design ad acqua superiore: apri il coperchio e aggiungi direttamente acqua e ghiaccio. L'operazione è facile e semplice. Puoi provare la sensazione di freddo in inverno in estate.</BulletPoint>
+        <BulletPoint>✔ Diverse modalità di alimentazione: questo prodotto utilizza alimentatore USB, adatto per la domanda pubblica, testa di ricarica, USB del computer, alimentazione mobile, USB per auto, ecc.</BulletPoint>
+        <BulletPoint>✔ 100% servizio post-vendita: il nostro negozio utilizza la logistica internazionale, puoi contattarci in qualsiasi momento via e-mail, risponderemo alle tue domande entro 24 ore, il cliente è sempre il primo, puoi trovare il tuo like cercando "DUYER" Prodotti, ti auguro un acquisto felice!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585726436-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666328</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Portable Air Cooler, Mini condizionatore d'aria, 3 in 1 evaporativo personale del dispositivo di raffreddamento, umidificatore, purificatore con USB, 3 velocità ventilatore da tavolino di raffreddamento per la casa, Camera, Ufficio</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Vuoi rimanere fresco nella calda estate, ma preoccupati che far funzionare il condizionatore d'aria per tutto il giorno, e i fan normali ti soffieranno solo aria calda in faccia.<br/><br/>Vuoi un modo migliore per calmarti?<br/>Usa il nostro mini raffreddatore ad aria per ottenere questo refrigeratore di spazio personale per creare la tua zona di comfort. Basta aggiungere acqua e ghiaccio al serbatoio dell'acqua, quindi rilassarsi e godersi un respiro fresco e umido.<br/><br/>✔ Materiale: componenti elettronici ABS / PP / PC<br/>✔ Importo netto: 900 g<br/>✔ Peso lordo: 1,3 kg<br/>✔ Requisiti di alimentazione: 5 V - DC2.1A<br/>✔ Rumore: 50 dB alla terza velocità del vento<br/>✔ Cambio velocità del vento: 3 marce<br/>✔ Potenza di lavoro: 6 W.<br/>✔ Dimensioni del prodotto: 145 * 145 * 190mm<br/>✔ Area di applicazione: 60-100 cm<br/>✔ Intervallo di salto: <2㎡<br/>✔ Intervallo di riduzione della temperatura: 4-12 ° C (a seconda della temperatura ambiente)]]></Description>
+        <BulletPoint>✔ Velocità del vento regolabile e fasatura automatica: tre velocità del vento (alta, media e bassa) possono essere regolate, la velocità massima della ventola raggiunge 3,24 m / s e la direzione del vento può essere regolata su e giù di 80 gradi manualmente per creare la propria personalità. 3H / 6H), puoi scegliere il tempo libero, il sonno o l'orario di lavoro più adatto a te.</BulletPoint>
+        <BulletPoint>✔ Facile da usare e portatile: tutto ciò che devi fare è aggiungere acqua e cubetti di ghiaccio al serbatoio dell'acqua di questo dispositivo di raffreddamento dell'aria desktop, collegarlo a una porta USB o power bank e accenderlo. A soli 6,4 pollici di altezza, è facile da spostare ed è perfetto per desktop e ufficio / dormitorio.</BulletPoint>
+        <BulletPoint>✔ Funzione tre in uno: design multifunzionale tre in uno di condizionatore d'aria personale, ventola, umidificatore. Raffreddare e umidificare per una migliore aria Il design di raffreddamento ti tiene lontano dalle estati calde e gode di estati fresche.</BulletPoint>
+        <BulletPoint>✔ Raffreddatore d'aria personale: un mini raffreddatore d'aria personale progettato per uso personale. Non utilizza refrigeranti o prodotti chimici per raffreddare l'aria, quindi non dovresti aspettarti lo stesso effetto di un condizionatore d'aria. Si prega di metterlo accanto a te non più di 3ft-4ft.</BulletPoint>
+        <BulletPoint>✔ 100% servizio post-vendita: il nostro negozio utilizza la logistica internazionale, puoi contattarci in qualsiasi momento via e-mail, risponderemo alle tue domande entro 24 ore, il cliente è sempre il primo, puoi trovare il tuo like cercando "DUYER" Prodotti, ti auguro un acquisto felice!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585728921-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666755</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Ventilatore Del Condizionatore D'Aria Di Raffreddamento Del Usb, Piccolo Aeratore Domestico Spruzzo, Automobile Sul Letto Del Dormitorio Dello Studente</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Vuoi rimanere fresco nella calda estate, ma preoccupati che far funzionare il condizionatore d'aria per tutto il giorno, e i fan normali ti soffieranno solo aria calda in faccia.<br/><br/>Vuoi un modo migliore per calmarti?<br/>Usa il nostro mini raffreddatore ad aria per ottenere questo refrigeratore di spazio personale per creare la tua zona di comfort. Basta aggiungere acqua e ghiaccio al serbatoio dell'acqua, quindi rilassarsi e godersi un respiro fresco e umido.<br/><br/>  ✔ Volume d'aria: 4 livelli<br/>  ✔ Tensione nominale: 5 V.<br/>  ✔ Lunghezza del cavo di alimentazione: 1,8 m<br/>  ✔ Potenza nominale: 6-9 W.<br/>  ✔ Metodo di controllo: pulsanti meccanici<br/>  ✔ Funzione di sicurezza: 6 ore di combustione a secco<br/>  ✔ Modalità volume aria: alta / media / bassa / sospensione<br/>  ✔ Capacità serbatoio acqua: 500 ML<br/>  ✔ colore del prodotto: bianco<br/>  ✔ Peso lordo / peso netto: 1 kg / 0,8 kg<br/>  ✔ Materiale: ABS]]></Description>
+        <BulletPoint>✔ Regolazione a 3 velocità: il nostro mini condizionatore d'aria è progettato con 3 modalità di velocità, che possono essere regolate liberamente in base alle proprie esigenze (bassa / media / alta). Se necessario, è anche possibile regolare la direzione del vento per ruotare verticalmente. (Nota: i dispositivi di raffreddamento ad aria portatili non sono adatti per raffreddare l'intera stanza.)</BulletPoint>
+        <BulletPoint>✔ Design 4 in 1: questo dispositivo di raffreddamento ad aria evaporativo ha raffreddamento portatile della ventola, umidificazione a spruzzo, purificazione dell'aria e funzioni 4 in 1 di 7 luci a LED, che non solo riducono la temperatura, ma ci aiutano anche a evitare l'aria secca. Inoltre, ha una luce ambientale a LED a 7 colori e una luce a LED morbida e colorata integrata per creare un'atmosfera romantica e offrirti un migliore ambiente per dormire.</BulletPoint>
+        <BulletPoint>✔ Risparmio energetico e salute: questo dispositivo di raffreddamento ad aria portatile ha un basso consumo energetico ed è privo di freon. Non solo protegge la salute della tua famiglia, ma consuma anche meno energia per ridurre al minimo la perdita di energia e proteggere l'ambiente. Ideale per soggiorno estivo, camera da letto, ufficio, ecc. Per il raffreddamento. Può essere utilizzato anche al lavoro e in viaggio.</BulletPoint>
+        <BulletPoint>✔ Facile da usare e leggero: basta aggiungere acqua o acqua ghiacciata, quindi collegare il cavo USB a un alimentatore mobile o a qualsiasi interfaccia USB e puoi utilizzare il mini dispositivo di raffreddamento ad aria portatile premendo il pulsante funzione. Questo condizionatore d'aria personale ha un design mini-portatile, che è molto facile da trasportare in ufficio, camera da letto, soggiorno, cucina e all'aperto.</BulletPoint>
+        <BulletPoint>✔ 100% servizio post-vendita: il nostro negozio utilizza la logistica internazionale, puoi contattarci in qualsiasi momento via e-mail, risponderemo alle tue domande entro 24 ore, il cliente è sempre il primo, puoi trovare il tuo like cercando "DUYER" Prodotti, ti auguro un acquisto felice!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585733575-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666960</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Piccola Ventola Di Raffreddamento Umidificatore Spray Ventola Di Raffreddamento, Desktop Dell'Ufficio Del Dormitorio Dello Studente A Casa</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Vuoi rimanere fresco nella calda estate, ma preoccupati che far funzionare il condizionatore d'aria tutto il giorno costerà molto, e i fan normali ti soffieranno solo aria calda in faccia.<br/><br/>✔ Vuoi un modo migliore per calmarti?<br/>Usa il nostro mini raffreddatore ad aria per ottenere questo refrigeratore di spazio personale per creare la tua zona di comfort. Basta aggiungere acqua e ghiaccio al serbatoio dell'acqua, quindi rilassarsi e godersi un respiro fresco e umido.<br/><br/>✔ Ventola di raffreddamento e umidificatore<br/>Il condizionatore d'aria, il dispositivo di raffreddamento portatile per evaporazione dell'aria e l'umidificatore atomizzatore sono combinati in uno, che può umidificare la pelle e l'aria, tenere lontano dall'aria secca e godersi il fresco dell'estate.<br/><br/>✔ Aria fresca e goditi una vita sana<br/>Riduce la temperatura per evaporazione dell'acqua e produce aria fresca. Basso consumo energetico e lunghi tempi di umidificazione! È ad alta efficienza energetica e basso tenore di carbonio.<br/><br/>✔ Raffreddatore d'aria personale portatile<br/>Mini dispositivo di raffreddamento dell'aria personale progettato per uso personale, si prega di posizionare non più di 3 piedi a 4 piedi.<br/><br/>✔ Il pacchetto include:<br/>1 x condizionatore d'aria<br/>1 x cavo dati USB]]></Description>
+        <BulletPoint>✔ Raffreddare rapidamente e rilasciare ioni negativi: la purificazione dell'acqua e l'elevata velocità del vento evaporano rilasciare gli ioni negativi, puoi sentire di più la freschezza apportata dagli ioni negativi e goderti facilmente l'aria pulita.</BulletPoint>
+        <BulletPoint>✔ Sistema di umidificazione senza nebbia: idrata ogni centimetro di pelle, umidificazione senza nebbia e polvere, usa una ventola per far fluire l'aria attraverso una cortina d'acqua e usa il principio dell'evaporazione naturale dell'acqua per aumentare l'umidità dell'aria.</BulletPoint>
+        <BulletPoint>✔ Tecnologia a doppia ventola: le doppie ventole anteriori e posteriori risolvono il problema del volume e della prevalenza dell'aria. La ventola posteriore è responsabile dell'aumento della pressione dell'aria di aspirazione e la parte anteriore è responsabile dell'alimentazione dell'aria. La distanza di alimentazione dell'aria è maggiore e il volume dell'aria è maggiore.</BulletPoint>
+        <BulletPoint>✔ Serbatoio dell'acqua indipendente: serbatoio dell'acqua indipendente separato, è più conveniente aggiungere acqua per la pulizia. Funzionamento semplice, nessuna perdita d'acqua, nessun accumulo d'acqua, più tranquillità.</BulletPoint>
+        <BulletPoint>✔ 100% servizio post-vendita: il nostro negozio utilizza la logistica internazionale, puoi contattarci in qualsiasi momento via e-mail, risponderemo alle tue domande entro 24 ore, il cliente è sempre il primo, puoi trovare il tuo like cercando "DUYER" Prodotti, ti auguro un acquisto felice!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665192</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Piccolo Condizionatore D'Aria Per Dormitorio Domestico Refrigerato, 3 Velocità Di Regolazione Dell'Aria Fredda, Con Modalità Luce Notturna</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Pulsante ventola<br/>1. Fare clic sul pulsante della ventola per accendere e spegnere la ventola. Fare clic sul pulsante della ventola per la prima volta per avviare la ventola (impostazione predefinita bassa). Fare clic per la seconda volta sul pulsante della ventola per passare alla seconda posizione della ventola. Fai clic tre volte sul pulsante dell'ingranaggio per cambiare la terza posizione della ventola.<br/>2. Tenere premuto il pulsante della ventola per avviare e chiudere il lavoro agli ioni negativi.<br/><br/>✔ pulsante funzione<br/>Pulsante funzione. Fare clic sul pulsante funzione per attivare e disattivare la modalità raffica della ventola. Soffiare per 10 secondi e fermarsi per 10 secondi. Tenere premuta la funzione per abilitare e disabilitare la funzione luce notturna del serbatoio dell'acqua.<br/><br/>✔ Funzione indicatore<br/>La luce blu è sempre accesa quando i capelli soffiano continuamente; la luce blu lampeggia in modalità raffica; la luce verde è accesa quando lo ione negativo funziona; la luce rossa è sempre accesa durante la ricarica;<br/><br/>✔ Carica e orario di lavoro<br/>L'unità è completamente carica per circa 3 ore.<br/>Orario di lavoro: dopo che la macchina è completamente carica, il tempo di lavoro della prima marcia è di circa 8 ore, il tempo di lavoro della seconda marcia è di circa 4,5 ore e il tempo di lavoro della terza marcia è di 2,5 ore.<br/><br/>✔ Nome del prodotto: mini condizionatore portatile<br/>✔ Materiale: componenti elettronici ABS / PP / PC<br/>✔ Peso: 470 g<br/>✔ Capacità della batteria: 2000 mAh<br/>✔ Velocità del motore: bassa tensione 5 V / media portata 7 V / terza qualità 9 V<br/>✔ Tensione / corrente della batteria: 300 mA di bassa qualità / 540 mA di fascia media / 720 mA di alta qualità<br/>✔ Potenza di lavoro agli ioni negativi: 1W<br/>✔ Concentrazione ionica: 1X106PCS / cm3<br/>✔ Concentrazione di ozono: <0.03PPm<br/>✔ Dimensioni del prodotto: 120X127X 132mm]]></Description>
+        <BulletPoint>✔ serbatoio di grande capacità: La corretta capacità di 150mL può evitare l'acqua residua nel serbatoio dell'acqua e causare il problema del degrado e l'inquinamento dell'aria, dopo un lungo periodo di tempo.</BulletPoint>
+        <BulletPoint>✔ Il vento freddo si raffredda rapidamente verso il basso: La morbidezza del ventilatore rinfrescante di aria condizionata Aggiungere l'acqua e il ghiaccio al serbatoio di acqua per raffreddare rapidamente trasmettere, aria umida, e godere il vento morbido!</BulletPoint>
+        <BulletPoint>✔ Terza velocità del cambio del vento: C'è sempre una scelta per una varietà di tipi di vento. Godetevi l'aria calma, pulita e respirare senza pressione.</BulletPoint>
+        <BulletPoint>✔ Nessun rumore. Tranquillo e fresco: Il motore brushless è usato per l'alta velocità, a basso rumore, stabile e un funzionamento silenzioso. Il 4 disegno della pala è rumore leggero e basso.</BulletPoint>
+        <BulletPoint>✔ Notte di luce: è dotato di modalità di luce di notte, 10 ore di durata della batteria, wireless + wired a duplice uso, immediatamente accedere al fresco e godere di aria sana.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585706601</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665833</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Ventola Di Raffreddamento Usb Di Raffreddamento, Può Aggiungere Acqua Ghiacciata, Ufficio Desktop Ultra Silenzioso</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Velocità del vento: prima marcia: 2,0 m / s, seconda marcia: 2,5 m / s, terza marcia: 3,5 m / s<br/>✔ Rumore: prima marcia: 30 dB, seconda marcia: 38 dB, terza marcia: 46 dB<br/>✔ Velocità del motore: prima marcia: 2570 giri / min, seconda marcia: 3215 giri / min, terza marcia: 3660 giri / min<br/><br/>✔ Nome del prodotto: ventola di raffreddamento ad acqua<br/>✔ Capacità serbatoio acqua: 380 ml<br/>✔ Corrente di lavoro: 0,2 A-1,4 A.<br/>✔ Ingresso: DC5V<br/>✔ Potenza: 1W-7W<br/>✔ Materiale del prodotto: ABS / silicone<br/>✔ Dimensioni del prodotto: 133 mm, 178 mm, 170 mm<br/><br/>✔ 1: non appoggiare il prodotto lateralmente, sdraiarsi su un lato o capovolto per impedire all'acqua di penetrare nel circuito.<br/>✔ 2: la terza marcia della ventola di raffreddamento richiede una grande potenza, la terza marcia potrebbe non essere attivata al di sotto di 1,5 A. Richiede un adattatore da 2 A o una porta USB 3.0 sul computer per fornire energia.<br/>✔ 3: per il primo utilizzo, si prega di riempirlo con acqua e lasciarlo riposare per 20 minuti.La tenda asciutta sarà migliore solo se è riempita con acqua. Il serbatoio dell'acqua nella parte inferiore della ventola di raffreddamento non è completamente sigillato e, se viene versato, perderà acqua dal lato. Se è necessario spostare la ventola di raffreddamento, aprire l'uscita dell'acqua sul fondo dell'unità principale e spostarla dopo aver scaricato l'acqua.]]></Description>
+        <BulletPoint>✔ Macchina multiuso: può aggiungere acqua ghiacciata e raffreddarsi rapidamente. Filtro a cortina d'acqua per purificare l'aria fresca. L'uscita dell'aria è regolata per raffreddare in una vasta gamma.</BulletPoint>
+        <BulletPoint>✔ Luce soffusa e calda: promette una luce notturna che cambia colore, che può essere impostata premendo a lungo in base al tuo colore preferito. Lasciati dormire sonni tranquilli.</BulletPoint>
+        <BulletPoint>✔ Tecnologia a doppio strato: cortina di ghiaccio con filtro antipolvere ad alta densità, sistema di purificazione, antibatterico altamente efficace. Come il vento rinfrescante dopo la pioggia, come il fresco portato dall'aria condizionata interna.</BulletPoint>
+        <BulletPoint>✔ Cortina d'acqua sostituibile: la cortina d'acqua originale può essere utilizzata per 6-8 mesi, asciugarla a lungo e lasciarla asciugare.</BulletPoint>
+        <BulletPoint>✔ Sistema di umidificazione incorporato: la cortina d'acqua non secca in estate può aumentare efficacemente l'umidità del flusso d'aria, garantire la freschezza e lasciare che la pelle beva acqua.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>13</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585711622</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665901</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Spruzzatore Silenzioso Super-Raffreddante, Umidificante E Purificante Senza Essiccare, Dispositivo Di Raffreddamento Desktop Su Piccolo Dormitorio Per Ufficio</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Sei ancora preoccupato per questi problemi?<br/>01 La ventola è ancora calda e non abbastanza fredda quando raggiunge la marcia massima.<br/>02 Non solo la prima o la terza marcia sono molto rumorose, ma causano anche mal di testa a lungo.<br/>03Vuoi sentire il vento freddo del condizionatore d'aria, ma a casa / in ufficio; ma non riesci ad accenderlo?<br/><br/>✔ Nome prodotto: Icy Fan<br/>✔ Materiale: ABS + PP + pelle<br/>✔ Dimensioni del prodotto: 145 * 132 * 172,5 mm<br/>✔ Capacità serbatoio acqua: 200 ML<br/>✔ Velocità del vento: regolazione continua della velocità<br/>✔ Peso netto del prodotto: 700 g<br/>✔ Tensione nominale: DC 5 V.<br/>✔ Colore del prodotto: bianco<br/>✔ Potenza nominale: 4,5 W.]]></Description>
+        <BulletPoint>✔ Tonalità leggera, bassa rumorosità, silenziosa e fresca: dopo oltre 2.000 test sui condotti dell'aria, utilizziamo la tecnologia del sistema di condotti dell'aria di alta qualità e le pale del vento a flusso lungo per offrirti la delicata sensazione del vento e goderti il fresco.</BulletPoint>
+        <BulletPoint>✔ Raffreddamento percepito: viene adottato il nuovo sistema di alimentazione dell'aria a riduzione della resistenza. Quando il materiale speciale della cortina di ghiaccio in fibra raggiunge un raffreddamento accurato, l'umidità dell'aria viene aumentata per garantire che la pelle non sia tesa mentre si gode il fresco.</BulletPoint>
+        <BulletPoint>✔ Raffreddamento a doppio ciclo: ventilatore a 7 pale ad alte prestazioni, combinato con il nuovo sistema di alimentazione dell'aria a riduzione della resistenza, consente il raffreddamento durante la circolazione dell'aria e aumenta il contenuto di ossigeno e l'umidità dell'aria, in modo da poter continuare a non avere mal di testa.</BulletPoint>
+        <BulletPoint>✔ Tecnologia di raffreddamento ad alta frequenza: quando viene introdotta l'aria ad alta temperatura, il calore assorbito dal ghiaccio evapora per raffreddarsi rapidamente: maggiore è la temperatura, migliore è l'effetto di raffreddamento.</BulletPoint>
+        <BulletPoint>✔ Servizio post-vendita: il negozio utilizza la logistica internazionale e il tempo di consegna stimato è di 15-30 giorni. Se riscontri problemi quando ricevi il tuo prodotto per la prima volta, puoi sempre contattarci. Ti auguro un acquisto felice.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585721015</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665963</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Piccola Ventola Usb, Ventola Elettrica Da Ufficio Ultra Silenziosa Per Desktop, Forte Raffreddamento + Enorme Approvvigionamento Idrico</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[AVVERTENZA: tenere fuori dalla portata dei bambini se non sotto la supervisione di un adulto. Non riempire il serbatoio dell'acqua con acqua. Deve rimanere su una superficie piana durante l'uso; l'inclinazione del dispositivo può provocare la fuoriuscita di acqua dalla base. Si prega di leggere il manuale di istruzioni completo prima dell'uso. Il tempo di esecuzione dipenderà dalle impostazioni di velocità, livelli di temperatura ambiente, livelli di umidità ambiente, ecc. Quando non viene utilizzato per lungo tempo, scaricare il serbatoio dell'acqua, rimuovere il filtro e asciugare all'aria.<br/><br/>✔ Nome prodotto: piccola ventola USB<br/>✔ Capacità serbatoio acqua: 180 ML<br/>✔ Potenza: 7,5 W.<br/>✔ Ingresso: 5 V / 1,5 A.<br/>✔ Spray: 60 ml / h<br/>✔ Gear: 3 marce<br/>✔ Lunghezza cavo: 1,2 m<br/>✔ Rumore: ≦ 45dB]]></Description>
+        <BulletPoint>✔ Nano Ice Mist Hydration: utilizzando la stessa tecnologia di atomizzazione ultrasonica dell'apparato idratante, potente spray a doppia testa 60m / h, penetra leggermente nella pelle.</BulletPoint>
+        <BulletPoint>✔ Tecnologia dei condotti di flusso assiale: motore brushless in rame puro, il rumore è diminuito del 30%, pale delle turbine aeronautiche, vento tridimensionale nel vento.</BulletPoint>
+        <BulletPoint>✔ Ampia distanza del vento di 6,5 metri: pale del ventilatore della turbina per aviazione, grande sezione trasversale e design ad ampio angolo delle pale del vento, aumentando l'area di contatto con l'aria, la velocità del vento è di 2m / se la velocità del vento è aumentata del 40%.</BulletPoint>
+        <BulletPoint>✔ Design asettico: il design asettico del serbatoio separato dell'acqua, aggiungere acqua a 180 ml e umidificare per 4 ore per ridurre il ristagno di acqua vecchia, mentre il design senza cortina consente ai batteri di nascondersi.</BulletPoint>
+        <BulletPoint>✔ Servizio post-vendita: il nostro negozio utilizza la logistica internazionale e il tempo di consegna stimato è di 15-30 giorni. In caso di problemi durante la ricezione della merce, è possibile contattarci in qualsiasi momento. Ti auguro un acquisto felice.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>15</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585723775</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665994</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Funzione Usb Ventola Di Raffreddamento Ad Acqua, Umidificazione A Spruzzo Palmare, Carica Casa Desktop Da Ufficio Muto Piccolo Dormitorio</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Istruzioni per l'uso, solo quattro passaggi, puoi usarlo con fiducia<br/>Aprire il coperchio dell'iniezione d'acqua<br/>2. Riempi la cisterna con acqua ghiacciata o cubetti di ghiaccio<br/>3. Collegare l'alimentazione<br/>4. Accendi e regola la direzione e la velocità del vento, puoi usarlo con sicurezza<br/><br/>✔ Materiale: ABS<br/>✔ Colore: blu reale<br/>✔ Tensione nominale: 5 V CC 0,84 A.<br/>✔ Potenza nominale: 4,2 W.<br/>✔ Velocità della ventola: 3000 RMP<br/>✔ Capacità serbatoio acqua: 320mL<br/>✔ Dimensioni del prodotto: 158MM * 180MM * 164MM]]></Description>
+        <BulletPoint>✔ Scene multiple: fresca estate sempre e ovunque per soddisfare le diverse esigenze della scena, ufficio, dormitorio della scuola, comodino della camera da letto.</BulletPoint>
+        <BulletPoint>✔ Umidificazione spray, bellezza ed emolliente: aggiungere acqua nel serbatoio dell'acqua, cortina bagnata ad evaporazione ad alta efficienza, raffreddare e riempire l'umidità allo stesso tempo.</BulletPoint>
+        <BulletPoint>✔ Design ad acqua superiore: apri il coperchio e aggiungi direttamente acqua e ghiaccio. L'operazione è facile e semplice. Puoi provare la sensazione di freddo in inverno in estate.</BulletPoint>
+        <BulletPoint>✔ Diverse modalità di alimentazione: questo prodotto utilizza alimentatore USB, adatto per la domanda pubblica, testa di ricarica, USB del computer, alimentazione mobile, USB per auto, ecc.</BulletPoint>
+        <BulletPoint>✔ 100% servizio post-vendita: il nostro negozio utilizza la logistica internazionale, puoi contattarci in qualsiasi momento via e-mail, risponderemo alle tue domande entro 24 ore, il cliente è sempre il primo, puoi trovare il tuo like cercando "DUYER" Prodotti, ti auguro un acquisto felice!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>16</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585726436</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666083</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Portable Air Cooler, Mini condizionatore d'aria, 3 in 1 evaporativo personale del dispositivo di raffreddamento, umidificatore, purificatore con USB, 3 velocità ventilatore da tavolino di raffreddamento per la casa, Camera, Ufficio</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Vuoi rimanere fresco nella calda estate, ma preoccupati che far funzionare il condizionatore d'aria per tutto il giorno, e i fan normali ti soffieranno solo aria calda in faccia.<br/><br/>Vuoi un modo migliore per calmarti?<br/>Usa il nostro mini raffreddatore ad aria per ottenere questo refrigeratore di spazio personale per creare la tua zona di comfort. Basta aggiungere acqua e ghiaccio al serbatoio dell'acqua, quindi rilassarsi e godersi un respiro fresco e umido.<br/><br/>✔ Materiale: componenti elettronici ABS / PP / PC<br/>✔ Importo netto: 900 g<br/>✔ Peso lordo: 1,3 kg<br/>✔ Requisiti di alimentazione: 5 V - DC2.1A<br/>✔ Rumore: 50 dB alla terza velocità del vento<br/>✔ Cambio velocità del vento: 3 marce<br/>✔ Potenza di lavoro: 6 W.<br/>✔ Dimensioni del prodotto: 145 * 145 * 190mm<br/>✔ Area di applicazione: 60-100 cm<br/>✔ Intervallo di salto: <2㎡<br/>✔ Intervallo di riduzione della temperatura: 4-12 ° C (a seconda della temperatura ambiente)]]></Description>
+        <BulletPoint>✔ Velocità del vento regolabile e fasatura automatica: tre velocità del vento (alta, media e bassa) possono essere regolate, la velocità massima della ventola raggiunge 3,24 m / s e la direzione del vento può essere regolata su e giù di 80 gradi manualmente per creare la propria personalità. 3H / 6H), puoi scegliere il tempo libero, il sonno o l'orario di lavoro più adatto a te.</BulletPoint>
+        <BulletPoint>✔ Facile da usare e portatile: tutto ciò che devi fare è aggiungere acqua e cubetti di ghiaccio al serbatoio dell'acqua di questo dispositivo di raffreddamento dell'aria desktop, collegarlo a una porta USB o power bank e accenderlo. A soli 6,4 pollici di altezza, è facile da spostare ed è perfetto per desktop e ufficio / dormitorio.</BulletPoint>
+        <BulletPoint>✔ Funzione tre in uno: design multifunzionale tre in uno di condizionatore d'aria personale, ventola, umidificatore. Raffreddare e umidificare per una migliore aria Il design di raffreddamento ti tiene lontano dalle estati calde e gode di estati fresche.</BulletPoint>
+        <BulletPoint>✔ Raffreddatore d'aria personale: un mini raffreddatore d'aria personale progettato per uso personale. Non utilizza refrigeranti o prodotti chimici per raffreddare l'aria, quindi non dovresti aspettarti lo stesso effetto di un condizionatore d'aria. Si prega di metterlo accanto a te non più di 3ft-4ft.</BulletPoint>
+        <BulletPoint>✔ 100% servizio post-vendita: il nostro negozio utilizza la logistica internazionale, puoi contattarci in qualsiasi momento via e-mail, risponderemo alle tue domande entro 24 ore, il cliente è sempre il primo, puoi trovare il tuo like cercando "DUYER" Prodotti, ti auguro un acquisto felice!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>17</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585728921</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666366</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Ventilatore Del Condizionatore D'Aria Di Raffreddamento Del Usb, Piccolo Aeratore Domestico Spruzzo, Automobile Sul Letto Del Dormitorio Dello Studente</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Vuoi rimanere fresco nella calda estate, ma preoccupati che far funzionare il condizionatore d'aria per tutto il giorno, e i fan normali ti soffieranno solo aria calda in faccia.<br/><br/>Vuoi un modo migliore per calmarti?<br/>Usa il nostro mini raffreddatore ad aria per ottenere questo refrigeratore di spazio personale per creare la tua zona di comfort. Basta aggiungere acqua e ghiaccio al serbatoio dell'acqua, quindi rilassarsi e godersi un respiro fresco e umido.<br/><br/>  ✔ Volume d'aria: 4 livelli<br/>  ✔ Tensione nominale: 5 V.<br/>  ✔ Lunghezza del cavo di alimentazione: 1,8 m<br/>  ✔ Potenza nominale: 6-9 W.<br/>  ✔ Metodo di controllo: pulsanti meccanici<br/>  ✔ Funzione di sicurezza: 6 ore di combustione a secco<br/>  ✔ Modalità volume aria: alta / media / bassa / sospensione<br/>  ✔ Capacità serbatoio acqua: 500 ML<br/>  ✔ colore del prodotto: bianco<br/>  ✔ Peso lordo / peso netto: 1 kg / 0,8 kg<br/>  ✔ Materiale: ABS]]></Description>
+        <BulletPoint>✔ Regolazione a 3 velocità: il nostro mini condizionatore d'aria è progettato con 3 modalità di velocità, che possono essere regolate liberamente in base alle proprie esigenze (bassa / media / alta). Se necessario, è anche possibile regolare la direzione del vento per ruotare verticalmente. (Nota: i dispositivi di raffreddamento ad aria portatili non sono adatti per raffreddare l'intera stanza.)</BulletPoint>
+        <BulletPoint>✔ Design 4 in 1: questo dispositivo di raffreddamento ad aria evaporativo ha raffreddamento portatile della ventola, umidificazione a spruzzo, purificazione dell'aria e funzioni 4 in 1 di 7 luci a LED, che non solo riducono la temperatura, ma ci aiutano anche a evitare l'aria secca. Inoltre, ha una luce ambientale a LED a 7 colori e una luce a LED morbida e colorata integrata per creare un'atmosfera romantica e offrirti un migliore ambiente per dormire.</BulletPoint>
+        <BulletPoint>✔ Risparmio energetico e salute: questo dispositivo di raffreddamento ad aria portatile ha un basso consumo energetico ed è privo di freon. Non solo protegge la salute della tua famiglia, ma consuma anche meno energia per ridurre al minimo la perdita di energia e proteggere l'ambiente. Ideale per soggiorno estivo, camera da letto, ufficio, ecc. Per il raffreddamento. Può essere utilizzato anche al lavoro e in viaggio.</BulletPoint>
+        <BulletPoint>✔ Facile da usare e leggero: basta aggiungere acqua o acqua ghiacciata, quindi collegare il cavo USB a un alimentatore mobile o a qualsiasi interfaccia USB e puoi utilizzare il mini dispositivo di raffreddamento ad aria portatile premendo il pulsante funzione. Questo condizionatore d'aria personale ha un design mini-portatile, che è molto facile da trasportare in ufficio, camera da letto, soggiorno, cucina e all'aperto.</BulletPoint>
+        <BulletPoint>✔ 100% servizio post-vendita: il nostro negozio utilizza la logistica internazionale, puoi contattarci in qualsiasi momento via e-mail, risponderemo alle tue domande entro 24 ore, il cliente è sempre il primo, puoi trovare il tuo like cercando "DUYER" Prodotti, ti auguro un acquisto felice!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>18</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585733575</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666953</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Climatizzatore Portatile Air Cooler, Piccola Ventola Di Raffreddamento Umidificatore Spray Ventola Di Raffreddamento, Desktop Dell'Ufficio Del Dormitorio Dello Studente A Casa</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Vuoi rimanere fresco nella calda estate, ma preoccupati che far funzionare il condizionatore d'aria tutto il giorno costerà molto, e i fan normali ti soffieranno solo aria calda in faccia.<br/><br/>✔ Vuoi un modo migliore per calmarti?<br/>Usa il nostro mini raffreddatore ad aria per ottenere questo refrigeratore di spazio personale per creare la tua zona di comfort. Basta aggiungere acqua e ghiaccio al serbatoio dell'acqua, quindi rilassarsi e godersi un respiro fresco e umido.<br/><br/>✔ Ventola di raffreddamento e umidificatore<br/>Il condizionatore d'aria, il dispositivo di raffreddamento portatile per evaporazione dell'aria e l'umidificatore atomizzatore sono combinati in uno, che può umidificare la pelle e l'aria, tenere lontano dall'aria secca e godersi il fresco dell'estate.<br/><br/>✔ Aria fresca e goditi una vita sana<br/>Riduce la temperatura per evaporazione dell'acqua e produce aria fresca. Basso consumo energetico e lunghi tempi di umidificazione! È ad alta efficienza energetica e basso tenore di carbonio.<br/><br/>✔ Raffreddatore d'aria personale portatile<br/>Mini dispositivo di raffreddamento dell'aria personale progettato per uso personale, si prega di posizionare non più di 3 piedi a 4 piedi.<br/><br/>✔ Il pacchetto include:<br/>1 x condizionatore d'aria<br/>1 x cavo dati USB]]></Description>
+        <BulletPoint>✔ Raffreddare rapidamente e rilasciare ioni negativi: la purificazione dell'acqua e l'elevata velocità del vento evaporano rilasciare gli ioni negativi, puoi sentire di più la freschezza apportata dagli ioni negativi e goderti facilmente l'aria pulita.</BulletPoint>
+        <BulletPoint>✔ Sistema di umidificazione senza nebbia: idrata ogni centimetro di pelle, umidificazione senza nebbia e polvere, usa una ventola per far fluire l'aria attraverso una cortina d'acqua e usa il principio dell'evaporazione naturale dell'acqua per aumentare l'umidità dell'aria.</BulletPoint>
+        <BulletPoint>✔ Tecnologia a doppia ventola: le doppie ventole anteriori e posteriori risolvono il problema del volume e della prevalenza dell'aria. La ventola posteriore è responsabile dell'aumento della pressione dell'aria di aspirazione e la parte anteriore è responsabile dell'alimentazione dell'aria. La distanza di alimentazione dell'aria è maggiore e il volume dell'aria è maggiore.</BulletPoint>
+        <BulletPoint>✔ Serbatoio dell'acqua indipendente: serbatoio dell'acqua indipendente separato, è più conveniente aggiungere acqua per la pulizia. Funzionamento semplice, nessuna perdita d'acqua, nessun accumulo d'acqua, più tranquillità.</BulletPoint>
+        <BulletPoint>✔ 100% servizio post-vendita: il nostro negozio utilizza la logistica internazionale, puoi contattarci in qualsiasi momento via e-mail, risponderemo alle tue domande entro 24 ore, il cliente è sempre il primo, puoi trovare il tuo like cercando "DUYER" Prodotti, ti auguro un acquisto felice!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilatore Ventilatore Piccolo Da Tavolo D Ventilatore Piccolo Da Tavolo Fantix Ventilatore Per Il Bambino Telecomando A Mano Con Presa USB Circolatore Dell'aria Ventilatore A Cancellazione Di Rumore</SearchTerms>
+        <ItemType>Condizionatori portatili</ItemType>
+        <RecommendedBrowseNode>3692887031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

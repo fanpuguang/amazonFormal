@@ -1,0 +1,48 @@
+{foreach name="goods" item="v"}
+<tr>
+    <td class="hidden-xs" align="center">
+        <label class="pos-rel">
+            <input name='n_id[]' id="navid" class="ace sel"  type='checkbox' value='{$v.id}'>
+            <span class="lbl"></span>
+        </label>
+    </td>
+    <td class="hidden-xs" align="center">{$v.id}</td>
+    <td class="hidden-xs" align="center">
+        <img style="width:50px;hieght:50px;" src="<?php foreach (explode('|',$v['PICTURE']) as $k1=>$v1){
+									if($k1 == 0){
+										echo $v1;
+									}
+								} ?>"/>
+    </td>
+    <td class="hidden-sm hidden-xs" style="color:green;">
+        {$v.ASIN}
+    </td>
+
+    <td class="hidden-xs hidden-sm">{$v.BUY_PRICE}</td>
+    <td class="hidden-xs hidden-sm">{$v.FA_DATA}</td>
+    <td class="hidden-xs hidden-sm">
+        {if $v.STATUS==1}
+        已下架
+        {else}
+        未下架
+        {/if}
+    </td>
+    <td class="hidden-xs hidden-sm">
+        {if $v.RANK==1}
+        是榜单
+        {else}
+        不是榜单
+        {/if}
+    </td>
+    <td>
+        <span class="delete_one" data-id="{$v.id}">下架</span>
+    </td>
+
+
+
+</tr>
+
+{/foreach}
+<tr>
+    <td colspan="9" align="right" class="hidden-xs">{$page}</td>
+</tr>

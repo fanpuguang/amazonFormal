@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584435920-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661248</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>USB mini ventilador, 4000mAh de gran capacidad, en tres dimensiones de suministro de aire rotativa, automática de cabezales agitación, la oficina residencia de estudiantes en silencio</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[ventilador USB<br/>Manténgase fresco ya sea interior o exterior<br/><br/>★ Parámetros del producto:<br/><br/>Nombre del producto: ventilador de escritorio Circular<br/><br/>Consumo de energía: 5W<br/><br/>Gear: contactor de marcha cuarto<br/><br/>El tiempo de trabajo: 1.5 ~ 10h<br/><br/>Especificaciones de la batería: 4000mAh<br/><br/>Tiempo de carga: 6 ~ 8 horas<br/><br/>Peso del producto: 600 ± 20 g<br/><br/>★ Contenido del paquete:<br/><br/>1 x mini ventilador<br/><br/>1 x cable USB<br/><br/>1 × Instrucción]]></Description>
+        <BulletPoint>★ [puede ser colgado en la pared]: Una variedad de maneras de utilizar, de acuerdo con las necesidades de los jóvenes, si se trata de dormitorio, oficina, sala de estar, estudio, al aire libre puede fácilmente se encuentran.&#13;</BulletPoint>
+        <BulletPoint>★ [Free dirección del viento]: girar automáticamente la dirección del viento izquierda y derecha a 120 ° en horizontal para una gama más amplia de experiencia. Golpe de distancia de esos ajustes 90 ° altura vertical calientes para satisfacer las necesidades de ángulo de suministro de aire.&#13;</BulletPoint>
+        <BulletPoint>★ [Tamaño del producto]: Todo el tamaño de la máquina: 230 * 193 * 154 mm, 4 velocidades de viento, el uso inalámbrico, que le da 365 noches de compañeros solidarios.&#13;</BulletPoint>
+        <BulletPoint>★ [inspiración Diseño]: el viento natural Incorporar en la vida diaria. El viento suave e incluso hace que la gente sea más cómoda y permite que el cuerpo y el corazón para volver al abrazo de la naturaleza de nuevo.&#13;</BulletPoint>
+        <BulletPoint>★ [Aire Acondicionado Companion]: Puede ser utilizado como un ventilador de circulación de aire acondicionado. El ventilador de circulación puede acelerar la circulación de aire, aire acondicionado, permitiendo que la temperatura ambiente sea rápida y uniforme, y hasta cierto punto, se puede ahorrar energía y darle una vida delicada.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584435920-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661255</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>USB mini ventilador, 4000mAh de gran capacidad, en tres dimensiones de suministro de aire rotativa, automática de cabezales agitación, la oficina residencia de estudiantes en silencio</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[ventilador USB<br/>Manténgase fresco ya sea interior o exterior<br/><br/>★ Parámetros del producto:<br/><br/>Nombre del producto: ventilador de escritorio Circular<br/><br/>Consumo de energía: 5W<br/><br/>Gear: contactor de marcha cuarto<br/><br/>El tiempo de trabajo: 1.5 ~ 10h<br/><br/>Especificaciones de la batería: 4000mAh<br/><br/>Tiempo de carga: 6 ~ 8 horas<br/><br/>Peso del producto: 600 ± 20 g<br/><br/>★ Contenido del paquete:<br/><br/>1 x mini ventilador<br/><br/>1 x cable USB<br/><br/>1 × Instrucción]]></Description>
+        <BulletPoint>★ [puede ser colgado en la pared]: Una variedad de maneras de utilizar, de acuerdo con las necesidades de los jóvenes, si se trata de dormitorio, oficina, sala de estar, estudio, al aire libre puede fácilmente se encuentran.&#13;</BulletPoint>
+        <BulletPoint>★ [Free dirección del viento]: girar automáticamente la dirección del viento izquierda y derecha a 120 ° en horizontal para una gama más amplia de experiencia. Golpe de distancia de esos ajustes 90 ° altura vertical calientes para satisfacer las necesidades de ángulo de suministro de aire.&#13;</BulletPoint>
+        <BulletPoint>★ [Tamaño del producto]: Todo el tamaño de la máquina: 230 * 193 * 154 mm, 4 velocidades de viento, el uso inalámbrico, que le da 365 noches de compañeros solidarios.&#13;</BulletPoint>
+        <BulletPoint>★ [inspiración Diseño]: el viento natural Incorporar en la vida diaria. El viento suave e incluso hace que la gente sea más cómoda y permite que el cuerpo y el corazón para volver al abrazo de la naturaleza de nuevo.&#13;</BulletPoint>
+        <BulletPoint>★ [Aire Acondicionado Companion]: Puede ser utilizado como un ventilador de circulación de aire acondicionado. El ventilador de circulación puede acelerar la circulación de aire, aire acondicionado, permitiendo que la temperatura ambiente sea rápida y uniforme, y hasta cierto punto, se puede ahorrar energía y darle una vida delicada.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Black</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584532268-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661385</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Humidificador Portátil USB Mini con Ventilador y Humidificador Silencioso Mejora El Aire Seco para Hogar, Coche, Oficina</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Especificaciones<br/>Nombre: ventilador de pulverización<br/>Corriente de trabajo: 2A<br/>Potencia de uso: 8 W<br/>Capacidad de la batería: 2000 mAh<br/>Voltaje de entrada: 5V / 0.8A<br/>Capacidad del tanque de agua: 200 ml<br/>Volumen de pulverización: 35 ml _ / H<br/>Tamaño del producto: 108x95x203 mm<br/>Material: ABS / PP / silicona / componente electrónico<br/>Peso del producto: 309g<br/>Color: blanco / rosa / azul<br/><br/>Embalaje<br/>1 * ventilador usb<br/>1 * cable de carga us]]></Description>
+        <BulletPoint>ACONDICIONADOR DE AIRE PEQUEÑO DE ESCRITORIO: enfriamiento eficiente, enfriamiento fuerte, despídase de la sensación calurosa del verano, disfrute de una sensación fresca y refrescante.&#13;</BulletPoint>
+        <BulletPoint>NANO-LEVEL FINE MIST: la gran cantidad de niebla admite la pulverización intermitente, la gran cantidad visible de niebla, el modo de pulverización intermitente y el tiempo de pulverización es más largo.&#13;</BulletPoint>
+        <BulletPoint>MOTOR SIN ESCOBILLAS · EL VIENTO MÁS FUERTE ES MÁS SILENCIOSO: seleccione un motor sin escobillas de CC, hasta 4500 rpm, bajo consumo de energía sin calor, 50% más de vida útil.&#13;</BulletPoint>
+        <BulletPoint>TANQUE DE AGUA DE GRAN CAPACIDAD: Agregue convenientemente diseño de agua, tanque de agua de gran capacidad de 200 ml, deje que la vida inteligente se acerque.&#13;</BulletPoint>
+        <BulletPoint>SIN FUGAS, SEGURO Y SIN PREOCUPACIONES: el anillo de sellado de silicona está diseñado para que el humidificador evite golpes accidentales y documentos mojados.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584532268-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661392</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Humidificador Portátil USB Mini con Ventilador y Humidificador Silencioso Mejora El Aire Seco para Hogar, Coche, Oficina</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Especificaciones<br/>Nombre: ventilador de pulverización<br/>Corriente de trabajo: 2A<br/>Potencia de uso: 8 W<br/>Capacidad de la batería: 2000 mAh<br/>Voltaje de entrada: 5V / 0.8A<br/>Capacidad del tanque de agua: 200 ml<br/>Volumen de pulverización: 35 ml _ / H<br/>Tamaño del producto: 108x95x203 mm<br/>Material: ABS / PP / silicona / componente electrónico<br/>Peso del producto: 309g<br/>Color: blanco / rosa / azul<br/><br/>Embalaje<br/>1 * ventilador usb<br/>1 * cable de carga us]]></Description>
+        <BulletPoint>ACONDICIONADOR DE AIRE PEQUEÑO DE ESCRITORIO: enfriamiento eficiente, enfriamiento fuerte, despídase de la sensación calurosa del verano, disfrute de una sensación fresca y refrescante.&#13;</BulletPoint>
+        <BulletPoint>NANO-LEVEL FINE MIST: la gran cantidad de niebla admite la pulverización intermitente, la gran cantidad visible de niebla, el modo de pulverización intermitente y el tiempo de pulverización es más largo.&#13;</BulletPoint>
+        <BulletPoint>MOTOR SIN ESCOBILLAS · EL VIENTO MÁS FUERTE ES MÁS SILENCIOSO: seleccione un motor sin escobillas de CC, hasta 4500 rpm, bajo consumo de energía sin calor, 50% más de vida útil.&#13;</BulletPoint>
+        <BulletPoint>TANQUE DE AGUA DE GRAN CAPACIDAD: Agregue convenientemente diseño de agua, tanque de agua de gran capacidad de 200 ml, deje que la vida inteligente se acerque.&#13;</BulletPoint>
+        <BulletPoint>SIN FUGAS, SEGURO Y SIN PREOCUPACIONES: el anillo de sellado de silicona está diseñado para que el humidificador evite golpes accidentales y documentos mojados.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584532268-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661408</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Humidificador Portátil USB Mini con Ventilador y Humidificador Silencioso Mejora El Aire Seco para Hogar, Coche, Oficina</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Especificaciones<br/>Nombre: ventilador de pulverización<br/>Corriente de trabajo: 2A<br/>Potencia de uso: 8 W<br/>Capacidad de la batería: 2000 mAh<br/>Voltaje de entrada: 5V / 0.8A<br/>Capacidad del tanque de agua: 200 ml<br/>Volumen de pulverización: 35 ml _ / H<br/>Tamaño del producto: 108x95x203 mm<br/>Material: ABS / PP / silicona / componente electrónico<br/>Peso del producto: 309g<br/>Color: blanco / rosa / azul<br/><br/>Embalaje<br/>1 * ventilador usb<br/>1 * cable de carga us]]></Description>
+        <BulletPoint>ACONDICIONADOR DE AIRE PEQUEÑO DE ESCRITORIO: enfriamiento eficiente, enfriamiento fuerte, despídase de la sensación calurosa del verano, disfrute de una sensación fresca y refrescante.&#13;</BulletPoint>
+        <BulletPoint>NANO-LEVEL FINE MIST: la gran cantidad de niebla admite la pulverización intermitente, la gran cantidad visible de niebla, el modo de pulverización intermitente y el tiempo de pulverización es más largo.&#13;</BulletPoint>
+        <BulletPoint>MOTOR SIN ESCOBILLAS · EL VIENTO MÁS FUERTE ES MÁS SILENCIOSO: seleccione un motor sin escobillas de CC, hasta 4500 rpm, bajo consumo de energía sin calor, 50% más de vida útil.&#13;</BulletPoint>
+        <BulletPoint>TANQUE DE AGUA DE GRAN CAPACIDAD: Agregue convenientemente diseño de agua, tanque de agua de gran capacidad de 200 ml, deje que la vida inteligente se acerque.&#13;</BulletPoint>
+        <BulletPoint>SIN FUGAS, SEGURO Y SIN PREOCUPACIONES: el anillo de sellado de silicona está diseñado para que el humidificador evite golpes accidentales y documentos mojados.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Blue</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584611024-0--</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661569</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title> Ventilador Silencioso Ventilador de Turbo con Control Remoto Ventilador de Escritorio con Circulación del Aire para Portátil Temporizador</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[★ Nombre del producto: ventilador eléctrico<br/>★ Material: material ABS seguro y no tóxico ecológico<br/>★ Tamaño: 285 * 285 * 275 mm<br/>★ Longitud del cable: aproximadamente 1,5 m de largo<br/>★ color: blanco<br/>★ Potencia nominal: 25 W<br/>★ Velocidad del viento / sincronización: 3 velocidades / 8 horas de sincronización<br/>★ Peso neto del producto: 2.4 kg<br/>★ ruido de funcionamiento: ≤55dB<br/>★ Categoría de ventilador: ventilador de mesa<br/>★ Modo de energía: AC<br/>★ Rango de tiempo máximo: 2 horas (inclusive) - 8 horas (inclusive)<br/>★ Ya sea con control remoto: sí<br/>★ Calificación de eficiencia energética: secundaria<br/>★ Método de control: tipo de computadora<br/>★ Tipo de suministro de aire: sacudiendo la cabeza]]></Description>
+        <BulletPoint>★ [Ahorro de energía y protección del medio ambiente] Suministro de aire estéreo interactivo, ventilación de flujo de aire de alta eficiencia es suave y cómoda, se puede suministrar por separado con aire, se puede usar junto con aire acondicionado, circulación de aire frío, ahorro de energía.</BulletPoint>
+        <BulletPoint>★ [Control remoto] Control remoto de control remoto de 10 m, verano lento, solo un botón fácil. Suministro de aire de gran angular tridimensional, exquisito y compacto plegable.</BulletPoint>
+        <BulletPoint>★ [Diseño de aspas del ventilador] Se disponen tres piezas de aspas del ventilador de precisión para distribuir completamente el volumen de aire y reducir la pérdida de flujo de aire. Se mejora la eficiencia del suministro de aire, la distancia del suministro de aire es mayor y la sensación del viento es suave y cómoda.</BulletPoint>
+        <BulletPoint>★ [Sin ruido] Viento fuerte y bajo ruido, viento suave y suave, bajo ruido, no hay necesidad de preocuparse por los grandes problemas de sonido.</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 10-20 días. Si tiene alguna pregunta sobre la recepción de los productos la primera vez, puede comunicarse por correo electrónico en cualquier momento. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584709295-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661736</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Ventilador de Mesa USB, Ventilador de Escritorio Use con Cable de 1.2 metros, portátil y Personal para el hogar yla Oficina Silencioso y Potente</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[★ Nombre del producto: ventilador de pulverización<br/>★ Material: ABS / PP / gel de sílice<br/>★ Tamaño del producto: 94 * 90 * 157 mm<br/>★ Color: blanco, rosa, azul.<br/>★ Voltaje de entrada: DC5V / 1.5A<br/>★ Corriente de trabajo: 800mA<br/>★ consumo de energía: 2W<br/>★ capacidad de la batería: 2000mA<br/>★ capacidad del tanque de agua: 400 ml<br/>★ Cantidad de pulverización: 35 ml /<br/>★ peso del producto: 290G<br/>★ Velocidad del motor: engranaje bajo 5V / 0.2A / 2800 rpm, medio 6.2V / 0.37A / 3400 rpm, alto grado 7.2V / 0.52A / 3800 rpm<br/>★ Alcance: exterior / dormitorio / hogar / oficina / viaje de negocios / bebé / viaje]]></Description>
+        <BulletPoint>★ [Diseño estructural] Ventilador de escritorio con almacenamiento cerrado, libre para ajustar el ángulo, diseño multifuncional de suministro de aire humidificado, diseño de 7 ventiladores y viento fuerte. Puede cargarse mediante alimentación USB o desconectarse de la fuente de alimentación. Es una luz multifunción USB y pequeño ventilador.&#13;</BulletPoint>
+        <BulletPoint>★ [Modo de siete luces] La primera pulsación larga (botón de rociado), enciende el gradiente de luz nocturna de colores; La segunda pulsación larga del color fijo. Tres pulsaciones largas para desactivar el modo de luz colorida.&#13;</BulletPoint>
+        <BulletPoint>★ 【Sin ruido】 Motor de CC sin escobillas importado, la reducción de ruido tiene un alto rendimiento y un excelente funcionamiento silencioso de 30dB, silencioso solo escucha el sonido de la respiración.&#13;</BulletPoint>
+        <BulletPoint>★ [gran capacidad] 2400ml gran capacidad, humidificación de larga duración, no es necesario agregar agua con frecuencia, una vez llenas, 20 horas de humidificación permanente, visualizar la línea de agua, más conveniente para agregar agua.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda adopta logística internacional, el tiempo de entrega es de 30 días hábiles. Si tiene alguna pregunta durante la primera vez que recibe los productos, puede contactarnos en cualquier momento. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584709295-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661743</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Ventilador de Mesa USB, Ventilador de Escritorio Use con Cable de 1.2 metros, portátil y Personal para el hogar yla Oficina Silencioso y Potente</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[★ Nombre del producto: ventilador de pulverización<br/>★ Material: ABS / PP / gel de sílice<br/>★ Tamaño del producto: 94 * 90 * 157 mm<br/>★ Color: blanco, rosa, azul.<br/>★ Voltaje de entrada: DC5V / 1.5A<br/>★ Corriente de trabajo: 800mA<br/>★ consumo de energía: 2W<br/>★ capacidad de la batería: 2000mA<br/>★ capacidad del tanque de agua: 400 ml<br/>★ Cantidad de pulverización: 35 ml /<br/>★ peso del producto: 290G<br/>★ Velocidad del motor: engranaje bajo 5V / 0.2A / 2800 rpm, medio 6.2V / 0.37A / 3400 rpm, alto grado 7.2V / 0.52A / 3800 rpm<br/>★ Alcance: exterior / dormitorio / hogar / oficina / viaje de negocios / bebé / viaje]]></Description>
+        <BulletPoint>★ [Diseño estructural] Ventilador de escritorio con almacenamiento cerrado, libre para ajustar el ángulo, diseño multifuncional de suministro de aire humidificado, diseño de 7 ventiladores y viento fuerte. Puede cargarse mediante alimentación USB o desconectarse de la fuente de alimentación. Es una luz multifunción USB y pequeño ventilador.&#13;</BulletPoint>
+        <BulletPoint>★ [Modo de siete luces] La primera pulsación larga (botón de rociado), enciende el gradiente de luz nocturna de colores; La segunda pulsación larga del color fijo. Tres pulsaciones largas para desactivar el modo de luz colorida.&#13;</BulletPoint>
+        <BulletPoint>★ 【Sin ruido】 Motor de CC sin escobillas importado, la reducción de ruido tiene un alto rendimiento y un excelente funcionamiento silencioso de 30dB, silencioso solo escucha el sonido de la respiración.&#13;</BulletPoint>
+        <BulletPoint>★ [gran capacidad] 2400ml gran capacidad, humidificación de larga duración, no es necesario agregar agua con frecuencia, una vez llenas, 20 horas de humidificación permanente, visualizar la línea de agua, más conveniente para agregar agua.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda adopta logística internacional, el tiempo de entrega es de 30 días hábiles. Si tiene alguna pregunta durante la primera vez que recibe los productos, puede contactarnos en cualquier momento. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584709295-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661750</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Ventilador de Mesa USB, Ventilador de Escritorio Use con Cable de 1.2 metros, portátil y Personal para el hogar yla Oficina Silencioso y Potente</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[★ Nombre del producto: ventilador de pulverización<br/>★ Material: ABS / PP / gel de sílice<br/>★ Tamaño del producto: 94 * 90 * 157 mm<br/>★ Color: blanco, rosa, azul.<br/>★ Voltaje de entrada: DC5V / 1.5A<br/>★ Corriente de trabajo: 800mA<br/>★ consumo de energía: 2W<br/>★ capacidad de la batería: 2000mA<br/>★ capacidad del tanque de agua: 400 ml<br/>★ Cantidad de pulverización: 35 ml /<br/>★ peso del producto: 290G<br/>★ Velocidad del motor: engranaje bajo 5V / 0.2A / 2800 rpm, medio 6.2V / 0.37A / 3400 rpm, alto grado 7.2V / 0.52A / 3800 rpm<br/>★ Alcance: exterior / dormitorio / hogar / oficina / viaje de negocios / bebé / viaje]]></Description>
+        <BulletPoint>★ [Diseño estructural] Ventilador de escritorio con almacenamiento cerrado, libre para ajustar el ángulo, diseño multifuncional de suministro de aire humidificado, diseño de 7 ventiladores y viento fuerte. Puede cargarse mediante alimentación USB o desconectarse de la fuente de alimentación. Es una luz multifunción USB y pequeño ventilador.&#13;</BulletPoint>
+        <BulletPoint>★ [Modo de siete luces] La primera pulsación larga (botón de rociado), enciende el gradiente de luz nocturna de colores; La segunda pulsación larga del color fijo. Tres pulsaciones largas para desactivar el modo de luz colorida.&#13;</BulletPoint>
+        <BulletPoint>★ 【Sin ruido】 Motor de CC sin escobillas importado, la reducción de ruido tiene un alto rendimiento y un excelente funcionamiento silencioso de 30dB, silencioso solo escucha el sonido de la respiración.&#13;</BulletPoint>
+        <BulletPoint>★ [gran capacidad] 2400ml gran capacidad, humidificación de larga duración, no es necesario agregar agua con frecuencia, una vez llenas, 20 horas de humidificación permanente, visualizar la línea de agua, más conveniente para agregar agua.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda adopta logística internacional, el tiempo de entrega es de 30 días hábiles. Si tiene alguna pregunta durante la primera vez que recibe los productos, puede contactarnos en cualquier momento. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Blue</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584795566-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661835</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini Ventilador USB, Ventiladores de Escritorio Mesa para la Sala Ordenador Portátil Oficina Viaje y al Aire Libre etc</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[★ Nombre del producto: mini ventilador<br/>★ Material del producto: ABS / PP / componentes electrónicos<br/>★ Tamaño del producto: 78X28 × 132 mm<br/>★ Color: amarillo, naranja, rosa, rojo, verde, azul<br/>★ Capacidad de la batería: 3.7V / 800mAh<br/>★ Corriente de trabajo: 800mAh<br/>★ Material del producto: ABS / PP / componentes electrónicos<br/>★ Tiempo de carga: aproximadamente 1 hora<br/>★ Producto Peso Neto: 65g<br/>★ Voltaje de entrada: 5V / 1A<br/>★ voltaje de la batería: 3.7V<br/>★ Corriente de trabajo del motor: 200mAh / potencia 1w, 350mAh potencia 1.6W<br/>★ escenas aplicables: hogar, exterior, dormitorio, compras<br/>★ Configuración estándar: ventilador / cable de carga / manual]]></Description>
+        <BulletPoint>★ [Diseño de estructura] Batería de polímero, el USB se puede recargar. Para evitar problemas con la batería, el diseño de la batería incorporada es ecológico.&#13;</BulletPoint>
+        <BulletPoint>★ [Gran viento] Viento creciente, viento espiral de 5 hojas, viento fuerte te refresca todo el verano.&#13;</BulletPoint>
+        <BulletPoint>★ [Sin ruido] Silencioso, silencioso, silencioso y cómodo, sin importar la oficina, el aula o la biblioteca, disfrute del verano refrescante.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] Se pueden ajustar 2 velocidades del viento a voluntad, el viento frío y el viento fuerte son opcionales. Se derivan del diseño amoroso de la vida y el cuidado.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede contactarnos en cualquier momento si tiene algún problema al recibir los productos. No hay ninguna razón para devolver los productos dentro de un mes. Le deseo una feliz compra.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Yellow</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584795566-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661842</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini Ventilador USB, Ventiladores de Escritorio Mesa para la Sala Ordenador Portátil Oficina Viaje y al Aire Libre etc</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[★ Nombre del producto: mini ventilador<br/>★ Material del producto: ABS / PP / componentes electrónicos<br/>★ Tamaño del producto: 78X28 × 132 mm<br/>★ Color: amarillo, naranja, rosa, rojo, verde, azul<br/>★ Capacidad de la batería: 3.7V / 800mAh<br/>★ Corriente de trabajo: 800mAh<br/>★ Material del producto: ABS / PP / componentes electrónicos<br/>★ Tiempo de carga: aproximadamente 1 hora<br/>★ Producto Peso Neto: 65g<br/>★ Voltaje de entrada: 5V / 1A<br/>★ voltaje de la batería: 3.7V<br/>★ Corriente de trabajo del motor: 200mAh / potencia 1w, 350mAh potencia 1.6W<br/>★ escenas aplicables: hogar, exterior, dormitorio, compras<br/>★ Configuración estándar: ventilador / cable de carga / manual]]></Description>
+        <BulletPoint>★ [Diseño de estructura] Batería de polímero, el USB se puede recargar. Para evitar problemas con la batería, el diseño de la batería incorporada es ecológico.&#13;</BulletPoint>
+        <BulletPoint>★ [Gran viento] Viento creciente, viento espiral de 5 hojas, viento fuerte te refresca todo el verano.&#13;</BulletPoint>
+        <BulletPoint>★ [Sin ruido] Silencioso, silencioso, silencioso y cómodo, sin importar la oficina, el aula o la biblioteca, disfrute del verano refrescante.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] Se pueden ajustar 2 velocidades del viento a voluntad, el viento frío y el viento fuerte son opcionales. Se derivan del diseño amoroso de la vida y el cuidado.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede contactarnos en cualquier momento si tiene algún problema al recibir los productos. No hay ninguna razón para devolver los productos dentro de un mes. Le deseo una feliz compra.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>orange</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584795566-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661859</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini Ventilador USB, Ventiladores de Escritorio Mesa para la Sala Ordenador Portátil Oficina Viaje y al Aire Libre etc</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[★ Nombre del producto: mini ventilador<br/>★ Material del producto: ABS / PP / componentes electrónicos<br/>★ Tamaño del producto: 78X28 × 132 mm<br/>★ Color: amarillo, naranja, rosa, rojo, verde, azul<br/>★ Capacidad de la batería: 3.7V / 800mAh<br/>★ Corriente de trabajo: 800mAh<br/>★ Material del producto: ABS / PP / componentes electrónicos<br/>★ Tiempo de carga: aproximadamente 1 hora<br/>★ Producto Peso Neto: 65g<br/>★ Voltaje de entrada: 5V / 1A<br/>★ voltaje de la batería: 3.7V<br/>★ Corriente de trabajo del motor: 200mAh / potencia 1w, 350mAh potencia 1.6W<br/>★ escenas aplicables: hogar, exterior, dormitorio, compras<br/>★ Configuración estándar: ventilador / cable de carga / manual]]></Description>
+        <BulletPoint>★ [Diseño de estructura] Batería de polímero, el USB se puede recargar. Para evitar problemas con la batería, el diseño de la batería incorporada es ecológico.&#13;</BulletPoint>
+        <BulletPoint>★ [Gran viento] Viento creciente, viento espiral de 5 hojas, viento fuerte te refresca todo el verano.&#13;</BulletPoint>
+        <BulletPoint>★ [Sin ruido] Silencioso, silencioso, silencioso y cómodo, sin importar la oficina, el aula o la biblioteca, disfrute del verano refrescante.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] Se pueden ajustar 2 velocidades del viento a voluntad, el viento frío y el viento fuerte son opcionales. Se derivan del diseño amoroso de la vida y el cuidado.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede contactarnos en cualquier momento si tiene algún problema al recibir los productos. No hay ninguna razón para devolver los productos dentro de un mes. Le deseo una feliz compra.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>pink</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>13</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584795566-3</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661866</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini Ventilador USB, Ventiladores de Escritorio Mesa para la Sala Ordenador Portátil Oficina Viaje y al Aire Libre etc</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[★ Nombre del producto: mini ventilador<br/>★ Material del producto: ABS / PP / componentes electrónicos<br/>★ Tamaño del producto: 78X28 × 132 mm<br/>★ Color: amarillo, naranja, rosa, rojo, verde, azul<br/>★ Capacidad de la batería: 3.7V / 800mAh<br/>★ Corriente de trabajo: 800mAh<br/>★ Material del producto: ABS / PP / componentes electrónicos<br/>★ Tiempo de carga: aproximadamente 1 hora<br/>★ Producto Peso Neto: 65g<br/>★ Voltaje de entrada: 5V / 1A<br/>★ voltaje de la batería: 3.7V<br/>★ Corriente de trabajo del motor: 200mAh / potencia 1w, 350mAh potencia 1.6W<br/>★ escenas aplicables: hogar, exterior, dormitorio, compras<br/>★ Configuración estándar: ventilador / cable de carga / manual]]></Description>
+        <BulletPoint>★ [Diseño de estructura] Batería de polímero, el USB se puede recargar. Para evitar problemas con la batería, el diseño de la batería incorporada es ecológico.&#13;</BulletPoint>
+        <BulletPoint>★ [Gran viento] Viento creciente, viento espiral de 5 hojas, viento fuerte te refresca todo el verano.&#13;</BulletPoint>
+        <BulletPoint>★ [Sin ruido] Silencioso, silencioso, silencioso y cómodo, sin importar la oficina, el aula o la biblioteca, disfrute del verano refrescante.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] Se pueden ajustar 2 velocidades del viento a voluntad, el viento frío y el viento fuerte son opcionales. Se derivan del diseño amoroso de la vida y el cuidado.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede contactarnos en cualquier momento si tiene algún problema al recibir los productos. No hay ninguna razón para devolver los productos dentro de un mes. Le deseo una feliz compra.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>red</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584795566-4</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661873</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini Ventilador USB, Ventiladores de Escritorio Mesa para la Sala Ordenador Portátil Oficina Viaje y al Aire Libre etc</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[★ Nombre del producto: mini ventilador<br/>★ Material del producto: ABS / PP / componentes electrónicos<br/>★ Tamaño del producto: 78X28 × 132 mm<br/>★ Color: amarillo, naranja, rosa, rojo, verde, azul<br/>★ Capacidad de la batería: 3.7V / 800mAh<br/>★ Corriente de trabajo: 800mAh<br/>★ Material del producto: ABS / PP / componentes electrónicos<br/>★ Tiempo de carga: aproximadamente 1 hora<br/>★ Producto Peso Neto: 65g<br/>★ Voltaje de entrada: 5V / 1A<br/>★ voltaje de la batería: 3.7V<br/>★ Corriente de trabajo del motor: 200mAh / potencia 1w, 350mAh potencia 1.6W<br/>★ escenas aplicables: hogar, exterior, dormitorio, compras<br/>★ Configuración estándar: ventilador / cable de carga / manual]]></Description>
+        <BulletPoint>★ [Diseño de estructura] Batería de polímero, el USB se puede recargar. Para evitar problemas con la batería, el diseño de la batería incorporada es ecológico.&#13;</BulletPoint>
+        <BulletPoint>★ [Gran viento] Viento creciente, viento espiral de 5 hojas, viento fuerte te refresca todo el verano.&#13;</BulletPoint>
+        <BulletPoint>★ [Sin ruido] Silencioso, silencioso, silencioso y cómodo, sin importar la oficina, el aula o la biblioteca, disfrute del verano refrescante.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] Se pueden ajustar 2 velocidades del viento a voluntad, el viento frío y el viento fuerte son opcionales. Se derivan del diseño amoroso de la vida y el cuidado.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede contactarnos en cualquier momento si tiene algún problema al recibir los productos. No hay ninguna razón para devolver los productos dentro de un mes. Le deseo una feliz compra.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>green</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>15</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584795566-5</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661880</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini Ventilador USB, Ventiladores de Escritorio Mesa para la Sala Ordenador Portátil Oficina Viaje y al Aire Libre etc</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[★ Nombre del producto: mini ventilador<br/>★ Material del producto: ABS / PP / componentes electrónicos<br/>★ Tamaño del producto: 78X28 × 132 mm<br/>★ Color: amarillo, naranja, rosa, rojo, verde, azul<br/>★ Capacidad de la batería: 3.7V / 800mAh<br/>★ Corriente de trabajo: 800mAh<br/>★ Material del producto: ABS / PP / componentes electrónicos<br/>★ Tiempo de carga: aproximadamente 1 hora<br/>★ Producto Peso Neto: 65g<br/>★ Voltaje de entrada: 5V / 1A<br/>★ voltaje de la batería: 3.7V<br/>★ Corriente de trabajo del motor: 200mAh / potencia 1w, 350mAh potencia 1.6W<br/>★ escenas aplicables: hogar, exterior, dormitorio, compras<br/>★ Configuración estándar: ventilador / cable de carga / manual]]></Description>
+        <BulletPoint>★ [Diseño de estructura] Batería de polímero, el USB se puede recargar. Para evitar problemas con la batería, el diseño de la batería incorporada es ecológico.&#13;</BulletPoint>
+        <BulletPoint>★ [Gran viento] Viento creciente, viento espiral de 5 hojas, viento fuerte te refresca todo el verano.&#13;</BulletPoint>
+        <BulletPoint>★ [Sin ruido] Silencioso, silencioso, silencioso y cómodo, sin importar la oficina, el aula o la biblioteca, disfrute del verano refrescante.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] Se pueden ajustar 2 velocidades del viento a voluntad, el viento frío y el viento fuerte son opcionales. Se derivan del diseño amoroso de la vida y el cuidado.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede contactarnos en cualquier momento si tiene algún problema al recibir los productos. No hay ninguna razón para devolver los productos dentro de un mes. Le deseo una feliz compra.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>blue</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>16</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584956136-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520662177</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini USB Ventilador De Escritorio Ventilador Silencioso Personal Pequeño Con Flujo De Aire Fuerte Y Ventilador De Enfriamiento Portátil Con ángulo De Inclinación Ajustable De 360 ​​° Para La Oficina</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Nombre del producto: ventilador de escritorio<br/>Material: ABS / PPPC componentes electrónicos<br/>Color:blanco<br/>Tamaño del producto: 131X172X201mm<br/>Voltaje de la batería: 3.7V<br/>Capacidad de la batería: 2000mAh<br/>Voltaje de entrada / corriente: DC5V / 1000mAh<br/>Potencia de salida: 4W<br/>Velocidad del motor: una marcha 5.5V / 2300 rpm, segunda marcha 7.5V / 3100 rpm, tercera marcha 9V / 3400 rpm<br/>Corriente de trabajo: un engranaje 310mA segundo engranaje 600mA tercer engranaje 970mA<br/>Potencia de trabajo: un engranaje 1.3W / segundo engranaje 2.5W / tercer engranaje 4W<br/>Peso del producto: 454g<br/>Ámbito de aplicación: salidas, interiores, diversos lugares<br/>Accesorios del producto: caja / ventilador / línea de carga / manual]]></Description>
+        <BulletPoint>★ [Diseño estructural] El diseño aerodinámico puede reducir la resistencia del aire con factores ambientales externos. En comparación con productos similares de la competencia, la velocidad del viento aumenta en más del 20% y la eficiencia de trabajo aumenta en un 30%.&#13;</BulletPoint>
+        <BulletPoint>★ [Dirección del viento libre] Dirección del viento libre, controlada por usted, viento fuerte, frío y no frío, suministro de aire del ciclo de ajuste de ángulo múltiple de 360 ​​°, para que la atmósfera del verano esté al alcance de la mano.&#13;</BulletPoint>
+        <BulletPoint>★ [Big wind] Desarrollo de tecnología de diseño de volumen de aire y aerodinámica, estructura de ventilador de turbina curva, viento impulsado por 4 palas a través de la red delantera de estructura de turbina curva cuidadosamente diseñada, soplando un viento más frío.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de velocidad del viento] Ajuste de volumen de aire de tres velocidades, 1 archivo ~ viento silencioso, 2 archivos ~ viento natural, 3 archivos ~ viento frío.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede contactarnos en cualquier momento si tiene algún problema con la primera vez que recibe los productos. No hay razón para devolver los productos dentro de un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>17</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584963072-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520662221</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Ventilador Pequeño De Dibujos Animados Dormitorio Del Estudiante Cama Pequeña Cabeza De La Cama Mute Lindo Plug-in Dormitorio Ventilador Doméstico Escritorio</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Nombre del producto: fan de dibujos animados<br/>Material: ABS, componentes electrónicos.<br/>Color: rosa 1, blanco<br/>Tamaño: 290 * 268MM<br/>Modo de potencia: carga directa<br/>Elementos populares: dibujos animados<br/>Gente aplicable: estudiantes<br/>Longitud del cable de alimentación: 1,5 m<br/>Escena aplicable: hogar, exterior, dormitorio, compras<br/>Configuración estándar: ventilador / línea de carga / manual]]></Description>
+        <BulletPoint>★ [Diseño estructural] El cable de extensión de temporización se puede temporizar 2, 4, 8 horas. Hay un panel de control en la línea. Haga clic en el botón para encender, apagar y el tiempo.&#13;</BulletPoint>
+        <BulletPoint>★ [Big Wind] El diseño de la pala de turbina de la aeronave. Después de muchas simulaciones y su frecuencia de rotación, se obtiene el confort del viento, que está diseñado para diseñar un viento suave y cómodo que sea más adecuado para la oficina de aprendizaje.&#13;</BulletPoint>
+        <BulletPoint>★ [Sin ruido] Silencioso, con poco ruido, tranquilo y cómodo, disfruta del verano fresco en la oficina, el aula, la biblioteca.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] 2 control de la velocidad del viento, aire fresco, viento fuerte opcional, desde el diseño del amor a la vida, el cuidado íntimo.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de llegada es de 10 a 20 días. Si tiene algún problema con la primera vez que recibe los productos, puede contactarlos en cualquier momento. No hay razón para devolver las mercancías por un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>18</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584963072-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520662238</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Ventilador Pequeño De Dibujos Animados Dormitorio Del Estudiante Cama Pequeña Cabeza De La Cama Mute Lindo Plug-in Dormitorio Ventilador Doméstico Escritorio</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Nombre del producto: fan de dibujos animados<br/>Material: ABS, componentes electrónicos.<br/>Color: rosa 1, blanco<br/>Tamaño: 290 * 268MM<br/>Modo de potencia: carga directa<br/>Elementos populares: dibujos animados<br/>Gente aplicable: estudiantes<br/>Longitud del cable de alimentación: 1,5 m<br/>Escena aplicable: hogar, exterior, dormitorio, compras<br/>Configuración estándar: ventilador / línea de carga / manual]]></Description>
+        <BulletPoint>★ [Diseño estructural] El cable de extensión de temporización se puede temporizar 2, 4, 8 horas. Hay un panel de control en la línea. Haga clic en el botón para encender, apagar y el tiempo.&#13;</BulletPoint>
+        <BulletPoint>★ [Big Wind] El diseño de la pala de turbina de la aeronave. Después de muchas simulaciones y su frecuencia de rotación, se obtiene el confort del viento, que está diseñado para diseñar un viento suave y cómodo que sea más adecuado para la oficina de aprendizaje.&#13;</BulletPoint>
+        <BulletPoint>★ [Sin ruido] Silencioso, con poco ruido, tranquilo y cómodo, disfruta del verano fresco en la oficina, el aula, la biblioteca.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] 2 control de la velocidad del viento, aire fresco, viento fuerte opcional, desde el diseño del amor a la vida, el cuidado íntimo.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de llegada es de 10 a 20 días. Si tiene algún problema con la primera vez que recibe los productos, puede contactarlos en cualquier momento. No hay razón para devolver las mercancías por un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>19</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585056641-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520662351</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>USB pequeño ventilador del Estudiante de carga compartida Modelo silencioso portátil Oficina de escritorio pequeño ventilador de tabla creativa</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Nombre del producto: pequeño ventilador portátil<br/>Material: ABS / PP / Componentes electrónicos<br/>Color: rosa, azul, negro, amarillo<br/>Tamaño: 170 * 84 * 29mm<br/>Peso neto: 89 g<br/>Especificaciones de la batería: la batería de polímero de litio 800mAh<br/>voltaje de la batería: 3.7V<br/>Carga de tensión / corriente: 5V / 830mA<br/>Corriente de trabajo: una marcha 200mAh / 5V, la segunda marcha 350mAh / 6V, la tercera velocidad de 700 mAh / 8V<br/>la corriente de luz: luces de colores 40mAh<br/>Ámbito de aplicación: salidas, dentro, varios lugares<br/>accesorios del producto: caja / ventilador / base / cable de tracción / línea de datos / Manual]]></Description>
+        <BulletPoint>★ [Diseño estructural] Luz de respiración de atmósfera degradada, luz de atmósfera LED incorporada, presión prolongada para abrir luces de degradado de colores para mejorar la atmósfera, como la belleza de ensueño.&#13;</BulletPoint>
+        <BulletPoint>★ [Silencio bueno] Actualice el sonido de todo el motor con núcleo de cobre, una pequeña mesa, el ventilador hacia abajo para reducir la luz y el bajo ruido para proteger el sueño del bebé.&#13;</BulletPoint>
+        <BulletPoint>★ [Vida útil permanente de la batería] Gran capacidad y vida útil prolongada de la batería, carga durante 90 minutos, frío todo el día, con batería de litio polímero de 800mAh, portátil y fácil de llevar.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] 3 ajustes de velocidad, conveniente modo de control de velocidad del botón, presione el botón redondo a su vez, habrá viento débil / golpe / viento fuerte.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de llegada es de 10 a 20 días. Si tiene algún problema con la primera vez que recibe los productos, puede contactarlos en cualquier momento. No hay razón para devolver las mercancías por un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Black</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>20</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585056641-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520662368</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>USB pequeño ventilador del Estudiante de carga compartida Modelo silencioso portátil Oficina de escritorio pequeño ventilador de tabla creativa</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Nombre del producto: pequeño ventilador portátil<br/>Material: ABS / PP / Componentes electrónicos<br/>Color: rosa, azul, negro, amarillo<br/>Tamaño: 170 * 84 * 29mm<br/>Peso neto: 89 g<br/>Especificaciones de la batería: la batería de polímero de litio 800mAh<br/>voltaje de la batería: 3.7V<br/>Carga de tensión / corriente: 5V / 830mA<br/>Corriente de trabajo: una marcha 200mAh / 5V, la segunda marcha 350mAh / 6V, la tercera velocidad de 700 mAh / 8V<br/>la corriente de luz: luces de colores 40mAh<br/>Ámbito de aplicación: salidas, dentro, varios lugares<br/>accesorios del producto: caja / ventilador / base / cable de tracción / línea de datos / Manual]]></Description>
+        <BulletPoint>★ [Diseño estructural] Luz de respiración de atmósfera degradada, luz de atmósfera LED incorporada, presión prolongada para abrir luces de degradado de colores para mejorar la atmósfera, como la belleza de ensueño.&#13;</BulletPoint>
+        <BulletPoint>★ [Silencio bueno] Actualice el sonido de todo el motor con núcleo de cobre, una pequeña mesa, el ventilador hacia abajo para reducir la luz y el bajo ruido para proteger el sueño del bebé.&#13;</BulletPoint>
+        <BulletPoint>★ [Vida útil permanente de la batería] Gran capacidad y vida útil prolongada de la batería, carga durante 90 minutos, frío todo el día, con batería de litio polímero de 800mAh, portátil y fácil de llevar.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] 3 ajustes de velocidad, conveniente modo de control de velocidad del botón, presione el botón redondo a su vez, habrá viento débil / golpe / viento fuerte.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de llegada es de 10 a 20 días. Si tiene algún problema con la primera vez que recibe los productos, puede contactarlos en cualquier momento. No hay razón para devolver las mercancías por un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>21</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585123756-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520662474</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Usb portátil pequeño ventilador, recargable plegable Banana Fan, Silencio / portátil / portátil</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[★ Nombre del producto: Ventilador de mano<br/>★ Material: ABS + componentes electrónicos + PP<br/>★ Tamaño aproximadamente: 130 * 35 * 210mm<br/>★ Color: Azul<br/>★ velocidad del viento: 3 velocidades<br/>★ Voltaje de entrada: DC5V = 0,5 ~ 1A<br/>★ Tensión de salida: DC5 ~ 9V<br/>★ potencia de salida: 4.5W<br/>★ batería: 2200 capacidad<br/>★ Peso del producto: sobre 150G<br/>★ Ámbito de aplicación: de picnic, varios lugares de interior,<br/>★ accesorios de producto: cable de la caja / ventilador / carga / manual]]></Description>
+        <BulletPoint>★ [Estructura Diseño] Natural diseño de alas de mariposa biónicos, en gran medida a reducir el ruido causado por la turbulencia del flujo de aire.&#13;</BulletPoint>
+        <BulletPoint>★ [Estable velocidad del viento] modo de suministro de energía, que puede ser alimentado por energía móvil, electrodomésticos, toma USB del ordenador, cargador de coche, etc.&#13;</BulletPoint>
+        <BulletPoint>★ [No ruido] rodamientos de alta resistencia al desgaste, suavizar funcionamiento, reduciendo en gran medida el ruido de fricción, la velocidad eficiente y estable, y la reducción de ruido de las vibraciones.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] operación de un solo clic, clic 3 velocidades para ajustar la velocidad del viento, haga doble clic para cambiar los aficionados izquierdo y derecho, motores y ventiladores dobles dobles, dando el doble del viento&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza la logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede ponerse en contacto con nosotros en cualquier momento si tiene algún problema al recibir las mercancías. No hay ninguna razón para devolver la mercancía dentro de un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Blue</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>22</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585245245-0-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520662771</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Usb mini ventilador, escritorio Clip Fan, 360 grados de rotación portátil de mano grande del viento del ventilador eléctrico para uso particular</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Nombre del producto: ventilador de escritorio<br/>Material: ABS / PPPC componentes electrónicos<br/>Tamaño del producto: 131X172X201mm<br/>voltaje de la batería: 3.7V<br/>Capacidad de la batería: 2000 mAh<br/>voltaje de entrada / corriente: DC 5V / 1000mAh<br/>Potencia de salida: 4W<br/>La velocidad del motor: una marcha 5.5V / 2.300 rpm, segunda rueda dentada de 7,5 V / 3100 rpm, la tercera marcha 9V / 3400 rpm<br/>Corriente de trabajo: 310mA un engranaje de la segunda marcha 600mA 970mA tercera velocidad<br/>Energía de trabajo: 1.3W uno de engranajes / segundo engranaje 2.5W / 4W tercer engranaje<br/>Peso del producto: 454g<br/>Ámbito de aplicación: salidas, dentro, varios lugares<br/>accesorios del producto: caja / ventilador / línea de carga / Manual]]></Description>
+        <BulletPoint>★ [Diseño estructural] El diseño aerodinámico puede reducir la resistencia del aire con los factores ambientales externos. En comparación con productos similares de la competencia, la velocidad del viento se incrementa en más de un 20%, y la eficiencia de trabajo se incrementó en un 30%.</BulletPoint>
+        <BulletPoint>★ [dirección del viento libre] dirección del viento libre, controlado por usted, gran viento, frío y no fría, suministro de aire ciclo de ajuste 360 ​​° multi-ángulo, de modo que la atmósfera de verano está a la mano.</BulletPoint>
+        <BulletPoint>★ [viento grande] El desarrollo de la tecnología de diseño de volumen de aire y la aerodinámica, la estructura del ventilador de la turbina curva, impulsada por el viento por 4 palas de la turbina a través de la curva estructura frontal neta cuidadosamente diseñado, sopla un viento fresco.</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] ajuste de volumen de aire de tres velocidades, 1 archivo ~ silencioso viento, 2 archivos ~ natural del viento, 3 archivos ~ viento fresco.</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza la logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede ponerse en contacto con nosotros en cualquier momento si tiene algún problema con la primera vez que recibe las mercancías. No hay ninguna razón para devolver la mercancía dentro de un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>23</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585538354-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520663785</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Escritorio del USB del ventilador, Personal Mini USB Ventilador, 3 Velocidades tabla del escritorio del ventilador de escritorio con USB recargable, fuerte viento</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[¿Necesita un gran ventilador para protegerse del caluroso verano de falta de energía? ¿Las temporadas de huracanes requieren ventiladores permanentes para soportar altas temperaturas? ¿Necesito un ventilador portátil para ahuyentar a los mosquitos cuando acampe?<br/><br/>El ventilador de escritorio con batería USB DUYER es exactamente lo que quieres.<br/><br/>★ Nombre del producto: ventilador de escritorio USB<br/>★ Material: ABS, silicona, componentes electrónicos.<br/>★ color: blanco<br/>★ Tamaño: 157 * 155 * 57.4MM<br/>★ Peso neto del producto: 265 g<br/>★ Tiempo de carga: aproximadamente 5 horas<br/>★ Velocidad del viento: tercera marcha<br/>★ capacidad de la batería: 3600 mAh<br/>★ Horas de trabajo: 8-27h<br/>★ Voltaje de entrada: DC5V1A<br/>★ Potencia nominal: 0.65-25w<br/>★ Configuración estándar: ventilador / cable de carga / manual / certificado de conformidad]]></Description>
+        <BulletPoint>★ [Selección de velocidad del viento] La velocidad del viento de tres velocidades se puede ajustar libremente, con una batería de larga duración de 27 horas y un ajuste de un botón para satisfacer una variedad de necesidades de vida. La velocidad del viento se puede ajustar libremente, fresco y cómodo, a su alcance.</BulletPoint>
+        <BulletPoint>★ [Diseño estructural] El diseño de tres cuchillas, diseño de viento de corte de la cuchilla, reduce la estratificación de resistencia al viento traída por la velocidad de rotación, reduciendo así el coeficiente de resistencia al viento.</BulletPoint>
+        <BulletPoint>★ [Viento fuerte] La rejilla de salida del ventilador está diseñada como un borde de aspa, lo que reduce la resistencia de la salida, mejora la tasa de conversión del viento y la velocidad del viento es más fuerte.</BulletPoint>
+        <BulletPoint>★ [Sin ruido] El motor sin escobillas totalmente de cobre funciona con un diseño de cuchilla de tres hojas silencioso, estable y silencioso, con sonido silencioso y silencioso, y fuerte viento y luz, sin afectar el descanso y el sueño.</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede contactarnos en cualquier momento si tiene algún problema al recibir los productos. No hay razón para devolver los productos dentro de un mes. Le deseo una feliz compra.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>24</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585539481-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520663891</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Acondicionador de aire personal, mini refrigerador de aire purificador del humectador, engranaje de 7 velocidades, personal refrigerador evaporativo por para el hogar</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[¿Necesita un gran ventilador para protegerse del caluroso verano de falta de energía? ¿Las temporadas de huracanes requieren ventiladores permanentes para soportar altas temperaturas? ¿Necesito un ventilador portátil para ahuyentar a los mosquitos cuando acampe?<br/><br/>El ventilador de escritorio con batería USB DUYER es exactamente lo que quieres.<br/><br/>★ Nombre del producto: Mini ventilador de aire acondicionado<br/>★ engranaje de volumen de aire: 4 engranajes<br/>★ Tensión nominal: 5V<br/>★ Longitud del cable de alimentación: 1.8M<br/>★ Potencia nominal: 6- -9W<br/>★ Método de control: botón mecánico<br/>★ Función de seguridad: 6 horas de quemado antiseco<br/>★ Modo de volumen de aire: alto / medio / bajo / dormir<br/>★ capacidad del tanque de agua: 500 ml<br/>★ Color del producto: blanco<br/>★ Peso bruto / Peso neto: 1 kg / 0.8 kg<br/>★ material del producto: ABS]]></Description>
+        <BulletPoint>★ [Micron Spray] Utilizando la tecnología de atomización de polímeros, el salvador del músculo del aire acondicionado permite que la humedad se difunda en el aire.</BulletPoint>
+        <BulletPoint>★ [Equipo de 7 velocidades] Tres modos y configuraciones de siete velocidades, control libre del viento y la humedad.</BulletPoint>
+        <BulletPoint>★ [Diseño ligero y portátil] El mini-mini no ocupa espacio, por lo que puede disfrutar de la frescura en cualquier momento y en cualquier lugar. Interfaz de cargador USB de 5V, siempre que se pueda usar un USB.</BulletPoint>
+        <BulletPoint>★ [90 ° Suministro de aire] El suministro de aire de gran angular tridimensional libera frescura en un amplio rango. Suministre aire a 90 ° hacia arriba y hacia abajo para acelerar la circulación de aire.</BulletPoint>
+        <BulletPoint>★ [Humidificación del sueño] La humidificación del aire acondicionado puede mejorar efectivamente la calidad del sueño, hacer que el sueño sea más tranquilo y cómodo, la piel no está seca y la garganta ya no es seca y dolorosa.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>25</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585554182-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520664140</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Usb ventilador de escritorio, Pequeño Personal silencioso ventilador 3 Ajustes, ángulo ajustable de inclinación portátil ventilador de refrigeración conveniente para la mesa de oficina</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[¿Necesita un gran ventilador para protegerse del caluroso verano de falta de energía? ¿Las temporadas de huracanes requieren ventiladores permanentes para soportar altas temperaturas? ¿Necesito un ventilador portátil para ahuyentar a los mosquitos cuando acampe?<br/><br/>El ventilador de escritorio con batería USB DUYER es exactamente lo que quieres.<br/><br/>★ Nombre del producto: ventilador de escritorio<br/>★ Material: ABS, PP, metal, componentes electrónicos.<br/>★ color: blanco<br/>★ Tamaño: 390 * 160 * 445 mm<br/>★ Modo de suministro de aire: 3 velocidades<br/>★ holgura de la hoja del ventilador: cinco páginas<br/>★ Categoría: Ventilador de escritorio<br/>★ ruido (db): ≤61db<br/>★ Potencia nominal: 50 W<br/>★ Tensión nominal: 220V ~<br/>★ frecuencia nominal: 50Hz<br/>★ peso bruto: 2.7 kg<br/>★ Ámbito de aplicación: picnic, interior, varios lugares.<br/>★ Accesorios del producto: caja / ventilador / cable de carga / manual]]></Description>
+        <BulletPoint>★ [Diseño estructural] Página de 12 pulgadas que da vuelta al suministro de aire potente, 3 engranajes se pueden ajustar al azar dentro de 1H.</BulletPoint>
+        <BulletPoint>★ [Gran viento] Rejilla de protección contra el viento en forma de arco, guía de viento circulante, sin suministro de aire de esquina muerta, reproduce el viento natural y cómodo.</BulletPoint>
+        <BulletPoint>★ [Buen silencio] Todas las bobinas de cobre son duraderas y el aceite lubricante de alta calidad es estable, seguro, silencioso y duradero.</BulletPoint>
+        <BulletPoint>★ [Seguridad] La rejilla está apretada y los dedos de los niños no pueden entrar para evitar lesiones accidentales. .</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 15-30 días. Puede contactarnos en cualquier momento si tiene algún problema al recibir los productos. No hay razón para devolver los productos dentro de un mes. Le deseo una feliz compra.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>26</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585554892-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520664324</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pequeño Personal ventilador USB, hojas de control táctil, mini portátil de escritorio de la tabla ventilador con doble ajustable Whisper Ventilador ventilador de escritorio personales de</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[¿Necesita un gran ventilador para protegerse del caluroso verano de falta de energía? ¿Las temporadas de huracanes requieren ventiladores permanentes para soportar altas temperaturas? ¿Necesito un ventilador portátil para ahuyentar a los mosquitos cuando acampe?<br/><br/>El ventilador de escritorio con batería USB DUYER es exactamente lo que quieres.<br/><br/>★ Nombre del producto: Spiral USB Desktop Fan<br/>★ Material: ABS, aleación de aluminio<br/>★ Color del producto: blanco<br/>★ Tamaño: 135 × 100 × 140 mm<br/>★ Potencia: DC 5V<br/>★ Potencia: 2W<br/>★ Peso neto / Peso bruto: 280 g / 370 g<br/>★ Gente aplicable: Volkswagen<br/>★ lugares aplicables: interiores, exteriores<br/>★ El producto contiene: caja / ventilador / manual / cable de carga]]></Description>
+        <BulletPoint>★ [MÁS CALIDAD Y MÁS TEXTURA] ABS de alta calidad resistente a la abrasión, anticaída, ignífugo con aleación de aluminio Es la facción y el valor nominal.</BulletPoint>
+        <BulletPoint>★ [CONTROL DE TOQUE SENSIBLE] Operación conveniente y fácil: adiós a los botones tradicionales. ①Toque: baja velocidad del viento / encendido. OuchToque: alta velocidad del viento. ③Cierre / apague. Adopte un chip de control táctil inteligente, encienda o apague el ventilador, o ajuste la velocidad del ventilador tocando suavemente la base del ventilador.</BulletPoint>
+        <BulletPoint>★ [DISEÑO ÚNICO] Diseño tipo concha: este elegante ventilador presenta una escultura de concha biónica y un acabado negro clásico que se combinará a la perfección con una variedad de decoraciones de habitaciones. Con un ángulo de inclinación ajustable hacia arriba y hacia abajo, le permite dirigir el flujo de aire para obtener un aire frío óptimo.</BulletPoint>
+        <BulletPoint>★ [2 VELOCIDADES AJUSTABLES] Satisfaga diferentes demandas: Primera velocidad cómoda con ruido inferior a 40dB, adecuada para trabajar o dormir; Fresca y fuerte segunda velocidad, te ayuda a disfrutar del verano fresco. con salida USB Cable USB de 1 m de longitud, compatible con dispositivos USB de salida de 5V, como adaptador de teléfono, cargador USB, computadora portátil, banco de energía, etc.</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 15-30 días. Puede contactarnos en cualquier momento si tiene algún problema al recibir los productos. No hay razón para devolver los productos dentro de un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>27</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584435920</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661187</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>USB mini ventilador, 4000mAh de gran capacidad, en tres dimensiones de suministro de aire rotativa, automática de cabezales agitación, la oficina residencia de estudiantes en silencio</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[ventilador USB<br/>Manténgase fresco ya sea interior o exterior<br/><br/>★ Parámetros del producto:<br/><br/>Nombre del producto: ventilador de escritorio Circular<br/><br/>Consumo de energía: 5W<br/><br/>Gear: contactor de marcha cuarto<br/><br/>El tiempo de trabajo: 1.5 ~ 10h<br/><br/>Especificaciones de la batería: 4000mAh<br/><br/>Tiempo de carga: 6 ~ 8 horas<br/><br/>Peso del producto: 600 ± 20 g<br/><br/>★ Contenido del paquete:<br/><br/>1 x mini ventilador<br/><br/>1 x cable USB<br/><br/>1 × Instrucción]]></Description>
+        <BulletPoint>★ [puede ser colgado en la pared]: Una variedad de maneras de utilizar, de acuerdo con las necesidades de los jóvenes, si se trata de dormitorio, oficina, sala de estar, estudio, al aire libre puede fácilmente se encuentran.&#13;</BulletPoint>
+        <BulletPoint>★ [Free dirección del viento]: girar automáticamente la dirección del viento izquierda y derecha a 120 ° en horizontal para una gama más amplia de experiencia. Golpe de distancia de esos ajustes 90 ° altura vertical calientes para satisfacer las necesidades de ángulo de suministro de aire.&#13;</BulletPoint>
+        <BulletPoint>★ [Tamaño del producto]: Todo el tamaño de la máquina: 230 * 193 * 154 mm, 4 velocidades de viento, el uso inalámbrico, que le da 365 noches de compañeros solidarios.&#13;</BulletPoint>
+        <BulletPoint>★ [inspiración Diseño]: el viento natural Incorporar en la vida diaria. El viento suave e incluso hace que la gente sea más cómoda y permite que el cuerpo y el corazón para volver al abrazo de la naturaleza de nuevo.&#13;</BulletPoint>
+        <BulletPoint>★ [Aire Acondicionado Companion]: Puede ser utilizado como un ventilador de circulación de aire acondicionado. El ventilador de circulación puede acelerar la circulación de aire, aire acondicionado, permitiendo que la temperatura ambiente sea rápida y uniforme, y hasta cierto punto, se puede ahorrar energía y darle una vida delicada.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>28</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584532268</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661378</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Humidificador Portátil USB Mini con Ventilador y Humidificador Silencioso Mejora El Aire Seco para Hogar, Coche, Oficina</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Especificaciones<br/>Nombre: ventilador de pulverización<br/>Corriente de trabajo: 2A<br/>Potencia de uso: 8 W<br/>Capacidad de la batería: 2000 mAh<br/>Voltaje de entrada: 5V / 0.8A<br/>Capacidad del tanque de agua: 200 ml<br/>Volumen de pulverización: 35 ml _ / H<br/>Tamaño del producto: 108x95x203 mm<br/>Material: ABS / PP / silicona / componente electrónico<br/>Peso del producto: 309g<br/>Color: blanco / rosa / azul<br/><br/>Embalaje<br/>1 * ventilador usb<br/>1 * cable de carga us]]></Description>
+        <BulletPoint>ACONDICIONADOR DE AIRE PEQUEÑO DE ESCRITORIO: enfriamiento eficiente, enfriamiento fuerte, despídase de la sensación calurosa del verano, disfrute de una sensación fresca y refrescante.&#13;</BulletPoint>
+        <BulletPoint>NANO-LEVEL FINE MIST: la gran cantidad de niebla admite la pulverización intermitente, la gran cantidad visible de niebla, el modo de pulverización intermitente y el tiempo de pulverización es más largo.&#13;</BulletPoint>
+        <BulletPoint>MOTOR SIN ESCOBILLAS · EL VIENTO MÁS FUERTE ES MÁS SILENCIOSO: seleccione un motor sin escobillas de CC, hasta 4500 rpm, bajo consumo de energía sin calor, 50% más de vida útil.&#13;</BulletPoint>
+        <BulletPoint>TANQUE DE AGUA DE GRAN CAPACIDAD: Agregue convenientemente diseño de agua, tanque de agua de gran capacidad de 200 ml, deje que la vida inteligente se acerque.&#13;</BulletPoint>
+        <BulletPoint>SIN FUGAS, SEGURO Y SIN PREOCUPACIONES: el anillo de sellado de silicona está diseñado para que el humidificador evite golpes accidentales y documentos mojados.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>29</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584611024</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661552</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title> Ventilador Silencioso Ventilador de Turbo con Control Remoto Ventilador de Escritorio con Circulación del Aire para Portátil Temporizador</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[★ Nombre del producto: ventilador eléctrico<br/>★ Material: material ABS seguro y no tóxico ecológico<br/>★ Tamaño: 285 * 285 * 275 mm<br/>★ Longitud del cable: aproximadamente 1,5 m de largo<br/>★ color: blanco<br/>★ Potencia nominal: 25 W<br/>★ Velocidad del viento / sincronización: 3 velocidades / 8 horas de sincronización<br/>★ Peso neto del producto: 2.4 kg<br/>★ ruido de funcionamiento: ≤55dB<br/>★ Categoría de ventilador: ventilador de mesa<br/>★ Modo de energía: AC<br/>★ Rango de tiempo máximo: 2 horas (inclusive) - 8 horas (inclusive)<br/>★ Ya sea con control remoto: sí<br/>★ Calificación de eficiencia energética: secundaria<br/>★ Método de control: tipo de computadora<br/>★ Tipo de suministro de aire: sacudiendo la cabeza]]></Description>
+        <BulletPoint>★ [Ahorro de energía y protección del medio ambiente] Suministro de aire estéreo interactivo, ventilación de flujo de aire de alta eficiencia es suave y cómoda, se puede suministrar por separado con aire, se puede usar junto con aire acondicionado, circulación de aire frío, ahorro de energía.</BulletPoint>
+        <BulletPoint>★ [Control remoto] Control remoto de control remoto de 10 m, verano lento, solo un botón fácil. Suministro de aire de gran angular tridimensional, exquisito y compacto plegable.</BulletPoint>
+        <BulletPoint>★ [Diseño de aspas del ventilador] Se disponen tres piezas de aspas del ventilador de precisión para distribuir completamente el volumen de aire y reducir la pérdida de flujo de aire. Se mejora la eficiencia del suministro de aire, la distancia del suministro de aire es mayor y la sensación del viento es suave y cómoda.</BulletPoint>
+        <BulletPoint>★ [Sin ruido] Viento fuerte y bajo ruido, viento suave y suave, bajo ruido, no hay necesidad de preocuparse por los grandes problemas de sonido.</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 10-20 días. Si tiene alguna pregunta sobre la recepción de los productos la primera vez, puede comunicarse por correo electrónico en cualquier momento. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>30</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584709295</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661729</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Ventilador de Mesa USB, Ventilador de Escritorio Use con Cable de 1.2 metros, portátil y Personal para el hogar yla Oficina Silencioso y Potente</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[★ Nombre del producto: ventilador de pulverización<br/>★ Material: ABS / PP / gel de sílice<br/>★ Tamaño del producto: 94 * 90 * 157 mm<br/>★ Color: blanco, rosa, azul.<br/>★ Voltaje de entrada: DC5V / 1.5A<br/>★ Corriente de trabajo: 800mA<br/>★ consumo de energía: 2W<br/>★ capacidad de la batería: 2000mA<br/>★ capacidad del tanque de agua: 400 ml<br/>★ Cantidad de pulverización: 35 ml /<br/>★ peso del producto: 290G<br/>★ Velocidad del motor: engranaje bajo 5V / 0.2A / 2800 rpm, medio 6.2V / 0.37A / 3400 rpm, alto grado 7.2V / 0.52A / 3800 rpm<br/>★ Alcance: exterior / dormitorio / hogar / oficina / viaje de negocios / bebé / viaje]]></Description>
+        <BulletPoint>★ [Diseño estructural] Ventilador de escritorio con almacenamiento cerrado, libre para ajustar el ángulo, diseño multifuncional de suministro de aire humidificado, diseño de 7 ventiladores y viento fuerte. Puede cargarse mediante alimentación USB o desconectarse de la fuente de alimentación. Es una luz multifunción USB y pequeño ventilador.&#13;</BulletPoint>
+        <BulletPoint>★ [Modo de siete luces] La primera pulsación larga (botón de rociado), enciende el gradiente de luz nocturna de colores; La segunda pulsación larga del color fijo. Tres pulsaciones largas para desactivar el modo de luz colorida.&#13;</BulletPoint>
+        <BulletPoint>★ 【Sin ruido】 Motor de CC sin escobillas importado, la reducción de ruido tiene un alto rendimiento y un excelente funcionamiento silencioso de 30dB, silencioso solo escucha el sonido de la respiración.&#13;</BulletPoint>
+        <BulletPoint>★ [gran capacidad] 2400ml gran capacidad, humidificación de larga duración, no es necesario agregar agua con frecuencia, una vez llenas, 20 horas de humidificación permanente, visualizar la línea de agua, más conveniente para agregar agua.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda adopta logística internacional, el tiempo de entrega es de 30 días hábiles. Si tiene alguna pregunta durante la primera vez que recibe los productos, puede contactarnos en cualquier momento. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>31</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584795566</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520661828</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini Ventilador USB, Ventiladores de Escritorio Mesa para la Sala Ordenador Portátil Oficina Viaje y al Aire Libre etc</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[★ Nombre del producto: mini ventilador<br/>★ Material del producto: ABS / PP / componentes electrónicos<br/>★ Tamaño del producto: 78X28 × 132 mm<br/>★ Color: amarillo, naranja, rosa, rojo, verde, azul<br/>★ Capacidad de la batería: 3.7V / 800mAh<br/>★ Corriente de trabajo: 800mAh<br/>★ Material del producto: ABS / PP / componentes electrónicos<br/>★ Tiempo de carga: aproximadamente 1 hora<br/>★ Producto Peso Neto: 65g<br/>★ Voltaje de entrada: 5V / 1A<br/>★ voltaje de la batería: 3.7V<br/>★ Corriente de trabajo del motor: 200mAh / potencia 1w, 350mAh potencia 1.6W<br/>★ escenas aplicables: hogar, exterior, dormitorio, compras<br/>★ Configuración estándar: ventilador / cable de carga / manual]]></Description>
+        <BulletPoint>★ [Diseño de estructura] Batería de polímero, el USB se puede recargar. Para evitar problemas con la batería, el diseño de la batería incorporada es ecológico.&#13;</BulletPoint>
+        <BulletPoint>★ [Gran viento] Viento creciente, viento espiral de 5 hojas, viento fuerte te refresca todo el verano.&#13;</BulletPoint>
+        <BulletPoint>★ [Sin ruido] Silencioso, silencioso, silencioso y cómodo, sin importar la oficina, el aula o la biblioteca, disfrute del verano refrescante.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] Se pueden ajustar 2 velocidades del viento a voluntad, el viento frío y el viento fuerte son opcionales. Se derivan del diseño amoroso de la vida y el cuidado.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede contactarnos en cualquier momento si tiene algún problema al recibir los productos. No hay ninguna razón para devolver los productos dentro de un mes. Le deseo una feliz compra.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>32</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584956136</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520662153</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini USB Ventilador De Escritorio Ventilador Silencioso Personal Pequeño Con Flujo De Aire Fuerte Y Ventilador De Enfriamiento Portátil Con ángulo De Inclinación Ajustable De 360 ​​° Para La Oficina</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Nombre del producto: ventilador de escritorio<br/>Material: ABS / PPPC componentes electrónicos<br/>Color:blanco<br/>Tamaño del producto: 131X172X201mm<br/>Voltaje de la batería: 3.7V<br/>Capacidad de la batería: 2000mAh<br/>Voltaje de entrada / corriente: DC5V / 1000mAh<br/>Potencia de salida: 4W<br/>Velocidad del motor: una marcha 5.5V / 2300 rpm, segunda marcha 7.5V / 3100 rpm, tercera marcha 9V / 3400 rpm<br/>Corriente de trabajo: un engranaje 310mA segundo engranaje 600mA tercer engranaje 970mA<br/>Potencia de trabajo: un engranaje 1.3W / segundo engranaje 2.5W / tercer engranaje 4W<br/>Peso del producto: 454g<br/>Ámbito de aplicación: salidas, interiores, diversos lugares<br/>Accesorios del producto: caja / ventilador / línea de carga / manual]]></Description>
+        <BulletPoint>★ [Diseño estructural] El diseño aerodinámico puede reducir la resistencia del aire con factores ambientales externos. En comparación con productos similares de la competencia, la velocidad del viento aumenta en más del 20% y la eficiencia de trabajo aumenta en un 30%.&#13;</BulletPoint>
+        <BulletPoint>★ [Dirección del viento libre] Dirección del viento libre, controlada por usted, viento fuerte, frío y no frío, suministro de aire del ciclo de ajuste de ángulo múltiple de 360 ​​°, para que la atmósfera del verano esté al alcance de la mano.&#13;</BulletPoint>
+        <BulletPoint>★ [Big wind] Desarrollo de tecnología de diseño de volumen de aire y aerodinámica, estructura de ventilador de turbina curva, viento impulsado por 4 palas a través de la red delantera de estructura de turbina curva cuidadosamente diseñada, soplando un viento más frío.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de velocidad del viento] Ajuste de volumen de aire de tres velocidades, 1 archivo ~ viento silencioso, 2 archivos ~ viento natural, 3 archivos ~ viento frío.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede contactarnos en cualquier momento si tiene algún problema con la primera vez que recibe los productos. No hay razón para devolver los productos dentro de un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>33</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521584963072</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520662184</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Ventilador Pequeño De Dibujos Animados Dormitorio Del Estudiante Cama Pequeña Cabeza De La Cama Mute Lindo Plug-in Dormitorio Ventilador Doméstico Escritorio</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Nombre del producto: fan de dibujos animados<br/>Material: ABS, componentes electrónicos.<br/>Color: rosa 1, blanco<br/>Tamaño: 290 * 268MM<br/>Modo de potencia: carga directa<br/>Elementos populares: dibujos animados<br/>Gente aplicable: estudiantes<br/>Longitud del cable de alimentación: 1,5 m<br/>Escena aplicable: hogar, exterior, dormitorio, compras<br/>Configuración estándar: ventilador / línea de carga / manual]]></Description>
+        <BulletPoint>★ [Diseño estructural] El cable de extensión de temporización se puede temporizar 2, 4, 8 horas. Hay un panel de control en la línea. Haga clic en el botón para encender, apagar y el tiempo.&#13;</BulletPoint>
+        <BulletPoint>★ [Big Wind] El diseño de la pala de turbina de la aeronave. Después de muchas simulaciones y su frecuencia de rotación, se obtiene el confort del viento, que está diseñado para diseñar un viento suave y cómodo que sea más adecuado para la oficina de aprendizaje.&#13;</BulletPoint>
+        <BulletPoint>★ [Sin ruido] Silencioso, con poco ruido, tranquilo y cómodo, disfruta del verano fresco en la oficina, el aula, la biblioteca.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] 2 control de la velocidad del viento, aire fresco, viento fuerte opcional, desde el diseño del amor a la vida, el cuidado íntimo.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de llegada es de 10 a 20 días. Si tiene algún problema con la primera vez que recibe los productos, puede contactarlos en cualquier momento. No hay razón para devolver las mercancías por un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>34</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585056641</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520662344</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>USB pequeño ventilador del Estudiante de carga compartida Modelo silencioso portátil Oficina de escritorio pequeño ventilador de tabla creativa</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Nombre del producto: pequeño ventilador portátil<br/>Material: ABS / PP / Componentes electrónicos<br/>Color: rosa, azul, negro, amarillo<br/>Tamaño: 170 * 84 * 29mm<br/>Peso neto: 89 g<br/>Especificaciones de la batería: la batería de polímero de litio 800mAh<br/>voltaje de la batería: 3.7V<br/>Carga de tensión / corriente: 5V / 830mA<br/>Corriente de trabajo: una marcha 200mAh / 5V, la segunda marcha 350mAh / 6V, la tercera velocidad de 700 mAh / 8V<br/>la corriente de luz: luces de colores 40mAh<br/>Ámbito de aplicación: salidas, dentro, varios lugares<br/>accesorios del producto: caja / ventilador / base / cable de tracción / línea de datos / Manual]]></Description>
+        <BulletPoint>★ [Diseño estructural] Luz de respiración de atmósfera degradada, luz de atmósfera LED incorporada, presión prolongada para abrir luces de degradado de colores para mejorar la atmósfera, como la belleza de ensueño.&#13;</BulletPoint>
+        <BulletPoint>★ [Silencio bueno] Actualice el sonido de todo el motor con núcleo de cobre, una pequeña mesa, el ventilador hacia abajo para reducir la luz y el bajo ruido para proteger el sueño del bebé.&#13;</BulletPoint>
+        <BulletPoint>★ [Vida útil permanente de la batería] Gran capacidad y vida útil prolongada de la batería, carga durante 90 minutos, frío todo el día, con batería de litio polímero de 800mAh, portátil y fácil de llevar.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] 3 ajustes de velocidad, conveniente modo de control de velocidad del botón, presione el botón redondo a su vez, habrá viento débil / golpe / viento fuerte.&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de llegada es de 10 a 20 días. Si tiene algún problema con la primera vez que recibe los productos, puede contactarlos en cualquier momento. No hay razón para devolver las mercancías por un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>35</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585123756</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520662412</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Usb portátil pequeño ventilador, recargable plegable Banana Fan, Silencio / portátil / portátil</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[★ Nombre del producto: Ventilador de mano<br/>★ Material: ABS + componentes electrónicos + PP<br/>★ Tamaño aproximadamente: 130 * 35 * 210mm<br/>★ Color: Azul<br/>★ velocidad del viento: 3 velocidades<br/>★ Voltaje de entrada: DC5V = 0,5 ~ 1A<br/>★ Tensión de salida: DC5 ~ 9V<br/>★ potencia de salida: 4.5W<br/>★ batería: 2200 capacidad<br/>★ Peso del producto: sobre 150G<br/>★ Ámbito de aplicación: de picnic, varios lugares de interior,<br/>★ accesorios de producto: cable de la caja / ventilador / carga / manual]]></Description>
+        <BulletPoint>★ [Estructura Diseño] Natural diseño de alas de mariposa biónicos, en gran medida a reducir el ruido causado por la turbulencia del flujo de aire.&#13;</BulletPoint>
+        <BulletPoint>★ [Estable velocidad del viento] modo de suministro de energía, que puede ser alimentado por energía móvil, electrodomésticos, toma USB del ordenador, cargador de coche, etc.&#13;</BulletPoint>
+        <BulletPoint>★ [No ruido] rodamientos de alta resistencia al desgaste, suavizar funcionamiento, reduciendo en gran medida el ruido de fricción, la velocidad eficiente y estable, y la reducción de ruido de las vibraciones.&#13;</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] operación de un solo clic, clic 3 velocidades para ajustar la velocidad del viento, haga doble clic para cambiar los aficionados izquierdo y derecho, motores y ventiladores dobles dobles, dando el doble del viento&#13;</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza la logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede ponerse en contacto con nosotros en cualquier momento si tiene algún problema al recibir las mercancías. No hay ninguna razón para devolver la mercancía dentro de un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>36</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585245245-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520662764</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Usb mini ventilador, escritorio Clip Fan, 360 grados de rotación portátil de mano grande del viento del ventilador eléctrico para uso particular</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Nombre del producto: ventilador de escritorio<br/>Material: ABS / PPPC componentes electrónicos<br/>Tamaño del producto: 131X172X201mm<br/>voltaje de la batería: 3.7V<br/>Capacidad de la batería: 2000 mAh<br/>voltaje de entrada / corriente: DC 5V / 1000mAh<br/>Potencia de salida: 4W<br/>La velocidad del motor: una marcha 5.5V / 2.300 rpm, segunda rueda dentada de 7,5 V / 3100 rpm, la tercera marcha 9V / 3400 rpm<br/>Corriente de trabajo: 310mA un engranaje de la segunda marcha 600mA 970mA tercera velocidad<br/>Energía de trabajo: 1.3W uno de engranajes / segundo engranaje 2.5W / 4W tercer engranaje<br/>Peso del producto: 454g<br/>Ámbito de aplicación: salidas, dentro, varios lugares<br/>accesorios del producto: caja / ventilador / línea de carga / Manual]]></Description>
+        <BulletPoint>★ [Diseño estructural] El diseño aerodinámico puede reducir la resistencia del aire con los factores ambientales externos. En comparación con productos similares de la competencia, la velocidad del viento se incrementa en más de un 20%, y la eficiencia de trabajo se incrementó en un 30%.</BulletPoint>
+        <BulletPoint>★ [dirección del viento libre] dirección del viento libre, controlado por usted, gran viento, frío y no fría, suministro de aire ciclo de ajuste 360 ​​° multi-ángulo, de modo que la atmósfera de verano está a la mano.</BulletPoint>
+        <BulletPoint>★ [viento grande] El desarrollo de la tecnología de diseño de volumen de aire y la aerodinámica, la estructura del ventilador de la turbina curva, impulsada por el viento por 4 palas de la turbina a través de la curva estructura frontal neta cuidadosamente diseñado, sopla un viento fresco.</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] ajuste de volumen de aire de tres velocidades, 1 archivo ~ silencioso viento, 2 archivos ~ natural del viento, 3 archivos ~ viento fresco.</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza la logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede ponerse en contacto con nosotros en cualquier momento si tiene algún problema con la primera vez que recibe las mercancías. No hay ninguna razón para devolver la mercancía dentro de un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>37</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585538354</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520663778</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Escritorio del USB del ventilador, Personal Mini USB Ventilador, 3 Velocidades tabla del escritorio del ventilador de escritorio con USB recargable, fuerte viento</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[¿Necesita un gran ventilador para protegerse del caluroso verano de falta de energía? ¿Las temporadas de huracanes requieren ventiladores permanentes para soportar altas temperaturas? ¿Necesito un ventilador portátil para ahuyentar a los mosquitos cuando acampe?<br/><br/>El ventilador de escritorio con batería USB DUYER es exactamente lo que quieres.<br/><br/>★ Nombre del producto: ventilador de escritorio USB<br/>★ Material: ABS, silicona, componentes electrónicos.<br/>★ color: blanco<br/>★ Tamaño: 157 * 155 * 57.4MM<br/>★ Peso neto del producto: 265 g<br/>★ Tiempo de carga: aproximadamente 5 horas<br/>★ Velocidad del viento: tercera marcha<br/>★ capacidad de la batería: 3600 mAh<br/>★ Horas de trabajo: 8-27h<br/>★ Voltaje de entrada: DC5V1A<br/>★ Potencia nominal: 0.65-25w<br/>★ Configuración estándar: ventilador / cable de carga / manual / certificado de conformidad]]></Description>
+        <BulletPoint>★ [Selección de velocidad del viento] La velocidad del viento de tres velocidades se puede ajustar libremente, con una batería de larga duración de 27 horas y un ajuste de un botón para satisfacer una variedad de necesidades de vida. La velocidad del viento se puede ajustar libremente, fresco y cómodo, a su alcance.</BulletPoint>
+        <BulletPoint>★ [Diseño estructural] El diseño de tres cuchillas, diseño de viento de corte de la cuchilla, reduce la estratificación de resistencia al viento traída por la velocidad de rotación, reduciendo así el coeficiente de resistencia al viento.</BulletPoint>
+        <BulletPoint>★ [Viento fuerte] La rejilla de salida del ventilador está diseñada como un borde de aspa, lo que reduce la resistencia de la salida, mejora la tasa de conversión del viento y la velocidad del viento es más fuerte.</BulletPoint>
+        <BulletPoint>★ [Sin ruido] El motor sin escobillas totalmente de cobre funciona con un diseño de cuchilla de tres hojas silencioso, estable y silencioso, con sonido silencioso y silencioso, y fuerte viento y luz, sin afectar el descanso y el sueño.</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede contactarnos en cualquier momento si tiene algún problema al recibir los productos. No hay razón para devolver los productos dentro de un mes. Le deseo una feliz compra.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>38</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585539481</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520663792</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Acondicionador de aire personal, mini refrigerador de aire purificador del humectador, engranaje de 7 velocidades, personal refrigerador evaporativo por para el hogar</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[¿Necesita un gran ventilador para protegerse del caluroso verano de falta de energía? ¿Las temporadas de huracanes requieren ventiladores permanentes para soportar altas temperaturas? ¿Necesito un ventilador portátil para ahuyentar a los mosquitos cuando acampe?<br/><br/>El ventilador de escritorio con batería USB DUYER es exactamente lo que quieres.<br/><br/>★ Nombre del producto: Mini ventilador de aire acondicionado<br/>★ engranaje de volumen de aire: 4 engranajes<br/>★ Tensión nominal: 5V<br/>★ Longitud del cable de alimentación: 1.8M<br/>★ Potencia nominal: 6- -9W<br/>★ Método de control: botón mecánico<br/>★ Función de seguridad: 6 horas de quemado antiseco<br/>★ Modo de volumen de aire: alto / medio / bajo / dormir<br/>★ capacidad del tanque de agua: 500 ml<br/>★ Color del producto: blanco<br/>★ Peso bruto / Peso neto: 1 kg / 0.8 kg<br/>★ material del producto: ABS]]></Description>
+        <BulletPoint>★ [Micron Spray] Utilizando la tecnología de atomización de polímeros, el salvador del músculo del aire acondicionado permite que la humedad se difunda en el aire.</BulletPoint>
+        <BulletPoint>★ [Equipo de 7 velocidades] Tres modos y configuraciones de siete velocidades, control libre del viento y la humedad.</BulletPoint>
+        <BulletPoint>★ [Diseño ligero y portátil] El mini-mini no ocupa espacio, por lo que puede disfrutar de la frescura en cualquier momento y en cualquier lugar. Interfaz de cargador USB de 5V, siempre que se pueda usar un USB.</BulletPoint>
+        <BulletPoint>★ [90 ° Suministro de aire] El suministro de aire de gran angular tridimensional libera frescura en un amplio rango. Suministre aire a 90 ° hacia arriba y hacia abajo para acelerar la circulación de aire.</BulletPoint>
+        <BulletPoint>★ [Humidificación del sueño] La humidificación del aire acondicionado puede mejorar efectivamente la calidad del sueño, hacer que el sueño sea más tranquilo y cómodo, la piel no está seca y la garganta ya no es seca y dolorosa.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>39</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585554182</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520664096</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Usb ventilador de escritorio, Pequeño Personal silencioso ventilador 3 Ajustes, ángulo ajustable de inclinación portátil ventilador de refrigeración conveniente para la mesa de oficina</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[¿Necesita un gran ventilador para protegerse del caluroso verano de falta de energía? ¿Las temporadas de huracanes requieren ventiladores permanentes para soportar altas temperaturas? ¿Necesito un ventilador portátil para ahuyentar a los mosquitos cuando acampe?<br/><br/>El ventilador de escritorio con batería USB DUYER es exactamente lo que quieres.<br/><br/>★ Nombre del producto: ventilador de escritorio<br/>★ Material: ABS, PP, metal, componentes electrónicos.<br/>★ color: blanco<br/>★ Tamaño: 390 * 160 * 445 mm<br/>★ Modo de suministro de aire: 3 velocidades<br/>★ holgura de la hoja del ventilador: cinco páginas<br/>★ Categoría: Ventilador de escritorio<br/>★ ruido (db): ≤61db<br/>★ Potencia nominal: 50 W<br/>★ Tensión nominal: 220V ~<br/>★ frecuencia nominal: 50Hz<br/>★ peso bruto: 2.7 kg<br/>★ Ámbito de aplicación: picnic, interior, varios lugares.<br/>★ Accesorios del producto: caja / ventilador / cable de carga / manual]]></Description>
+        <BulletPoint>★ [Diseño estructural] Página de 12 pulgadas que da vuelta al suministro de aire potente, 3 engranajes se pueden ajustar al azar dentro de 1H.</BulletPoint>
+        <BulletPoint>★ [Gran viento] Rejilla de protección contra el viento en forma de arco, guía de viento circulante, sin suministro de aire de esquina muerta, reproduce el viento natural y cómodo.</BulletPoint>
+        <BulletPoint>★ [Buen silencio] Todas las bobinas de cobre son duraderas y el aceite lubricante de alta calidad es estable, seguro, silencioso y duradero.</BulletPoint>
+        <BulletPoint>★ [Seguridad] La rejilla está apretada y los dedos de los niños no pueden entrar para evitar lesiones accidentales. .</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 15-30 días. Puede contactarnos en cualquier momento si tiene algún problema al recibir los productos. No hay razón para devolver los productos dentro de un mes. Le deseo una feliz compra.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>40</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585554892</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520664171</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pequeño Personal ventilador USB, hojas de control táctil, mini portátil de escritorio de la tabla ventilador con doble ajustable Whisper Ventilador ventilador de escritorio personales de</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[¿Necesita un gran ventilador para protegerse del caluroso verano de falta de energía? ¿Las temporadas de huracanes requieren ventiladores permanentes para soportar altas temperaturas? ¿Necesito un ventilador portátil para ahuyentar a los mosquitos cuando acampe?<br/><br/>El ventilador de escritorio con batería USB DUYER es exactamente lo que quieres.<br/><br/>★ Nombre del producto: Spiral USB Desktop Fan<br/>★ Material: ABS, aleación de aluminio<br/>★ Color del producto: blanco<br/>★ Tamaño: 135 × 100 × 140 mm<br/>★ Potencia: DC 5V<br/>★ Potencia: 2W<br/>★ Peso neto / Peso bruto: 280 g / 370 g<br/>★ Gente aplicable: Volkswagen<br/>★ lugares aplicables: interiores, exteriores<br/>★ El producto contiene: caja / ventilador / manual / cable de carga]]></Description>
+        <BulletPoint>★ [MÁS CALIDAD Y MÁS TEXTURA] ABS de alta calidad resistente a la abrasión, anticaída, ignífugo con aleación de aluminio Es la facción y el valor nominal.</BulletPoint>
+        <BulletPoint>★ [CONTROL DE TOQUE SENSIBLE] Operación conveniente y fácil: adiós a los botones tradicionales. ①Toque: baja velocidad del viento / encendido. OuchToque: alta velocidad del viento. ③Cierre / apague. Adopte un chip de control táctil inteligente, encienda o apague el ventilador, o ajuste la velocidad del ventilador tocando suavemente la base del ventilador.</BulletPoint>
+        <BulletPoint>★ [DISEÑO ÚNICO] Diseño tipo concha: este elegante ventilador presenta una escultura de concha biónica y un acabado negro clásico que se combinará a la perfección con una variedad de decoraciones de habitaciones. Con un ángulo de inclinación ajustable hacia arriba y hacia abajo, le permite dirigir el flujo de aire para obtener un aire frío óptimo.</BulletPoint>
+        <BulletPoint>★ [2 VELOCIDADES AJUSTABLES] Satisfaga diferentes demandas: Primera velocidad cómoda con ruido inferior a 40dB, adecuada para trabajar o dormir; Fresca y fuerte segunda velocidad, te ayuda a disfrutar del verano fresco. con salida USB Cable USB de 1 m de longitud, compatible con dispositivos USB de salida de 5V, como adaptador de teléfono, cargador USB, computadora portátil, banco de energía, etc.</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza logística internacional, y el tiempo estimado de entrega es de 15-30 días. Puede contactarnos en cualquier momento si tiene algún problema al recibir los productos. No hay razón para devolver los productos dentro de un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Equipamiento interior y ventiladores</ItemType>
+        <RecommendedBrowseNode>5029413031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

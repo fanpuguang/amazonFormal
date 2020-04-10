@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A2O70136OXEC74</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>51833018358</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>8</MessagesProcessed>
+				<MessagesSuccessful>1</MessagesSuccessful>
+				<MessagesWithError>7</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU YXYLD-271585732740-0-A does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732740-0-A</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU YXYLD-271585732740-1-A does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732740-1-A</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>3</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU YXYLD-271585732740-2-A does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732740-2-A</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>4</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU YXYLD-271585732740-3-A does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732740-3-A</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>5</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU YXYLD-271585732740-4-A does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732740-4-A</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>6</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU YXYLD-271585732740-5-A does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732740-5-A</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>7</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU YXYLD-271585732740-6-A does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732740-6-A</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

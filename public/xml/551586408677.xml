@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>AEVNUXOBWGAO5</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>56901018361</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>16</MessagesProcessed>
+				<MessagesSuccessful>14</MessagesSuccessful>
+				<MessagesWithError>2</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 22, Column 540: cvc-maxLength-valid: Value &apos;★ 【Godetevi fitness sempre e ovunque】 Il design semplice della fascia di resistenza permette di godere di fitness in qualsiasi punto della casa senza essere influenzato dall&apos;ambiente. Hai solo bisogno di una persona per l&apos;esercizio. Il gruppo di resistenza è facile da installare, facile da usare. È possibile utilizzare un telaio della porta ed una serratura della porta come un aiuto di fitness a casa. Se si blocca con le serrature del piede e delle porte, è possibile allungare le braccia e il corpo.&apos; with length = &apos;504&apos; is not facet-valid with respect to maxLength &apos;500&apos; for type &apos;LongStringNotNull&apos;.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LDLL-551586328979-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 22, Column 540: cvc-type.3.1.3: The value &apos;★ 【Godetevi fitness sempre e ovunque】 Il design semplice della fascia di resistenza permette di godere di fitness in qualsiasi punto della casa senza essere influenzato dall&apos;ambiente. Hai solo bisogno di una persona per l&apos;esercizio. Il gruppo di resistenza è facile da installare, facile da usare. È possibile utilizzare un telaio della porta ed una serratura della porta come un aiuto di fitness a casa. Se si blocca con le serrature del piede e delle porte, è possibile allungare le braccia e il corpo.&apos; of element &apos;BulletPoint&apos; is not valid.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LDLL-551586328979-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>9</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 326, Column 540: cvc-maxLength-valid: Value &apos;★ 【Godetevi fitness sempre e ovunque】 Il design semplice della fascia di resistenza permette di godere di fitness in qualsiasi punto della casa senza essere influenzato dall&apos;ambiente. Hai solo bisogno di una persona per l&apos;esercizio. Il gruppo di resistenza è facile da installare, facile da usare. È possibile utilizzare un telaio della porta ed una serratura della porta come un aiuto di fitness a casa. Se si blocca con le serrature del piede e delle porte, è possibile allungare le braccia e il corpo.&apos; with length = &apos;504&apos; is not facet-valid with respect to maxLength &apos;500&apos; for type &apos;LongStringNotNull&apos;.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LDLL-551586328979</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>9</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 326, Column 540: cvc-type.3.1.3: The value &apos;★ 【Godetevi fitness sempre e ovunque】 Il design semplice della fascia di resistenza permette di godere di fitness in qualsiasi punto della casa senza essere influenzato dall&apos;ambiente. Hai solo bisogno di una persona per l&apos;esercizio. Il gruppo di resistenza è facile da installare, facile da usare. È possibile utilizzare un telaio della porta ed una serratura della porta come un aiuto di fitness a casa. Se si blocca con le serrature del piede e delle porte, è possibile allungare le braccia e il corpo.&apos; of element &apos;BulletPoint&apos; is not valid.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LDLL-551586328979</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

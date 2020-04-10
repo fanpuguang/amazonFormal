@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A1A3K0BAQPDN3U</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>AIWKR-561585810226-0</SKU>
+      <StandardPrice currency="EUR">42.03</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>AIWKR-561585810226-1</SKU>
+      <StandardPrice currency="EUR">42.03</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <Price>
+      <SKU>AIWKR-561585810226</SKU>
+      <StandardPrice currency="EUR">42.03</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

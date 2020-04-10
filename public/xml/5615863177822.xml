@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A1A3K0BAQPDN3U</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>AIWKR-561586134888</SKU>
+      <StandardPrice currency="JPY">5354.17</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>AIWKR-561586158771</SKU>
+      <StandardPrice currency="JPY">5562.5</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <Price>
+      <SKU>AIWKR-561586159108</SKU>
+      <StandardPrice currency="JPY">5375</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <Price>
+      <SKU>AIWKR-561586163748</SKU>
+      <StandardPrice currency="JPY">9895.83</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <Price>
+      <SKU>AIWKR-561586164693</SKU>
+      <StandardPrice currency="JPY">5395.83</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <Price>
+      <SKU>AIWKR-561586164799</SKU>
+      <StandardPrice currency="JPY">7541.67</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

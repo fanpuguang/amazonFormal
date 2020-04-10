@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A1YWMLJGSWUVJ8</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>55200018361</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>6</MessagesProcessed>
+				<MessagesSuccessful>5</MessagesSuccessful>
+				<MessagesWithError>1</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 54, Column 2058: cvc-maxLength-valid: Value &apos;A AIWKR nous nous efforçons de rendre votre vie plus facile.&lt;br/&gt;&lt;br/&gt;Ce générateur d&apos;eau hypochlorite, vous pouvez créer votre propre désinfectant avec de l&apos;eau et de sel, ce qui est commode et pratique.&lt;br/&gt;&lt;br/&gt;TRAITS&lt;br/&gt;1.It est faite de haute ABS et matériel PC. Épais et plus durable résistance à la température élevée sans odeur avec un beau design et élégant.&lt;br/&gt;2.It convient à la famille, hôtel, immeuble de bureaux, peut être utilisé dans la cuisine, salle de bains, toilettes, etc.&lt;br/&gt;&lt;br/&gt;CARACTÉRISTIQUES&lt;br/&gt;Matériel: ABS + PC&lt;br/&gt;&lt;br/&gt;Temps de travail: 8 minutes&lt;br/&gt;&lt;br/&gt;alimentation applicable: 5 V / 1&lt;br/&gt;&lt;br/&gt;puissance du produit: 5W&lt;br/&gt;&lt;br/&gt;Capacité de production: 300ml&lt;br/&gt;&lt;br/&gt;Poids du produit: 350g&lt;br/&gt;&lt;br/&gt;Taille: 238 * 93mm / 9.4x3.7inch (HxL)&lt;br/&gt;&lt;br/&gt;LE FORFAIT COMPREND&lt;br/&gt;1 x désinfection dessalinisateur&lt;br/&gt;1x câble USB&lt;br/&gt;&lt;br/&gt; Taux de concentration et la plage d&apos;utilisation:&lt;br/&gt;&lt;br/&gt; (1) Faible concentration: 300 ml d&apos;eau + 7,5 g de sel commun * concentration est d&apos;environ 300-500mg / LCAN être utilisé pour plaie, l&apos;air, piqûre de moustique, le lavage des mains, etc.&lt;br/&gt;&lt;br/&gt; (2) Concentration standard: 300 ml d&apos;eau + 15g sel de table * concentration est d&apos;environ 500-800mg / LCAN être utilisé pour le béribéri, les produits ménagers, ustensiles de bébé, vaisselle, toilette cuisine, prothèse de nettoyage, etc.&lt;br/&gt;&lt;br/&gt; (3) la concentration maximale de l&apos;eau 300ml + 22,5 g de sel * concentration est d&apos;environ 1000-1500mg / L&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;PRÉCAUTIONS&lt;br/&gt;1.N&apos;utilisez pas sur la soie, la laine, le nylon, le cuir, les surfaces peintes&lt;br/&gt;2. Ne pas utiliser pour l&apos;aluminium, du cuivre, des produits en acier au carbone, adapté aux appareils en acier inoxydable&lt;br/&gt;3. Ne pas mélanger avec des produits plus propres acides (nettoyant pour toilettes, etc.)&lt;br/&gt;&lt;br/&gt;APRÈS VENTE&lt;br/&gt;Si vous avez des questions ou des suggestions, s&apos;il vous plaît ne hésitez pas à nous contacter, nous vous répondrons dans les 24 heures pour vous offrir le meilleur service.&apos; with length = &apos;2010&apos; is not facet-valid with respect to maxLength &apos;2000&apos; for type &apos;#AnonType_DescriptionDescriptionDataProduct&apos;.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586246336</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 54, Column 2058: cvc-type.3.1.3: The value &apos;A AIWKR nous nous efforçons de rendre votre vie plus facile.&lt;br/&gt;&lt;br/&gt;Ce générateur d&apos;eau hypochlorite, vous pouvez créer votre propre désinfectant avec de l&apos;eau et de sel, ce qui est commode et pratique.&lt;br/&gt;&lt;br/&gt;TRAITS&lt;br/&gt;1.It est faite de haute ABS et matériel PC. Épais et plus durable résistance à la température élevée sans odeur avec un beau design et élégant.&lt;br/&gt;2.It convient à la famille, hôtel, immeuble de bureaux, peut être utilisé dans la cuisine, salle de bains, toilettes, etc.&lt;br/&gt;&lt;br/&gt;CARACTÉRISTIQUES&lt;br/&gt;Matériel: ABS + PC&lt;br/&gt;&lt;br/&gt;Temps de travail: 8 minutes&lt;br/&gt;&lt;br/&gt;alimentation applicable: 5 V / 1&lt;br/&gt;&lt;br/&gt;puissance du produit: 5W&lt;br/&gt;&lt;br/&gt;Capacité de production: 300ml&lt;br/&gt;&lt;br/&gt;Poids du produit: 350g&lt;br/&gt;&lt;br/&gt;Taille: 238 * 93mm / 9.4x3.7inch (HxL)&lt;br/&gt;&lt;br/&gt;LE FORFAIT COMPREND&lt;br/&gt;1 x désinfection dessalinisateur&lt;br/&gt;1x câble USB&lt;br/&gt;&lt;br/&gt; Taux de concentration et la plage d&apos;utilisation:&lt;br/&gt;&lt;br/&gt; (1) Faible concentration: 300 ml d&apos;eau + 7,5 g de sel commun * concentration est d&apos;environ 300-500mg / LCAN être utilisé pour plaie, l&apos;air, piqûre de moustique, le lavage des mains, etc.&lt;br/&gt;&lt;br/&gt; (2) Concentration standard: 300 ml d&apos;eau + 15g sel de table * concentration est d&apos;environ 500-800mg / LCAN être utilisé pour le béribéri, les produits ménagers, ustensiles de bébé, vaisselle, toilette cuisine, prothèse de nettoyage, etc.&lt;br/&gt;&lt;br/&gt; (3) la concentration maximale de l&apos;eau 300ml + 22,5 g de sel * concentration est d&apos;environ 1000-1500mg / L&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;PRÉCAUTIONS&lt;br/&gt;1.N&apos;utilisez pas sur la soie, la laine, le nylon, le cuir, les surfaces peintes&lt;br/&gt;2. Ne pas utiliser pour l&apos;aluminium, du cuivre, des produits en acier au carbone, adapté aux appareils en acier inoxydable&lt;br/&gt;3. Ne pas mélanger avec des produits plus propres acides (nettoyant pour toilettes, etc.)&lt;br/&gt;&lt;br/&gt;APRÈS VENTE&lt;br/&gt;Si vous avez des questions ou des suggestions, s&apos;il vous plaît ne hésitez pas à nous contacter, nous vous répondrons dans les 24 heures pour vous offrir le meilleur service.&apos; of element &apos;Description&apos; is not valid.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586246336</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

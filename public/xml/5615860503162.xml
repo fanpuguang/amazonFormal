@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A1A3K0BAQPDN3U</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>AIWKR-561585733533</SKU>
+      <StandardPrice currency="EUR">33.36</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

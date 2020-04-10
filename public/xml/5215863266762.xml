@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>DUYER-521585644903-0-a</SKU>
+      <StandardPrice currency="USD">54.96</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>DUYER-521585644903-1-a</SKU>
+      <StandardPrice currency="USD">54.96</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <Price>
+      <SKU>DUYER-521585644903-2-a</SKU>
+      <StandardPrice currency="USD">54.96</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <Price>
+      <SKU>DUYER-521585644903-a</SKU>
+      <StandardPrice currency="USD">54.96</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

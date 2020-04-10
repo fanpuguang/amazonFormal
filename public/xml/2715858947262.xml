@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2O70136OXEC74</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>YXYLD-271585730674-0</SKU>
+      <StandardPrice currency="MXN">3182.32</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>YXYLD-271585730753-0</SKU>
+      <StandardPrice currency="MXN">5266.81</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <Price>
+      <SKU>YXYLD-271585730851-0</SKU>
+      <StandardPrice currency="MXN">6795.44</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <Price>
+      <SKU>YXYLD-271585730674</SKU>
+      <StandardPrice currency="MXN">3182.32</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <Price>
+      <SKU>YXYLD-271585730753</SKU>
+      <StandardPrice currency="MXN">5266.81</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <Price>
+      <SKU>YXYLD-271585730851</SKU>
+      <StandardPrice currency="MXN">6795.44</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

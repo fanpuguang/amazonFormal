@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665246</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Enfriador De Aire PortáTil, PequeñO Aire Acondicionado Para Dormitorio DoméStico Refrigerado, 3 Velocidades De Ajuste De Aire FríO, Con Modo De Luz Nocturna</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Botón de ventilador<br/>1. Haga clic en el botón del ventilador para encender y apagar el ventilador. Haga clic en el botón del ventilador por primera vez para iniciar el ventilador (valor predeterminado bajo). Haga clic en el botón del ventilador por segunda vez para cambiar a la segunda posición del ventilador. Haga clic en el botón de engranaje tres veces para cambiar la tercera posición del ventilador.<br/>2. Mantenga presionado el botón del ventilador para iniciar y cerrar el trabajo de iones negativos.<br/><br/>✔ botón de función<br/>Botón de función. Haga clic en el botón de función para activar y desactivar el modo ráfaga de ventilador. Sople por 10 segundos y pare por 10 segundos. Mantenga presionada la función para habilitar y deshabilitar la función de luz nocturna del tanque de agua.<br/><br/>✔ Función de indicador<br/>La luz azul siempre está encendida cuando el cabello está soplando continuamente; la luz azul parpadea en el modo ráfaga; la luz verde está encendida cuando el ion negativo está funcionando; la luz roja siempre está encendida cuando se carga;<br/><br/>✔ Carga y tiempo de trabajo<br/>La unidad está completamente cargada durante aproximadamente 3 horas.<br/>Tiempo de trabajo: después de que la máquina está completamente cargada, el tiempo de trabajo de la primera marcha es de aproximadamente 8 horas, el tiempo de trabajo de la segunda marcha es de aproximadamente 4.5 horas y el tiempo de trabajo de la tercera marcha es de 2.5 horas.<br/><br/>✔ Nombre del producto: mini aire acondicionado portátil<br/>✔ Material: componentes electrónicos ABS / PP / PC<br/>✔ Peso: 470 g<br/>✔ Capacidad de la batería: 2000 mAh<br/>✔ Velocidad del motor: bajo grado 5V / rango medio 7V / tercer grado 9V<br/>✔ Voltaje / corriente de la batería: bajo grado 300mA / rango medio 540mA / alto grado 720mA<br/>✔ Potencia de trabajo de iones negativos: 1W<br/>✔ Concentración de iones: 1X106PCS / cm3<br/>✔ Concentración de ozono: <0.03PPm<br/>✔ Tamaño del producto: 120X127X 132 mm]]></Description>
+        <BulletPoint>✔ tanque de agua de gran capacidad: La capacidad adecuada de 150 ml puede evitar el agua residual en el tanque de agua y causar el problema del deterioro y la contaminación del aire después de un largo tiempo.</BulletPoint>
+        <BulletPoint>✔ El viento frío se enfría rápidamente: La suavidad del ventilador refrescante de aire acondicionado Agregar el agua y el hielo al tanque de agua fresca a enviar rápidamente, aire húmedo, y disfrutar del viento suave!</BulletPoint>
+        <BulletPoint>✔ velocidad de viento tercer engranaje: Siempre hay una selección para una variedad de tipos de viento. Disfrutar del aire en silencio, limpio y respirar sin presión.</BulletPoint>
+        <BulletPoint>✔ No hay ruido. Tranquilo y fresco: El motor sin escobillas se utiliza para la alta velocidad, bajo ruido, estable y un funcionamiento silencioso. El diseño de las palas 4 es el ruido y la luz baja.</BulletPoint>
+        <BulletPoint>✔ luz Noche: viene con el modo de luz de noche, 10 horas de duración de batería de larga duración, sin hilos + cable de doble uso, inmediatamente entrar en el fresco y disfrutar de aire saludable.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665253</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Enfriador De Aire PortáTil, PequeñO Aire Acondicionado Para Dormitorio DoméStico Refrigerado, 3 Velocidades De Ajuste De Aire FríO, Con Modo De Luz Nocturna</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Botón de ventilador<br/>1. Haga clic en el botón del ventilador para encender y apagar el ventilador. Haga clic en el botón del ventilador por primera vez para iniciar el ventilador (valor predeterminado bajo). Haga clic en el botón del ventilador por segunda vez para cambiar a la segunda posición del ventilador. Haga clic en el botón de engranaje tres veces para cambiar la tercera posición del ventilador.<br/>2. Mantenga presionado el botón del ventilador para iniciar y cerrar el trabajo de iones negativos.<br/><br/>✔ botón de función<br/>Botón de función. Haga clic en el botón de función para activar y desactivar el modo ráfaga de ventilador. Sople por 10 segundos y pare por 10 segundos. Mantenga presionada la función para habilitar y deshabilitar la función de luz nocturna del tanque de agua.<br/><br/>✔ Función de indicador<br/>La luz azul siempre está encendida cuando el cabello está soplando continuamente; la luz azul parpadea en el modo ráfaga; la luz verde está encendida cuando el ion negativo está funcionando; la luz roja siempre está encendida cuando se carga;<br/><br/>✔ Carga y tiempo de trabajo<br/>La unidad está completamente cargada durante aproximadamente 3 horas.<br/>Tiempo de trabajo: después de que la máquina está completamente cargada, el tiempo de trabajo de la primera marcha es de aproximadamente 8 horas, el tiempo de trabajo de la segunda marcha es de aproximadamente 4.5 horas y el tiempo de trabajo de la tercera marcha es de 2.5 horas.<br/><br/>✔ Nombre del producto: mini aire acondicionado portátil<br/>✔ Material: componentes electrónicos ABS / PP / PC<br/>✔ Peso: 470 g<br/>✔ Capacidad de la batería: 2000 mAh<br/>✔ Velocidad del motor: bajo grado 5V / rango medio 7V / tercer grado 9V<br/>✔ Voltaje / corriente de la batería: bajo grado 300mA / rango medio 540mA / alto grado 720mA<br/>✔ Potencia de trabajo de iones negativos: 1W<br/>✔ Concentración de iones: 1X106PCS / cm3<br/>✔ Concentración de ozono: <0.03PPm<br/>✔ Tamaño del producto: 120X127X 132 mm]]></Description>
+        <BulletPoint>✔ tanque de agua de gran capacidad: La capacidad adecuada de 150 ml puede evitar el agua residual en el tanque de agua y causar el problema del deterioro y la contaminación del aire después de un largo tiempo.</BulletPoint>
+        <BulletPoint>✔ El viento frío se enfría rápidamente: La suavidad del ventilador refrescante de aire acondicionado Agregar el agua y el hielo al tanque de agua fresca a enviar rápidamente, aire húmedo, y disfrutar del viento suave!</BulletPoint>
+        <BulletPoint>✔ velocidad de viento tercer engranaje: Siempre hay una selección para una variedad de tipos de viento. Disfrutar del aire en silencio, limpio y respirar sin presión.</BulletPoint>
+        <BulletPoint>✔ No hay ruido. Tranquilo y fresco: El motor sin escobillas se utiliza para la alta velocidad, bajo ruido, estable y un funcionamiento silencioso. El diseño de las palas 4 es el ruido y la luz baja.</BulletPoint>
+        <BulletPoint>✔ luz Noche: viene con el modo de luz de noche, 10 horas de duración de batería de larga duración, sin hilos + cable de doble uso, inmediatamente entrar en el fresco y disfrutar de aire saludable.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Blue</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665260</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Enfriador De Aire PortáTil, PequeñO Aire Acondicionado Para Dormitorio DoméStico Refrigerado, 3 Velocidades De Ajuste De Aire FríO, Con Modo De Luz Nocturna</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Botón de ventilador<br/>1. Haga clic en el botón del ventilador para encender y apagar el ventilador. Haga clic en el botón del ventilador por primera vez para iniciar el ventilador (valor predeterminado bajo). Haga clic en el botón del ventilador por segunda vez para cambiar a la segunda posición del ventilador. Haga clic en el botón de engranaje tres veces para cambiar la tercera posición del ventilador.<br/>2. Mantenga presionado el botón del ventilador para iniciar y cerrar el trabajo de iones negativos.<br/><br/>✔ botón de función<br/>Botón de función. Haga clic en el botón de función para activar y desactivar el modo ráfaga de ventilador. Sople por 10 segundos y pare por 10 segundos. Mantenga presionada la función para habilitar y deshabilitar la función de luz nocturna del tanque de agua.<br/><br/>✔ Función de indicador<br/>La luz azul siempre está encendida cuando el cabello está soplando continuamente; la luz azul parpadea en el modo ráfaga; la luz verde está encendida cuando el ion negativo está funcionando; la luz roja siempre está encendida cuando se carga;<br/><br/>✔ Carga y tiempo de trabajo<br/>La unidad está completamente cargada durante aproximadamente 3 horas.<br/>Tiempo de trabajo: después de que la máquina está completamente cargada, el tiempo de trabajo de la primera marcha es de aproximadamente 8 horas, el tiempo de trabajo de la segunda marcha es de aproximadamente 4.5 horas y el tiempo de trabajo de la tercera marcha es de 2.5 horas.<br/><br/>✔ Nombre del producto: mini aire acondicionado portátil<br/>✔ Material: componentes electrónicos ABS / PP / PC<br/>✔ Peso: 470 g<br/>✔ Capacidad de la batería: 2000 mAh<br/>✔ Velocidad del motor: bajo grado 5V / rango medio 7V / tercer grado 9V<br/>✔ Voltaje / corriente de la batería: bajo grado 300mA / rango medio 540mA / alto grado 720mA<br/>✔ Potencia de trabajo de iones negativos: 1W<br/>✔ Concentración de iones: 1X106PCS / cm3<br/>✔ Concentración de ozono: <0.03PPm<br/>✔ Tamaño del producto: 120X127X 132 mm]]></Description>
+        <BulletPoint>✔ tanque de agua de gran capacidad: La capacidad adecuada de 150 ml puede evitar el agua residual en el tanque de agua y causar el problema del deterioro y la contaminación del aire después de un largo tiempo.</BulletPoint>
+        <BulletPoint>✔ El viento frío se enfría rápidamente: La suavidad del ventilador refrescante de aire acondicionado Agregar el agua y el hielo al tanque de agua fresca a enviar rápidamente, aire húmedo, y disfrutar del viento suave!</BulletPoint>
+        <BulletPoint>✔ velocidad de viento tercer engranaje: Siempre hay una selección para una variedad de tipos de viento. Disfrutar del aire en silencio, limpio y respirar sin presión.</BulletPoint>
+        <BulletPoint>✔ No hay ruido. Tranquilo y fresco: El motor sin escobillas se utiliza para la alta velocidad, bajo ruido, estable y un funcionamiento silencioso. El diseño de las palas 4 es el ruido y la luz baja.</BulletPoint>
+        <BulletPoint>✔ luz Noche: viene con el modo de luz de noche, 10 horas de duración de batería de larga duración, sin hilos + cable de doble uso, inmediatamente entrar en el fresco y disfrutar de aire saludable.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585706601-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665895</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Enfriador De Aire Mini Aire Acondicionado PortáTil, Ventilador De Enfriamiento De Enfriamiento Usb, Puede Agregar Agua Helada, Escritorio De Oficina Ultra Silencioso</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Velocidad del viento: primera marcha: 2.0m / s, segunda marcha: 2.5m / s, tercera marcha: 3.5m / s<br/>✔ Ruido: primera marcha: 30dB, segunda marcha: 38dB, tercera marcha: 46dB<br/>✔ Velocidad del motor: primera marcha: 2570 rpm, segunda marcha: 3215 rpm, tercera marcha: 3660 rpm<br/><br/>✔ Nombre del producto: ventilador de refrigeración por agua<br/>✔ Capacidad del tanque de agua: 380 ml<br/>✔ Corriente de trabajo: 0.2A-1.4A<br/>✔ Entrada: DC5V<br/>✔ Potencia: 1W-7W<br/>✔ Material del producto: ABS / silicona<br/>✔ Tamaño del producto: 133 mm, 178 mm, 170 mm<br/><br/>✔ 1: No coloque el producto de lado, recuéstese de lado o boca abajo para evitar que el agua penetre en la placa de circuito.<br/>✔ 2: El tercer engranaje del ventilador de enfriamiento requiere una gran potencia. El tercer engranaje no puede activarse por debajo de 1.5 A. Requiere un adaptador de 2 A o un puerto USB 3.0 en la computadora para suministrar energía.<br/>✔ 3: Para el primer uso, llénelo con agua y déjelo reposar durante 20 minutos. La cortina seca será mejor solo si está llena de agua. El tanque de agua en la parte inferior del ventilador de enfriamiento no está completamente sellado, y el agua se escapará por el costado si se vierte.Si necesita mover el ventilador de enfriamiento, abra la salida de agua en la parte inferior de la unidad principal y muévalo después de drenar el agua.]]></Description>
+        <BulletPoint>✔ Máquina multipropósito: puede agregar agua helada y enfriarse rápidamente. Filtro de cortina de agua para purificar el aire fresco. La salida de aire se ajusta para enfriar en un amplio rango.</BulletPoint>
+        <BulletPoint>✔ Luz suave y cálida: promete una luz nocturna que cambia de color, que se puede configurar presionando prolongadamente según tu color favorito. Deja que duermas en paz.</BulletPoint>
+        <BulletPoint>✔ Tecnología de doble capa: cortina de hielo con filtro de polvo de alta densidad, sistema de purificación, antibacteriano altamente efectivo. Como el refrescante viento después de la lluvia, como la frescura que aporta el aire acondicionado interior.</BulletPoint>
+        <BulletPoint>✔ Cortina de agua reemplazable: la cortina de agua original se puede usar durante 6 a 8 meses, séquela durante mucho tiempo y déjela secar.</BulletPoint>
+        <BulletPoint>✔ Sistema de humidificación incorporado: la cortina de agua que no se seca en el verano puede aumentar efectivamente la humedad del flujo de aire, garantizar el frescor y dejar que su piel beba agua.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585711622-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665956</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini Aire Acondicionado PortáTil, Pulverizador Silencioso De SúPer Enfriamiento, Humidificador Y Purificador Sin Secado, Enfriador De Escritorio En Una Cama De Oficina PequeñA</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[¿Todavía te preocupan estos problemas?<br/>01 El ventilador aún está caliente y no lo suficientemente frío cuando alcanza la velocidad máxima.<br/>02 No solo la primera o tercera marcha es muy ruidosa sino que también causa dolores de cabeza por mucho tiempo.<br/>03 ¿Quiere sentir el viento frío del aire acondicionado, pero en el hogar / oficina, pero no puede encender el aire acondicionado?<br/><br/>✔ Nombre del producto: Icy Fan<br/>✔ Material: ABS + PP + Cuero<br/>✔ Tamaño del producto: 145 * 132 * 172.5 mm<br/>✔ Capacidad del tanque de agua: 200 ml<br/>✔ Equipo de velocidad del viento: regulación de velocidad continua<br/>✔ Peso neto del producto: 700 g<br/>✔ Tensión nominal: DC 5V<br/>✔ Color del producto: blanco<br/>✔ Potencia nominal: 4.5W]]></Description>
+        <BulletPoint>✔ Tono claro, bajo nivel de ruido, silencioso y fresco: después de más de 2,000 pruebas de conductos de aire, utilizamos tecnología de sistema de conductos de aire de alta calidad y palas de viento de flujo largo para brindarle la delicada sensación de viento y disfrutar de la frescura.</BulletPoint>
+        <BulletPoint>✔ Frialdad percibida: se adopta el nuevo sistema de suministro de aire de reducción de arrastre. Cuando el material especial de fibra de hielo de la cortina de hielo logra un enfriamiento preciso, la humedad del aire aumenta para garantizar que la piel no esté apretada mientras disfruta del frescor.</BulletPoint>
+        <BulletPoint>✔ Enfriamiento de doble ciclo: el ventilador de 7 palas de alto rendimiento, combinado con el nuevo sistema de suministro de aire de reducción de resistencia, logra el enfriamiento mientras circula el aire y aumenta el contenido de oxígeno y la humedad del aire, para que pueda seguir sin tener dolor de cabeza.</BulletPoint>
+        <BulletPoint>✔ Tecnología de enfriamiento de alta frecuencia: cuando se introduce aire a alta temperatura, el calor absorbido por el hielo se evapora para enfriarse rápidamente. Cuanto mayor sea la temperatura, mejor será el efecto de enfriamiento.</BulletPoint>
+        <BulletPoint>✔ Servicio postventa: la tienda utiliza logística internacional y el tiempo estimado de entrega es de 15-30 días. Si encuentra algún problema cuando recibe su producto por primera vez, siempre puede contactarnos. Te deseo una feliz compra.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585721015-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665987</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini Aire Acondicionado PortáTil, Ventilador PequeñO Usb, Ventilador EléCtrico De Escritorio Con Agua Ultra Silenciosa Para Oficina, Enfriamiento Fuerte + Suministro De Agua Enorme</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[ADVERTENCIA: Mantener fuera del alcance de los niños a menos que esté bajo la supervisión de un adulto. No llene el tanque de agua con agua. Debe permanecer en una superficie nivelada durante el uso; inclinar el dispositivo puede hacer que salga agua de la base. Lea el manual de instrucciones completo antes de usar. El tiempo de ejecución dependerá de la configuración de velocidad, los niveles de temperatura ambiente, los niveles de humedad ambiental, etc. Cuando no se use durante mucho tiempo, drene el tanque de agua, retire el filtro y séquelo al aire.<br/><br/>✔ Nombre del producto: ventilador pequeño USB<br/>✔ Capacidad del tanque de agua: 180ML<br/>✔ Potencia: 7.5W<br/>✔ Entrada: 5V / 1.5A<br/>✔ Spray: 60 ml / h<br/>✔ Engranaje: 3 engranajes<br/>✔ Longitud del cable: 1,2 m<br/>✔ Ruido: ≦ 45dB]]></Description>
+        <BulletPoint>✔ Hidratación Nano Ice Mist: Usando la misma tecnología de atomización ultrasónica que el Aparato Hidratante, una poderosa pulverización de doble cabezal de 60 m / h, penetra ligeramente en la piel.</BulletPoint>
+        <BulletPoint>✔ Tecnología de conducto de flujo axial: motor sin escobillas de cobre puro, el ruido se ha reducido en un 30%, palas de turbina de aviación, viento dorado tridimensional en el viento.</BulletPoint>
+        <BulletPoint>✔ Gran distancia del viento de 6.5 metros: aspas del ventilador de la turbina de aviación, gran sección transversal y diseño de gran ángulo de las aspas del viento, lo que aumenta el área de contacto con el aire, la velocidad del viento de 2 m / s, la velocidad del viento aumentó en un 40%</BulletPoint>
+        <BulletPoint>✔ Diseño aséptico: el diseño aséptico del tanque de agua separado, agrega agua a 180 ml y humedece durante 4 horas para reducir la retención de humedad antigua.</BulletPoint>
+        <BulletPoint>✔ Servicio postventa: nuestra tienda utiliza logística internacional y el tiempo estimado de entrega es de 15-30 días. Si encuentra algún problema al recibir los productos, siempre puede contactarnos. Te deseo una feliz compra.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Green</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585723775-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666021</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini Aire Acondicionado PortáTil, Ventilador De RefrigeracióN Por Agua Con FuncióN Usb, HumidificacióN Por PulverizacióN De Mano, Dormitorio PequeñO, Oficina Silenciosa, Escritorio, Carga DoméStica</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Instrucciones de uso, solo cuatro pasos, puede usarlo con confianza<br/>Abra la tapa de inyección de agua.<br/>2. Llene la cisterna con agua helada o cubitos de hielo.<br/>3. Enchufe la corriente<br/>4. Encienda y ajuste la dirección y la velocidad del viento, puede usarlo con confianza<br/><br/>✔ Material: ABS<br/>✔ Color: azul real<br/>✔ Tensión nominal: DC 5V 0.84A<br/>✔ Potencia nominal: 4.2W<br/>✔ Velocidad del ventilador: 3000 RMP<br/>✔ Capacidad del tanque de agua: 320 ml<br/>✔ Tamaño del producto: 158MM * 180MM * 164MM]]></Description>
+        <BulletPoint>✔ Múltiples escenas: verano fresco en cualquier momento y en cualquier lugar para satisfacer sus diferentes necesidades de escena, oficina, dormitorio escolar, dormitorio junto a la cama.</BulletPoint>
+        <BulletPoint>✔ Humidificación por pulverización, belleza y emoliente: agregue agua al tanque de agua, cortina húmeda de evaporación de alta eficiencia, enfríe y reponga la humedad al mismo tiempo.</BulletPoint>
+        <BulletPoint>✔ Diseño de agua superior: abra la tapa y agregue agua y hielo directamente. La operación es fácil y simple. Puede experimentar la sensación de frío en invierno en verano.</BulletPoint>
+        <BulletPoint>✔ Múltiples modos de fuente de alimentación: este producto utiliza una fuente de alimentación USB, adecuada para la demanda pública, cabezal de carga, USB para computadora, alimentación móvil, USB para automóvil, etc.</BulletPoint>
+        <BulletPoint>✔ Servicio postventa 100%: nuestra tienda utiliza logística internacional, puede contactarnos en cualquier momento por correo electrónico, responderemos sus preguntas dentro de las 24 horas, el cliente siempre es el primero, puede encontrar su gusto buscando "DUYER" Productos, le deseo una feliz compra!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585726436-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666328</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Enfriador de aire portátil, Mini acondicionador de aire, 3 en 1 Personal refrigerador evaporativo, humidificador, purificador con USB, 3 Velocidad ventilador de escritorio para el hogar, habitación, oficina</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Desea mantenerse fresco en el caluroso verano, pero le preocupa que le cueste mucho operar el aire acondicionado todo el día, y los fanáticos comunes solo le darán aire caliente en la cara.<br/><br/>¿Quieres una mejor manera de calmarte?<br/>Use nuestro mini enfriador de aire para obtener este enfriador de espacio personal para crear su zona de confort. Simplemente agregue agua y hielo al tanque de agua, luego relájese y disfrute de un aliento fresco y húmedo.<br/><br/>✔ Material: componentes electrónicos ABS / PP / PC<br/>✔ Cantidad neta: 900 g<br/>✔ Peso bruto: 1.3 kg<br/>✔ Requisito de energía: 5V - DC2.1A<br/>✔ Ruido: 50db a 3a velocidad del viento<br/>✔ Equipo de velocidad del viento: 3 engranajes<br/>✔ Potencia de trabajo: 6W<br/>✔ Tamaño del producto: 145 * 145 * 190 mm<br/>✔ Área de aplicación: 60-100 cm<br/>✔ Rango de soplado: <2㎡<br/>✔ Rango de reducción de temperatura: 4-12 ° C (dependiendo de la temperatura ambiente)]]></Description>
+        <BulletPoint>✔ Velocidad del viento ajustable y sincronización automática: se pueden ajustar tres velocidades del viento (alta, media, baja), la velocidad máxima del ventilador alcanza los 3.24 m / sy la dirección del viento se puede ajustar hacia arriba y hacia abajo 80 grados manualmente para crear su propia zona de enfriamiento personalizada: tres tiempos automáticos (1H / 3H / 6H), puede elegir el tiempo libre, el tiempo de sueño o el tiempo de trabajo que más le convenga.</BulletPoint>
+        <BulletPoint>✔ Fácil de usar y portátil: todo lo que tiene que hacer es agregar agua y cubitos de hielo al tanque de agua de este enfriador de aire de escritorio, enchufarlo a un puerto USB o banco de energía y encenderlo. Con solo 6.4 pulgadas de altura, es fácil de mover y es perfecto para su escritorio y oficina / dormitorio.</BulletPoint>
+        <BulletPoint>✔ Función tres en uno: diseño multifuncional tres en uno de aire acondicionado personal, ventilador, humidificador de aire. Enfríe y humedezca para un mejor aire.El diseño de enfriamiento lo mantiene alejado de los veranos calurosos y disfruta de veranos frescos</BulletPoint>
+        <BulletPoint>✔ Enfriador de aire personal: un mini enfriador de aire personal diseñado para uso personal. No utiliza refrigerantes ni productos químicos para enfriar el aire, por lo que no debe esperar el mismo efecto que un aire acondicionado. Póngalo a su lado no más de 3 pies-4 pies.</BulletPoint>
+        <BulletPoint>✔ Servicio postventa 100%: nuestra tienda utiliza logística internacional, puede contactarnos en cualquier momento por correo electrónico, responderemos sus preguntas dentro de las 24 horas, el cliente siempre es el primero, puede encontrar su gusto buscando "DUYER" Productos, le deseo una feliz compra!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585728921-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666755</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Enfriador De Aire,  Ventilador De Aire Acondicionado De Enfriamiento Usb, Aerosol De Soplador De Aire DoméStico PequeñO, AutomóVil En La Cama Del Dormitorio Estudiantil</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Desea mantenerse fresco en el caluroso verano, pero le preocupa que le cueste mucho operar el aire acondicionado todo el día, y los fanáticos comunes solo le darán aire caliente en la cara.<br/><br/>¿Quieres una mejor manera de calmarte?<br/>Use nuestro mini enfriador de aire para obtener este enfriador de espacio personal para crear su zona de confort. Simplemente agregue agua y hielo al tanque de agua, luego relájese y disfrute de un aliento fresco y húmedo.<br/><br/>  ✔ Volumen de aire: 4 niveles<br/>  ✔ Tensión nominal: 5V<br/>  ✔ Longitud del cable de alimentación: 1.8m<br/>  ✔ Potencia nominal: 6-9W<br/>  ✔ Método de control: botones mecánicos<br/>  ✔ Función de seguridad: 6 horas de quemado antiseco<br/>  ✔ Modo de volumen de aire: alto / medio / bajo / dormir<br/>  ✔ Capacidad del tanque de agua: 500ML<br/>  ✔ color del producto: blanco<br/>  ✔ Peso bruto / peso neto: 1 kg / 0.8 kg<br/>  ✔ Material: ABS]]></Description>
+        <BulletPoint>✔ Ajuste de 3 velocidades: nuestro mini aire acondicionado está diseñado con 3 modos de velocidad, que se pueden ajustar libremente según sus requisitos (bajo / medio / alto). Si es necesario, también puede ajustar la dirección del viento para girar verticalmente. (Nota: los enfriadores de aire portátiles no son adecuados para enfriar toda la habitación).</BulletPoint>
+        <BulletPoint>✔ Diseño 4 en 1: este enfriador de aire por evaporación tiene un ventilador portátil de enfriamiento, humidificación por pulverización, purificación de aire y funciones 4 en 1 de 7 luces LED, lo que no solo reduce la temperatura, sino que también nos ayuda a evitar el aire seco. Además, tiene una luz ambiental LED de 7 colores y una luz LED suave y colorida incorporada para crear una atmósfera romántica y brindarle un mejor ambiente para dormir.</BulletPoint>
+        <BulletPoint>✔ Ahorro de energía y salud: este enfriador de aire portátil tiene un bajo consumo de energía y no contiene freón. No solo protege la salud de su familia, sino que también consume menos energía para minimizar la pérdida de energía y proteger el medio ambiente. Ideal para sala de verano, dormitorio, oficina, etc. refrigeración. También se puede usar en el trabajo y los viajes.</BulletPoint>
+        <BulletPoint>✔ Fácil de operar y liviano: solo agregue agua o agua helada, luego conecte el cable USB a una fuente de alimentación móvil o cualquier interfaz USB, y puede usar el mini enfriador de aire portátil presionando el botón de función. Este aire acondicionado personal tiene un diseño mini-portátil, que es muy fácil de llevar a la oficina, dormitorio, sala de estar, cocina y exterior.</BulletPoint>
+        <BulletPoint>✔ Servicio postventa 100%: nuestra tienda utiliza logística internacional, puede contactarnos en cualquier momento por correo electrónico, responderemos sus preguntas dentro de las 24 horas, el cliente siempre es el primero, puede encontrar su gusto buscando "DUYER" Productos, le deseo una feliz compra!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585733575-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666960</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini Aire Acondicionado PortáTil, PequeñO Ventilador De Enfriamiento Humidificador Ventilador De Enfriamiento De Enfriamiento, Escritorio De La Oficina Del Dormitorio Del Estudiante En El Hogar</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Desea mantenerse fresco en el caluroso verano, pero le preocupa que le cueste mucho hacer funcionar el aire acondicionado todo el día, y los ventiladores comunes solo le darán aire caliente en la cara.<br/><br/>✔ ¿Quieres una mejor manera de calmarte?<br/>Use nuestro mini enfriador de aire para obtener este enfriador de espacio personal para crear su zona de confort. Simplemente agregue agua y hielo al tanque de agua, luego relájese y disfrute de un aliento fresco y húmedo.<br/><br/>✔ Ventilador de enfriamiento y humidificador<br/>El aire acondicionado, el enfriador de aire evaporativo portátil y el humidificador atomizador se combinan en uno, lo que puede humedecer la piel y el aire, mantenerse alejado del aire seco y disfrutar del frescor del verano.<br/><br/>✔ Aire fresco y disfruta de una vida saludable<br/>Reduce la temperatura por evaporación del agua y produce aire fresco. ¡Bajo consumo de energía y largo tiempo de humidificación! Es energéticamente eficiente y baja en carbono.<br/><br/>✔ enfriador de aire personal portátil<br/>Mini refrigerador de aire personal diseñado para uso personal, coloque no más de 3 pies a 4 pies.<br/><br/>✔ El paquete incluye:<br/>1 x aire acondicionado<br/>1 x cable de datos USB]]></Description>
+        <BulletPoint>✔ Enfríe rápidamente y libere iones negativos: la purificación del agua y la alta velocidad del viento por evaporación liberan iones negativos, puede sentir más la frescura que aportan los iones negativos y disfrutar del aire limpio fácilmente.</BulletPoint>
+        <BulletPoint>✔ Sistema de humidificación sin niebla: humedezca cada centímetro de la piel, humedezca sin niebla y sin polvo, use un ventilador para permitir que el aire fluya a través de una cortina de agua y use el principio de evaporación natural del agua para aumentar la humedad del aire.</BulletPoint>
+        <BulletPoint>✔ Tecnología de doble ventilador: los ventiladores dobles delanteros y traseros resuelven el problema del volumen de aire y la cabeza. El ventilador trasero es responsable de aumentar la presión del aire de succión, y el frente es responsable del suministro de aire.</BulletPoint>
+        <BulletPoint>✔ Tanque de agua independiente: tanque de agua independiente y separado, es más conveniente agregar agua para la limpieza. Operación simple, sin fugas de agua, sin acumulación de agua, más tranquilidad.</BulletPoint>
+        <BulletPoint>✔ Servicio postventa 100%: nuestra tienda utiliza logística internacional, puede contactarnos en cualquier momento por correo electrónico, responderemos sus preguntas dentro de las 24 horas, el cliente siempre es el primero, puede encontrar su gusto buscando "DUYER" Productos, le deseo una feliz compra!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665192</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Enfriador De Aire PortáTil, PequeñO Aire Acondicionado Para Dormitorio DoméStico Refrigerado, 3 Velocidades De Ajuste De Aire FríO, Con Modo De Luz Nocturna</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Botón de ventilador<br/>1. Haga clic en el botón del ventilador para encender y apagar el ventilador. Haga clic en el botón del ventilador por primera vez para iniciar el ventilador (valor predeterminado bajo). Haga clic en el botón del ventilador por segunda vez para cambiar a la segunda posición del ventilador. Haga clic en el botón de engranaje tres veces para cambiar la tercera posición del ventilador.<br/>2. Mantenga presionado el botón del ventilador para iniciar y cerrar el trabajo de iones negativos.<br/><br/>✔ botón de función<br/>Botón de función. Haga clic en el botón de función para activar y desactivar el modo ráfaga de ventilador. Sople por 10 segundos y pare por 10 segundos. Mantenga presionada la función para habilitar y deshabilitar la función de luz nocturna del tanque de agua.<br/><br/>✔ Función de indicador<br/>La luz azul siempre está encendida cuando el cabello está soplando continuamente; la luz azul parpadea en el modo ráfaga; la luz verde está encendida cuando el ion negativo está funcionando; la luz roja siempre está encendida cuando se carga;<br/><br/>✔ Carga y tiempo de trabajo<br/>La unidad está completamente cargada durante aproximadamente 3 horas.<br/>Tiempo de trabajo: después de que la máquina está completamente cargada, el tiempo de trabajo de la primera marcha es de aproximadamente 8 horas, el tiempo de trabajo de la segunda marcha es de aproximadamente 4.5 horas y el tiempo de trabajo de la tercera marcha es de 2.5 horas.<br/><br/>✔ Nombre del producto: mini aire acondicionado portátil<br/>✔ Material: componentes electrónicos ABS / PP / PC<br/>✔ Peso: 470 g<br/>✔ Capacidad de la batería: 2000 mAh<br/>✔ Velocidad del motor: bajo grado 5V / rango medio 7V / tercer grado 9V<br/>✔ Voltaje / corriente de la batería: bajo grado 300mA / rango medio 540mA / alto grado 720mA<br/>✔ Potencia de trabajo de iones negativos: 1W<br/>✔ Concentración de iones: 1X106PCS / cm3<br/>✔ Concentración de ozono: <0.03PPm<br/>✔ Tamaño del producto: 120X127X 132 mm]]></Description>
+        <BulletPoint>✔ tanque de agua de gran capacidad: La capacidad adecuada de 150 ml puede evitar el agua residual en el tanque de agua y causar el problema del deterioro y la contaminación del aire después de un largo tiempo.</BulletPoint>
+        <BulletPoint>✔ El viento frío se enfría rápidamente: La suavidad del ventilador refrescante de aire acondicionado Agregar el agua y el hielo al tanque de agua fresca a enviar rápidamente, aire húmedo, y disfrutar del viento suave!</BulletPoint>
+        <BulletPoint>✔ velocidad de viento tercer engranaje: Siempre hay una selección para una variedad de tipos de viento. Disfrutar del aire en silencio, limpio y respirar sin presión.</BulletPoint>
+        <BulletPoint>✔ No hay ruido. Tranquilo y fresco: El motor sin escobillas se utiliza para la alta velocidad, bajo ruido, estable y un funcionamiento silencioso. El diseño de las palas 4 es el ruido y la luz baja.</BulletPoint>
+        <BulletPoint>✔ luz Noche: viene con el modo de luz de noche, 10 horas de duración de batería de larga duración, sin hilos + cable de doble uso, inmediatamente entrar en el fresco y disfrutar de aire saludable.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585706601</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665833</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Enfriador De Aire Mini Aire Acondicionado PortáTil, Ventilador De Enfriamiento De Enfriamiento Usb, Puede Agregar Agua Helada, Escritorio De Oficina Ultra Silencioso</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Velocidad del viento: primera marcha: 2.0m / s, segunda marcha: 2.5m / s, tercera marcha: 3.5m / s<br/>✔ Ruido: primera marcha: 30dB, segunda marcha: 38dB, tercera marcha: 46dB<br/>✔ Velocidad del motor: primera marcha: 2570 rpm, segunda marcha: 3215 rpm, tercera marcha: 3660 rpm<br/><br/>✔ Nombre del producto: ventilador de refrigeración por agua<br/>✔ Capacidad del tanque de agua: 380 ml<br/>✔ Corriente de trabajo: 0.2A-1.4A<br/>✔ Entrada: DC5V<br/>✔ Potencia: 1W-7W<br/>✔ Material del producto: ABS / silicona<br/>✔ Tamaño del producto: 133 mm, 178 mm, 170 mm<br/><br/>✔ 1: No coloque el producto de lado, recuéstese de lado o boca abajo para evitar que el agua penetre en la placa de circuito.<br/>✔ 2: El tercer engranaje del ventilador de enfriamiento requiere una gran potencia. El tercer engranaje no puede activarse por debajo de 1.5 A. Requiere un adaptador de 2 A o un puerto USB 3.0 en la computadora para suministrar energía.<br/>✔ 3: Para el primer uso, llénelo con agua y déjelo reposar durante 20 minutos. La cortina seca será mejor solo si está llena de agua. El tanque de agua en la parte inferior del ventilador de enfriamiento no está completamente sellado, y el agua se escapará por el costado si se vierte.Si necesita mover el ventilador de enfriamiento, abra la salida de agua en la parte inferior de la unidad principal y muévalo después de drenar el agua.]]></Description>
+        <BulletPoint>✔ Máquina multipropósito: puede agregar agua helada y enfriarse rápidamente. Filtro de cortina de agua para purificar el aire fresco. La salida de aire se ajusta para enfriar en un amplio rango.</BulletPoint>
+        <BulletPoint>✔ Luz suave y cálida: promete una luz nocturna que cambia de color, que se puede configurar presionando prolongadamente según tu color favorito. Deja que duermas en paz.</BulletPoint>
+        <BulletPoint>✔ Tecnología de doble capa: cortina de hielo con filtro de polvo de alta densidad, sistema de purificación, antibacteriano altamente efectivo. Como el refrescante viento después de la lluvia, como la frescura que aporta el aire acondicionado interior.</BulletPoint>
+        <BulletPoint>✔ Cortina de agua reemplazable: la cortina de agua original se puede usar durante 6 a 8 meses, séquela durante mucho tiempo y déjela secar.</BulletPoint>
+        <BulletPoint>✔ Sistema de humidificación incorporado: la cortina de agua que no se seca en el verano puede aumentar efectivamente la humedad del flujo de aire, garantizar el frescor y dejar que su piel beba agua.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>13</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585711622</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665901</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini Aire Acondicionado PortáTil, Pulverizador Silencioso De SúPer Enfriamiento, Humidificador Y Purificador Sin Secado, Enfriador De Escritorio En Una Cama De Oficina PequeñA</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[¿Todavía te preocupan estos problemas?<br/>01 El ventilador aún está caliente y no lo suficientemente frío cuando alcanza la velocidad máxima.<br/>02 No solo la primera o tercera marcha es muy ruidosa sino que también causa dolores de cabeza por mucho tiempo.<br/>03 ¿Quiere sentir el viento frío del aire acondicionado, pero en el hogar / oficina, pero no puede encender el aire acondicionado?<br/><br/>✔ Nombre del producto: Icy Fan<br/>✔ Material: ABS + PP + Cuero<br/>✔ Tamaño del producto: 145 * 132 * 172.5 mm<br/>✔ Capacidad del tanque de agua: 200 ml<br/>✔ Equipo de velocidad del viento: regulación de velocidad continua<br/>✔ Peso neto del producto: 700 g<br/>✔ Tensión nominal: DC 5V<br/>✔ Color del producto: blanco<br/>✔ Potencia nominal: 4.5W]]></Description>
+        <BulletPoint>✔ Tono claro, bajo nivel de ruido, silencioso y fresco: después de más de 2,000 pruebas de conductos de aire, utilizamos tecnología de sistema de conductos de aire de alta calidad y palas de viento de flujo largo para brindarle la delicada sensación de viento y disfrutar de la frescura.</BulletPoint>
+        <BulletPoint>✔ Frialdad percibida: se adopta el nuevo sistema de suministro de aire de reducción de arrastre. Cuando el material especial de fibra de hielo de la cortina de hielo logra un enfriamiento preciso, la humedad del aire aumenta para garantizar que la piel no esté apretada mientras disfruta del frescor.</BulletPoint>
+        <BulletPoint>✔ Enfriamiento de doble ciclo: el ventilador de 7 palas de alto rendimiento, combinado con el nuevo sistema de suministro de aire de reducción de resistencia, logra el enfriamiento mientras circula el aire y aumenta el contenido de oxígeno y la humedad del aire, para que pueda seguir sin tener dolor de cabeza.</BulletPoint>
+        <BulletPoint>✔ Tecnología de enfriamiento de alta frecuencia: cuando se introduce aire a alta temperatura, el calor absorbido por el hielo se evapora para enfriarse rápidamente. Cuanto mayor sea la temperatura, mejor será el efecto de enfriamiento.</BulletPoint>
+        <BulletPoint>✔ Servicio postventa: la tienda utiliza logística internacional y el tiempo estimado de entrega es de 15-30 días. Si encuentra algún problema cuando recibe su producto por primera vez, siempre puede contactarnos. Te deseo una feliz compra.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585721015</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665963</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini Aire Acondicionado PortáTil, Ventilador PequeñO Usb, Ventilador EléCtrico De Escritorio Con Agua Ultra Silenciosa Para Oficina, Enfriamiento Fuerte + Suministro De Agua Enorme</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[ADVERTENCIA: Mantener fuera del alcance de los niños a menos que esté bajo la supervisión de un adulto. No llene el tanque de agua con agua. Debe permanecer en una superficie nivelada durante el uso; inclinar el dispositivo puede hacer que salga agua de la base. Lea el manual de instrucciones completo antes de usar. El tiempo de ejecución dependerá de la configuración de velocidad, los niveles de temperatura ambiente, los niveles de humedad ambiental, etc. Cuando no se use durante mucho tiempo, drene el tanque de agua, retire el filtro y séquelo al aire.<br/><br/>✔ Nombre del producto: ventilador pequeño USB<br/>✔ Capacidad del tanque de agua: 180ML<br/>✔ Potencia: 7.5W<br/>✔ Entrada: 5V / 1.5A<br/>✔ Spray: 60 ml / h<br/>✔ Engranaje: 3 engranajes<br/>✔ Longitud del cable: 1,2 m<br/>✔ Ruido: ≦ 45dB]]></Description>
+        <BulletPoint>✔ Hidratación Nano Ice Mist: Usando la misma tecnología de atomización ultrasónica que el Aparato Hidratante, una poderosa pulverización de doble cabezal de 60 m / h, penetra ligeramente en la piel.</BulletPoint>
+        <BulletPoint>✔ Tecnología de conducto de flujo axial: motor sin escobillas de cobre puro, el ruido se ha reducido en un 30%, palas de turbina de aviación, viento dorado tridimensional en el viento.</BulletPoint>
+        <BulletPoint>✔ Gran distancia del viento de 6.5 metros: aspas del ventilador de la turbina de aviación, gran sección transversal y diseño de gran ángulo de las aspas del viento, lo que aumenta el área de contacto con el aire, la velocidad del viento de 2 m / s, la velocidad del viento aumentó en un 40%</BulletPoint>
+        <BulletPoint>✔ Diseño aséptico: el diseño aséptico del tanque de agua separado, agrega agua a 180 ml y humedece durante 4 horas para reducir la retención de humedad antigua.</BulletPoint>
+        <BulletPoint>✔ Servicio postventa: nuestra tienda utiliza logística internacional y el tiempo estimado de entrega es de 15-30 días. Si encuentra algún problema al recibir los productos, siempre puede contactarnos. Te deseo una feliz compra.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>15</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585723775</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665994</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini Aire Acondicionado PortáTil, Ventilador De RefrigeracióN Por Agua Con FuncióN Usb, HumidificacióN Por PulverizacióN De Mano, Dormitorio PequeñO, Oficina Silenciosa, Escritorio, Carga DoméStica</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Instrucciones de uso, solo cuatro pasos, puede usarlo con confianza<br/>Abra la tapa de inyección de agua.<br/>2. Llene la cisterna con agua helada o cubitos de hielo.<br/>3. Enchufe la corriente<br/>4. Encienda y ajuste la dirección y la velocidad del viento, puede usarlo con confianza<br/><br/>✔ Material: ABS<br/>✔ Color: azul real<br/>✔ Tensión nominal: DC 5V 0.84A<br/>✔ Potencia nominal: 4.2W<br/>✔ Velocidad del ventilador: 3000 RMP<br/>✔ Capacidad del tanque de agua: 320 ml<br/>✔ Tamaño del producto: 158MM * 180MM * 164MM]]></Description>
+        <BulletPoint>✔ Múltiples escenas: verano fresco en cualquier momento y en cualquier lugar para satisfacer sus diferentes necesidades de escena, oficina, dormitorio escolar, dormitorio junto a la cama.</BulletPoint>
+        <BulletPoint>✔ Humidificación por pulverización, belleza y emoliente: agregue agua al tanque de agua, cortina húmeda de evaporación de alta eficiencia, enfríe y reponga la humedad al mismo tiempo.</BulletPoint>
+        <BulletPoint>✔ Diseño de agua superior: abra la tapa y agregue agua y hielo directamente. La operación es fácil y simple. Puede experimentar la sensación de frío en invierno en verano.</BulletPoint>
+        <BulletPoint>✔ Múltiples modos de fuente de alimentación: este producto utiliza una fuente de alimentación USB, adecuada para la demanda pública, cabezal de carga, USB para computadora, alimentación móvil, USB para automóvil, etc.</BulletPoint>
+        <BulletPoint>✔ Servicio postventa 100%: nuestra tienda utiliza logística internacional, puede contactarnos en cualquier momento por correo electrónico, responderemos sus preguntas dentro de las 24 horas, el cliente siempre es el primero, puede encontrar su gusto buscando "DUYER" Productos, le deseo una feliz compra!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>16</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585726436</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666083</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Enfriador de aire portátil, Mini acondicionador de aire, 3 en 1 Personal refrigerador evaporativo, humidificador, purificador con USB, 3 Velocidad ventilador de escritorio para el hogar, habitación, oficina</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Desea mantenerse fresco en el caluroso verano, pero le preocupa que le cueste mucho operar el aire acondicionado todo el día, y los fanáticos comunes solo le darán aire caliente en la cara.<br/><br/>¿Quieres una mejor manera de calmarte?<br/>Use nuestro mini enfriador de aire para obtener este enfriador de espacio personal para crear su zona de confort. Simplemente agregue agua y hielo al tanque de agua, luego relájese y disfrute de un aliento fresco y húmedo.<br/><br/>✔ Material: componentes electrónicos ABS / PP / PC<br/>✔ Cantidad neta: 900 g<br/>✔ Peso bruto: 1.3 kg<br/>✔ Requisito de energía: 5V - DC2.1A<br/>✔ Ruido: 50db a 3a velocidad del viento<br/>✔ Equipo de velocidad del viento: 3 engranajes<br/>✔ Potencia de trabajo: 6W<br/>✔ Tamaño del producto: 145 * 145 * 190 mm<br/>✔ Área de aplicación: 60-100 cm<br/>✔ Rango de soplado: <2㎡<br/>✔ Rango de reducción de temperatura: 4-12 ° C (dependiendo de la temperatura ambiente)]]></Description>
+        <BulletPoint>✔ Velocidad del viento ajustable y sincronización automática: se pueden ajustar tres velocidades del viento (alta, media, baja), la velocidad máxima del ventilador alcanza los 3.24 m / sy la dirección del viento se puede ajustar hacia arriba y hacia abajo 80 grados manualmente para crear su propia zona de enfriamiento personalizada: tres tiempos automáticos (1H / 3H / 6H), puede elegir el tiempo libre, el tiempo de sueño o el tiempo de trabajo que más le convenga.</BulletPoint>
+        <BulletPoint>✔ Fácil de usar y portátil: todo lo que tiene que hacer es agregar agua y cubitos de hielo al tanque de agua de este enfriador de aire de escritorio, enchufarlo a un puerto USB o banco de energía y encenderlo. Con solo 6.4 pulgadas de altura, es fácil de mover y es perfecto para su escritorio y oficina / dormitorio.</BulletPoint>
+        <BulletPoint>✔ Función tres en uno: diseño multifuncional tres en uno de aire acondicionado personal, ventilador, humidificador de aire. Enfríe y humedezca para un mejor aire.El diseño de enfriamiento lo mantiene alejado de los veranos calurosos y disfruta de veranos frescos</BulletPoint>
+        <BulletPoint>✔ Enfriador de aire personal: un mini enfriador de aire personal diseñado para uso personal. No utiliza refrigerantes ni productos químicos para enfriar el aire, por lo que no debe esperar el mismo efecto que un aire acondicionado. Póngalo a su lado no más de 3 pies-4 pies.</BulletPoint>
+        <BulletPoint>✔ Servicio postventa 100%: nuestra tienda utiliza logística internacional, puede contactarnos en cualquier momento por correo electrónico, responderemos sus preguntas dentro de las 24 horas, el cliente siempre es el primero, puede encontrar su gusto buscando "DUYER" Productos, le deseo una feliz compra!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>17</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585728921</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666366</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Enfriador De Aire,  Ventilador De Aire Acondicionado De Enfriamiento Usb, Aerosol De Soplador De Aire DoméStico PequeñO, AutomóVil En La Cama Del Dormitorio Estudiantil</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Desea mantenerse fresco en el caluroso verano, pero le preocupa que le cueste mucho operar el aire acondicionado todo el día, y los fanáticos comunes solo le darán aire caliente en la cara.<br/><br/>¿Quieres una mejor manera de calmarte?<br/>Use nuestro mini enfriador de aire para obtener este enfriador de espacio personal para crear su zona de confort. Simplemente agregue agua y hielo al tanque de agua, luego relájese y disfrute de un aliento fresco y húmedo.<br/><br/>  ✔ Volumen de aire: 4 niveles<br/>  ✔ Tensión nominal: 5V<br/>  ✔ Longitud del cable de alimentación: 1.8m<br/>  ✔ Potencia nominal: 6-9W<br/>  ✔ Método de control: botones mecánicos<br/>  ✔ Función de seguridad: 6 horas de quemado antiseco<br/>  ✔ Modo de volumen de aire: alto / medio / bajo / dormir<br/>  ✔ Capacidad del tanque de agua: 500ML<br/>  ✔ color del producto: blanco<br/>  ✔ Peso bruto / peso neto: 1 kg / 0.8 kg<br/>  ✔ Material: ABS]]></Description>
+        <BulletPoint>✔ Ajuste de 3 velocidades: nuestro mini aire acondicionado está diseñado con 3 modos de velocidad, que se pueden ajustar libremente según sus requisitos (bajo / medio / alto). Si es necesario, también puede ajustar la dirección del viento para girar verticalmente. (Nota: los enfriadores de aire portátiles no son adecuados para enfriar toda la habitación).</BulletPoint>
+        <BulletPoint>✔ Diseño 4 en 1: este enfriador de aire por evaporación tiene un ventilador portátil de enfriamiento, humidificación por pulverización, purificación de aire y funciones 4 en 1 de 7 luces LED, lo que no solo reduce la temperatura, sino que también nos ayuda a evitar el aire seco. Además, tiene una luz ambiental LED de 7 colores y una luz LED suave y colorida incorporada para crear una atmósfera romántica y brindarle un mejor ambiente para dormir.</BulletPoint>
+        <BulletPoint>✔ Ahorro de energía y salud: este enfriador de aire portátil tiene un bajo consumo de energía y no contiene freón. No solo protege la salud de su familia, sino que también consume menos energía para minimizar la pérdida de energía y proteger el medio ambiente. Ideal para sala de verano, dormitorio, oficina, etc. refrigeración. También se puede usar en el trabajo y los viajes.</BulletPoint>
+        <BulletPoint>✔ Fácil de operar y liviano: solo agregue agua o agua helada, luego conecte el cable USB a una fuente de alimentación móvil o cualquier interfaz USB, y puede usar el mini enfriador de aire portátil presionando el botón de función. Este aire acondicionado personal tiene un diseño mini-portátil, que es muy fácil de llevar a la oficina, dormitorio, sala de estar, cocina y exterior.</BulletPoint>
+        <BulletPoint>✔ Servicio postventa 100%: nuestra tienda utiliza logística internacional, puede contactarnos en cualquier momento por correo electrónico, responderemos sus preguntas dentro de las 24 horas, el cliente siempre es el primero, puede encontrar su gusto buscando "DUYER" Productos, le deseo una feliz compra!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>18</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585733575</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666953</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini Aire Acondicionado PortáTil, PequeñO Ventilador De Enfriamiento Humidificador Ventilador De Enfriamiento De Enfriamiento, Escritorio De La Oficina Del Dormitorio Del Estudiante En El Hogar</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Desea mantenerse fresco en el caluroso verano, pero le preocupa que le cueste mucho hacer funcionar el aire acondicionado todo el día, y los ventiladores comunes solo le darán aire caliente en la cara.<br/><br/>✔ ¿Quieres una mejor manera de calmarte?<br/>Use nuestro mini enfriador de aire para obtener este enfriador de espacio personal para crear su zona de confort. Simplemente agregue agua y hielo al tanque de agua, luego relájese y disfrute de un aliento fresco y húmedo.<br/><br/>✔ Ventilador de enfriamiento y humidificador<br/>El aire acondicionado, el enfriador de aire evaporativo portátil y el humidificador atomizador se combinan en uno, lo que puede humedecer la piel y el aire, mantenerse alejado del aire seco y disfrutar del frescor del verano.<br/><br/>✔ Aire fresco y disfruta de una vida saludable<br/>Reduce la temperatura por evaporación del agua y produce aire fresco. ¡Bajo consumo de energía y largo tiempo de humidificación! Es energéticamente eficiente y baja en carbono.<br/><br/>✔ enfriador de aire personal portátil<br/>Mini refrigerador de aire personal diseñado para uso personal, coloque no más de 3 pies a 4 pies.<br/><br/>✔ El paquete incluye:<br/>1 x aire acondicionado<br/>1 x cable de datos USB]]></Description>
+        <BulletPoint>✔ Enfríe rápidamente y libere iones negativos: la purificación del agua y la alta velocidad del viento por evaporación liberan iones negativos, puede sentir más la frescura que aportan los iones negativos y disfrutar del aire limpio fácilmente.</BulletPoint>
+        <BulletPoint>✔ Sistema de humidificación sin niebla: humedezca cada centímetro de la piel, humedezca sin niebla y sin polvo, use un ventilador para permitir que el aire fluya a través de una cortina de agua y use el principio de evaporación natural del agua para aumentar la humedad del aire.</BulletPoint>
+        <BulletPoint>✔ Tecnología de doble ventilador: los ventiladores dobles delanteros y traseros resuelven el problema del volumen de aire y la cabeza. El ventilador trasero es responsable de aumentar la presión del aire de succión, y el frente es responsable del suministro de aire.</BulletPoint>
+        <BulletPoint>✔ Tanque de agua independiente: tanque de agua independiente y separado, es más conveniente agregar agua para la limpieza. Operación simple, sin fugas de agua, sin acumulación de agua, más tranquilidad.</BulletPoint>
+        <BulletPoint>✔ Servicio postventa 100%: nuestra tienda utiliza logística internacional, puede contactarnos en cualquier momento por correo electrónico, responderemos sus preguntas dentro de las 24 horas, el cliente siempre es el primero, puede encontrar su gusto buscando "DUYER" Productos, le deseo una feliz compra!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Aires Acondicionados Portátiles</ItemType>
+        <RecommendedBrowseNode>9725462011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

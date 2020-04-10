@@ -1,0 +1,849 @@
+---------------------------------------------------------------
+[ 2019-09-29T04:03:51+08:00 ] 172.21.0.9 203.208.60.46 GET /about.html
+[ info ] www.ldkjmy.com/about.html [运行时间：0.209147s][吞吐率：4.78req/s] [内存消耗：5,125.20kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Listn',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'amp-cache-transform' => 'google;v="1..2"',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8,text/html,application/xhtml+xml,application/signed-exchange;v=b3,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001302s ]
+[ info ] [ RUN ] app\home\controller\Listn->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Listn.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/view/default/about.html [ array (
+  0 => 'lang',
+  1 => 'map_lat',
+  2 => 'map_lng',
+  3 => 'site_name',
+  4 => 'site_host',
+  5 => 'site_tpl',
+  6 => 'site_tpl_m',
+  7 => 'site_logo',
+  8 => 'site_icp',
+  9 => 'site_tongji',
+  10 => 'site_copyright',
+  11 => 'site_co_name',
+  12 => 'site_address',
+  13 => 'site_tel',
+  14 => 'site_admin_email',
+  15 => 'site_qq',
+  16 => 'site_seo_title',
+  17 => 'site_seo_keywords',
+  18 => 'site_seo_description',
+  19 => 'yf_theme_path',
+  20 => 'user',
+  21 => 'is_admin',
+  22 => 'menu',
+  23 => 'page_html',
+  24 => 'lists',
+  25 => 'list_id',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000575s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000261s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_menu` [ RunTime:0.000798s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_menu` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000305s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_model` [ RunTime:0.000655s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_model` WHERE  `model_id` = 0 LIMIT 1 [ RunTime:0.000223s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_news` [ RunTime:0.000610s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_news` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (1) LIMIT 1 [ RunTime:0.000220s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (1) LIMIT 1 [ RunTime:0.000245s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (1) ORDER BY news_time desc LIMIT 0,5 [ RunTime:0.000439s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_menu` WHERE  `menu_l` = 'zh-cn'  AND `menu_open` = 1 ORDER BY `listorder`  ASC [ RunTime:0.000437s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_model` WHERE  `model_name` = 'faq' LIMIT 1 [ RunTime:0.001635s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_faq` [ RunTime:0.000615s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_faq` LIMIT 1 [ RunTime:0.000157s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_faq` LIMIT 1 [ RunTime:0.000097s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_faq` LIMIT 10,10 [ RunTime:0.001818s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_menu` WHERE  `menu_l` = 'zh-cn'  AND `menu_type` = 4  AND `id` = 1 LIMIT 1 [ RunTime:0.000335s ]
+[ sql ] [ SQL ] SELECT `news_title`,`news_scontent`,`news_source`,`n_id`,`news_img` FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (6) ORDER BY news_time desc LIMIT 8 [ RunTime:0.000268s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_link` [ RunTime:0.000533s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_link` WHERE  `plug_link_l` = 'zh-cn'  AND `plug_link_typeid` = 1  AND `plug_link_open` = 1 ORDER BY plug_link_order ASC [ RunTime:0.001149s ]
+---------------------------------------------------------------
+[ 2019-09-29T04:10:14+08:00 ] 172.21.0.9 203.208.60.14 GET /contacts.html
+[ info ] www.ldkjmy.com/contacts.html [运行时间：0.105155s][吞吐率：9.51req/s] [内存消耗：5,098.05kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Listn',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'amp-cache-transform' => 'google;v="1..2"',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8,text/html,application/xhtml+xml,application/signed-exchange;v=b3,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '4',
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001722s ]
+[ info ] [ RUN ] app\home\controller\Listn->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Listn.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/view/default/contact.html [ array (
+  0 => 'lang',
+  1 => 'map_lat',
+  2 => 'map_lng',
+  3 => 'site_name',
+  4 => 'site_host',
+  5 => 'site_tpl',
+  6 => 'site_tpl_m',
+  7 => 'site_logo',
+  8 => 'site_icp',
+  9 => 'site_tongji',
+  10 => 'site_copyright',
+  11 => 'site_co_name',
+  12 => 'site_address',
+  13 => 'site_tel',
+  14 => 'site_admin_email',
+  15 => 'site_qq',
+  16 => 'site_seo_title',
+  17 => 'site_seo_keywords',
+  18 => 'site_seo_description',
+  19 => 'yf_theme_path',
+  20 => 'user',
+  21 => 'is_admin',
+  22 => 'menu',
+  23 => 'page_html',
+  24 => 'lists',
+  25 => 'list_id',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000453s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000573s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_menu` [ RunTime:0.000780s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_menu` WHERE  `id` = 4 LIMIT 1 [ RunTime:0.000314s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_model` [ RunTime:0.000554s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_model` WHERE  `model_id` = 0 LIMIT 1 [ RunTime:0.000154s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_news` [ RunTime:0.000663s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_news` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (4) LIMIT 1 [ RunTime:0.000237s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (4) LIMIT 1 [ RunTime:0.000283s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (4) ORDER BY news_time desc LIMIT 0,5 [ RunTime:0.000431s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_link` [ RunTime:0.000775s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_link` WHERE  `plug_link_l` = 'zh-cn'  AND `plug_link_typeid` = 1  AND `plug_link_open` = 1 ORDER BY plug_link_order ASC [ RunTime:0.000216s ]
+---------------------------------------------------------------
+[ 2019-09-29T04:11:26+08:00 ] 172.21.0.9 203.208.60.99 GET /list/5.html
+[ info ] www.ldkjmy.com/list/5.html [运行时间：0.071873s][吞吐率：13.91req/s] [内存消耗：5,113.02kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Listn',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'amp-cache-transform' => 'google;v="1..2"',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8,text/html,application/xhtml+xml,application/signed-exchange;v=b3,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '5',
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001250s ]
+[ info ] [ RUN ] app\home\controller\Listn->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Listn.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/view/default/list.html [ array (
+  0 => 'lang',
+  1 => 'map_lat',
+  2 => 'map_lng',
+  3 => 'site_name',
+  4 => 'site_host',
+  5 => 'site_tpl',
+  6 => 'site_tpl_m',
+  7 => 'site_logo',
+  8 => 'site_icp',
+  9 => 'site_tongji',
+  10 => 'site_copyright',
+  11 => 'site_co_name',
+  12 => 'site_address',
+  13 => 'site_tel',
+  14 => 'site_admin_email',
+  15 => 'site_qq',
+  16 => 'site_seo_title',
+  17 => 'site_seo_keywords',
+  18 => 'site_seo_description',
+  19 => 'yf_theme_path',
+  20 => 'user',
+  21 => 'is_admin',
+  22 => 'menu',
+  23 => 'page_html',
+  24 => 'lists',
+  25 => 'list_id',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000516s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000289s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_menu` [ RunTime:0.000708s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_menu` WHERE  `id` = 5 LIMIT 1 [ RunTime:0.000281s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_model` [ RunTime:0.000532s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_model` WHERE  `model_id` = 0 LIMIT 1 [ RunTime:0.000173s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_news` [ RunTime:0.000626s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_news` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (5) LIMIT 1 [ RunTime:0.000276s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (5) LIMIT 1 [ RunTime:0.000298s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (5) ORDER BY news_time desc LIMIT 0,5 [ RunTime:0.000597s ]
+[ sql ] [ SQL ] SELECT `news_title`,`news_time`,`news_scontent`,`n_id`,`news_img` FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (5,3) ORDER BY news_hits desc LIMIT 5 [ RunTime:0.000582s ]
+[ sql ] [ SQL ] SELECT `news_title`,`news_time`,`news_scontent`,`n_id`,`news_img` FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (5,3) ORDER BY news_time desc LIMIT 5 [ RunTime:0.000246s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_comments` [ RunTime:0.000588s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_comments` `a` INNER JOIN `yf_member_list` `b` ON `a`.`uid`=`b`.`member_list_id` WHERE  `c_status` = 1 ORDER BY createtime desc LIMIT 5 [ RunTime:0.000306s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_link` [ RunTime:0.000478s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_link` WHERE  `plug_link_l` = 'zh-cn'  AND `plug_link_typeid` = 1  AND `plug_link_open` = 1 ORDER BY plug_link_order ASC [ RunTime:0.000161s ]
+---------------------------------------------------------------
+[ 2019-09-29T04:12:06+08:00 ] 172.21.0.9 203.208.60.89 GET /list/2.html
+[ info ] www.ldkjmy.com/list/2.html [运行时间：0.057803s][吞吐率：17.30req/s] [内存消耗：4,845.73kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Listn',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'amp-cache-transform' => 'google;v="1..2"',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8,text/html,application/xhtml+xml,application/signed-exchange;v=b3,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001257s ]
+[ info ] [ RUN ] app\home\controller\Listn->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Listn.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/view/default/list.html [ array (
+  0 => 'lang',
+  1 => 'map_lat',
+  2 => 'map_lng',
+  3 => 'site_name',
+  4 => 'site_host',
+  5 => 'site_tpl',
+  6 => 'site_tpl_m',
+  7 => 'site_logo',
+  8 => 'site_icp',
+  9 => 'site_tongji',
+  10 => 'site_copyright',
+  11 => 'site_co_name',
+  12 => 'site_address',
+  13 => 'site_tel',
+  14 => 'site_admin_email',
+  15 => 'site_qq',
+  16 => 'site_seo_title',
+  17 => 'site_seo_keywords',
+  18 => 'site_seo_description',
+  19 => 'yf_theme_path',
+  20 => 'user',
+  21 => 'is_admin',
+  22 => 'menu',
+  23 => 'page_html',
+  24 => 'lists',
+  25 => 'list_id',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000457s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000248s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_menu` [ RunTime:0.000677s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_menu` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000294s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_model` [ RunTime:0.000524s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_model` WHERE  `model_id` = 0 LIMIT 1 [ RunTime:0.000151s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_news` [ RunTime:0.000665s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_news` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (2) LIMIT 1 [ RunTime:0.000242s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (2) LIMIT 1 [ RunTime:0.000364s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (2) ORDER BY news_time desc LIMIT 0,5 [ RunTime:0.000510s ]
+[ sql ] [ SQL ] SELECT `news_title`,`news_time`,`news_scontent`,`n_id`,`news_img` FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (5,3) ORDER BY news_hits desc LIMIT 5 [ RunTime:0.000285s ]
+[ sql ] [ SQL ] SELECT `news_title`,`news_time`,`news_scontent`,`n_id`,`news_img` FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (5,3) ORDER BY news_time desc LIMIT 5 [ RunTime:0.000165s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_comments` [ RunTime:0.000699s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_comments` `a` INNER JOIN `yf_member_list` `b` ON `a`.`uid`=`b`.`member_list_id` WHERE  `c_status` = 1 ORDER BY createtime desc LIMIT 5 [ RunTime:0.000291s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_link` [ RunTime:0.000597s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_link` WHERE  `plug_link_l` = 'zh-cn'  AND `plug_link_typeid` = 1  AND `plug_link_open` = 1 ORDER BY plug_link_order ASC [ RunTime:0.000152s ]
+---------------------------------------------------------------
+[ 2019-09-29T04:13:11+08:00 ] 172.21.0.9 203.208.60.29 GET /list/3.html
+[ info ] www.ldkjmy.com/list/3.html [运行时间：0.069128s][吞吐率：14.47req/s] [内存消耗：5,092.84kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Listn',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'amp-cache-transform' => 'google;v="1..2"',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8,text/html,application/xhtml+xml,application/signed-exchange;v=b3,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '3',
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001245s ]
+[ info ] [ RUN ] app\home\controller\Listn->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Listn.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/view/default/photo_list.html [ array (
+  0 => 'lang',
+  1 => 'map_lat',
+  2 => 'map_lng',
+  3 => 'site_name',
+  4 => 'site_host',
+  5 => 'site_tpl',
+  6 => 'site_tpl_m',
+  7 => 'site_logo',
+  8 => 'site_icp',
+  9 => 'site_tongji',
+  10 => 'site_copyright',
+  11 => 'site_co_name',
+  12 => 'site_address',
+  13 => 'site_tel',
+  14 => 'site_admin_email',
+  15 => 'site_qq',
+  16 => 'site_seo_title',
+  17 => 'site_seo_keywords',
+  18 => 'site_seo_description',
+  19 => 'yf_theme_path',
+  20 => 'user',
+  21 => 'is_admin',
+  22 => 'menu',
+  23 => 'page_html',
+  24 => 'lists',
+  25 => 'list_id',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000503s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000430s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_menu` [ RunTime:0.000764s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_menu` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000305s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_model` [ RunTime:0.000509s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_model` WHERE  `model_id` = 0 LIMIT 1 [ RunTime:0.000146s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_news` [ RunTime:0.000655s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_news` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (3) LIMIT 1 [ RunTime:0.000234s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (3) LIMIT 1 [ RunTime:0.000294s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (3) ORDER BY news_time desc LIMIT 0,4 [ RunTime:0.000424s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_link` [ RunTime:0.000718s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_link` WHERE  `plug_link_l` = 'zh-cn'  AND `plug_link_typeid` = 1  AND `plug_link_open` = 1 ORDER BY plug_link_order ASC [ RunTime:0.000178s ]
+---------------------------------------------------------------
+[ 2019-09-29T04:14:09+08:00 ] 172.21.0.9 203.208.60.83 GET /list/15.html
+[ info ] www.ldkjmy.com/list/15.html [运行时间：0.064175s][吞吐率：15.58req/s] [内存消耗：5,127.22kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Listn',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'amp-cache-transform' => 'google;v="1..2"',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8,text/html,application/xhtml+xml,application/signed-exchange;v=b3,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '15',
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001281s ]
+[ info ] [ RUN ] app\home\controller\Listn->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Listn.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/view/default/faq_list.html [ array (
+  0 => 'lang',
+  1 => 'map_lat',
+  2 => 'map_lng',
+  3 => 'site_name',
+  4 => 'site_host',
+  5 => 'site_tpl',
+  6 => 'site_tpl_m',
+  7 => 'site_logo',
+  8 => 'site_icp',
+  9 => 'site_tongji',
+  10 => 'site_copyright',
+  11 => 'site_co_name',
+  12 => 'site_address',
+  13 => 'site_tel',
+  14 => 'site_admin_email',
+  15 => 'site_qq',
+  16 => 'site_seo_title',
+  17 => 'site_seo_keywords',
+  18 => 'site_seo_description',
+  19 => 'yf_theme_path',
+  20 => 'user',
+  21 => 'is_admin',
+  22 => 'menu',
+  23 => 'page_html',
+  24 => 'lists',
+  25 => 'list_id',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000451s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000277s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_menu` [ RunTime:0.000673s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_menu` WHERE  `id` = 15 LIMIT 1 [ RunTime:0.000275s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_model` [ RunTime:0.000534s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_model` WHERE  `model_id` = 2 LIMIT 1 [ RunTime:0.000226s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_faq` [ RunTime:0.000707s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `yf_faq` WHERE  `faq_cid` = '15' LIMIT 1 [ RunTime:0.000184s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_faq` WHERE  `faq_cid` = '15' ORDER BY `faq_order` LIMIT 0,5 [ RunTime:0.000223s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_news` [ RunTime:0.000793s ]
+[ sql ] [ SQL ] SELECT `news_title`,`news_time`,`news_scontent`,`n_id`,`news_img` FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (5,3) ORDER BY news_hits desc LIMIT 5 [ RunTime:0.000220s ]
+[ sql ] [ SQL ] SELECT `news_title`,`news_time`,`news_scontent`,`n_id`,`news_img` FROM `yf_news` `a` INNER JOIN `yf_member_list` `b` ON `a`.`news_auto`=`b`.`member_list_id` WHERE  `news_open` = '1'  AND `news_l` = 'zh-cn'  AND `news_back` = 0  AND `news_columnid` IN (5,3) ORDER BY news_time desc LIMIT 5 [ RunTime:0.000197s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_comments` [ RunTime:0.000523s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_comments` `a` INNER JOIN `yf_member_list` `b` ON `a`.`uid`=`b`.`member_list_id` WHERE  `c_status` = 1 ORDER BY createtime desc LIMIT 5 [ RunTime:0.000202s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_link` [ RunTime:0.000468s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_link` WHERE  `plug_link_l` = 'zh-cn'  AND `plug_link_typeid` = 1  AND `plug_link_open` = 1 ORDER BY plug_link_order ASC [ RunTime:0.000141s ]
+---------------------------------------------------------------
+[ 2019-09-29T04:15:37+08:00 ] 172.21.0.9 203.208.60.54 GET /home/login/index.html
+[ info ] www.ldkjmy.com/home/login/index.html [运行时间：0.082529s][吞吐率：12.12req/s] [内存消耗：4,932.10kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'amp-cache-transform' => 'google;v="1..2"',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8,text/html,application/xhtml+xml,application/signed-exchange;v=b3,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001778s ]
+[ info ] [ RUN ] app\home\controller\Login->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Login.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/view/default/user/login.html [ array (
+  0 => 'lang',
+  1 => 'map_lat',
+  2 => 'map_lng',
+  3 => 'site_name',
+  4 => 'site_host',
+  5 => 'site_tpl',
+  6 => 'site_tpl_m',
+  7 => 'site_logo',
+  8 => 'site_icp',
+  9 => 'site_tongji',
+  10 => 'site_copyright',
+  11 => 'site_co_name',
+  12 => 'site_address',
+  13 => 'site_tel',
+  14 => 'site_admin_email',
+  15 => 'site_qq',
+  16 => 'site_seo_title',
+  17 => 'site_seo_keywords',
+  18 => 'site_seo_description',
+  19 => 'yf_theme_path',
+  20 => 'user',
+  21 => 'is_admin',
+) ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000453s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000247s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_link` [ RunTime:0.000639s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_link` WHERE  `plug_link_l` = 'zh-cn'  AND `plug_link_typeid` = 1  AND `plug_link_open` = 1 ORDER BY plug_link_order ASC [ RunTime:0.000188s ]
+---------------------------------------------------------------
+[ 2019-09-29T04:22:31+08:00 ] 172.21.0.9 203.208.60.85 GET /home/login/forgot_pwd.html
+[ info ] www.ldkjmy.com/home/login/forgot_pwd.html [运行时间：0.063910s][吞吐率：15.65req/s] [内存消耗：4,931.95kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'login',
+    2 => 'forgot_pwd',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'amp-cache-transform' => 'google;v="1..2"',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8,text/html,application/xhtml+xml,application/signed-exchange;v=b3,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001335s ]
+[ info ] [ RUN ] app\home\controller\Login->forgot_pwd[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Login.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/view/default/user/forgot_pwd.html [ array (
+  0 => 'lang',
+  1 => 'map_lat',
+  2 => 'map_lng',
+  3 => 'site_name',
+  4 => 'site_host',
+  5 => 'site_tpl',
+  6 => 'site_tpl_m',
+  7 => 'site_logo',
+  8 => 'site_icp',
+  9 => 'site_tongji',
+  10 => 'site_copyright',
+  11 => 'site_co_name',
+  12 => 'site_address',
+  13 => 'site_tel',
+  14 => 'site_admin_email',
+  15 => 'site_qq',
+  16 => 'site_seo_title',
+  17 => 'site_seo_keywords',
+  18 => 'site_seo_description',
+  19 => 'yf_theme_path',
+  20 => 'user',
+  21 => 'is_admin',
+) ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000540s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000303s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_link` [ RunTime:0.000802s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_link` WHERE  `plug_link_l` = 'zh-cn'  AND `plug_link_typeid` = 1  AND `plug_link_open` = 1 ORDER BY plug_link_order ASC [ RunTime:0.000215s ]
+---------------------------------------------------------------
+[ 2019-09-29T04:23:51+08:00 ] 172.21.0.9 58.248.108.209 GET /
+[ info ] www.ldkjmy.com/ [运行时间：0.033384s][吞吐率：29.95req/s] [内存消耗：3,485.98kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001221s ]
+[ info ] [ RUN ] app\home\controller\Index->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Index.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000468s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-09-29T07:11:25+08:00 ] 172.21.0.9 220.181.108.162 GET /
+[ info ] www.ldkjmy.com/ [运行时间：0.036339s][吞吐率：27.52req/s] [内存消耗：3,485.60kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001519s ]
+[ info ] [ RUN ] app\home\controller\Index->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Index.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000509s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-09-29T13:09:16+08:00 ] 172.21.0.9 157.55.39.226 GET /
+[ info ] www.ldkjmy.com/ [运行时间：0.034322s][吞吐率：29.14req/s] [内存消耗：3,485.59kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'pragma' => 'no-cache',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'www.ldkjmy.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001154s ]
+[ info ] [ RUN ] app\home\controller\Index->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Index.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000514s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-09-29T17:36:03+08:00 ] 172.21.0.9 39.129.8.130 GET /
+[ info ] www.ldkjmy.com/ [运行时间：0.047228s][吞吐率：21.17req/s] [内存消耗：3,485.02kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'identity',
+  'host' => 'www.ldkjmy.com',
+  'user-agent' => 'Python-urllib/3.6',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001867s ]
+[ info ] [ RUN ] app\home\controller\Index->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Index.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000703s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-09-29T19:58:17+08:00 ] 172.21.0.9 220.181.51.72 GET /
+[ info ] www.ldkjmy.com/ [运行时间：0.039792s][吞吐率：25.13req/s] [内存消耗：3,472.98kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ldkjmy.com',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (Linux;u;Android 4.2.2;zh-cn;) AppleWebKit/534.46 (KHTML,like Gecko) Version/5.1 Mobile Safari/10600.6.3',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/lang/zh-cn.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001407s ]
+[ info ] [ RUN ] app\home\controller\Index->index[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/home/controller/Index.php ]
+[ log ] Cron:clearlog Runat 2019-09-29 19:58:17 Use 0.000132 s
+
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.001499s ]

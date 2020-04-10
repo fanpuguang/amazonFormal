@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586482848</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476763398</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates stick, Exercise Resistance Band Yoga Portable Fitness Bar Home Gym with Foot Loop Ideal for Physical Therapy, Strength Training, Muscle Toning</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ This controlled movement is not only great for building full-body athletic strength, it is also easy on joints and weak muscles that are recovering from overuse and injury. <br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Resistance Band<br/>- Material: Natural latex tube / nylon / steel buckle<br/>- Color: Black-Red<br/><br/>★ Package List: <br/>- 1 * Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ CONVENIENT AND STURDY: The pole can be split and torn,the EVA feel comfortable,durable.</BulletPoint>
+        <BulletPoint>★ ADJUSTABLE LENGTH: Adjustable buckle,quick length adjustment, quick and convenient.</BulletPoint>
+        <BulletPoint>★ SAFE MATERIAL: Safe and anti-breaking design,sturdy imitation nylon structure.</BulletPoint>
+        <BulletPoint>★ ANYTIME ANYWHERE: Home, hotel rooms, offices, and even outdoors Anytime, anywhere you want to start a sporting event or sport you want, it's very easy to carry and a small portable gym. Perfect home-based strength training.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>458403031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData/>
+            </OutdoorLiving>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

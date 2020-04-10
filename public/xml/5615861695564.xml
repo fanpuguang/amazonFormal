@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A1A3K0BAQPDN3U</MerchantIdentifier>
+  </Header>
+  <MessageType>Inventory</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Inventory>
+      <SKU>AIWKR-561586134888</SKU>
+      <FulfillmentCenterID>DEFAULT</FulfillmentCenterID>
+      <Quantity>79</Quantity>
+      <SwitchFulfillmentTo>MFN</SwitchFulfillmentTo>
+    </Inventory>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Inventory>
+      <SKU>AIWKR-561586159108</SKU>
+      <FulfillmentCenterID>DEFAULT</FulfillmentCenterID>
+      <Quantity>42</Quantity>
+      <SwitchFulfillmentTo>MFN</SwitchFulfillmentTo>
+    </Inventory>
+  </Message>
+</AmazonEnvelope>

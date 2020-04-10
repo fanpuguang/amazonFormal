@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585821092-0-</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554861118</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Personal Air Cooler, Portable Mini Air Conditioner, Desktop Mini Air Conditioner Fan, Usb Cooling And Water Cooler Desktop Humidifier Fan, Office, Bedroom, Living Room, Kitchen And Outdoor</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ You want to stay cool in the hot summer, but worry that it will cost a lot to run the air conditioner all day, and ordinary fans will only blow warm air to your face.<br/><br/>✔ Do you want a better way to calm down?<br/>Use our mini air cooler to get this personal space cooler to create your comfort zone. Just add water and ice to the water tank, then relax and enjoy a fresh and moist breath.<br/><br/>✔ Cooling fan and humidifier<br/>The air conditioner, portable evaporative air cooler and atomizing humidifier are combined into one, which can humidify the skin and air, keep away from the dry air, and enjoy the coolness of summer.<br/><br/>✔ Fresh air and enjoy a healthy life<br/>It reduces the temperature by water evaporation and produces fresh air. Low power consumption and long humidification time! It is energy efficient and low carbon.<br/><br/>✔ Name: Desktop Cooler<br/>✔ Color: White<br/>✔ Material: ABS<br/>✔ Negative ion concentration: 3 million / cm3<br/>✔ Input voltage: 5V<br/>✔ Ozone concentration: &lt;0.05PPM<br/>✔ Input current: 1.5-2A<br/>✔ Rated power: 5W<br/><br/>✔ Package includes:<br/>1 x air conditioner<br/>1 x USB data cable]]></Description>
+        <BulletPoint>✔ Double protection of deep humidification: In addition to normal evaporative humidification, active atomization can be turned on</BulletPoint>
+        <BulletPoint>Yes, it can strengthen the humidifying effect to cope with the severe and hot summer.</BulletPoint>
+        <BulletPoint>✔ Easy to operate and lightweight: Just add water or ice water, then plug the USB cable into a mobile power supply or any USB interface, and you can use the portable mini air cooler by pressing the function button.</BulletPoint>
+        <BulletPoint>✔ Portable design: This personal air conditioner uses a mini-portable design, with a retractable handle on the top of the air cooler, which is only 7.2 inches high. It is very easy to carry to the office, bedroom, living room, kitchen and outdoor.</BulletPoint>
+        <BulletPoint>✔ Energy saving and health: This portable air cooler has low energy consumption and is freon-free. It not only protects the health of your family, but also minimizes energy loss and protects the environment. Can also be used at work and travel.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Air Conditioning</ItemType>
+        <RecommendedBrowseNode>9164129011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585821092-A</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554861101</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Personal Air Cooler, Portable Mini Air Conditioner, Desktop Mini Air Conditioner Fan, Usb Cooling And Water Cooler Desktop Humidifier Fan, Office, Bedroom, Living Room, Kitchen And Outdoor</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ You want to stay cool in the hot summer, but worry that it will cost a lot to run the air conditioner all day, and ordinary fans will only blow warm air to your face.<br/><br/>✔ Do you want a better way to calm down?<br/>Use our mini air cooler to get this personal space cooler to create your comfort zone. Just add water and ice to the water tank, then relax and enjoy a fresh and moist breath.<br/><br/>✔ Cooling fan and humidifier<br/>The air conditioner, portable evaporative air cooler and atomizing humidifier are combined into one, which can humidify the skin and air, keep away from the dry air, and enjoy the coolness of summer.<br/><br/>✔ Fresh air and enjoy a healthy life<br/>It reduces the temperature by water evaporation and produces fresh air. Low power consumption and long humidification time! It is energy efficient and low carbon.<br/><br/>✔ Name: Desktop Cooler<br/>✔ Color: White<br/>✔ Material: ABS<br/>✔ Negative ion concentration: 3 million / cm3<br/>✔ Input voltage: 5V<br/>✔ Ozone concentration: &lt;0.05PPM<br/>✔ Input current: 1.5-2A<br/>✔ Rated power: 5W<br/><br/>✔ Package includes:<br/>1 x air conditioner<br/>1 x USB data cable]]></Description>
+        <BulletPoint>✔ Double protection of deep humidification: In addition to normal evaporative humidification, active atomization can be turned on</BulletPoint>
+        <BulletPoint>Yes, it can strengthen the humidifying effect to cope with the severe and hot summer.</BulletPoint>
+        <BulletPoint>✔ Easy to operate and lightweight: Just add water or ice water, then plug the USB cable into a mobile power supply or any USB interface, and you can use the portable mini air cooler by pressing the function button.</BulletPoint>
+        <BulletPoint>✔ Portable design: This personal air conditioner uses a mini-portable design, with a retractable handle on the top of the air cooler, which is only 7.2 inches high. It is very easy to carry to the office, bedroom, living room, kitchen and outdoor.</BulletPoint>
+        <BulletPoint>✔ Energy saving and health: This portable air cooler has low energy consumption and is freon-free. It not only protects the health of your family, but also minimizes energy loss and protects the environment. Can also be used at work and travel.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Air Conditioning</ItemType>
+        <RecommendedBrowseNode>9164129011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

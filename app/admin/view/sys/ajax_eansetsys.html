@@ -1,0 +1,38 @@
+{foreach name="ean_list" item="v"}
+	<tr>
+		<td height="28" >{$v.id}</td>
+		<td>
+			{if condition="$v['type'] eq 1"}
+			<span style="color:red;">EAN</span>
+			{else/}
+			<span style="color:green;">UPC</span>
+			{/if}
+		</td>
+		<td>{$v.bianma}</td>
+		<td class="hidden-xs">
+			{if condition="$v['status'] eq 1"}
+			<span style="color:red;">已使用</span>
+				{else/}
+			<span style="color:green;">未使用</span>
+			{/if}
+		</td>
+
+		<td>
+			<div class="hidden-sm hidden-xs action-buttons">
+
+				<a class="red confirm-rst-url-btn" data-info="你确定要删除吗？" href="{:url('admin/Sys/bianma_del',array('id'=>$v['id']))}" title="删除">
+					<i class="ace-icon fa fa-trash-o bigger-130"></i>
+				</a>
+			</div>
+
+		</td>
+	</tr>
+{/foreach}
+<tr>
+	<td height="50" align="left">
+		<a class="red confirm-rst-url-btn" data-info="你确定要清空所有数据吗？" href="{:url('admin/Sys/bianma_dels')}" title="删除">
+			清空数据
+		</a>
+	</td>
+	<td height="50" colspan="12" align="right">{$page}</td>
+</tr>

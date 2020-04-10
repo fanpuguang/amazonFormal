@@ -1,0 +1,146 @@
+{extend name="admin@public/base" /}
+{block name="main-content"}
+	<div class="page-content">
+		<!--主题-->
+		<div class="page-header">
+			<h1>
+				您当前操作
+				<small>
+					<i class="ace-icon fa fa-angle-double-right"></i>
+					修改店铺账号
+				</small>
+			</h1>
+		</div>
+		<div class="row">
+			<div class="col-xs-12">
+				<form class="form-horizontal ajaxForm2" name="dianpu_runedit" method="post" action="{:url('admin/dianpu/dianpu_ad_runedit')}">
+					<input type="hidden" name="dianpu_id" id="dianpu_id" value="{$dianpu.dianpu_id}" />
+
+					<div class="form-group">
+						<label class="col-sm-1 control-label no-padding-right" for="form-field-1"> 营业执照法人：  </label>
+						<div class="col-sm-11">
+							<input type="text" name="yyzzfr" id="yyzzfr" value="{$dianpu.yyzzfr}" placeholder="输入营业执照法人" class="col-xs-10 col-sm-5"/>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label class="col-sm-1 control-label no-padding-right" for="form-field-1"> 亚马逊账号：  </label>
+						<div class="col-sm-11">
+							<input type="text" name="dianpu_name" id="dianpu_name" value="{$dianpu.dianpu_name}" placeholder="输入亚马逊账号" class="col-xs-10 col-sm-5"/>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label class="col-sm-1 control-label no-padding-right" for="form-field-1"> 亚马逊密码：  </label>
+						<div class="col-sm-11">
+							<input type="text" name="dianpu_password" id="dianpu_password" value="{$dianpu.dianpu_password}" placeholder="输入亚马逊密码" class="col-xs-10 col-sm-5"/>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label class="col-sm-1 control-label no-padding-right" for="form-field-1"> 户主邮箱：  </label>
+						<div class="col-sm-11">
+							<input type="text" name="dianpu_email" id="dianpu_email" value="{$dianpu.dianpu_email}" placeholder="输入户主邮箱" class="col-xs-10 col-sm-5"/>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label class="col-sm-1 control-label no-padding-right" for="form-field-1"> 邮箱密码：  </label>
+						<div class="col-sm-11">
+							<input type="text" name="dianpu_emailpassword" id="dianpu_emailpassword" value="{$dianpu.dianpu_emailpassword}" placeholder="输入邮箱密码" class="col-xs-10 col-sm-5"/>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label class="col-sm-1 control-label no-padding-right" for="form-field-1"> 已注册站点：  </label>
+						<div class="col-sm-11">
+							<input type="text" name="zhandian" id="zhandian" value="{$dianpu.zhandian}" placeholder="输入已注册站点" class="col-xs-10 col-sm-5"/>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label class="col-sm-1 control-label no-padding-right" for="form-field-1"> 手机号码机主：  </label>
+						<div class="col-sm-11">
+							<input type="text" name="dianpu_jizhu" id="dianpu_jizhu" value="{$dianpu.dianpu_jizhu}" placeholder="输入手机号码机主" class="col-xs-10 col-sm-5"/>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label class="col-sm-1 control-label no-padding-right" for="form-field-1"> 手机号码：  </label>
+						<div class="col-sm-11">
+							<input type="text" name="dianpu_phone" id="dianpu_phone" value="{$dianpu.dianpu_phone}" placeholder="输入手机号码" class="col-xs-10 col-sm-5"/>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label class="col-sm-1 control-label no-padding-right" for="form-field-1"> 银行卡号卡主：  </label>
+						<div class="col-sm-11">
+							<input type="text" name="dianpu_yhkhjz" id="dianpu_yhkhjz" value="{$dianpu.dianpu_yhkhjz}" placeholder="输入银行卡号卡主" class="col-xs-10 col-sm-5"/>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label class="col-sm-1 control-label no-padding-right" for="form-field-1"> 银行卡号：  </label>
+						<div class="col-sm-11">
+							<input type="text" name="dianpu_yhkh" id="dianpu_yhkh" value="{$dianpu.dianpu_yhkh}" placeholder="输入银行卡号卡主" class="col-xs-10 col-sm-5"/>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label class="col-sm-1 control-label no-padding-right" for="form-field-1">银行卡号名称：  </label>
+						<div class="col-sm-11">
+							<input type="text" name="dianpu_yhmc" id="dianpu_yhmc" value="{$dianpu.dianpu_yhmc}" placeholder="输入银行卡号名称" class="col-xs-10 col-sm-5"/>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label class="col-sm-1 control-label no-padding-right" for="form-field-1">每月还款日：  </label>
+						<div class="col-sm-11">
+							<input type="text" name="dianpu_yhkhkr" id="dianpu_yhkhkr" value="{$dianpu.dianpu_yhkhkr}" placeholder="输入每月还款日" class="col-xs-10 col-sm-5"/>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label class="col-sm-1 control-label no-padding-right" for="form-field-1">注册时间：  </label>
+						<div class="col-sm-11">
+							<input type="date" name="zc_time" id="zc_time" value="{$dianpu.zc_time}" placeholder="输入店铺注册时间" class="col-xs-10 col-sm-5"/>
+						</div>
+					</div>
+
+
+
+	<div class="clearfix form-actions">
+		<div class="col-md-offset-3 col-md-9">
+			<button class="btn btn-info" type="submit">
+				<i class="ace-icon fa fa-check bigger-110"></i>
+				保存
+			</button>
+
+			&nbsp; &nbsp; &nbsp;
+			<button class="btn" type="reset">
+				<i class="ace-icon fa fa-undo bigger-110"></i>
+				重置
+			</button>
+		</div>
+	</div>
+	</form>
+	</div><!--col-xs-12-->
+	</div><!--row-->
+
+
+	</div><!-- /.page-content -->
+{/block}
+{block name="scripts"}
+	<script>
+		$("#plug_ad_checkjsid").click(function(){
+			$("#pic_jslist").show();
+			$("#pic_list").hide();
+			$("#pic_listurl").hide();
+		});
+		$("#plug_ad_checkid").click(function(){
+			$("#pic_jslist").hide();
+			$("#pic_list").show();
+			$("#pic_listurl").show();
+		});
+	</script>
+{/block}

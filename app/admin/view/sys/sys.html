@@ -1,0 +1,252 @@
+{extend name="admin@public/base" /}
+{block name="main-content"}
+<div class="page-content">
+
+
+
+	<!--主题-->
+	<div class="page-header">
+		<h1>
+			您当前操作
+			<small>
+				<i class="ace-icon fa fa-angle-double-right"></i>
+				UPC/EAN码生成
+			</small>
+		</h1>
+	</div>
+	<div class="row">
+
+		<div class="tabbable">
+			<ul class="nav nav-tabs" id="myTab">
+				<li class="active">
+					<a data-toggle="tab" href="#urllist">
+						UPC/EAN码
+					</a>
+				</li>
+			</ul>
+			<div class="tab-content">
+				<div id="basic" class="tab-pane fade">
+					<form class="form-horizontal ajaxForm2" name="urlsys" method="post" action="{:url('admin/Sys/runurlsys')}">
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 编码类型 </label>
+							<div class="col-sm-9">
+								<select name="options[type]" id="bm_type" class="col-xs-2 col-sm-1" required>
+									<option value="1" selected="selected">EAN</option>
+									<option value="2">UPC</option>
+								</select>
+								<span class="help-inline col-xs-12 col-sm-5">
+										<span class="middle" id="restwo">*建议EAN码13位不冲突，UPC码12位长度</span>
+									</span>
+							</div>
+						</div>
+						<div class="space-4"></div>
+
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 厂家编号 </label>
+							<div class="col-sm-9">
+								<input type="text" name="cjbh" id="cjbh" value="" class="col-xs-2 col-sm-2" maxlength="4" required/>
+								<span class="help-inline col-xs-12 col-sm-5">
+									<span class="middle" id="resone">*1-9999不填随机生成</span>
+								</span>
+							</div>
+						</div>
+						<div class="space-4"></div>
+
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 产品编号 </label>
+							<div class="col-sm-9">
+								<input type="url" name="cpbh" id="cpbh" value=""  class="col-xs-2 col-sm-2" maxlength="5" required/>
+								<span class="help-inline col-xs-12 col-sm-5">
+									<span class="middle" id="restwo">* 1-99999数字</span>
+								</span>
+							</div>
+						</div>
+						<div class="space-4"></div>
+
+
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 生成数量 </label>
+							<div class="col-sm-9">
+								<input type="text" name="scsl" id="scsl" value="" maxlength="5" class="col-xs-2 col-sm-2" />
+								<span class="help-inline col-xs-12 col-sm-5">
+									<span class="middle" id="restwo"></span>
+								</span>
+							</div>
+						</div>
+						<div class="space-4"></div>
+
+						<div class="clearfix form-actions">
+							<div class="col-sm-offset-3 col-sm-9">
+								<button class="btn btn-info" type="submit">
+									<i class="ace-icon fa fa-check bigger-110"></i>
+									保存
+								</button>
+
+								&nbsp; &nbsp; &nbsp;
+								<button class="btn" type="reset">
+									<i class="ace-icon fa fa-undo bigger-110"></i>
+									重置
+								</button>
+							</div>
+						</div>
+					</form>
+				</div>
+
+				<div id="urllist" class="tab-pane fade in active">
+					<div class="row maintop">
+						<div class="col-xs-12 col-sm-1">
+							<!-- 点击添加模态框（Modal） -->
+							<button class="btn btn-xs btn-danger" data-toggle="modal" data-target="#myModal">
+								<i class="ace-icon fa fa-bolt bigger-110"></i>
+								添加EAN/UPC码
+							</button>
+
+						</div>
+
+					</div>
+
+
+					<form class="form-horizontal ajaxForm2" name="excel_runimport" method="post" action="{:url('admin/Sys/excel_runean')}"  enctype="multipart/form-data">
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 【EAN/UPC】选择上传的EXCEL文件： </label>
+							<div class="col-sm-4">
+								<a href="javascript:;" class="file">
+									<input type="file" name="file_stu" id="file_stu" class="file" multiple="multiple" required="">
+									选择上传文件
+								</a>
+								<span class="input-group-btn" style="float:inherit; left:140px; top:2px;">
+														<button type="submit" class="btn btn-xs  btn-purple">
+															<span class="ace-icon fa fa-search icon-on-right bigger-110"></span>
+															批量导入
+														</button>
+													</span>
+								<span style="float:right; line-height:35px; top:2px;"><a href="#" target="_blank">下载示例表格</a></span>
+
+							</div>
+
+						</div>
+					</form>
+
+
+					<div class="row">
+						<div class="col-xs-12">
+							<div>
+								<form class="ajaxForm" name="route_order" method="post" action="{:url('admin/Sys/route_order')}" >
+									<table class="table table-striped table-bordered table-hover" id="dynamic-table">
+										<thead>
+										<tr>
+											<th>ID</th>
+											<th>编码类型</th>
+											<th>编码</th>
+											<th class="hidden-xs">状态</th>
+											<th style="border-right:#CCC solid 1px;">操作</th>
+										</tr>
+										</thead>
+
+										<tbody id="ajax-data">
+										{include file="sys/ajax_eansetsys"/}
+										</tbody>
+									</table>
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- 显示添加模态框（Modal） -->
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<form class="form-horizontal ajaxForm2" name="add_ean" method="post" action="{:url('admin/Sys/add_ean')}">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal"
+								aria-hidden="true">×
+						</button>
+						<h4 class="modal-title" id="myModalLabel">
+							添加EAN/UPC编码
+						</h4>
+					</div>
+					<div class="modal-body">
+
+						<div class="row">
+							<div class="col-xs-12">
+
+								<div class="form-group">
+									<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 编码类型 </label>
+									<div class="col-sm-9">
+										<select name="bmlx" id="bmlx" class="col-xs-4 col-sm-4" required>
+											<option value="1" selected="selected">EAN</option>
+											<option value="2">UPC</option>
+										</select>
+										<span class="help-inline col-xs-12 col-sm-7">
+										<span class="middle" id="restwo" style="color:red;">建议EAN码13位不冲突，UPC码12位长度</span>
+									</span>
+									</div>
+								</div>
+								<div class="space-4"></div>
+
+								<div class="form-group">
+									<label class="col-sm-3 control-label no-padding-right"> 厂家编号 </label>
+									<div class="col-sm-9">
+										<input type="text" name="cjbh" id="cjb" maxlength="4" onkeyup="value=value.replace(/[^\d]/g,'')" class="col-xs-5 col-sm-5" maxlength="4" required/>
+										<span class="help-inline col-xs-12 col-sm-5">
+									<span class="middle" id="resone" style="color:red;">* 四位有效数字</span>
+								</span>
+									</div>
+								</div>
+								<div class="space-4"></div>
+
+								<div class="form-group">
+									<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 产品编号 </label>
+									<div class="col-sm-9">
+										<input type="text" name="cpbh" id="cpb"   class="col-xs-5 col-sm-5"  maxlength="5" onkeyup="value=value.replace(/[^\d]/g,'')" required/>
+										<span class="help-inline col-xs-12 col-sm-5">
+									<span class="middle" id="restwo" style="color:red;">* 五位有效数字</span>
+								</span>
+									</div>
+								</div>
+								<div class="space-4"></div>
+
+
+								<div class="form-group">
+									<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 生成数量 </label>
+									<div class="col-sm-9">
+										<input type="tetx" name="scsl" id="scl"   class="col-xs-3 col-sm-4" maxlength="3" onkeyup="value=value.replace(/[^\d]/g,'')"required/>
+										<span class="help-inline col-xs-12 col-sm-5">
+									<span class="middle" id="restwo"></span>
+								</span>
+									</div>
+								</div>
+								<div class="space-4"></div>
+
+							</div>
+						</div>
+
+
+					</div>
+					<div class="modal-footer">
+						<button type="submit" class="btn btn-primary" onclick="shengcheng()">
+							生成EAN码
+						</button>
+						<button class="btn btn-info" type="reset">
+							重置
+						</button>
+						<button type="button" class="btn btn-default" data-dismiss="modal">
+							关闭
+						</button>
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</form>
+	</div><!-- /.modal -->
+<script>
+	function shengcheng(){
+		layer.msg('EAN码生成中');
+	}
+</script>
+
+
+</div><!-- /.page-content -->
+{/block}

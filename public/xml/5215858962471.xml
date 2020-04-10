@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585895972</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520679977</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title></Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[]]></Description>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms></SearchTerms>
+        <ItemType>Air Conditioning</ItemType>
+        <RecommendedBrowseNode>9164129011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData/>
+            </BedAndBath>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

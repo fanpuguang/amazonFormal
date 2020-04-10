@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A1BUJEG2QM7EPD</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>58346018359</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>1</MessagesProcessed>
+				<MessagesSuccessful>0</MessagesSuccessful>
+				<MessagesWithError>1</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8566</ResultMessageCode>
+				<ResultDescription>SKU does not match any ASIN and the product data provided is not eligible for ASIN creation.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>RENC-601586243181-FG</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8572</ResultMessageCode>
+				<ResultDescription>You are using UPCs, EANs, ISBNs, ASINs, or JAN codes that do not match the products you are trying to list. Using incorrect UPCs, EANs, ISBNs, ASINs or JAN codes is prohibited and it can result in your ASIN creation privileges being suspended or permanently removed. Please ensure you are always using the appropriate UPC, EAN, ISBN, ASIN or JAN code when listing a product. If you have reached this message in error, please contact Seller Support using the following link: https://sellercentral.amazon.co.uk/hz/contact-us. For more information, refer to the ASIN Creation Policy Help Page - https://sellercentral.amazon.co.uk/gp/help/201844590</ResultDescription>
+				<AdditionalInfo>
+					<SKU>RENC-601586243181-FG</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

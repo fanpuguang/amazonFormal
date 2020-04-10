@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680102</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Table Lamp, Modeen Countryside Retro Industrial Iron, Nostalgic Vintage Creative Living Room Bar Office Decoration Table Light Desk Lighting Fixtures</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Luminum material,multiple baking processes,built-in silicone hose seal,durable.<br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Floor Lamp to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Table lamp<br/>- Material: Wrought iron + silicone + resin + aluminum<br/>- Suitable: Bedroom / Living Room / Study<br/>- Lamp Holder: E27<br/><br/>★ Package List: <br/>- 1 * Table lamp<br/><br/>★ Note<br/>- This product is only for sale of Table lamp, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ PAINTED ALUMINUM: Aluminum material,multiple baking processes,built-in silicone hose seal,durable.</BulletPoint>
+        <BulletPoint>★ HIGH BRIGHTNESS LED LAMP BEADS: Horn hardware decoration,high bearing capacity,delicate texture,bright color and rich texture.</BulletPoint>
+        <BulletPoint>★ RESIN DECORATIVE LAMP BODY: Resin material decoration,carved lacquer,delicate,fashion and home style.</BulletPoint>
+        <BulletPoint>★ HARDWARE STABLE BASE: Hardware paint chassis,stable lamp body,exquisite atmosphere, anti-corrosion and rust,durable.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Table Lamp LED Light Reading Dimmable Standing Smart Uplighter Eye Care Modern Nightstand Color Temperatures Memory Function Touch Control Shelves Flexible Gooseneck Living Room Bedroom Working Antique Brass Parchment Shade Brightness</SearchTerms>
+        <ItemType>Table Lamps</ItemType>
+        <RecommendedBrowseNode>1063296</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680119</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Table Lamp, Modeen Countryside Retro Industrial Iron, Nostalgic Vintage Creative Living Room Bar Office Decoration Table Light Desk Lighting Fixtures</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Luminum material,multiple baking processes,built-in silicone hose seal,durable.<br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Floor Lamp to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Table lamp<br/>- Material: Wrought iron + silicone + resin + aluminum<br/>- Suitable: Bedroom / Living Room / Study<br/>- Lamp Holder: E27<br/><br/>★ Package List: <br/>- 1 * Table lamp<br/><br/>★ Note<br/>- This product is only for sale of Table lamp, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ PAINTED ALUMINUM: Aluminum material,multiple baking processes,built-in silicone hose seal,durable.</BulletPoint>
+        <BulletPoint>★ HIGH BRIGHTNESS LED LAMP BEADS: Horn hardware decoration,high bearing capacity,delicate texture,bright color and rich texture.</BulletPoint>
+        <BulletPoint>★ RESIN DECORATIVE LAMP BODY: Resin material decoration,carved lacquer,delicate,fashion and home style.</BulletPoint>
+        <BulletPoint>★ HARDWARE STABLE BASE: Hardware paint chassis,stable lamp body,exquisite atmosphere, anti-corrosion and rust,durable.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Table Lamp LED Light Reading Dimmable Standing Smart Uplighter Eye Care Modern Nightstand Color Temperatures Memory Function Touch Control Shelves Flexible Gooseneck Living Room Bedroom Working Antique Brass Parchment Shade Brightness</SearchTerms>
+        <ItemType>Table Lamps</ItemType>
+        <RecommendedBrowseNode>1063296</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Red</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680126</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Table Lamp, Modeen Countryside Retro Industrial Iron, Nostalgic Vintage Creative Living Room Bar Office Decoration Table Light Desk Lighting Fixtures</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Luminum material,multiple baking processes,built-in silicone hose seal,durable.<br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Floor Lamp to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Table lamp<br/>- Material: Wrought iron + silicone + resin + aluminum<br/>- Suitable: Bedroom / Living Room / Study<br/>- Lamp Holder: E27<br/><br/>★ Package List: <br/>- 1 * Table lamp<br/><br/>★ Note<br/>- This product is only for sale of Table lamp, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ PAINTED ALUMINUM: Aluminum material,multiple baking processes,built-in silicone hose seal,durable.</BulletPoint>
+        <BulletPoint>★ HIGH BRIGHTNESS LED LAMP BEADS: Horn hardware decoration,high bearing capacity,delicate texture,bright color and rich texture.</BulletPoint>
+        <BulletPoint>★ RESIN DECORATIVE LAMP BODY: Resin material decoration,carved lacquer,delicate,fashion and home style.</BulletPoint>
+        <BulletPoint>★ HARDWARE STABLE BASE: Hardware paint chassis,stable lamp body,exquisite atmosphere, anti-corrosion and rust,durable.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Table Lamp LED Light Reading Dimmable Standing Smart Uplighter Eye Care Modern Nightstand Color Temperatures Memory Function Touch Control Shelves Flexible Gooseneck Living Room Bedroom Working Antique Brass Parchment Shade Brightness</SearchTerms>
+        <ItemType>Table Lamps</ItemType>
+        <RecommendedBrowseNode>1063296</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-3</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680133</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Table Lamp, Modeen Countryside Retro Industrial Iron, Nostalgic Vintage Creative Living Room Bar Office Decoration Table Light Desk Lighting Fixtures</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Luminum material,multiple baking processes,built-in silicone hose seal,durable.<br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Floor Lamp to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Table lamp<br/>- Material: Wrought iron + silicone + resin + aluminum<br/>- Suitable: Bedroom / Living Room / Study<br/>- Lamp Holder: E27<br/><br/>★ Package List: <br/>- 1 * Table lamp<br/><br/>★ Note<br/>- This product is only for sale of Table lamp, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ PAINTED ALUMINUM: Aluminum material,multiple baking processes,built-in silicone hose seal,durable.</BulletPoint>
+        <BulletPoint>★ HIGH BRIGHTNESS LED LAMP BEADS: Horn hardware decoration,high bearing capacity,delicate texture,bright color and rich texture.</BulletPoint>
+        <BulletPoint>★ RESIN DECORATIVE LAMP BODY: Resin material decoration,carved lacquer,delicate,fashion and home style.</BulletPoint>
+        <BulletPoint>★ HARDWARE STABLE BASE: Hardware paint chassis,stable lamp body,exquisite atmosphere, anti-corrosion and rust,durable.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Table Lamp LED Light Reading Dimmable Standing Smart Uplighter Eye Care Modern Nightstand Color Temperatures Memory Function Touch Control Shelves Flexible Gooseneck Living Room Bedroom Working Antique Brass Parchment Shade Brightness</SearchTerms>
+        <ItemType>Table Lamps</ItemType>
+        <RecommendedBrowseNode>1063296</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Blue</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-4</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680140</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Table Lamp, Modeen Countryside Retro Industrial Iron, Nostalgic Vintage Creative Living Room Bar Office Decoration Table Light Desk Lighting Fixtures</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Luminum material,multiple baking processes,built-in silicone hose seal,durable.<br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Floor Lamp to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Table lamp<br/>- Material: Wrought iron + silicone + resin + aluminum<br/>- Suitable: Bedroom / Living Room / Study<br/>- Lamp Holder: E27<br/><br/>★ Package List: <br/>- 1 * Table lamp<br/><br/>★ Note<br/>- This product is only for sale of Table lamp, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ PAINTED ALUMINUM: Aluminum material,multiple baking processes,built-in silicone hose seal,durable.</BulletPoint>
+        <BulletPoint>★ HIGH BRIGHTNESS LED LAMP BEADS: Horn hardware decoration,high bearing capacity,delicate texture,bright color and rich texture.</BulletPoint>
+        <BulletPoint>★ RESIN DECORATIVE LAMP BODY: Resin material decoration,carved lacquer,delicate,fashion and home style.</BulletPoint>
+        <BulletPoint>★ HARDWARE STABLE BASE: Hardware paint chassis,stable lamp body,exquisite atmosphere, anti-corrosion and rust,durable.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Table Lamp LED Light Reading Dimmable Standing Smart Uplighter Eye Care Modern Nightstand Color Temperatures Memory Function Touch Control Shelves Flexible Gooseneck Living Room Bedroom Working Antique Brass Parchment Shade Brightness</SearchTerms>
+        <ItemType>Table Lamps</ItemType>
+        <RecommendedBrowseNode>1063296</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Yellow</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680096</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Table Lamp, Modeen Countryside Retro Industrial Iron, Nostalgic Vintage Creative Living Room Bar Office Decoration Table Light Desk Lighting Fixtures</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Luminum material,multiple baking processes,built-in silicone hose seal,durable.<br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Floor Lamp to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Table lamp<br/>- Material: Wrought iron + silicone + resin + aluminum<br/>- Suitable: Bedroom / Living Room / Study<br/>- Lamp Holder: E27<br/><br/>★ Package List: <br/>- 1 * Table lamp<br/><br/>★ Note<br/>- This product is only for sale of Table lamp, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ PAINTED ALUMINUM: Aluminum material,multiple baking processes,built-in silicone hose seal,durable.</BulletPoint>
+        <BulletPoint>★ HIGH BRIGHTNESS LED LAMP BEADS: Horn hardware decoration,high bearing capacity,delicate texture,bright color and rich texture.</BulletPoint>
+        <BulletPoint>★ RESIN DECORATIVE LAMP BODY: Resin material decoration,carved lacquer,delicate,fashion and home style.</BulletPoint>
+        <BulletPoint>★ HARDWARE STABLE BASE: Hardware paint chassis,stable lamp body,exquisite atmosphere, anti-corrosion and rust,durable.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Table Lamp LED Light Reading Dimmable Standing Smart Uplighter Eye Care Modern Nightstand Color Temperatures Memory Function Touch Control Shelves Flexible Gooseneck Living Room Bedroom Working Antique Brass Parchment Shade Brightness</SearchTerms>
+        <ItemType>Table Lamps</ItemType>
+        <RecommendedBrowseNode>1063296</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585897315</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680355</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Nightstand Lamp, with Linen Fabric Shade Bedside Table Lamp for Bedroom, Living Room Modern,Coffee Table, Office, Kids</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Luminum material,multiple baking processes,built-in silicone hose seal,durable.<br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Floor Lamp to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Table lamp<br/>- Material: Natural tree finger + hand painted<br/>- Suitable: Bedroom / Living Room / Study<br/>- Lamp Holder: E27<br/><br/>★ Package List: <br/>- 1 * Table lamp<br/><br/>★ Note<br/>- This product is only for sale of Table lamp, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ DIMMING FUNCTION: Convenient and practical,it can be dimmed,lightened to read and write, and dimmed can be used as night light!</BulletPoint>
+        <BulletPoint>★ EASY TO INSTALL AND CLEAN: The installation of the lamp is very convenient, as long as the lampshade is installed, the lampshade has a fixed coil to fix the lampshade, the lampshade can be removed and washed.</BulletPoint>
+        <BulletPoint>★ BEST GIFT: Lavender flower language is waiting for love, very romantic. Every girl has a romantic dream. This little bear is the best choice for gifts for girls. The cute lavender bear is inserted with beautiful lavender.</BulletPoint>
+        <BulletPoint>★ TABLE LAMP + VASE / PEN HOLDER: Plug in a beautiful lavender bouquet, very decorative. It can also be used as a pen holder for study and work, and it is very practical.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Table Lamp LED Light Reading Dimmable Standing Smart Uplighter Eye Care Modern Nightstand Color Temperatures Memory Function Touch Control Shelves Flexible Gooseneck Living Room Bedroom Working Antique Brass Parchment Shade Brightness</SearchTerms>
+        <ItemType>Table Lamps</ItemType>
+        <RecommendedBrowseNode>1063296</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData/>
+            </FurnitureAndDecor>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

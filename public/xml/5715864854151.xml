@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586482848</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476763398</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates Stick, Pilates Bar Bodybuilding Yoga Fußschlaufe Kernstärke Fitness Gym Widerstand Band Ideal für zu Hause Ganzkörpertraining, Fitnessstudio, Gewichtheben</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Diese kontrollierte Bewegung eignet sich nicht nur hervorragend zum Aufbau sportlicher Ganzkörperkraft, sondern schont auch Gelenke und schwache Muskeln, die sich von Überbeanspruchung und Verletzungen erholen.<br/>★ Willkommen im ATRNA-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden das Resistance Band weiterhin aktualisieren, um Kunden Qualitätsprodukte anzubieten.<br/><br/>★ Spezifikation<br/>- Gegenstandstyp: Widerstandsband<br/>- Material: Schnalle aus Naturlatexrohr / Nylon / Stahl<br/>- Farbe: Schwarz-Rot<br/><br/>★ Paketliste:<br/>- 1 * Widerstandsband<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Resistance Band bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Größe ist manuelle Messung, es wird 1-2cm Fehler geben.<br/>- Wenn Sie Fragen zu diesem Pedal Resistance Band haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ Praktisch und robust: Die Stange kann gespalten und zerrissen werden, der EVA fühlt sich angenehm und langlebig an.</BulletPoint>
+        <BulletPoint>★ EINSTELLBARE LÄNGE: Einstellbare Schnalle, schnelle Längeneinstellung, schnell und bequem.</BulletPoint>
+        <BulletPoint>★ SICHERES MATERIAL: Sicheres und bruchsicheres Design, robuste Nylonimitatstruktur.</BulletPoint>
+        <BulletPoint>★ JEDERZEIT ÜBERALL: Zuhause, Hotelzimmer, Büros und sogar im Freien Immer und überall, wo Sie ein Sportereignis oder eine Sportart starten möchten, ist es sehr einfach zu tragen und ein kleines tragbares Fitnessstudio. Perfektes Krafttraining zu Hause.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesem Widerstandsband haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Fitness-Sit-up-Trainingsgerät Elastisches Zugseil Multifunktions-Zugseilzieher Bauchbein Oberschenkel Bauch Bauchtrainer Widerstandsbänder Fußpadal Situps Yoga Health Trainingsbänder Pedal Widerstand Band Stretch Expander Stretching Unisex</SearchTerms>
+        <ItemType>Bauchtrainer</ItemType>
+        <RecommendedBrowseNode>190829011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData/>
+            </OutdoorLiving>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680102</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lampe de Table Mini Abat-jour Rétro en Verre Teinté, Lampe de Chevet de Salon Confortable</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Matériau Luminum, processus de cuisson multiples, joint de tuyau en silicone intégré, durable.<br/>★ Bienvenue dans la boutique ATRNA, merci de votre présence et de votre confiance! Vous pouvez cliquer sur notre boutique pour voir plus de produits.<br/>★ Nous continuerons à mettre à jour Lampadaire pour fournir aux clients des produits de qualité.<br/><br/>★ spécification<br/>- Type d'article: lampe de table<br/>- Matériel: fer forgé + silicone + résine + aluminium<br/>- Convient: chambre / salon / bureau<br/>- Support de lampe: E27<br/><br/>★ Liste des packages:<br/>- 1 * Lampe de table<br/><br/>★ Remarque<br/>- Ce produit est uniquement destiné à la vente de lampe de table, les autres accessoires ne sont pas inclus dans la portée de la vente, veuillez faire attention lors de l'achat.<br/>- En raison de l'effet de lumière et des différents écrans d'ordinateur, il peut y avoir une différence de couleur.<br/>- La taille est une mesure manuelle, il y aura une erreur de 1-2 cm.<br/>- Si vous avez des questions sur ces lampes de table, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.]]></Description>
+        <BulletPoint>★ ALUMINIUM PEINT: Matériau en aluminium, processus de cuisson multiples, joint de tuyau en silicone intégré, durable.</BulletPoint>
+        <BulletPoint>★ PERLES DE LAMPE LED HAUTE LUMINOSITÉ: Décoration de quincaillerie en corne, capacité portante élevée, texture délicate, couleur vive et texture riche.</BulletPoint>
+        <BulletPoint>★ CORPS DE LAMPE DÉCORATIVE EN RÉSINE: Décoration en résine, laque sculptée, délicate, mode et style maison.</BulletPoint>
+        <BulletPoint>★ BASE STABLE MATÉRIEL: Châssis de peinture matériel, corps de lampe stable, atmosphère exquise, anti-corrosion et rouille, durable.</BulletPoint>
+        <BulletPoint>★ SERVICE CLIENTS: Si vous avez des questions sur ces lampes de table, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lampe Table LED Lampe Salon Sur Pied Avec Liseuse Décoration Moderne Lecture Lumière Protection Yeux Modes Couleur Télécommande Cou Flexible Chambre Aluminium Plastique Interrupteur Niveaux Luminosité Réglable Bois Trépied Bureau Métal</SearchTerms>
+        <ItemType>Lampes table et chevet</ItemType>
+        <RecommendedBrowseNode>248370031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680119</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lampe de Table Mini Abat-jour Rétro en Verre Teinté, Lampe de Chevet de Salon Confortable</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Matériau Luminum, processus de cuisson multiples, joint de tuyau en silicone intégré, durable.<br/>★ Bienvenue dans la boutique ATRNA, merci de votre présence et de votre confiance! Vous pouvez cliquer sur notre boutique pour voir plus de produits.<br/>★ Nous continuerons à mettre à jour Lampadaire pour fournir aux clients des produits de qualité.<br/><br/>★ spécification<br/>- Type d'article: lampe de table<br/>- Matériel: fer forgé + silicone + résine + aluminium<br/>- Convient: chambre / salon / bureau<br/>- Support de lampe: E27<br/><br/>★ Liste des packages:<br/>- 1 * Lampe de table<br/><br/>★ Remarque<br/>- Ce produit est uniquement destiné à la vente de lampe de table, les autres accessoires ne sont pas inclus dans la portée de la vente, veuillez faire attention lors de l'achat.<br/>- En raison de l'effet de lumière et des différents écrans d'ordinateur, il peut y avoir une différence de couleur.<br/>- La taille est une mesure manuelle, il y aura une erreur de 1-2 cm.<br/>- Si vous avez des questions sur ces lampes de table, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.]]></Description>
+        <BulletPoint>★ ALUMINIUM PEINT: Matériau en aluminium, processus de cuisson multiples, joint de tuyau en silicone intégré, durable.</BulletPoint>
+        <BulletPoint>★ PERLES DE LAMPE LED HAUTE LUMINOSITÉ: Décoration de quincaillerie en corne, capacité portante élevée, texture délicate, couleur vive et texture riche.</BulletPoint>
+        <BulletPoint>★ CORPS DE LAMPE DÉCORATIVE EN RÉSINE: Décoration en résine, laque sculptée, délicate, mode et style maison.</BulletPoint>
+        <BulletPoint>★ BASE STABLE MATÉRIEL: Châssis de peinture matériel, corps de lampe stable, atmosphère exquise, anti-corrosion et rouille, durable.</BulletPoint>
+        <BulletPoint>★ SERVICE CLIENTS: Si vous avez des questions sur ces lampes de table, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lampe Table LED Lampe Salon Sur Pied Avec Liseuse Décoration Moderne Lecture Lumière Protection Yeux Modes Couleur Télécommande Cou Flexible Chambre Aluminium Plastique Interrupteur Niveaux Luminosité Réglable Bois Trépied Bureau Métal</SearchTerms>
+        <ItemType>Lampes table et chevet</ItemType>
+        <RecommendedBrowseNode>248370031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Red</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680126</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lampe de Table Mini Abat-jour Rétro en Verre Teinté, Lampe de Chevet de Salon Confortable</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Matériau Luminum, processus de cuisson multiples, joint de tuyau en silicone intégré, durable.<br/>★ Bienvenue dans la boutique ATRNA, merci de votre présence et de votre confiance! Vous pouvez cliquer sur notre boutique pour voir plus de produits.<br/>★ Nous continuerons à mettre à jour Lampadaire pour fournir aux clients des produits de qualité.<br/><br/>★ spécification<br/>- Type d'article: lampe de table<br/>- Matériel: fer forgé + silicone + résine + aluminium<br/>- Convient: chambre / salon / bureau<br/>- Support de lampe: E27<br/><br/>★ Liste des packages:<br/>- 1 * Lampe de table<br/><br/>★ Remarque<br/>- Ce produit est uniquement destiné à la vente de lampe de table, les autres accessoires ne sont pas inclus dans la portée de la vente, veuillez faire attention lors de l'achat.<br/>- En raison de l'effet de lumière et des différents écrans d'ordinateur, il peut y avoir une différence de couleur.<br/>- La taille est une mesure manuelle, il y aura une erreur de 1-2 cm.<br/>- Si vous avez des questions sur ces lampes de table, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.]]></Description>
+        <BulletPoint>★ ALUMINIUM PEINT: Matériau en aluminium, processus de cuisson multiples, joint de tuyau en silicone intégré, durable.</BulletPoint>
+        <BulletPoint>★ PERLES DE LAMPE LED HAUTE LUMINOSITÉ: Décoration de quincaillerie en corne, capacité portante élevée, texture délicate, couleur vive et texture riche.</BulletPoint>
+        <BulletPoint>★ CORPS DE LAMPE DÉCORATIVE EN RÉSINE: Décoration en résine, laque sculptée, délicate, mode et style maison.</BulletPoint>
+        <BulletPoint>★ BASE STABLE MATÉRIEL: Châssis de peinture matériel, corps de lampe stable, atmosphère exquise, anti-corrosion et rouille, durable.</BulletPoint>
+        <BulletPoint>★ SERVICE CLIENTS: Si vous avez des questions sur ces lampes de table, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lampe Table LED Lampe Salon Sur Pied Avec Liseuse Décoration Moderne Lecture Lumière Protection Yeux Modes Couleur Télécommande Cou Flexible Chambre Aluminium Plastique Interrupteur Niveaux Luminosité Réglable Bois Trépied Bureau Métal</SearchTerms>
+        <ItemType>Lampes table et chevet</ItemType>
+        <RecommendedBrowseNode>248370031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-3</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680133</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lampe de Table Mini Abat-jour Rétro en Verre Teinté, Lampe de Chevet de Salon Confortable</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Matériau Luminum, processus de cuisson multiples, joint de tuyau en silicone intégré, durable.<br/>★ Bienvenue dans la boutique ATRNA, merci de votre présence et de votre confiance! Vous pouvez cliquer sur notre boutique pour voir plus de produits.<br/>★ Nous continuerons à mettre à jour Lampadaire pour fournir aux clients des produits de qualité.<br/><br/>★ spécification<br/>- Type d'article: lampe de table<br/>- Matériel: fer forgé + silicone + résine + aluminium<br/>- Convient: chambre / salon / bureau<br/>- Support de lampe: E27<br/><br/>★ Liste des packages:<br/>- 1 * Lampe de table<br/><br/>★ Remarque<br/>- Ce produit est uniquement destiné à la vente de lampe de table, les autres accessoires ne sont pas inclus dans la portée de la vente, veuillez faire attention lors de l'achat.<br/>- En raison de l'effet de lumière et des différents écrans d'ordinateur, il peut y avoir une différence de couleur.<br/>- La taille est une mesure manuelle, il y aura une erreur de 1-2 cm.<br/>- Si vous avez des questions sur ces lampes de table, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.]]></Description>
+        <BulletPoint>★ ALUMINIUM PEINT: Matériau en aluminium, processus de cuisson multiples, joint de tuyau en silicone intégré, durable.</BulletPoint>
+        <BulletPoint>★ PERLES DE LAMPE LED HAUTE LUMINOSITÉ: Décoration de quincaillerie en corne, capacité portante élevée, texture délicate, couleur vive et texture riche.</BulletPoint>
+        <BulletPoint>★ CORPS DE LAMPE DÉCORATIVE EN RÉSINE: Décoration en résine, laque sculptée, délicate, mode et style maison.</BulletPoint>
+        <BulletPoint>★ BASE STABLE MATÉRIEL: Châssis de peinture matériel, corps de lampe stable, atmosphère exquise, anti-corrosion et rouille, durable.</BulletPoint>
+        <BulletPoint>★ SERVICE CLIENTS: Si vous avez des questions sur ces lampes de table, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lampe Table LED Lampe Salon Sur Pied Avec Liseuse Décoration Moderne Lecture Lumière Protection Yeux Modes Couleur Télécommande Cou Flexible Chambre Aluminium Plastique Interrupteur Niveaux Luminosité Réglable Bois Trépied Bureau Métal</SearchTerms>
+        <ItemType>Lampes table et chevet</ItemType>
+        <RecommendedBrowseNode>248370031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Blue</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-4</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680140</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lampe de Table Mini Abat-jour Rétro en Verre Teinté, Lampe de Chevet de Salon Confortable</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Matériau Luminum, processus de cuisson multiples, joint de tuyau en silicone intégré, durable.<br/>★ Bienvenue dans la boutique ATRNA, merci de votre présence et de votre confiance! Vous pouvez cliquer sur notre boutique pour voir plus de produits.<br/>★ Nous continuerons à mettre à jour Lampadaire pour fournir aux clients des produits de qualité.<br/><br/>★ spécification<br/>- Type d'article: lampe de table<br/>- Matériel: fer forgé + silicone + résine + aluminium<br/>- Convient: chambre / salon / bureau<br/>- Support de lampe: E27<br/><br/>★ Liste des packages:<br/>- 1 * Lampe de table<br/><br/>★ Remarque<br/>- Ce produit est uniquement destiné à la vente de lampe de table, les autres accessoires ne sont pas inclus dans la portée de la vente, veuillez faire attention lors de l'achat.<br/>- En raison de l'effet de lumière et des différents écrans d'ordinateur, il peut y avoir une différence de couleur.<br/>- La taille est une mesure manuelle, il y aura une erreur de 1-2 cm.<br/>- Si vous avez des questions sur ces lampes de table, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.]]></Description>
+        <BulletPoint>★ ALUMINIUM PEINT: Matériau en aluminium, processus de cuisson multiples, joint de tuyau en silicone intégré, durable.</BulletPoint>
+        <BulletPoint>★ PERLES DE LAMPE LED HAUTE LUMINOSITÉ: Décoration de quincaillerie en corne, capacité portante élevée, texture délicate, couleur vive et texture riche.</BulletPoint>
+        <BulletPoint>★ CORPS DE LAMPE DÉCORATIVE EN RÉSINE: Décoration en résine, laque sculptée, délicate, mode et style maison.</BulletPoint>
+        <BulletPoint>★ BASE STABLE MATÉRIEL: Châssis de peinture matériel, corps de lampe stable, atmosphère exquise, anti-corrosion et rouille, durable.</BulletPoint>
+        <BulletPoint>★ SERVICE CLIENTS: Si vous avez des questions sur ces lampes de table, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lampe Table LED Lampe Salon Sur Pied Avec Liseuse Décoration Moderne Lecture Lumière Protection Yeux Modes Couleur Télécommande Cou Flexible Chambre Aluminium Plastique Interrupteur Niveaux Luminosité Réglable Bois Trépied Bureau Métal</SearchTerms>
+        <ItemType>Lampes table et chevet</ItemType>
+        <RecommendedBrowseNode>248370031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Yellow</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680096</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lampe de Table Mini Abat-jour Rétro en Verre Teinté, Lampe de Chevet de Salon Confortable</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Matériau Luminum, processus de cuisson multiples, joint de tuyau en silicone intégré, durable.<br/>★ Bienvenue dans la boutique ATRNA, merci de votre présence et de votre confiance! Vous pouvez cliquer sur notre boutique pour voir plus de produits.<br/>★ Nous continuerons à mettre à jour Lampadaire pour fournir aux clients des produits de qualité.<br/><br/>★ spécification<br/>- Type d'article: lampe de table<br/>- Matériel: fer forgé + silicone + résine + aluminium<br/>- Convient: chambre / salon / bureau<br/>- Support de lampe: E27<br/><br/>★ Liste des packages:<br/>- 1 * Lampe de table<br/><br/>★ Remarque<br/>- Ce produit est uniquement destiné à la vente de lampe de table, les autres accessoires ne sont pas inclus dans la portée de la vente, veuillez faire attention lors de l'achat.<br/>- En raison de l'effet de lumière et des différents écrans d'ordinateur, il peut y avoir une différence de couleur.<br/>- La taille est une mesure manuelle, il y aura une erreur de 1-2 cm.<br/>- Si vous avez des questions sur ces lampes de table, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.]]></Description>
+        <BulletPoint>★ ALUMINIUM PEINT: Matériau en aluminium, processus de cuisson multiples, joint de tuyau en silicone intégré, durable.</BulletPoint>
+        <BulletPoint>★ PERLES DE LAMPE LED HAUTE LUMINOSITÉ: Décoration de quincaillerie en corne, capacité portante élevée, texture délicate, couleur vive et texture riche.</BulletPoint>
+        <BulletPoint>★ CORPS DE LAMPE DÉCORATIVE EN RÉSINE: Décoration en résine, laque sculptée, délicate, mode et style maison.</BulletPoint>
+        <BulletPoint>★ BASE STABLE MATÉRIEL: Châssis de peinture matériel, corps de lampe stable, atmosphère exquise, anti-corrosion et rouille, durable.</BulletPoint>
+        <BulletPoint>★ SERVICE CLIENTS: Si vous avez des questions sur ces lampes de table, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lampe Table LED Lampe Salon Sur Pied Avec Liseuse Décoration Moderne Lecture Lumière Protection Yeux Modes Couleur Télécommande Cou Flexible Chambre Aluminium Plastique Interrupteur Niveaux Luminosité Réglable Bois Trépied Bureau Métal</SearchTerms>
+        <ItemType>Lampes table et chevet</ItemType>
+        <RecommendedBrowseNode>248370031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585897315</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680355</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lampe de Chevet, Decoration Moderne, Atmosphère Esthétique Lampe de Table Lecture Soin pour Les Yeux en Bois Nature Eclairage de Chambre Salle</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Matériau Luminum, processus de cuisson multiples, joint de tuyau en silicone intégré, durable.<br/>★ Bienvenue dans la boutique ATRNA, merci de votre présence et de votre confiance! Vous pouvez cliquer sur notre boutique pour voir plus de produits.<br/>★ Nous continuerons à mettre à jour Lampadaire pour fournir aux clients des produits de qualité.<br/><br/>★ spécification<br/>- Type d'article: lampe de table<br/>- Matériel: doigt d'arbre naturel + peint à la main<br/>- Convient: chambre / salon / bureau<br/>- Support de lampe: E27<br/><br/>★ Liste des packages:<br/>- 1 * Lampe de table<br/><br/>★ Remarque<br/>- Ce produit est uniquement destiné à la vente de lampe de table, les autres accessoires ne sont pas inclus dans la portée de la vente, veuillez faire attention lors de l'achat.<br/>- En raison de l'effet de lumière et des différents écrans d'ordinateur, il peut y avoir une différence de couleur.<br/>- La taille est une mesure manuelle, il y aura une erreur de 1-2 cm.<br/>- Si vous avez des questions sur ces lampes de table, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.]]></Description>
+        <BulletPoint>★ FONCTION GRADATION: Pratique et pratique, il peut être atténué, éclairé pour lire et écrire, et atténué peut être utilisé comme veilleuse!</BulletPoint>
+        <BulletPoint>★ FACILE À INSTALLER ET À NETTOYER: L'installation de la lampe est très pratique, tant que l'abat-jour est installé, l'abat-jour a une bobine fixe pour fixer l'abat-jour, l'abat-jour peut être retiré et lavé.</BulletPoint>
+        <BulletPoint>★ MEILLEUR CADEAU: la langue des fleurs de lavande attend l'amour, très romantique. Chaque fille a un rêve romantique. Ce petit ours est le meilleur choix pour les cadeaux pour les filles. L'ours mignon de lavande est inséré avec de la belle lavande.</BulletPoint>
+        <BulletPoint>★ LAMPE DE TABLE + SUPPORT VASE / STYLO: Branchez un beau bouquet de lavande, très décoratif. Il peut également être utilisé comme porte-stylo pour étudier et travailler, et il est très pratique.</BulletPoint>
+        <BulletPoint>★ SERVICE CLIENTS: Si vous avez des questions sur ces lampes de table, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lampe Table LED Lampe Salon Sur Pied Avec Liseuse Décoration Moderne Lecture Lumière Protection Yeux Modes Couleur Télécommande Cou Flexible Chambre Aluminium Plastique Interrupteur Niveaux Luminosité Réglable Bois Trépied Bureau Métal</SearchTerms>
+        <ItemType>Lampes table et chevet</ItemType>
+        <RecommendedBrowseNode>248370031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData/>
+            </FurnitureAndDecor>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

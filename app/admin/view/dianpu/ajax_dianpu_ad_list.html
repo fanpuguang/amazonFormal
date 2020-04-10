@@ -1,0 +1,62 @@
+{foreach name="dianpu_ad_list" item="v" key="k"}
+	<tr>
+		<td class="hidden-xs" height="28" >{$k+1}</td>
+		<td><a href="" target="_blank">{$v.yyzzfr}</a></td>
+		<td class="hidden-sm hidden-xs">{$v.zc_time}</td>
+		<td class="hidden-sm hidden-xs">{$v.dianpu_name}</td>
+		<td class="hidden-sm hidden-xs">{$v.dianpu_password}</td>
+		<td class="hidden-sm hidden-xs">{$v.dianpu_email}</td>
+		<td class="hidden-sm hidden-xs">{$v.dianpu_emailpassword}</td>
+		<td class="hidden-sm hidden-xs">{$v.zhandian}</td>
+		<td class="hidden-sm hidden-xs">{$v.dianpu_jizhu}[{$v.dianpu_phone}]</td>
+		<td class="hidden-sm hidden-xs">{$v.dianpu_yhkhjz}[{$v.dianpu_yhkh}]</td>
+		<td class="hidden-sm hidden-xs">{$v.dianpu_yhkhkr}</td>
+
+
+
+		<td>
+			{if condition='$v.dianpu_zt eq 1'}
+				<a class="red open-btn" href="{:url('admin/dianpu/dianpu_ad_state')}" data-id="{$v.dianpu_id}" title="已开启">
+					<div id="zt{$v.dianpu_id}"><button class="btn btn-minier btn-yellow">开启</button></div>
+				</a>
+				{else/}
+				<a class="red open-btn" href="{:url('admin/dianpu/dianpu_ad_state')}" data-id="{$v.dianpu_id}" title="已禁用">
+					<div id="zt{$v.dianpu_id}"><button class="btn btn-minier btn-danger">禁用</button></div>
+				</a>														{/if}														</td>
+		<td>
+			<div class="hidden-sm hidden-xs action-buttons">
+				<a class="green"  href="{:url('admin/dianpu/dianpu_ad_edit',array('dianpu_id'=>$v['dianpu_id']))}" title="修改">
+					<i class="ace-icon fa fa-pencil bigger-130"></i>																</a>
+				<a class="red confirm-rst-url-btn" href="{:url('admin/dianpu/dianpu_ad_del',array('dianpu_id'=>$v['dianpu_id'],'p'=>input('p',1)))}" data-info="你确定要删除吗？" title="删除">
+					<i class="ace-icon fa fa-trash-o bigger-130"></i>																</a>											</div>
+			<div class="hidden-md hidden-lg">
+				<div class="inline position-relative">
+					<button class="btn btn-minier btn-primary dropdown-toggle" data-toggle="dropdown" data-position="auto">
+						<i class="ace-icon fa fa-cog icon-only bigger-110"></i>
+					</button>
+					<ul class="dropdown-menu dropdown-only-icon dropdown-yellow dropdown-menu-right dropdown-caret dropdown-close">
+						<li>
+							<a href="{:url('admin/dianpu/dianpu_ad_edit',array('dianpu_id'=>$v['dianpu_id']))}" class="tooltip-success" data-rel="tooltip" title="" data-original-title="修改">
+										<span class="green">
+											<i class="ace-icon fa fa-pencil bigger-120"></i>
+										</span>
+							</a>
+						</li>
+
+						<li>
+							<a href="{:url('admin/dianpu/dianpu_ad_del',array('dianpu_id'=>$v['dianpu_id'],'p'=>input('p',1)))}"  class="tooltip-error confirm-rst-url-btn" data-info="你确定要删除吗？" data-rel="tooltip" title="" data-original-title="删除">
+										<span class="red">
+											<i class="ace-icon fa fa-trash-o bigger-120"></i>
+										</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</td>
+	</tr>
+{/foreach}
+<tr>
+
+	<td height="50" colspan="13" align="right">{$page}</td>
+</tr>

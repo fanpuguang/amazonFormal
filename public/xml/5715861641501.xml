@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680102</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lampade da Tavolo, Vintage Lampade da scrivania Creativo Camera da Letto Soggiorno Studio Bar Cafe Decorazione</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Materiale in alluminio, molteplici processi di cottura, guarnizione integrata in silicone, resistente.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la lampada da terra per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: lampada da tavolo<br/>- Materiale: ferro battuto + silicone + resina + alluminio<br/>- Adatto: camera da letto / soggiorno / studio<br/>- Portalampada: E27<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * lampada da tavolo<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di lampade da tavolo, gli altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se avete domande su queste lampade da tavolo, non esitate a contattarci e vi risponderemo via e-mail e risolveremo il problema in 24 ore.]]></Description>
+        <BulletPoint>★ ALLUMINIO VERNICIATO: materiale in alluminio, molteplici processi di cottura, guarnizione in silicone incorporata, resistente.</BulletPoint>
+        <BulletPoint>★ PERLINE LAMPADA LED AD ALTA LUMINOSITÀ: decorazione hardware in corno, elevata capacità portante, trama delicata, colore brillante e trama ricca.</BulletPoint>
+        <BulletPoint>★ CORPO DI LAMPADA DECORATIVO IN RESINA: Decorazione in materiale resina, lacca intagliata, delicata, moda e stile per la casa.</BulletPoint>
+        <BulletPoint>★ BASE STABILE HARDWARE: telaio in vernice hardware, corpo lampada stabile, atmosfera raffinata, anticorrosione e ruggine, resistente.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste lampade da tavolo, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lampada Tavolo LED Stelo In Piantana Moderna Luce Lettura Intelligente Disegno Moderno Paralume Illuminazione Classico Semplice Elegante Soggiorno Camera Letto Altre Stanze Cromo Alluminio Dimmerabile Temperatura Colore Telecomando</SearchTerms>
+        <ItemType>Lampade da tavolo e abat-jour</ItemType>
+        <RecommendedBrowseNode>1904589031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680119</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lampade da Tavolo, Vintage Lampade da scrivania Creativo Camera da Letto Soggiorno Studio Bar Cafe Decorazione</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Materiale in alluminio, molteplici processi di cottura, guarnizione integrata in silicone, resistente.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la lampada da terra per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: lampada da tavolo<br/>- Materiale: ferro battuto + silicone + resina + alluminio<br/>- Adatto: camera da letto / soggiorno / studio<br/>- Portalampada: E27<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * lampada da tavolo<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di lampade da tavolo, gli altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se avete domande su queste lampade da tavolo, non esitate a contattarci e vi risponderemo via e-mail e risolveremo il problema in 24 ore.]]></Description>
+        <BulletPoint>★ ALLUMINIO VERNICIATO: materiale in alluminio, molteplici processi di cottura, guarnizione in silicone incorporata, resistente.</BulletPoint>
+        <BulletPoint>★ PERLINE LAMPADA LED AD ALTA LUMINOSITÀ: decorazione hardware in corno, elevata capacità portante, trama delicata, colore brillante e trama ricca.</BulletPoint>
+        <BulletPoint>★ CORPO DI LAMPADA DECORATIVO IN RESINA: Decorazione in materiale resina, lacca intagliata, delicata, moda e stile per la casa.</BulletPoint>
+        <BulletPoint>★ BASE STABILE HARDWARE: telaio in vernice hardware, corpo lampada stabile, atmosfera raffinata, anticorrosione e ruggine, resistente.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste lampade da tavolo, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lampada Tavolo LED Stelo In Piantana Moderna Luce Lettura Intelligente Disegno Moderno Paralume Illuminazione Classico Semplice Elegante Soggiorno Camera Letto Altre Stanze Cromo Alluminio Dimmerabile Temperatura Colore Telecomando</SearchTerms>
+        <ItemType>Lampade da tavolo e abat-jour</ItemType>
+        <RecommendedBrowseNode>1904589031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Red</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680126</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lampade da Tavolo, Vintage Lampade da scrivania Creativo Camera da Letto Soggiorno Studio Bar Cafe Decorazione</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Materiale in alluminio, molteplici processi di cottura, guarnizione integrata in silicone, resistente.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la lampada da terra per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: lampada da tavolo<br/>- Materiale: ferro battuto + silicone + resina + alluminio<br/>- Adatto: camera da letto / soggiorno / studio<br/>- Portalampada: E27<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * lampada da tavolo<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di lampade da tavolo, gli altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se avete domande su queste lampade da tavolo, non esitate a contattarci e vi risponderemo via e-mail e risolveremo il problema in 24 ore.]]></Description>
+        <BulletPoint>★ ALLUMINIO VERNICIATO: materiale in alluminio, molteplici processi di cottura, guarnizione in silicone incorporata, resistente.</BulletPoint>
+        <BulletPoint>★ PERLINE LAMPADA LED AD ALTA LUMINOSITÀ: decorazione hardware in corno, elevata capacità portante, trama delicata, colore brillante e trama ricca.</BulletPoint>
+        <BulletPoint>★ CORPO DI LAMPADA DECORATIVO IN RESINA: Decorazione in materiale resina, lacca intagliata, delicata, moda e stile per la casa.</BulletPoint>
+        <BulletPoint>★ BASE STABILE HARDWARE: telaio in vernice hardware, corpo lampada stabile, atmosfera raffinata, anticorrosione e ruggine, resistente.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste lampade da tavolo, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lampada Tavolo LED Stelo In Piantana Moderna Luce Lettura Intelligente Disegno Moderno Paralume Illuminazione Classico Semplice Elegante Soggiorno Camera Letto Altre Stanze Cromo Alluminio Dimmerabile Temperatura Colore Telecomando</SearchTerms>
+        <ItemType>Lampade da tavolo e abat-jour</ItemType>
+        <RecommendedBrowseNode>1904589031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-3</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680133</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lampade da Tavolo, Vintage Lampade da scrivania Creativo Camera da Letto Soggiorno Studio Bar Cafe Decorazione</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Materiale in alluminio, molteplici processi di cottura, guarnizione integrata in silicone, resistente.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la lampada da terra per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: lampada da tavolo<br/>- Materiale: ferro battuto + silicone + resina + alluminio<br/>- Adatto: camera da letto / soggiorno / studio<br/>- Portalampada: E27<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * lampada da tavolo<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di lampade da tavolo, gli altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se avete domande su queste lampade da tavolo, non esitate a contattarci e vi risponderemo via e-mail e risolveremo il problema in 24 ore.]]></Description>
+        <BulletPoint>★ ALLUMINIO VERNICIATO: materiale in alluminio, molteplici processi di cottura, guarnizione in silicone incorporata, resistente.</BulletPoint>
+        <BulletPoint>★ PERLINE LAMPADA LED AD ALTA LUMINOSITÀ: decorazione hardware in corno, elevata capacità portante, trama delicata, colore brillante e trama ricca.</BulletPoint>
+        <BulletPoint>★ CORPO DI LAMPADA DECORATIVO IN RESINA: Decorazione in materiale resina, lacca intagliata, delicata, moda e stile per la casa.</BulletPoint>
+        <BulletPoint>★ BASE STABILE HARDWARE: telaio in vernice hardware, corpo lampada stabile, atmosfera raffinata, anticorrosione e ruggine, resistente.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste lampade da tavolo, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lampada Tavolo LED Stelo In Piantana Moderna Luce Lettura Intelligente Disegno Moderno Paralume Illuminazione Classico Semplice Elegante Soggiorno Camera Letto Altre Stanze Cromo Alluminio Dimmerabile Temperatura Colore Telecomando</SearchTerms>
+        <ItemType>Lampade da tavolo e abat-jour</ItemType>
+        <RecommendedBrowseNode>1904589031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Blue</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517-4</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680140</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lampade da Tavolo, Vintage Lampade da scrivania Creativo Camera da Letto Soggiorno Studio Bar Cafe Decorazione</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Materiale in alluminio, molteplici processi di cottura, guarnizione integrata in silicone, resistente.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la lampada da terra per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: lampada da tavolo<br/>- Materiale: ferro battuto + silicone + resina + alluminio<br/>- Adatto: camera da letto / soggiorno / studio<br/>- Portalampada: E27<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * lampada da tavolo<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di lampade da tavolo, gli altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se avete domande su queste lampade da tavolo, non esitate a contattarci e vi risponderemo via e-mail e risolveremo il problema in 24 ore.]]></Description>
+        <BulletPoint>★ ALLUMINIO VERNICIATO: materiale in alluminio, molteplici processi di cottura, guarnizione in silicone incorporata, resistente.</BulletPoint>
+        <BulletPoint>★ PERLINE LAMPADA LED AD ALTA LUMINOSITÀ: decorazione hardware in corno, elevata capacità portante, trama delicata, colore brillante e trama ricca.</BulletPoint>
+        <BulletPoint>★ CORPO DI LAMPADA DECORATIVO IN RESINA: Decorazione in materiale resina, lacca intagliata, delicata, moda e stile per la casa.</BulletPoint>
+        <BulletPoint>★ BASE STABILE HARDWARE: telaio in vernice hardware, corpo lampada stabile, atmosfera raffinata, anticorrosione e ruggine, resistente.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste lampade da tavolo, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lampada Tavolo LED Stelo In Piantana Moderna Luce Lettura Intelligente Disegno Moderno Paralume Illuminazione Classico Semplice Elegante Soggiorno Camera Letto Altre Stanze Cromo Alluminio Dimmerabile Temperatura Colore Telecomando</SearchTerms>
+        <ItemType>Lampade da tavolo e abat-jour</ItemType>
+        <RecommendedBrowseNode>1904589031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Yellow</Color>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585896517</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680096</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lampade da Tavolo, Vintage Lampade da scrivania Creativo Camera da Letto Soggiorno Studio Bar Cafe Decorazione</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Materiale in alluminio, molteplici processi di cottura, guarnizione integrata in silicone, resistente.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la lampada da terra per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: lampada da tavolo<br/>- Materiale: ferro battuto + silicone + resina + alluminio<br/>- Adatto: camera da letto / soggiorno / studio<br/>- Portalampada: E27<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * lampada da tavolo<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di lampade da tavolo, gli altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se avete domande su queste lampade da tavolo, non esitate a contattarci e vi risponderemo via e-mail e risolveremo il problema in 24 ore.]]></Description>
+        <BulletPoint>★ ALLUMINIO VERNICIATO: materiale in alluminio, molteplici processi di cottura, guarnizione in silicone incorporata, resistente.</BulletPoint>
+        <BulletPoint>★ PERLINE LAMPADA LED AD ALTA LUMINOSITÀ: decorazione hardware in corno, elevata capacità portante, trama delicata, colore brillante e trama ricca.</BulletPoint>
+        <BulletPoint>★ CORPO DI LAMPADA DECORATIVO IN RESINA: Decorazione in materiale resina, lacca intagliata, delicata, moda e stile per la casa.</BulletPoint>
+        <BulletPoint>★ BASE STABILE HARDWARE: telaio in vernice hardware, corpo lampada stabile, atmosfera raffinata, anticorrosione e ruggine, resistente.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste lampade da tavolo, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lampada Tavolo LED Stelo In Piantana Moderna Luce Lettura Intelligente Disegno Moderno Paralume Illuminazione Classico Semplice Elegante Soggiorno Camera Letto Altre Stanze Cromo Alluminio Dimmerabile Temperatura Colore Telecomando</SearchTerms>
+        <ItemType>Lampade da tavolo e abat-jour</ItemType>
+        <RecommendedBrowseNode>1904589031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </FurnitureAndDecor>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571585897315</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520680355</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Lampada da Tavolo, Decorazione a Mano Creativa Camera da Letto di Lavoro Calda di Apprendimento</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Materiale in alluminio, molteplici processi di cottura, guarnizione integrata in silicone, resistente.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la lampada da terra per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: lampada da tavolo<br/>- Materiale: dito naturale dell'albero + dipinto a mano<br/>- Adatto: camera da letto / soggiorno / studio<br/>- Portalampada: E27<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * lampada da tavolo<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di lampade da tavolo, gli altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se avete domande su queste lampade da tavolo, non esitate a contattarci e vi risponderemo via e-mail e risolveremo il problema in 24 ore.]]></Description>
+        <BulletPoint>★ FUNZIONE DIMMERANTE: comoda e pratica, può essere oscurata, illuminata per leggere e scrivere e può essere utilizzata come luce notturna!</BulletPoint>
+        <BulletPoint>★ FACILE DA INSTALLARE E PULIRE: L'installazione della lampada è molto conveniente, finché il paralume è installato, il paralume ha una bobina fissa per fissare il paralume, il paralume può essere rimosso e lavato.</BulletPoint>
+        <BulletPoint>★ MIGLIOR REGALO: il linguaggio dei fiori di lavanda aspetta l'amore, molto romantico. Ogni ragazza ha un sogno romantico. Questo orsetto è la scelta migliore per i regali per le ragazze. Il simpatico orso lavanda è inserito con una bella lavanda.</BulletPoint>
+        <BulletPoint>★ LAMPADA DA TAVOLO + PORTA VASO / PENNA: collega un bellissimo bouquet di lavanda, molto decorativo. Può anche essere usato come portapenne per studio e lavoro ed è molto pratico.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste lampade da tavolo, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Lampada Tavolo LED Stelo In Piantana Moderna Luce Lettura Intelligente Disegno Moderno Paralume Illuminazione Classico Semplice Elegante Soggiorno Camera Letto Altre Stanze Cromo Alluminio Dimmerabile Temperatura Colore Telecomando</SearchTerms>
+        <ItemType>Lampade da tavolo e abat-jour</ItemType>
+        <RecommendedBrowseNode>1904589031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <FurnitureAndDecor>
+              <VariationData/>
+            </FurnitureAndDecor>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

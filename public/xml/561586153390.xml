@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A1A3K0BAQPDN3U</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>53384018358</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>177</MessagesProcessed>
+				<MessagesSuccessful>61</MessagesSuccessful>
+				<MessagesWithError>116</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>100</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-41, Missing Attributes standard_product_id. SKU AIWKR-561586134757-41 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-41</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>101</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-42, Missing Attributes standard_product_id. SKU AIWKR-561586134757-42 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-42</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>102</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-43, Missing Attributes standard_product_id. SKU AIWKR-561586134757-43 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-43</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>103</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-44, Missing Attributes standard_product_id. SKU AIWKR-561586134757-44 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-44</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>104</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-45, Missing Attributes standard_product_id. SKU AIWKR-561586134757-45 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-45</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>105</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-46, Missing Attributes standard_product_id. SKU AIWKR-561586134757-46 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-46</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>106</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-47, Missing Attributes standard_product_id. SKU AIWKR-561586134757-47 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-47</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>107</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-48, Missing Attributes standard_product_id. SKU AIWKR-561586134757-48 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-48</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>108</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-49, Missing Attributes standard_product_id. SKU AIWKR-561586134757-49 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-49</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>109</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-50, Missing Attributes standard_product_id. SKU AIWKR-561586134757-50 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-50</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>110</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-51, Missing Attributes standard_product_id. SKU AIWKR-561586134757-51 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-51</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>111</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-52, Missing Attributes standard_product_id. SKU AIWKR-561586134757-52 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-52</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>112</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-53, Missing Attributes standard_product_id. SKU AIWKR-561586134757-53 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-53</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>113</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-54, Missing Attributes standard_product_id. SKU AIWKR-561586134757-54 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-54</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>114</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-55, Missing Attributes standard_product_id. SKU AIWKR-561586134757-55 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-55</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>115</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-56, Missing Attributes standard_product_id. SKU AIWKR-561586134757-56 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-56</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>116</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-57, Missing Attributes standard_product_id. SKU AIWKR-561586134757-57 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-57</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>117</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-0, Missing Attributes standard_product_id. SKU AIWKR-561586138299-0 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>118</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-1, Missing Attributes standard_product_id. SKU AIWKR-561586138299-1 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>119</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-2, Missing Attributes standard_product_id. SKU AIWKR-561586138299-2 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>120</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-3, Missing Attributes standard_product_id. SKU AIWKR-561586138299-3 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-3</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>121</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-4, Missing Attributes standard_product_id. SKU AIWKR-561586138299-4 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-4</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>122</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-5, Missing Attributes standard_product_id. SKU AIWKR-561586138299-5 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-5</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>123</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-6, Missing Attributes standard_product_id. SKU AIWKR-561586138299-6 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-6</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>124</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-7, Missing Attributes standard_product_id. SKU AIWKR-561586138299-7 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-7</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>125</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-8, Missing Attributes standard_product_id. SKU AIWKR-561586138299-8 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-8</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>126</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-9, Missing Attributes standard_product_id. SKU AIWKR-561586138299-9 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-9</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>127</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-10, Missing Attributes standard_product_id. SKU AIWKR-561586138299-10 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-10</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>128</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-11, Missing Attributes standard_product_id. SKU AIWKR-561586138299-11 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-11</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>129</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-12, Missing Attributes standard_product_id. SKU AIWKR-561586138299-12 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-12</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>130</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-13, Missing Attributes standard_product_id. SKU AIWKR-561586138299-13 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-13</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>131</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-14, Missing Attributes standard_product_id. SKU AIWKR-561586138299-14 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-14</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>132</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-15, Missing Attributes standard_product_id. SKU AIWKR-561586138299-15 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-15</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>133</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-16, Missing Attributes standard_product_id. SKU AIWKR-561586138299-16 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-16</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>134</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-17, Missing Attributes standard_product_id. SKU AIWKR-561586138299-17 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-17</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>135</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-18, Missing Attributes standard_product_id. SKU AIWKR-561586138299-18 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-18</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>136</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-19, Missing Attributes standard_product_id. SKU AIWKR-561586138299-19 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-19</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>137</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-20, Missing Attributes standard_product_id. SKU AIWKR-561586138299-20 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-20</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>138</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-21, Missing Attributes standard_product_id. SKU AIWKR-561586138299-21 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-21</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>139</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-22, Missing Attributes standard_product_id. SKU AIWKR-561586138299-22 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-22</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>140</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-23, Missing Attributes standard_product_id. SKU AIWKR-561586138299-23 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-23</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>141</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-24, Missing Attributes standard_product_id. SKU AIWKR-561586138299-24 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-24</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>142</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-25, Missing Attributes standard_product_id. SKU AIWKR-561586138299-25 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-25</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>143</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-26, Missing Attributes standard_product_id. SKU AIWKR-561586138299-26 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-26</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>144</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-27, Missing Attributes standard_product_id. SKU AIWKR-561586138299-27 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-27</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>145</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-28, Missing Attributes standard_product_id. SKU AIWKR-561586138299-28 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-28</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>146</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-29, Missing Attributes standard_product_id. SKU AIWKR-561586138299-29 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-29</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>147</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-30, Missing Attributes standard_product_id. SKU AIWKR-561586138299-30 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-30</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>148</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-31, Missing Attributes standard_product_id. SKU AIWKR-561586138299-31 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-31</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>149</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-32, Missing Attributes standard_product_id. SKU AIWKR-561586138299-32 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-32</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>150</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-33, Missing Attributes standard_product_id. SKU AIWKR-561586138299-33 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-33</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>151</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-34, Missing Attributes standard_product_id. SKU AIWKR-561586138299-34 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-34</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>152</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-35, Missing Attributes standard_product_id. SKU AIWKR-561586138299-35 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-35</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>153</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-36, Missing Attributes standard_product_id. SKU AIWKR-561586138299-36 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-36</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>154</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-37, Missing Attributes standard_product_id. SKU AIWKR-561586138299-37 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-37</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>155</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-38, Missing Attributes standard_product_id. SKU AIWKR-561586138299-38 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-38</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>156</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-39, Missing Attributes standard_product_id. SKU AIWKR-561586138299-39 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-39</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>157</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-40, Missing Attributes standard_product_id. SKU AIWKR-561586138299-40 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-40</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>158</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-41, Missing Attributes standard_product_id. SKU AIWKR-561586138299-41 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-41</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>159</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-42, Missing Attributes standard_product_id. SKU AIWKR-561586138299-42 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-42</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>160</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-43, Missing Attributes standard_product_id. SKU AIWKR-561586138299-43 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-43</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>161</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-44, Missing Attributes standard_product_id. SKU AIWKR-561586138299-44 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-44</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>162</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-45, Missing Attributes standard_product_id. SKU AIWKR-561586138299-45 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-45</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>163</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-46, Missing Attributes standard_product_id. SKU AIWKR-561586138299-46 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-46</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>164</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-47, Missing Attributes standard_product_id. SKU AIWKR-561586138299-47 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-47</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>165</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-48, Missing Attributes standard_product_id. SKU AIWKR-561586138299-48 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-48</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>166</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-49, Missing Attributes standard_product_id. SKU AIWKR-561586138299-49 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-49</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>167</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-50, Missing Attributes standard_product_id. SKU AIWKR-561586138299-50 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-50</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>168</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-51, Missing Attributes standard_product_id. SKU AIWKR-561586138299-51 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-51</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>169</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-52, Missing Attributes standard_product_id. SKU AIWKR-561586138299-52 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-52</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>170</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-53, Missing Attributes standard_product_id. SKU AIWKR-561586138299-53 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-53</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>171</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-54, Missing Attributes standard_product_id. SKU AIWKR-561586138299-54 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-54</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>172</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-55, Missing Attributes standard_product_id. SKU AIWKR-561586138299-55 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-55</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>173</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-56, Missing Attributes standard_product_id. SKU AIWKR-561586138299-56 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-56</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>174</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586138299-57, Missing Attributes standard_product_id. SKU AIWKR-561586138299-57 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586138299-57</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>59</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-0, Missing Attributes standard_product_id. SKU AIWKR-561586134757-0 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>60</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-1, Missing Attributes standard_product_id. SKU AIWKR-561586134757-1 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>61</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-2, Missing Attributes standard_product_id. SKU AIWKR-561586134757-2 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>62</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-3, Missing Attributes standard_product_id. SKU AIWKR-561586134757-3 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-3</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>63</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-4, Missing Attributes standard_product_id. SKU AIWKR-561586134757-4 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-4</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>64</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-5, Missing Attributes standard_product_id. SKU AIWKR-561586134757-5 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-5</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>65</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-6, Missing Attributes standard_product_id. SKU AIWKR-561586134757-6 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-6</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>66</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-7, Missing Attributes standard_product_id. SKU AIWKR-561586134757-7 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-7</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>67</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-8, Missing Attributes standard_product_id. SKU AIWKR-561586134757-8 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-8</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>68</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-9, Missing Attributes standard_product_id. SKU AIWKR-561586134757-9 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-9</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>69</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-10, Missing Attributes standard_product_id. SKU AIWKR-561586134757-10 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-10</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>70</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-11, Missing Attributes standard_product_id. SKU AIWKR-561586134757-11 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-11</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>71</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-12, Missing Attributes standard_product_id. SKU AIWKR-561586134757-12 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-12</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>72</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-13, Missing Attributes standard_product_id. SKU AIWKR-561586134757-13 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-13</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>73</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-14, Missing Attributes standard_product_id. SKU AIWKR-561586134757-14 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-14</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>74</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-15, Missing Attributes standard_product_id. SKU AIWKR-561586134757-15 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-15</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>75</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-16, Missing Attributes standard_product_id. SKU AIWKR-561586134757-16 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-16</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>76</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-17, Missing Attributes standard_product_id. SKU AIWKR-561586134757-17 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-17</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>77</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-18, Missing Attributes standard_product_id. SKU AIWKR-561586134757-18 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-18</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>78</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-19, Missing Attributes standard_product_id. SKU AIWKR-561586134757-19 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-19</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>79</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-20, Missing Attributes standard_product_id. SKU AIWKR-561586134757-20 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-20</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>80</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-21, Missing Attributes standard_product_id. SKU AIWKR-561586134757-21 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-21</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>81</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-22, Missing Attributes standard_product_id. SKU AIWKR-561586134757-22 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-22</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>82</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-23, Missing Attributes standard_product_id. SKU AIWKR-561586134757-23 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-23</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>83</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-24, Missing Attributes standard_product_id. SKU AIWKR-561586134757-24 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-24</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>84</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-25, Missing Attributes standard_product_id. SKU AIWKR-561586134757-25 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-25</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>85</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-26, Missing Attributes standard_product_id. SKU AIWKR-561586134757-26 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-26</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>86</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-27, Missing Attributes standard_product_id. SKU AIWKR-561586134757-27 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-27</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>87</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-28, Missing Attributes standard_product_id. SKU AIWKR-561586134757-28 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-28</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>88</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-29, Missing Attributes standard_product_id. SKU AIWKR-561586134757-29 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-29</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>89</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-30, Missing Attributes standard_product_id. SKU AIWKR-561586134757-30 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-30</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>90</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-31, Missing Attributes standard_product_id. SKU AIWKR-561586134757-31 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-31</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>91</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-32, Missing Attributes standard_product_id. SKU AIWKR-561586134757-32 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-32</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>92</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-33, Missing Attributes standard_product_id. SKU AIWKR-561586134757-33 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-33</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>93</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-34, Missing Attributes standard_product_id. SKU AIWKR-561586134757-34 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-34</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>94</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-35, Missing Attributes standard_product_id. SKU AIWKR-561586134757-35 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-35</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>95</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-36, Missing Attributes standard_product_id. SKU AIWKR-561586134757-36 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-36</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>96</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-37, Missing Attributes standard_product_id. SKU AIWKR-561586134757-37 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-37</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>97</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-38, Missing Attributes standard_product_id. SKU AIWKR-561586134757-38 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-38</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>98</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-39, Missing Attributes standard_product_id. SKU AIWKR-561586134757-39 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-39</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>99</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134757-40, Missing Attributes standard_product_id. SKU AIWKR-561586134757-40 doesn&apos;t match any ASINs. Make sure that all standard product ids (such as UPC, ISBN, EAN, or JAN codes) are correct. To create a new ASIN, include the following attributes: standard_product_id. Feed ID: 0. For more troubleshooting help, see http://sellercentral.amazon.com/gp/errorcode/200692370</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134757-40</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

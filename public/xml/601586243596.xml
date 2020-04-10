@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A1BUJEG2QM7EPD</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>58345018359</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>1</MessagesProcessed>
+				<MessagesSuccessful>0</MessagesSuccessful>
+				<MessagesWithError>1</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5665</ResultMessageCode>
+				<ResultDescription>Amazon must approve your brand before you can use it to list products. Brands should be registered through Brand Registry, but if your brand is not eligible for Brand Registry, you can obtain an exception by contacting Seller Support and mentioning error code 5665.  When contacting Seller Support, provide the following information:  -	The brand name used when creating the listing.  -	Images of the product and packaging, showing branding on either. The images can show the product and packaging held in hand, or placed on a table. The branding must be permanently affixed.  -	If using inventory file templates, please also provide the Batch ID of the inventory file process report.  For more information, please review our Brand Name Policy.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>RENC-601586243181</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8566</ResultMessageCode>
+				<ResultDescription>SKU does not match any ASIN and the product data provided is not eligible for ASIN creation.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>RENC-601586243181</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586482848</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476763398</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates Stick avec Boucle de Pied, Résistance Physique Core Gym Idéal pour la Maison, Entraînement Total du Corps, Gymnase, Haltérophilie</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Ce mouvement contrôlé est non seulement idéal pour développer la force athlétique de tout le corps, mais il est également facile pour les articulations et les muscles faibles qui se remettent d'une surutilisation et de blessures.<br/>★ Bienvenue dans la boutique ATRNA, merci de votre présence et de votre confiance! Vous pouvez cliquer sur notre boutique pour voir plus de produits.<br/>★ Nous continuerons de mettre à jour la bande de résistance pour fournir aux clients des produits de qualité.<br/><br/>★ spécification<br/>- Type d'élément: Bande de résistance<br/>- Matériel: tube en latex naturel / boucle en nylon / acier<br/>- Couleur: noir-rouge<br/><br/>★ Liste des packages:<br/>- 1 * bande de résistance<br/><br/>★ Remarque<br/>- Ce produit est uniquement destiné à la vente de bandes de résistance, les autres accessoires ne sont pas inclus dans la portée de la vente, veuillez faire attention lors de l'achat.<br/>- En raison de l'effet de lumière et des différents écrans d'ordinateur, il peut y avoir une différence de couleur.<br/>- La taille est une mesure manuelle, il y aura une erreur de 1-2 cm.<br/>- Si vous avez des questions sur ces bandes de résistance pour pédales, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.]]></Description>
+        <BulletPoint>★ PRATIQUE ET ROBUSTE: Le poteau peut être fendu et déchiré, l'EVA est confortable et durable.</BulletPoint>
+        <BulletPoint>★ LONGUEUR AJUSTABLE: Boucle réglable, ajustement rapide de la longueur, rapide et pratique.</BulletPoint>
+        <BulletPoint>★ MATÉRIEL SÉCURITAIRE: Conception sûre et anti-rupture, structure en nylon imitation robuste.</BulletPoint>
+        <BulletPoint>★ À TOUT MOMENT PARTOUT: à la maison, dans les chambres d'hôtel, dans les bureaux et même à l'extérieur À tout moment, n'importe où vous voulez commencer un événement sportif ou un sport que vous voulez, c'est très facile à transporter et une petite salle de sport portable. Entraînement musculaire à domicile parfait.</BulletPoint>
+        <BulletPoint>★ SERVICE CLIENTS: Si vous avez des questions sur ces bandes de résistance, n'hésitez pas à nous contacter et nous vous répondrons par e-mail et résoudrons votre problème en 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Bandes Résistance Multifonction Exercices Jambes Yoga Fitness Traction Pieds Assis Musculation Élastique Pédales Poignées Cordes Étirer Latex Équipement Domicile Gymnase Bureau Tension Corde Ressort Exerciseur Extracteur Accessoire Sport</SearchTerms>
+        <ItemType>Extenseurs et cables de résistance</ItemType>
+        <RecommendedBrowseNode>486037031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData/>
+            </OutdoorLiving>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

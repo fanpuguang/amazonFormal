@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665246</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini LuftküHler Mobile KlimageräTe, Kleine Klimaanlage FüR GeküHlte Wohnheime, 3-Gang-Kaltluftregulierung, Nachtlichtmodus, Kabelloser Und Kabelgebundener Dual-Use</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Lüftertaste<br/>1. Klicken Sie auf die Schaltfläche Lüfter, um den Lüfter ein- und auszuschalten. Klicken Sie zum ersten Mal auf die Schaltfläche Lüfter, um den Lüfter zu starten (Standard niedrig). Klicken Sie zum zweiten Mal auf die Lüfterschaltfläche, um zur zweiten Lüfterposition zu wechseln. Klicken Sie dreimal auf den Schaltknopf, um die dritte Lüfterposition zu wechseln.<br/>2. Halten Sie die Lüftertaste gedrückt, um die Negativionenarbeit zu starten und zu schließen.<br/><br/>✔ Funktionstaste<br/>Funktionstaste. Klicken Sie auf die Funktionstaste, um den Lüfterböenmodus ein- und auszuschalten. 10 Sekunden lang blasen und 10 Sekunden lang anhalten. Halten Sie die Funktion gedrückt, um die Nachtlichtfunktion des Wassertanks zu aktivieren und zu deaktivieren.<br/><br/>✔ Anzeigefunktion<br/>Das blaue Licht ist immer an, wenn die Haare ununterbrochen blasen. Das blaue Licht blinkt im Böenmodus. Das grüne Licht leuchtet, wenn das negative Ion arbeitet. Das rote Licht leuchtet beim Laden immer.<br/><br/>✔ Lade- und Arbeitszeit<br/>Das Gerät ist ca. 3 Stunden lang voll aufgeladen.<br/>Arbeitszeit: Nachdem die Maschine vollständig aufgeladen ist, beträgt die Arbeitszeit des ersten Gangs etwa 8 Stunden, die Arbeitszeit des zweiten Gangs etwa 4,5 Stunden und die Arbeitszeit des dritten Gangs 2,5 Stunden.<br/><br/>✔ Produktname: Mini-Klimaanlage tragbar<br/>✔ Material: Elektronische Komponenten ABS / PP / PC<br/>✔ Gewicht: 470 g<br/>✔ Batteriekapazität: 2000mAh<br/>✔ Motordrehzahl: 5 V / 7 V im mittleren Bereich / 9 V in der dritten Klasse<br/>✔ Batteriespannung / -strom: niedrige 300 mA / mittlere Reichweite 540 mA / hohe 720 mA<br/>✔ Negative Ionenarbeitsleistung: 1W<br/>✔ Ionenkonzentration: 1 × 10 6 PCS / cm 3<br/>✔ Ozonkonzentration: <0,03 ppm<br/>✔ Produktgröße: 120 x 127 x 132 mm]]></Description>
+        <BulletPoint>✔ Großräumige Wassertank: Die richtige Kapazität von 150 ml kann das Restwasser im Wassertank vermeiden und das Problem der Verschlechterung und Verschmutzung der Luft nach einer langen Zeit verursachen.</BulletPoint>
+        <BulletPoint>✔ Der kalte Wind kühlt schnell ab: Die Weichheit des erfrischenden Ventilator mit Klimaanlage Add Wasser und Eis in den Wassertank zu schnell senden kühle, feuchte Luft und genießen Sie den weichen Wind!</BulletPoint>
+        <BulletPoint>✔ dritte Gang Windgeschwindigkeit: Es gibt immer eine Wahl für eine Vielzahl von Windtypen. Genießen Sie die Luft ruhig, sauber und atmen, ohne Druck.</BulletPoint>
+        <BulletPoint>✔ Kein Lärm. Leise und kühl: Der bürstenlose Motor wird verwendet für hohe Geschwindigkeit, geringe Geräuschentwicklung, stabilen und leisen Betrieb. Die 4-Blattkonstruktion ist leicht und geringes Rauschen.</BulletPoint>
+        <BulletPoint>✔ Nachtlicht: kommt mit Nachtlicht-Modus, 10 Stunden lange Akkulaufzeit, verdrahtet drahtlose + Dual-Use, sofort die kühlen betreten und gesunde Luft zu genießen.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665253</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini LuftküHler Mobile KlimageräTe, Kleine Klimaanlage FüR GeküHlte Wohnheime, 3-Gang-Kaltluftregulierung, Nachtlichtmodus, Kabelloser Und Kabelgebundener Dual-Use</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Lüftertaste<br/>1. Klicken Sie auf die Schaltfläche Lüfter, um den Lüfter ein- und auszuschalten. Klicken Sie zum ersten Mal auf die Schaltfläche Lüfter, um den Lüfter zu starten (Standard niedrig). Klicken Sie zum zweiten Mal auf die Lüfterschaltfläche, um zur zweiten Lüfterposition zu wechseln. Klicken Sie dreimal auf den Schaltknopf, um die dritte Lüfterposition zu wechseln.<br/>2. Halten Sie die Lüftertaste gedrückt, um die Negativionenarbeit zu starten und zu schließen.<br/><br/>✔ Funktionstaste<br/>Funktionstaste. Klicken Sie auf die Funktionstaste, um den Lüfterböenmodus ein- und auszuschalten. 10 Sekunden lang blasen und 10 Sekunden lang anhalten. Halten Sie die Funktion gedrückt, um die Nachtlichtfunktion des Wassertanks zu aktivieren und zu deaktivieren.<br/><br/>✔ Anzeigefunktion<br/>Das blaue Licht ist immer an, wenn die Haare ununterbrochen blasen. Das blaue Licht blinkt im Böenmodus. Das grüne Licht leuchtet, wenn das negative Ion arbeitet. Das rote Licht leuchtet beim Laden immer.<br/><br/>✔ Lade- und Arbeitszeit<br/>Das Gerät ist ca. 3 Stunden lang voll aufgeladen.<br/>Arbeitszeit: Nachdem die Maschine vollständig aufgeladen ist, beträgt die Arbeitszeit des ersten Gangs etwa 8 Stunden, die Arbeitszeit des zweiten Gangs etwa 4,5 Stunden und die Arbeitszeit des dritten Gangs 2,5 Stunden.<br/><br/>✔ Produktname: Mini-Klimaanlage tragbar<br/>✔ Material: Elektronische Komponenten ABS / PP / PC<br/>✔ Gewicht: 470 g<br/>✔ Batteriekapazität: 2000mAh<br/>✔ Motordrehzahl: 5 V / 7 V im mittleren Bereich / 9 V in der dritten Klasse<br/>✔ Batteriespannung / -strom: niedrige 300 mA / mittlere Reichweite 540 mA / hohe 720 mA<br/>✔ Negative Ionenarbeitsleistung: 1W<br/>✔ Ionenkonzentration: 1 × 10 6 PCS / cm 3<br/>✔ Ozonkonzentration: <0,03 ppm<br/>✔ Produktgröße: 120 x 127 x 132 mm]]></Description>
+        <BulletPoint>✔ Großräumige Wassertank: Die richtige Kapazität von 150 ml kann das Restwasser im Wassertank vermeiden und das Problem der Verschlechterung und Verschmutzung der Luft nach einer langen Zeit verursachen.</BulletPoint>
+        <BulletPoint>✔ Der kalte Wind kühlt schnell ab: Die Weichheit des erfrischenden Ventilator mit Klimaanlage Add Wasser und Eis in den Wassertank zu schnell senden kühle, feuchte Luft und genießen Sie den weichen Wind!</BulletPoint>
+        <BulletPoint>✔ dritte Gang Windgeschwindigkeit: Es gibt immer eine Wahl für eine Vielzahl von Windtypen. Genießen Sie die Luft ruhig, sauber und atmen, ohne Druck.</BulletPoint>
+        <BulletPoint>✔ Kein Lärm. Leise und kühl: Der bürstenlose Motor wird verwendet für hohe Geschwindigkeit, geringe Geräuschentwicklung, stabilen und leisen Betrieb. Die 4-Blattkonstruktion ist leicht und geringes Rauschen.</BulletPoint>
+        <BulletPoint>✔ Nachtlicht: kommt mit Nachtlicht-Modus, 10 Stunden lange Akkulaufzeit, verdrahtet drahtlose + Dual-Use, sofort die kühlen betreten und gesunde Luft zu genießen.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Blue</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665260</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini LuftküHler Mobile KlimageräTe, Kleine Klimaanlage FüR GeküHlte Wohnheime, 3-Gang-Kaltluftregulierung, Nachtlichtmodus, Kabelloser Und Kabelgebundener Dual-Use</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Lüftertaste<br/>1. Klicken Sie auf die Schaltfläche Lüfter, um den Lüfter ein- und auszuschalten. Klicken Sie zum ersten Mal auf die Schaltfläche Lüfter, um den Lüfter zu starten (Standard niedrig). Klicken Sie zum zweiten Mal auf die Lüfterschaltfläche, um zur zweiten Lüfterposition zu wechseln. Klicken Sie dreimal auf den Schaltknopf, um die dritte Lüfterposition zu wechseln.<br/>2. Halten Sie die Lüftertaste gedrückt, um die Negativionenarbeit zu starten und zu schließen.<br/><br/>✔ Funktionstaste<br/>Funktionstaste. Klicken Sie auf die Funktionstaste, um den Lüfterböenmodus ein- und auszuschalten. 10 Sekunden lang blasen und 10 Sekunden lang anhalten. Halten Sie die Funktion gedrückt, um die Nachtlichtfunktion des Wassertanks zu aktivieren und zu deaktivieren.<br/><br/>✔ Anzeigefunktion<br/>Das blaue Licht ist immer an, wenn die Haare ununterbrochen blasen. Das blaue Licht blinkt im Böenmodus. Das grüne Licht leuchtet, wenn das negative Ion arbeitet. Das rote Licht leuchtet beim Laden immer.<br/><br/>✔ Lade- und Arbeitszeit<br/>Das Gerät ist ca. 3 Stunden lang voll aufgeladen.<br/>Arbeitszeit: Nachdem die Maschine vollständig aufgeladen ist, beträgt die Arbeitszeit des ersten Gangs etwa 8 Stunden, die Arbeitszeit des zweiten Gangs etwa 4,5 Stunden und die Arbeitszeit des dritten Gangs 2,5 Stunden.<br/><br/>✔ Produktname: Mini-Klimaanlage tragbar<br/>✔ Material: Elektronische Komponenten ABS / PP / PC<br/>✔ Gewicht: 470 g<br/>✔ Batteriekapazität: 2000mAh<br/>✔ Motordrehzahl: 5 V / 7 V im mittleren Bereich / 9 V in der dritten Klasse<br/>✔ Batteriespannung / -strom: niedrige 300 mA / mittlere Reichweite 540 mA / hohe 720 mA<br/>✔ Negative Ionenarbeitsleistung: 1W<br/>✔ Ionenkonzentration: 1 × 10 6 PCS / cm 3<br/>✔ Ozonkonzentration: <0,03 ppm<br/>✔ Produktgröße: 120 x 127 x 132 mm]]></Description>
+        <BulletPoint>✔ Großräumige Wassertank: Die richtige Kapazität von 150 ml kann das Restwasser im Wassertank vermeiden und das Problem der Verschlechterung und Verschmutzung der Luft nach einer langen Zeit verursachen.</BulletPoint>
+        <BulletPoint>✔ Der kalte Wind kühlt schnell ab: Die Weichheit des erfrischenden Ventilator mit Klimaanlage Add Wasser und Eis in den Wassertank zu schnell senden kühle, feuchte Luft und genießen Sie den weichen Wind!</BulletPoint>
+        <BulletPoint>✔ dritte Gang Windgeschwindigkeit: Es gibt immer eine Wahl für eine Vielzahl von Windtypen. Genießen Sie die Luft ruhig, sauber und atmen, ohne Druck.</BulletPoint>
+        <BulletPoint>✔ Kein Lärm. Leise und kühl: Der bürstenlose Motor wird verwendet für hohe Geschwindigkeit, geringe Geräuschentwicklung, stabilen und leisen Betrieb. Die 4-Blattkonstruktion ist leicht und geringes Rauschen.</BulletPoint>
+        <BulletPoint>✔ Nachtlicht: kommt mit Nachtlicht-Modus, 10 Stunden lange Akkulaufzeit, verdrahtet drahtlose + Dual-Use, sofort die kühlen betreten und gesunde Luft zu genießen.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585706601-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665895</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Tragbare Klimaanlage LuftküHler,Mini LuftküHler Mobile KlimageräTe, Usb-KüHlventilator, Kann Eiswasser HinzufüGen, Desktop-BüRo Ultra Leise</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Windgeschwindigkeit: erster Gang: 2,0 m / s, zweiter Gang: 2,5 m / s, dritter Gang: 3,5 m / s<br/>✔ Geräusch: erster Gang: 30 dB, zweiter Gang: 38 dB, dritter Gang: 46 dB<br/>✔ Motordrehzahl: erster Gang: 2570 U / min, zweiter Gang: 3215 U / min, dritter Gang: 3660 U / min<br/><br/>✔ Produktname: Wasserkühlgebläse<br/>✔ Wassertankinhalt: 380 ml<br/>✔ Arbeitsstrom: 0,2A - 1,4A<br/>✔ Eingang: DC5V<br/>✔ Leistung: 1W-7W<br/>✔ Produktmaterial: ABS / Silikon<br/>✔ Produktgröße: 133 mm, 178 mm, 170 mm<br/><br/>✔ 1: Legen Sie das Produkt nicht zur Seite, sondern legen Sie es auf die Seite oder auf den Kopf, damit kein Wasser in die Leiterplatte eindringt.<br/>✔ 2: Der dritte Gang des Lüfters benötigt viel Strom. Der dritte Gang darf nicht unter 1,5 A aktiviert werden. Für die Stromversorgung ist ein 2A-Adapter oder ein USB 3.0-Anschluss am Computer erforderlich.<br/>✔ 3: Füllen Sie es zum ersten Mal mit Wasser und lassen Sie es 20 Minuten lang stehen. Der trockene Vorhang ist nur dann besser, wenn er mit Wasser gefüllt ist. Der Wassertank am Boden des Lüfters ist nicht vollständig abgedichtet, und beim Gießen tritt Wasser von der Seite aus. Wenn Sie den Lüfter bewegen müssen, öffnen Sie den Wasserauslass am Boden des Hauptgeräts und bewegen Sie ihn nach dem Ablassen des Wassers.]]></Description>
+        <BulletPoint>✔ Mehrzweckmaschine: Kann Eiswasser hinzufügen und schnell abkühlen. Wasservorhangfilter zur Reinigung der Frischluft. Der Luftauslass ist so eingestellt, dass er in einem weiten Bereich abkühlt.</BulletPoint>
+        <BulletPoint>✔ Weiches und warmes Licht: Versprechen Sie ein farbwechselndes Nachtlicht, das durch langes Drücken entsprechend Ihrer Lieblingsfarbe eingestellt werden kann. Lass dich ruhig schlafen.</BulletPoint>
+        <BulletPoint>✔ Doppelschichttechnologie: Eisvorhang mit hochdichtem Staubfilter, Reinigungssystem, hochwirksames antibakterielles Mittel. Wie der erfrischende Wind nach dem Regen, wie die Kühle der Raumklimatisierung.</BulletPoint>
+        <BulletPoint>✔ Austauschbarer Wasservorhang: Der ursprüngliche Wasservorhang kann 6 bis 8 Monate lang verwendet werden. Trocknen Sie ihn lange und lassen Sie ihn trocknen.</BulletPoint>
+        <BulletPoint>✔ Eingebautes Befeuchtungssystem: Der nicht trocknende Wasservorhang im Sommer kann die Luftfeuchtigkeit effektiv erhöhen, für Kühle sorgen und Ihre Haut Wasser trinken lassen.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585711622-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665956</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Persönliche Luftkühler, tragbare Mini-Klimaanlage, Kühlungs-Silent-Sprayer, Luftbefeuchtung Reinigung nicht trocken ist, Desktop-Luftkühler auf dem Bett Small Office Studentenwohnheim</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Sind Sie immer noch besorgt über diese Probleme?<br/>01 Der Lüfter ist noch heiß und nicht kühl genug, wenn der maximale Gang erreicht ist.<br/>02 Der erste oder dritte Gang ist nicht nur sehr laut, sondern verursacht auch Kopfschmerzen.<br/>03 Möchten Sie den kalten Wind der Klimaanlage spüren, aber zu Hause / im Büro, können Sie die Klimaanlage aber nicht einschalten?<br/><br/>✔ Produktname: Icy Fan<br/>✔ Material: ABS + PP + Leder<br/>✔ Produktgröße: 145 * 132 * 172,5 mm<br/>✔ Wassertankkapazität: 200 ml<br/>✔ Windgeschwindigkeitsgetriebe: Stufenlose Geschwindigkeitsregelung<br/>✔ Nettogewicht des Produkts: 700 g<br/>✔ Nennspannung: DC 5V<br/>✔ Produktfarbe: weiß<br/>✔ Nennleistung: 4,5 W.]]></Description>
+        <BulletPoint>✔ Heller Ton, geräuscharm, leise und kühl: Nach mehr als 2.000 Luftkanaltests verwenden wir hochwertige Luftkanalsystemtechnologie und lang fließende Windblätter, um Ihnen das zarte Windgefühl zu vermitteln und die Kühle zu genießen.</BulletPoint>
+        <BulletPoint>✔ Wahrgenommene Kühle: Das neue Luftversorgungssystem zur Reduzierung des Luftwiderstands wird übernommen. Wenn das spezielle Fasereisvorhangmaterial eine genaue Kühlung erreicht, wird die Luftfeuchtigkeit erhöht, um sicherzustellen, dass die Haut nicht straff ist, während Sie die Kühle genießen.</BulletPoint>
+        <BulletPoint>✔ Zweizykluskühlung: Der leistungsstarke 7-Blatt-Lüfter sorgt in Kombination mit dem neuen Luftversorgungssystem zur Reduzierung des Luftwiderstands für eine Kühlung während der Luftzirkulation und erhöht den Sauerstoffgehalt und die Luftfeuchtigkeit, sodass Sie weiterhin keine Kopfschmerzen haben.</BulletPoint>
+        <BulletPoint>✔ Hochfrequenzkühlungstechnologie: Wenn Hochtemperaturluft eingeführt wird, verdunstet die vom Eis aufgenommene Wärme und kühlt schnell ab. Je höher die Temperatur, desto besser der Kühleffekt.</BulletPoint>
+        <BulletPoint>✔ Kundendienst: Der Shop nutzt internationale Logistik und die geschätzte Lieferzeit beträgt 15-30 Tage. Wenn Sie beim ersten Erhalt Ihres Produkts auf Probleme stoßen, können Sie sich jederzeit an uns wenden. Ich wünsche Ihnen viel Spaß beim Einkaufen.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585721015-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665987</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mobile KlimageräTe, Air Cooler, Kleiner Usb-LüFter, Ultra-Leiser Desktop-WassersprüHventilator, Starke KüHlung + GroßE Wasserversorgung</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[WARNUNG: Außerhalb der Aufsicht von Erwachsenen außerhalb der Reichweite von Kindern aufbewahren. Füllen Sie den Wassertank nicht mit Wasser. Muss während des Gebrauchs auf einer ebenen Fläche bleiben. Durch Kippen des Geräts kann Wasser aus der Basis austreten. Bitte lesen Sie vor Gebrauch die vollständige Bedienungsanleitung. Die Laufzeit hängt von Geschwindigkeitseinstellungen, Raumtemperatur, Raumfeuchtigkeit usw. ab. Lassen Sie den Wassertank ab, entfernen Sie den Filter und trocknen Sie ihn an der Luft, wenn Sie ihn längere Zeit nicht benutzen.<br/><br/>✔ Produktname: USB kleiner Lüfter<br/>✔ Wassertankkapazität: 180 ml<br/>✔ Leistung: 7,5 W.<br/>✔ Eingang: 5 V / 1,5 A.<br/>✔ Spray: 60 ml / h<br/>✔ Gang: 3 Gänge<br/>✔ Kabellänge: 1,2 m<br/>✔ Rauschen: ≦ 45 dB]]></Description>
+        <BulletPoint>✔ Nano-Eisnebel-Hydratation: Mit der gleichen Ultraschallzerstäubungstechnologie wie das Hydratisierungsgerät dringt ein doppelköpfiges Doppelspray mit 60 m / h leicht in die Haut ein.</BulletPoint>
+        <BulletPoint>✔ Axial-Flow-Kanal-Technologie: Bürstenloser Motor aus reinem Kupfer, Geräuschentwicklung um 30%, Flugturbinenschaufeln, dreidimensionaler Goldwind in den Wind.</BulletPoint>
+        <BulletPoint>✔ Große Windentfernung von 6,5 Metern: Luftturbinenlüfterblätter, großer Querschnitt und Großwinkelauslegung der Windblätter, Vergrößerung der Kontaktfläche mit der Luft, Windgeschwindigkeit 2 m / s und Windgeschwindigkeit um 40%.</BulletPoint>
+        <BulletPoint>✔ Aseptisches Design: Das aseptische Design des separaten Wassertanks, Wasser zu 180 ml hinzufügen und 4 Stunden lang befeuchten, um die Stagnation des alten Wassers zu verringern. Das Design ohne Vorhang ermöglicht das Verstecken von Bakterien.</BulletPoint>
+        <BulletPoint>✔ Kundendienst: Unser Geschäft nutzt internationale Logistik und die geschätzte Lieferzeit beträgt 15-30 Tage. Wenn Sie beim Erhalt der Ware auf Probleme stoßen, können Sie uns jederzeit kontaktieren. Ich wünsche Ihnen viel Spaß beim Einkaufen.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Green</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585723775-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666021</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mobile KlimageräTe, Air Cooler, Usb-Funktion WasserküHlventilator, Handspray Befeuchtung, Kleiner Schlafsaal Stumm BüRo Desktop Desktop-Aufladung</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Gebrauchsanweisung, nur vier Schritte, können Sie sicher verwenden<br/>Öffnen Sie die Wassereinspritzabdeckung<br/>2. Füllen Sie die Zisterne mit Eiswasser oder Eiswürfeln<br/>3. Schließen Sie die Stromversorgung an<br/>4. Schalten Sie die Windrichtung und die Windgeschwindigkeit ein und stellen Sie sie ein. Sie können sie sicher verwenden<br/><br/>✔ Material: ABS<br/>✔ Farbe: Königsblau<br/>✔ Nennspannung: DC 5V 0,84A<br/>✔ Nennleistung: 4,2 W.<br/>✔ Lüfterdrehzahl: 3000 U / min<br/>✔ Wassertankinhalt: 320 ml<br/>✔ Produktgröße: 158 MM * 180 MM * 164 MM]]></Description>
+        <BulletPoint>✔ Mehrere Szenen: Kühler Sommer zu jeder Zeit und an jedem Ort, um Ihren unterschiedlichen Szenenanforderungen gerecht zu werden: Büro, Schulschlafsaal, Schlafzimmerbett.</BulletPoint>
+        <BulletPoint>✔ Befeuchtung, Schönheit und Weichmacher sprühen: Wasser in den Wassertank geben, hocheffizienter Verdunstungs-Nassvorhang, gleichzeitig Feuchtigkeit abkühlen und wieder auffüllen, die Menge an Wasserauffüllung ist etwa doppelt so hoch wie bei kleinen Luftbefeuchtern.</BulletPoint>
+        <BulletPoint>✔ Top-Wasser-Design: Öffnen Sie den Deckel und geben Sie Wasser und Eis direkt hinzu. Die Bedienung ist einfach und unkompliziert. Im Winter können Sie im Sommer das kalte Gefühl erleben.</BulletPoint>
+        <BulletPoint>✔ Mehrere Stromversorgungsmodi: Dieses Produkt verwendet ein USB-Netzteil, das für den öffentlichen Bedarf, den Ladekopf, Computer-USB, mobile Stromversorgung, Auto-USB usw. geeignet ist.</BulletPoint>
+        <BulletPoint>✔ 100% After-Sales-Service: Unser Geschäft nutzt internationale Logistik. Sie können uns jederzeit per E-Mail kontaktieren. Wir werden Ihre Fragen innerhalb von 24 Stunden beantworten. Der Kunde ist immer der Erste. Sie können Ihre Meinung finden, indem Sie nach "DUYER" suchen. Produkte, ich wünsche Ihnen viel Spaß beim Einkaufen!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585726436-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666328</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Tragbarer Luftkühler, Miniklimaanlage, 3 in 1 Personal Verdunstungskühler, Luftbefeuchter, Purifier mit USB, 3 Speed-Desktop-Lüfter für Haus, Zimmer, Büro</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Sie möchten im heißen Sommer kühl bleiben, befürchten jedoch, dass der Betrieb der Klimaanlage den ganzen Tag über viel kostet und normale Ventilatoren nur warme Luft in Ihr Gesicht blasen.<br/><br/>Möchten Sie sich besser beruhigen?<br/>Verwenden Sie unseren Mini-Luftkühler, um diesen persönlichen Raumkühler für Ihre Komfortzone zu erhalten. Geben Sie einfach Wasser und Eis in den Wassertank, entspannen Sie sich und genießen Sie einen frischen und feuchten Atemzug.<br/><br/>✔ Material: Elektronische Komponenten ABS / PP / PC<br/>✔ Nettobetrag: 900 g<br/>✔ Bruttogewicht: 1,3 kg<br/>✔ Leistungsbedarf: 5V - DC2.1A<br/>✔ Lärm: 50 dB bei 3. Windgeschwindigkeit<br/>✔ Windgeschwindigkeitsgetriebe: 3 Gänge<br/>✔ Arbeitsleistung: 6W<br/>✔ Produktgröße: 145 * 145 * 190 mm<br/>✔ Anwendungsbereich: 60-100 cm<br/>✔ Blasreichweite: <2㎡<br/>✔ Temperaturreduzierungsbereich: 4-12 ° C (abhängig von der Umgebungstemperatur)]]></Description>
+        <BulletPoint>✔ Einstellbare Windgeschwindigkeit und automatisches Timing: Drei Windgeschwindigkeiten (hoch, mittel, niedrig) können eingestellt werden, die maximale Lüftergeschwindigkeit erreicht 3,24 m / s und die Windrichtung kann manuell um 80 Grad nach oben und unten eingestellt werden, um Ihre eigene personalisierte Kühlzone zu erstellen: drei automatische Timings (1H / 3H / 6H) können Sie die Freizeit, Schlaf- oder Arbeitszeit wählen, die am besten zu Ihnen passt.</BulletPoint>
+        <BulletPoint>✔ Einfach zu bedienen und tragbar: Sie müssen lediglich Wasser und Eiswürfel in den Wassertank dieses Desktop-Luftkühlers geben, ihn an einen USB-Anschluss oder eine Powerbank anschließen und einschalten. Mit einer Höhe von nur 6,4 Zoll ist es leicht zu bewegen und eignet sich perfekt für Ihren Desktop und Ihr Büro / Ihren Schlafsaal.</BulletPoint>
+        <BulletPoint>✔ Drei-in-Eins-Funktion: Drei-in-Eins-Multifunktionsdesign von Kühler, Lüfter und Luftbefeuchter für Klimaanlagen. Kühlen und befeuchten für bessere Luft. Das Kühldesign hält Sie von heißen Sommern fern und genießt kühle Sommer.</BulletPoint>
+        <BulletPoint>✔ Persönlicher Luftkühler: Ein Mini-persönlicher Luftkühler für den persönlichen Gebrauch. Er verwendet keine Kältemittel oder Chemikalien zum Kühlen der Luft, daher sollten Sie nicht den gleichen Effekt wie bei einer Klimaanlage erwarten. Bitte stellen Sie es nicht mehr als 3ft-4ft neben sich.</BulletPoint>
+        <BulletPoint>✔ 100% After-Sales-Service: Unser Geschäft nutzt internationale Logistik. Sie können uns jederzeit per E-Mail kontaktieren. Wir werden Ihre Fragen innerhalb von 24 Stunden beantworten. Der Kunde ist immer der Erste. Sie können Ihre Meinung finden, indem Sie nach "DUYER" suchen. Produkte, ich wünsche Ihnen viel Spaß beim Einkaufen!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585728921-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666755</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mobile KlimageräTe, Air Cooler, Usb-LüFter Der Klimaanlage, Kleiner KüHlerspray FüR Den Haushalt, Elektrischer LüFter FüR Das Auto Auf Dem Studentenwohnheimbett</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Sie möchten im heißen Sommer kühl bleiben, befürchten jedoch, dass der Betrieb der Klimaanlage den ganzen Tag über viel kostet und normale Ventilatoren nur warme Luft in Ihr Gesicht blasen.<br/><br/>Möchten Sie sich besser beruhigen?<br/>Verwenden Sie unseren Mini-Luftkühler, um diesen persönlichen Raumkühler für Ihre Komfortzone zu erhalten. Geben Sie einfach Wasser und Eis in den Wassertank, entspannen Sie sich und genießen Sie einen frischen und feuchten Atemzug.<br/><br/>  ✔ Luftvolumen: 4 Stufen<br/>  ✔ Nennspannung: 5V<br/>  ✔ Länge des Netzkabels: 1,8 m<br/>  ✔ Nennleistung: 6-9W<br/>  ✔ Steuermethode: mechanische Tasten<br/>  ✔ Sicherheitsfunktion: 6 Stunden Trockenbrand<br/>  ✔ Luftvolumenmodus: hoch / mittel / niedrig / Schlaf<br/>  ✔ Wassertankkapazität: 500 ml<br/>  ✔ Produktfarbe: weiß<br/>  ✔ Bruttogewicht / Nettogewicht: 1 kg / 0,8 kg<br/>  ✔ Material: ABS]]></Description>
+        <BulletPoint>✔ 3-Gang-Einstellung: Unsere Mini-Klimaanlage verfügt über 3-Gang-Modi, die je nach Ihren Anforderungen (niedrig / mittel / hoch) frei eingestellt werden können. Bei Bedarf können Sie auch die Windrichtung so einstellen, dass sie sich vertikal dreht. (Hinweis: Tragbare Luftkühler eignen sich nicht zur Kühlung des gesamten Raums.)</BulletPoint>
+        <BulletPoint>✔ 4-in-1-Design: Dieser Verdunstungsluftkühler verfügt über eine tragbare Lüfterkühlung, Sprühbefeuchtung, Luftreinigung und 4-in-1-Funktionen von 7 LED-Leuchten, wodurch nicht nur die Temperatur gesenkt wird, sondern auch trockene Luft vermieden wird. Darüber hinaus verfügt es über ein 7-Farben-LED-Umgebungslicht und ein weiches und farbenfrohes LED-Licht, das eine romantische Atmosphäre schafft und Ihnen ein besseres Schlafumfeld bietet.</BulletPoint>
+        <BulletPoint>✔ Energieeinsparung und Gesundheit: Dieser tragbare Luftkühler hat einen geringen Energieverbrauch und ist frei von Freon. Es schützt nicht nur die Gesundheit Ihrer Familie, sondern verbraucht auch weniger Strom, um Energieverluste zu minimieren und die Umwelt zu schützen. Ideal für die Kühlung von Wohnzimmer, Schlafzimmer, Büro usw. im Sommer. Kann auch bei der Arbeit und auf Reisen verwendet werden.</BulletPoint>
+        <BulletPoint>✔ Einfach zu bedienen und leicht: Fügen Sie einfach Wasser oder Eiswasser hinzu und schließen Sie das USB-Kabel an ein mobiles Netzteil oder eine USB-Schnittstelle an. Sie können den tragbaren Mini-Luftkühler durch Drücken der Funktionstaste verwenden. Diese persönliche Klimaanlage hat ein tragbares Mini-Design, das sehr einfach ins Büro, ins Schlafzimmer, ins Wohnzimmer, in die Küche und ins Freie getragen werden kann.</BulletPoint>
+        <BulletPoint>✔ 100% After-Sales-Service: Unser Geschäft nutzt internationale Logistik. Sie können uns jederzeit per E-Mail kontaktieren. Wir werden Ihre Fragen innerhalb von 24 Stunden beantworten. Der Kunde ist immer der Erste. Sie können Ihre Meinung finden, indem Sie nach "DUYER" suchen. Produkte, ich wünsche Ihnen viel Spaß beim Einkaufen!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585733575-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666960</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Tragbare Klimaanlage LuftküHler,Mini LuftküHler Mobile KlimageräTe, Kleiner LüFter Luftbefeuchter Spray KüHllüFter, Home Student Wohnheim BüRo Desktop</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Sie möchten im heißen Sommer kühl bleiben, befürchten jedoch, dass der Betrieb der Klimaanlage den ganzen Tag über viel kostet und normale Ventilatoren nur warme Luft in Ihr Gesicht blasen.<br/><br/>✔ Möchten Sie sich besser beruhigen?<br/>Verwenden Sie unseren Mini-Luftkühler, um diesen persönlichen Raumkühler für Ihre Komfortzone zu erhalten. Geben Sie einfach Wasser und Eis in den Wassertank, entspannen Sie sich und genießen Sie einen frischen und feuchten Atemzug.<br/><br/>✔ Lüfter und Luftbefeuchter<br/>Die Klimaanlage, der tragbare Verdunstungsluftkühler und der Zerstäuber-Luftbefeuchter sind in einem kombiniert, wodurch Haut und Luft befeuchtet, von trockener Luft ferngehalten und die Kühle des Sommers genossen werden können.<br/><br/>✔ Frische Luft und ein gesundes Leben genießen<br/>Es senkt die Temperatur durch Wasserverdunstung und erzeugt frische Luft. Geringer Stromverbrauch und lange Befeuchtungszeit! Es ist energieeffizient und kohlenstoffarm.<br/><br/>✔ Tragbarer persönlicher Luftkühler<br/>Mini persönlicher Luftkühler für den persönlichen Gebrauch, bitte nicht mehr als 3 Fuß bis 4 Fuß platzieren.<br/><br/>✔ Paket beinhaltet:<br/>1 x Klimaanlage<br/>1 x USB-Datenkabel]]></Description>
+        <BulletPoint>✔ Schnell abkühlen und negative Ionen freisetzen: Wasserreinigung und hohe Windgeschwindigkeit verdampfen, setzen negative Ionen frei, Sie können die Frische negativer Ionen mehr spüren und saubere Luft leicht genießen.</BulletPoint>
+        <BulletPoint>✔ Nebelfreies Befeuchtungssystem: Befeuchten Sie jeden Zentimeter der Haut, befeuchten Sie es ohne Nebel und ohne Puder, lassen Sie die Luft durch einen Wasservorhang mit einem Ventilator strömen und verwenden Sie das Prinzip der natürlichen Verdunstung von Wasser, um die Luftfeuchtigkeit zu erhöhen. Die nebelfreie Befeuchtung ist gesünder.</BulletPoint>
+        <BulletPoint>✔ Dual-Lüfter-Technologie: Die vorderen und hinteren Dual-Lüfter lösen das Problem von Luftvolumen und Druckkopf. Der hintere Lüfter ist für die Erhöhung des Saugluftdrucks und der vordere für die Luftzufuhr verantwortlich. Der Luftzufuhrabstand ist länger und das Luftvolumen größer.</BulletPoint>
+        <BulletPoint>✔ Unabhängiger Wassertank: Separater unabhängiger Wassertank. Es ist bequemer, Wasser zur Reinigung hinzuzufügen. Einfache Bedienung, kein Wasserleck, keine Wasseransammlung, mehr Sicherheit.</BulletPoint>
+        <BulletPoint>✔ 100% After-Sales-Service: Unser Geschäft nutzt internationale Logistik. Sie können uns jederzeit per E-Mail kontaktieren. Wir werden Ihre Fragen innerhalb von 24 Stunden beantworten. Der Kunde ist immer der Erste. Sie können Ihre Meinung finden, indem Sie nach "DUYER" suchen. Produkte, ich wünsche Ihnen viel Spaß beim Einkaufen!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585644903</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665192</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mini LuftküHler Mobile KlimageräTe, Kleine Klimaanlage FüR GeküHlte Wohnheime, 3-Gang-Kaltluftregulierung, Nachtlichtmodus, Kabelloser Und Kabelgebundener Dual-Use</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Lüftertaste<br/>1. Klicken Sie auf die Schaltfläche Lüfter, um den Lüfter ein- und auszuschalten. Klicken Sie zum ersten Mal auf die Schaltfläche Lüfter, um den Lüfter zu starten (Standard niedrig). Klicken Sie zum zweiten Mal auf die Lüfterschaltfläche, um zur zweiten Lüfterposition zu wechseln. Klicken Sie dreimal auf den Schaltknopf, um die dritte Lüfterposition zu wechseln.<br/>2. Halten Sie die Lüftertaste gedrückt, um die Negativionenarbeit zu starten und zu schließen.<br/><br/>✔ Funktionstaste<br/>Funktionstaste. Klicken Sie auf die Funktionstaste, um den Lüfterböenmodus ein- und auszuschalten. 10 Sekunden lang blasen und 10 Sekunden lang anhalten. Halten Sie die Funktion gedrückt, um die Nachtlichtfunktion des Wassertanks zu aktivieren und zu deaktivieren.<br/><br/>✔ Anzeigefunktion<br/>Das blaue Licht ist immer an, wenn die Haare ununterbrochen blasen. Das blaue Licht blinkt im Böenmodus. Das grüne Licht leuchtet, wenn das negative Ion arbeitet. Das rote Licht leuchtet beim Laden immer.<br/><br/>✔ Lade- und Arbeitszeit<br/>Das Gerät ist ca. 3 Stunden lang voll aufgeladen.<br/>Arbeitszeit: Nachdem die Maschine vollständig aufgeladen ist, beträgt die Arbeitszeit des ersten Gangs etwa 8 Stunden, die Arbeitszeit des zweiten Gangs etwa 4,5 Stunden und die Arbeitszeit des dritten Gangs 2,5 Stunden.<br/><br/>✔ Produktname: Mini-Klimaanlage tragbar<br/>✔ Material: Elektronische Komponenten ABS / PP / PC<br/>✔ Gewicht: 470 g<br/>✔ Batteriekapazität: 2000mAh<br/>✔ Motordrehzahl: 5 V / 7 V im mittleren Bereich / 9 V in der dritten Klasse<br/>✔ Batteriespannung / -strom: niedrige 300 mA / mittlere Reichweite 540 mA / hohe 720 mA<br/>✔ Negative Ionenarbeitsleistung: 1W<br/>✔ Ionenkonzentration: 1 × 10 6 PCS / cm 3<br/>✔ Ozonkonzentration: <0,03 ppm<br/>✔ Produktgröße: 120 x 127 x 132 mm]]></Description>
+        <BulletPoint>✔ Großräumige Wassertank: Die richtige Kapazität von 150 ml kann das Restwasser im Wassertank vermeiden und das Problem der Verschlechterung und Verschmutzung der Luft nach einer langen Zeit verursachen.</BulletPoint>
+        <BulletPoint>✔ Der kalte Wind kühlt schnell ab: Die Weichheit des erfrischenden Ventilator mit Klimaanlage Add Wasser und Eis in den Wassertank zu schnell senden kühle, feuchte Luft und genießen Sie den weichen Wind!</BulletPoint>
+        <BulletPoint>✔ dritte Gang Windgeschwindigkeit: Es gibt immer eine Wahl für eine Vielzahl von Windtypen. Genießen Sie die Luft ruhig, sauber und atmen, ohne Druck.</BulletPoint>
+        <BulletPoint>✔ Kein Lärm. Leise und kühl: Der bürstenlose Motor wird verwendet für hohe Geschwindigkeit, geringe Geräuschentwicklung, stabilen und leisen Betrieb. Die 4-Blattkonstruktion ist leicht und geringes Rauschen.</BulletPoint>
+        <BulletPoint>✔ Nachtlicht: kommt mit Nachtlicht-Modus, 10 Stunden lange Akkulaufzeit, verdrahtet drahtlose + Dual-Use, sofort die kühlen betreten und gesunde Luft zu genießen.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585706601</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665833</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Tragbare Klimaanlage LuftküHler,Mini LuftküHler Mobile KlimageräTe, Usb-KüHlventilator, Kann Eiswasser HinzufüGen, Desktop-BüRo Ultra Leise</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Windgeschwindigkeit: erster Gang: 2,0 m / s, zweiter Gang: 2,5 m / s, dritter Gang: 3,5 m / s<br/>✔ Geräusch: erster Gang: 30 dB, zweiter Gang: 38 dB, dritter Gang: 46 dB<br/>✔ Motordrehzahl: erster Gang: 2570 U / min, zweiter Gang: 3215 U / min, dritter Gang: 3660 U / min<br/><br/>✔ Produktname: Wasserkühlgebläse<br/>✔ Wassertankinhalt: 380 ml<br/>✔ Arbeitsstrom: 0,2A - 1,4A<br/>✔ Eingang: DC5V<br/>✔ Leistung: 1W-7W<br/>✔ Produktmaterial: ABS / Silikon<br/>✔ Produktgröße: 133 mm, 178 mm, 170 mm<br/><br/>✔ 1: Legen Sie das Produkt nicht zur Seite, sondern legen Sie es auf die Seite oder auf den Kopf, damit kein Wasser in die Leiterplatte eindringt.<br/>✔ 2: Der dritte Gang des Lüfters benötigt viel Strom. Der dritte Gang darf nicht unter 1,5 A aktiviert werden. Für die Stromversorgung ist ein 2A-Adapter oder ein USB 3.0-Anschluss am Computer erforderlich.<br/>✔ 3: Füllen Sie es zum ersten Mal mit Wasser und lassen Sie es 20 Minuten lang stehen. Der trockene Vorhang ist nur dann besser, wenn er mit Wasser gefüllt ist. Der Wassertank am Boden des Lüfters ist nicht vollständig abgedichtet, und beim Gießen tritt Wasser von der Seite aus. Wenn Sie den Lüfter bewegen müssen, öffnen Sie den Wasserauslass am Boden des Hauptgeräts und bewegen Sie ihn nach dem Ablassen des Wassers.]]></Description>
+        <BulletPoint>✔ Mehrzweckmaschine: Kann Eiswasser hinzufügen und schnell abkühlen. Wasservorhangfilter zur Reinigung der Frischluft. Der Luftauslass ist so eingestellt, dass er in einem weiten Bereich abkühlt.</BulletPoint>
+        <BulletPoint>✔ Weiches und warmes Licht: Versprechen Sie ein farbwechselndes Nachtlicht, das durch langes Drücken entsprechend Ihrer Lieblingsfarbe eingestellt werden kann. Lass dich ruhig schlafen.</BulletPoint>
+        <BulletPoint>✔ Doppelschichttechnologie: Eisvorhang mit hochdichtem Staubfilter, Reinigungssystem, hochwirksames antibakterielles Mittel. Wie der erfrischende Wind nach dem Regen, wie die Kühle der Raumklimatisierung.</BulletPoint>
+        <BulletPoint>✔ Austauschbarer Wasservorhang: Der ursprüngliche Wasservorhang kann 6 bis 8 Monate lang verwendet werden. Trocknen Sie ihn lange und lassen Sie ihn trocknen.</BulletPoint>
+        <BulletPoint>✔ Eingebautes Befeuchtungssystem: Der nicht trocknende Wasservorhang im Sommer kann die Luftfeuchtigkeit effektiv erhöhen, für Kühle sorgen und Ihre Haut Wasser trinken lassen.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>13</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585711622</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665901</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Persönliche Luftkühler, tragbare Mini-Klimaanlage, Kühlungs-Silent-Sprayer, Luftbefeuchtung Reinigung nicht trocken ist, Desktop-Luftkühler auf dem Bett Small Office Studentenwohnheim</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Sind Sie immer noch besorgt über diese Probleme?<br/>01 Der Lüfter ist noch heiß und nicht kühl genug, wenn der maximale Gang erreicht ist.<br/>02 Der erste oder dritte Gang ist nicht nur sehr laut, sondern verursacht auch Kopfschmerzen.<br/>03 Möchten Sie den kalten Wind der Klimaanlage spüren, aber zu Hause / im Büro, können Sie die Klimaanlage aber nicht einschalten?<br/><br/>✔ Produktname: Icy Fan<br/>✔ Material: ABS + PP + Leder<br/>✔ Produktgröße: 145 * 132 * 172,5 mm<br/>✔ Wassertankkapazität: 200 ml<br/>✔ Windgeschwindigkeitsgetriebe: Stufenlose Geschwindigkeitsregelung<br/>✔ Nettogewicht des Produkts: 700 g<br/>✔ Nennspannung: DC 5V<br/>✔ Produktfarbe: weiß<br/>✔ Nennleistung: 4,5 W.]]></Description>
+        <BulletPoint>✔ Heller Ton, geräuscharm, leise und kühl: Nach mehr als 2.000 Luftkanaltests verwenden wir hochwertige Luftkanalsystemtechnologie und lang fließende Windblätter, um Ihnen das zarte Windgefühl zu vermitteln und die Kühle zu genießen.</BulletPoint>
+        <BulletPoint>✔ Wahrgenommene Kühle: Das neue Luftversorgungssystem zur Reduzierung des Luftwiderstands wird übernommen. Wenn das spezielle Fasereisvorhangmaterial eine genaue Kühlung erreicht, wird die Luftfeuchtigkeit erhöht, um sicherzustellen, dass die Haut nicht straff ist, während Sie die Kühle genießen.</BulletPoint>
+        <BulletPoint>✔ Zweizykluskühlung: Der leistungsstarke 7-Blatt-Lüfter sorgt in Kombination mit dem neuen Luftversorgungssystem zur Reduzierung des Luftwiderstands für eine Kühlung während der Luftzirkulation und erhöht den Sauerstoffgehalt und die Luftfeuchtigkeit, sodass Sie weiterhin keine Kopfschmerzen haben.</BulletPoint>
+        <BulletPoint>✔ Hochfrequenzkühlungstechnologie: Wenn Hochtemperaturluft eingeführt wird, verdunstet die vom Eis aufgenommene Wärme und kühlt schnell ab. Je höher die Temperatur, desto besser der Kühleffekt.</BulletPoint>
+        <BulletPoint>✔ Kundendienst: Der Shop nutzt internationale Logistik und die geschätzte Lieferzeit beträgt 15-30 Tage. Wenn Sie beim ersten Erhalt Ihres Produkts auf Probleme stoßen, können Sie sich jederzeit an uns wenden. Ich wünsche Ihnen viel Spaß beim Einkaufen.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585721015</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665963</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mobile KlimageräTe, Air Cooler, Kleiner Usb-LüFter, Ultra-Leiser Desktop-WassersprüHventilator, Starke KüHlung + GroßE Wasserversorgung</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[WARNUNG: Außerhalb der Aufsicht von Erwachsenen außerhalb der Reichweite von Kindern aufbewahren. Füllen Sie den Wassertank nicht mit Wasser. Muss während des Gebrauchs auf einer ebenen Fläche bleiben. Durch Kippen des Geräts kann Wasser aus der Basis austreten. Bitte lesen Sie vor Gebrauch die vollständige Bedienungsanleitung. Die Laufzeit hängt von Geschwindigkeitseinstellungen, Raumtemperatur, Raumfeuchtigkeit usw. ab. Lassen Sie den Wassertank ab, entfernen Sie den Filter und trocknen Sie ihn an der Luft, wenn Sie ihn längere Zeit nicht benutzen.<br/><br/>✔ Produktname: USB kleiner Lüfter<br/>✔ Wassertankkapazität: 180 ml<br/>✔ Leistung: 7,5 W.<br/>✔ Eingang: 5 V / 1,5 A.<br/>✔ Spray: 60 ml / h<br/>✔ Gang: 3 Gänge<br/>✔ Kabellänge: 1,2 m<br/>✔ Rauschen: ≦ 45 dB]]></Description>
+        <BulletPoint>✔ Nano-Eisnebel-Hydratation: Mit der gleichen Ultraschallzerstäubungstechnologie wie das Hydratisierungsgerät dringt ein doppelköpfiges Doppelspray mit 60 m / h leicht in die Haut ein.</BulletPoint>
+        <BulletPoint>✔ Axial-Flow-Kanal-Technologie: Bürstenloser Motor aus reinem Kupfer, Geräuschentwicklung um 30%, Flugturbinenschaufeln, dreidimensionaler Goldwind in den Wind.</BulletPoint>
+        <BulletPoint>✔ Große Windentfernung von 6,5 Metern: Luftturbinenlüfterblätter, großer Querschnitt und Großwinkelauslegung der Windblätter, Vergrößerung der Kontaktfläche mit der Luft, Windgeschwindigkeit 2 m / s und Windgeschwindigkeit um 40%.</BulletPoint>
+        <BulletPoint>✔ Aseptisches Design: Das aseptische Design des separaten Wassertanks, Wasser zu 180 ml hinzufügen und 4 Stunden lang befeuchten, um die Stagnation des alten Wassers zu verringern. Das Design ohne Vorhang ermöglicht das Verstecken von Bakterien.</BulletPoint>
+        <BulletPoint>✔ Kundendienst: Unser Geschäft nutzt internationale Logistik und die geschätzte Lieferzeit beträgt 15-30 Tage. Wenn Sie beim Erhalt der Ware auf Probleme stoßen, können Sie uns jederzeit kontaktieren. Ich wünsche Ihnen viel Spaß beim Einkaufen.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>15</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585723775</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520665994</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mobile KlimageräTe, Air Cooler, Usb-Funktion WasserküHlventilator, Handspray Befeuchtung, Kleiner Schlafsaal Stumm BüRo Desktop Desktop-Aufladung</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Gebrauchsanweisung, nur vier Schritte, können Sie sicher verwenden<br/>Öffnen Sie die Wassereinspritzabdeckung<br/>2. Füllen Sie die Zisterne mit Eiswasser oder Eiswürfeln<br/>3. Schließen Sie die Stromversorgung an<br/>4. Schalten Sie die Windrichtung und die Windgeschwindigkeit ein und stellen Sie sie ein. Sie können sie sicher verwenden<br/><br/>✔ Material: ABS<br/>✔ Farbe: Königsblau<br/>✔ Nennspannung: DC 5V 0,84A<br/>✔ Nennleistung: 4,2 W.<br/>✔ Lüfterdrehzahl: 3000 U / min<br/>✔ Wassertankinhalt: 320 ml<br/>✔ Produktgröße: 158 MM * 180 MM * 164 MM]]></Description>
+        <BulletPoint>✔ Mehrere Szenen: Kühler Sommer zu jeder Zeit und an jedem Ort, um Ihren unterschiedlichen Szenenanforderungen gerecht zu werden: Büro, Schulschlafsaal, Schlafzimmerbett.</BulletPoint>
+        <BulletPoint>✔ Befeuchtung, Schönheit und Weichmacher sprühen: Wasser in den Wassertank geben, hocheffizienter Verdunstungs-Nassvorhang, gleichzeitig Feuchtigkeit abkühlen und wieder auffüllen, die Menge an Wasserauffüllung ist etwa doppelt so hoch wie bei kleinen Luftbefeuchtern.</BulletPoint>
+        <BulletPoint>✔ Top-Wasser-Design: Öffnen Sie den Deckel und geben Sie Wasser und Eis direkt hinzu. Die Bedienung ist einfach und unkompliziert. Im Winter können Sie im Sommer das kalte Gefühl erleben.</BulletPoint>
+        <BulletPoint>✔ Mehrere Stromversorgungsmodi: Dieses Produkt verwendet ein USB-Netzteil, das für den öffentlichen Bedarf, den Ladekopf, Computer-USB, mobile Stromversorgung, Auto-USB usw. geeignet ist.</BulletPoint>
+        <BulletPoint>✔ 100% After-Sales-Service: Unser Geschäft nutzt internationale Logistik. Sie können uns jederzeit per E-Mail kontaktieren. Wir werden Ihre Fragen innerhalb von 24 Stunden beantworten. Der Kunde ist immer der Erste. Sie können Ihre Meinung finden, indem Sie nach "DUYER" suchen. Produkte, ich wünsche Ihnen viel Spaß beim Einkaufen!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>16</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585726436</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666083</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Tragbarer Luftkühler, Miniklimaanlage, 3 in 1 Personal Verdunstungskühler, Luftbefeuchter, Purifier mit USB, 3 Speed-Desktop-Lüfter für Haus, Zimmer, Büro</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Sie möchten im heißen Sommer kühl bleiben, befürchten jedoch, dass der Betrieb der Klimaanlage den ganzen Tag über viel kostet und normale Ventilatoren nur warme Luft in Ihr Gesicht blasen.<br/><br/>Möchten Sie sich besser beruhigen?<br/>Verwenden Sie unseren Mini-Luftkühler, um diesen persönlichen Raumkühler für Ihre Komfortzone zu erhalten. Geben Sie einfach Wasser und Eis in den Wassertank, entspannen Sie sich und genießen Sie einen frischen und feuchten Atemzug.<br/><br/>✔ Material: Elektronische Komponenten ABS / PP / PC<br/>✔ Nettobetrag: 900 g<br/>✔ Bruttogewicht: 1,3 kg<br/>✔ Leistungsbedarf: 5V - DC2.1A<br/>✔ Lärm: 50 dB bei 3. Windgeschwindigkeit<br/>✔ Windgeschwindigkeitsgetriebe: 3 Gänge<br/>✔ Arbeitsleistung: 6W<br/>✔ Produktgröße: 145 * 145 * 190 mm<br/>✔ Anwendungsbereich: 60-100 cm<br/>✔ Blasreichweite: <2㎡<br/>✔ Temperaturreduzierungsbereich: 4-12 ° C (abhängig von der Umgebungstemperatur)]]></Description>
+        <BulletPoint>✔ Einstellbare Windgeschwindigkeit und automatisches Timing: Drei Windgeschwindigkeiten (hoch, mittel, niedrig) können eingestellt werden, die maximale Lüftergeschwindigkeit erreicht 3,24 m / s und die Windrichtung kann manuell um 80 Grad nach oben und unten eingestellt werden, um Ihre eigene personalisierte Kühlzone zu erstellen: drei automatische Timings (1H / 3H / 6H) können Sie die Freizeit, Schlaf- oder Arbeitszeit wählen, die am besten zu Ihnen passt.</BulletPoint>
+        <BulletPoint>✔ Einfach zu bedienen und tragbar: Sie müssen lediglich Wasser und Eiswürfel in den Wassertank dieses Desktop-Luftkühlers geben, ihn an einen USB-Anschluss oder eine Powerbank anschließen und einschalten. Mit einer Höhe von nur 6,4 Zoll ist es leicht zu bewegen und eignet sich perfekt für Ihren Desktop und Ihr Büro / Ihren Schlafsaal.</BulletPoint>
+        <BulletPoint>✔ Drei-in-Eins-Funktion: Drei-in-Eins-Multifunktionsdesign von Kühler, Lüfter und Luftbefeuchter für Klimaanlagen. Kühlen und befeuchten für bessere Luft. Das Kühldesign hält Sie von heißen Sommern fern und genießt kühle Sommer.</BulletPoint>
+        <BulletPoint>✔ Persönlicher Luftkühler: Ein Mini-persönlicher Luftkühler für den persönlichen Gebrauch. Er verwendet keine Kältemittel oder Chemikalien zum Kühlen der Luft, daher sollten Sie nicht den gleichen Effekt wie bei einer Klimaanlage erwarten. Bitte stellen Sie es nicht mehr als 3ft-4ft neben sich.</BulletPoint>
+        <BulletPoint>✔ 100% After-Sales-Service: Unser Geschäft nutzt internationale Logistik. Sie können uns jederzeit per E-Mail kontaktieren. Wir werden Ihre Fragen innerhalb von 24 Stunden beantworten. Der Kunde ist immer der Erste. Sie können Ihre Meinung finden, indem Sie nach "DUYER" suchen. Produkte, ich wünsche Ihnen viel Spaß beim Einkaufen!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>17</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585728921</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666366</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mobile KlimageräTe, Air Cooler, Usb-LüFter Der Klimaanlage, Kleiner KüHlerspray FüR Den Haushalt, Elektrischer LüFter FüR Das Auto Auf Dem Studentenwohnheimbett</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Sie möchten im heißen Sommer kühl bleiben, befürchten jedoch, dass der Betrieb der Klimaanlage den ganzen Tag über viel kostet und normale Ventilatoren nur warme Luft in Ihr Gesicht blasen.<br/><br/>Möchten Sie sich besser beruhigen?<br/>Verwenden Sie unseren Mini-Luftkühler, um diesen persönlichen Raumkühler für Ihre Komfortzone zu erhalten. Geben Sie einfach Wasser und Eis in den Wassertank, entspannen Sie sich und genießen Sie einen frischen und feuchten Atemzug.<br/><br/>  ✔ Luftvolumen: 4 Stufen<br/>  ✔ Nennspannung: 5V<br/>  ✔ Länge des Netzkabels: 1,8 m<br/>  ✔ Nennleistung: 6-9W<br/>  ✔ Steuermethode: mechanische Tasten<br/>  ✔ Sicherheitsfunktion: 6 Stunden Trockenbrand<br/>  ✔ Luftvolumenmodus: hoch / mittel / niedrig / Schlaf<br/>  ✔ Wassertankkapazität: 500 ml<br/>  ✔ Produktfarbe: weiß<br/>  ✔ Bruttogewicht / Nettogewicht: 1 kg / 0,8 kg<br/>  ✔ Material: ABS]]></Description>
+        <BulletPoint>✔ 3-Gang-Einstellung: Unsere Mini-Klimaanlage verfügt über 3-Gang-Modi, die je nach Ihren Anforderungen (niedrig / mittel / hoch) frei eingestellt werden können. Bei Bedarf können Sie auch die Windrichtung so einstellen, dass sie sich vertikal dreht. (Hinweis: Tragbare Luftkühler eignen sich nicht zur Kühlung des gesamten Raums.)</BulletPoint>
+        <BulletPoint>✔ 4-in-1-Design: Dieser Verdunstungsluftkühler verfügt über eine tragbare Lüfterkühlung, Sprühbefeuchtung, Luftreinigung und 4-in-1-Funktionen von 7 LED-Leuchten, wodurch nicht nur die Temperatur gesenkt wird, sondern auch trockene Luft vermieden wird. Darüber hinaus verfügt es über ein 7-Farben-LED-Umgebungslicht und ein weiches und farbenfrohes LED-Licht, das eine romantische Atmosphäre schafft und Ihnen ein besseres Schlafumfeld bietet.</BulletPoint>
+        <BulletPoint>✔ Energieeinsparung und Gesundheit: Dieser tragbare Luftkühler hat einen geringen Energieverbrauch und ist frei von Freon. Es schützt nicht nur die Gesundheit Ihrer Familie, sondern verbraucht auch weniger Strom, um Energieverluste zu minimieren und die Umwelt zu schützen. Ideal für die Kühlung von Wohnzimmer, Schlafzimmer, Büro usw. im Sommer. Kann auch bei der Arbeit und auf Reisen verwendet werden.</BulletPoint>
+        <BulletPoint>✔ Einfach zu bedienen und leicht: Fügen Sie einfach Wasser oder Eiswasser hinzu und schließen Sie das USB-Kabel an ein mobiles Netzteil oder eine USB-Schnittstelle an. Sie können den tragbaren Mini-Luftkühler durch Drücken der Funktionstaste verwenden. Diese persönliche Klimaanlage hat ein tragbares Mini-Design, das sehr einfach ins Büro, ins Schlafzimmer, ins Wohnzimmer, in die Küche und ins Freie getragen werden kann.</BulletPoint>
+        <BulletPoint>✔ 100% After-Sales-Service: Unser Geschäft nutzt internationale Logistik. Sie können uns jederzeit per E-Mail kontaktieren. Wir werden Ihre Fragen innerhalb von 24 Stunden beantworten. Der Kunde ist immer der Erste. Sie können Ihre Meinung finden, indem Sie nach "DUYER" suchen. Produkte, ich wünsche Ihnen viel Spaß beim Einkaufen!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>18</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585733575</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666953</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Tragbare Klimaanlage LuftküHler,Mini LuftküHler Mobile KlimageräTe, Kleiner LüFter Luftbefeuchter Spray KüHllüFter, Home Student Wohnheim BüRo Desktop</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Sie möchten im heißen Sommer kühl bleiben, befürchten jedoch, dass der Betrieb der Klimaanlage den ganzen Tag über viel kostet und normale Ventilatoren nur warme Luft in Ihr Gesicht blasen.<br/><br/>✔ Möchten Sie sich besser beruhigen?<br/>Verwenden Sie unseren Mini-Luftkühler, um diesen persönlichen Raumkühler für Ihre Komfortzone zu erhalten. Geben Sie einfach Wasser und Eis in den Wassertank, entspannen Sie sich und genießen Sie einen frischen und feuchten Atemzug.<br/><br/>✔ Lüfter und Luftbefeuchter<br/>Die Klimaanlage, der tragbare Verdunstungsluftkühler und der Zerstäuber-Luftbefeuchter sind in einem kombiniert, wodurch Haut und Luft befeuchtet, von trockener Luft ferngehalten und die Kühle des Sommers genossen werden können.<br/><br/>✔ Frische Luft und ein gesundes Leben genießen<br/>Es senkt die Temperatur durch Wasserverdunstung und erzeugt frische Luft. Geringer Stromverbrauch und lange Befeuchtungszeit! Es ist energieeffizient und kohlenstoffarm.<br/><br/>✔ Tragbarer persönlicher Luftkühler<br/>Mini persönlicher Luftkühler für den persönlichen Gebrauch, bitte nicht mehr als 3 Fuß bis 4 Fuß platzieren.<br/><br/>✔ Paket beinhaltet:<br/>1 x Klimaanlage<br/>1 x USB-Datenkabel]]></Description>
+        <BulletPoint>✔ Schnell abkühlen und negative Ionen freisetzen: Wasserreinigung und hohe Windgeschwindigkeit verdampfen, setzen negative Ionen frei, Sie können die Frische negativer Ionen mehr spüren und saubere Luft leicht genießen.</BulletPoint>
+        <BulletPoint>✔ Nebelfreies Befeuchtungssystem: Befeuchten Sie jeden Zentimeter der Haut, befeuchten Sie es ohne Nebel und ohne Puder, lassen Sie die Luft durch einen Wasservorhang mit einem Ventilator strömen und verwenden Sie das Prinzip der natürlichen Verdunstung von Wasser, um die Luftfeuchtigkeit zu erhöhen. Die nebelfreie Befeuchtung ist gesünder.</BulletPoint>
+        <BulletPoint>✔ Dual-Lüfter-Technologie: Die vorderen und hinteren Dual-Lüfter lösen das Problem von Luftvolumen und Druckkopf. Der hintere Lüfter ist für die Erhöhung des Saugluftdrucks und der vordere für die Luftzufuhr verantwortlich. Der Luftzufuhrabstand ist länger und das Luftvolumen größer.</BulletPoint>
+        <BulletPoint>✔ Unabhängiger Wassertank: Separater unabhängiger Wassertank. Es ist bequemer, Wasser zur Reinigung hinzuzufügen. Einfache Bedienung, kein Wasserleck, keine Wasseransammlung, mehr Sicherheit.</BulletPoint>
+        <BulletPoint>✔ 100% After-Sales-Service: Unser Geschäft nutzt internationale Logistik. Sie können uns jederzeit per E-Mail kontaktieren. Wir werden Ihre Fragen innerhalb von 24 Stunden beantworten. Der Kunde ist immer der Erste. Sie können Ihre Meinung finden, indem Sie nach "DUYER" suchen. Produkte, ich wünsche Ihnen viel Spaß beim Einkaufen!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

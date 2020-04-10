@@ -1,0 +1,349 @@
+{extend name="admin@public/base" /}
+{block name="main-content"}
+	<div class="page-content">
+
+		<div class="row maintop">
+			<div class="col-xs-12 col-sm-1">
+				<!-- 点击添加模态框（Modal） -->
+				<button class="btn btn-sm btn-danger" data-toggle="modal" data-target="#myModal">
+					<i class="ace-icon fa fa-bolt bigger-110"></i>
+					添加服务器
+				</button>
+
+			</div>
+
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12">
+				<div>
+					<form class="ajaxForm" name="source_order" method="post" action="{:url('admin/Fwq/fwq_order')}" >
+						<table class="table table-striped table-bordered table-hover" id="dynamic-table">
+							<thead>
+							<tr>
+								<th>序号</th>
+								<th>法人</th>
+								<th>IP</th>
+								<th>超级管理员</th>
+								<th>密码</th>
+
+								<th>到期时间</th>
+								<th>供应商</th>
+								<th>管理者</th>
+								<th style="border-right:#CCC solid 1px;">操作</th>
+							</tr>
+							</thead>
+
+							<tbody>
+
+							{foreach name="fwq" item="v" key="k"}
+								<tr>
+									<td height="28" >{$k+1}</td>
+									<td>{$v.yyzzfr}</td>
+									<td>{$v.fwq_ip}</td>
+									<td>administrator</td>
+									<td>{$v.fwq_password}</td>
+
+									<td>{$v.dq_time}</td>
+									<td>{$v.fwq_gys}</td>
+									<td>{$v.fwq_glz}</td>
+
+									<td>
+										<div class="hidden-sm hidden-xs action-buttons">
+											<a class="green fwqedit-btn"  href="{:url('admin/Fwq/fwq_edit')}" data-id="{$v.fwq_id}"  title="修改">
+												<i class="ace-icon fa fa-pencil bigger-130"></i>
+											</a>
+											<a class="red confirm-rst-url-btn" data-info="你确定要删除吗？" href="{:url('admin/Fwq/fwq_del',array('fwq_id'=>$v['fwq_id'],'p'=>input('p',1)))}" title="删除">
+												<i class="ace-icon fa fa-trash-o bigger-130"></i>
+											</a>
+										</div>
+										<div class="hidden-md hidden-lg">
+											<div class="inline position-relative">
+												<button class="btn btn-minier btn-primary dropdown-toggle" data-toggle="dropdown" data-position="auto">
+													<i class="ace-icon fa fa-cog icon-only bigger-110"></i>
+												</button>
+												<ul class="dropdown-menu dropdown-only-icon dropdown-yellow dropdown-menu-right dropdown-caret dropdown-close">
+													<li>
+														<a href="{:url('admin/Fwq/fwq_edit')}" data-id="{$v.fwq_id}" class="tooltip-success sourceedit-btn" data-rel="tooltip" title="" data-original-title="修改">
+																	<span class="green">
+																		<i class="ace-icon fa fa-pencil-square-o bigger-120"></i>
+																	</span>
+														</a>
+													</li>
+
+													<li>
+														<a href="{:url('admin/Fwq/fwq_del',array('fwq_id'=>$v['fwq_id'],'p'=>input('p',1)))}"  class="tooltip-error confirm-rst-url-btn" data-rel="tooltip" title="" data-info="你确定要删除吗？" data-original-title="删除">
+																	<span class="red">
+																		<i class="ace-icon fa fa-trash-o bigger-120"></i>
+																	</span>
+														</a>
+													</li>
+												</ul>
+											</div>
+										</div>
+									</td>
+								</tr>
+							{/foreach}
+							<tr>
+								<!--<td height="50" align="left"><button  id="btnorder" class="btn btn-white btn-yellow btn-sm">排序</button></td>-->
+								<td height="50" colspan="10" align="right">{$page}</td>
+							</tr>
+							</tbody>
+						</table>
+					</form>
+				</div>
+			</div>
+		</div>
+
+		<!-- 显示添加模态框（Modal） -->
+		<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			<form class="form-horizontal ajaxForm2" name="fwq_add" method="post" action="{:url('admin/Fwq/fwq_runadd')}">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal"
+									aria-hidden="true">×
+							</button>
+							<h4 class="modal-title" id="myModalLabel">
+								添加服务器
+							</h4>
+						</div>
+						<div class="modal-body">
+
+
+							<div class="row">
+								<div class="col-xs-12">
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1">营业执照法人：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="yyzzfr" id="yyzzfr" placeholder="输入营业执照法人" class="col-xs-10 col-sm-5" required/>
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 服务器IP：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="fwq_ip" id="fwq_ip" placeholder="输入服务器IP地址" class="col-xs-10 col-sm-5" required/>
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 账号：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="fwq_name" id="fwq_name" placeholder="输入账号名称" class="col-xs-10 col-sm-5" required/>
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 密码：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="fwq_password" id="fwq_password" placeholder="输入账号密码" class="col-xs-10 col-sm-5" required/>
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 购买时间：  </label>
+										<div class="col-sm-10">
+											<input type="date" name="gm_time" id="gm_time" class="col-xs-10 col-sm-5" required/>
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 到期时间：  </label>
+										<div class="col-sm-10">
+											<input type="date" name="dq_time" id="dq_time" class="col-xs-10 col-sm-5" required/>
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1">服务器供应商：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="fwq_gys" id="fwq_gys" placeholder="输入服务器供应商" class="col-xs-10 col-sm-5" required/>
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1">管理者：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="fwq_glz" id="fwq_glz" placeholder="输入服务器管理者" class="col-xs-10 col-sm-5" required/>
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1">对应软件账号：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="fwq_dyctzh" id="fwq_dyctzh" placeholder="输入对应软件账号" class="col-xs-10 col-sm-5" required/>
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+								</div>
+							</div>
+
+
+
+
+						</div>
+						<div class="modal-footer">
+							<button type="submit" class="btn btn-primary">
+								提交保存
+							</button>
+							<button class="btn btn-info" type="reset">
+								重置
+							</button>
+							<button type="button" class="btn btn-default" data-dismiss="modal">
+								关闭
+							</button>
+						</div>
+					</div><!-- /.modal-content -->
+				</div><!-- /.modal-dialog -->
+			</form>
+		</div><!-- /.modal -->
+
+
+
+
+
+
+		<!-- 显示修改模态框（Modal） -->
+		<div class="modal fade in" id="myModaledit" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			<div class="modal-backdrop fade in" id="gbbb" style="height: 100%;"></div>
+			<form class="form-horizontal ajaxForm2" name="fwq_runedit" method="post" action="{:url('admin/Fwq/fwq_runedit')}">
+				<input type="hidden" name="fwq_id" id="editfwq_id" value="" />
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" id="gb"  data-dismiss="modal"
+									aria-hidden="true">×
+							</button>
+							<h4 class="modal-title" id="myModalLabel">
+								修改服务器
+							</h4>
+						</div>
+						<div class="modal-body">
+
+
+							<div class="row">
+								<div class="col-xs-12">
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1">营业执照法人：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="yyzzfr" id="edit_yyzzfr" placeholder="输入营业执照法人" class="col-xs-10 col-sm-5"/>
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 服务器IP：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="fwq_ip" id="edit_fwq_ip"  class="col-xs-10 col-sm-5"  required/>
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 账号：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="fwq_name" id="edit_fwq_name" class="col-xs-10 col-sm-5"/>
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 密码：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="fwq_password" id="edit_fwq_password" placeholder="输入账号密码" class="col-xs-10 col-sm-5" required/>
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 购买时间：  </label>
+										<div class="col-sm-10">
+											<input type="date" name="gm_time" id="edit_gm_time" class="col-xs-10 col-sm-5"/>
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 到期时间：  </label>
+										<div class="col-sm-10">
+											<input type="date" name="dq_time" id="edit_dq_time" class="col-xs-10 col-sm-5" />
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1">服务器供应商：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="fwq_gys" id="edit_fwq_gys" placeholder="输入服务器供应商" class="col-xs-10 col-sm-5" required/>
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1">管理者：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="fwq_glz" id="edit_fwq_glz" placeholder="输入服务器管理者" class="col-xs-10 col-sm-5"/>
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1">对应软件账号：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="fwq_dyctzh" id="edit_fwq_dyctzh" placeholder="输入对应软件账号" class="col-xs-10 col-sm-5" />
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+								</div>
+							</div>
+
+
+
+
+						</div>
+						<div class="modal-footer">
+							<button type="submit" class="btn btn-primary">
+								提交保存
+							</button>
+							<button type="button" class="btn btn-default"  id="gbb" >
+								关闭
+							</button>
+						</div>
+					</div><!-- /.modal-content -->
+				</div><!-- /.modal-dialog -->
+			</form>
+		</div><!-- /.modal -->
+
+	</div><!-- /.page-content -->
+{/block}
+
+

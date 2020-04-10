@@ -1,0 +1,296 @@
+{extend name="admin@public/base" /}
+{block name="main-content"}
+	<div class="page-content">
+		<div class="input-group-btn">
+			<button type="button" class="btn btn-xs all-btn btn-purple ajax-display-all333" style="margin-left: 10px;" id="batch_edit">
+				<span class="ace-icon fa fa-globe icon-on-right bigger-110"></span>
+				批量修改
+			</button>
+		</div>
+
+
+		<div class="row">
+			<div class="col-xs-12">
+				<div>
+					<form  method="post" action="{:url('admin/productupload/daochu')}" >
+						<input name="p" id="p" value="{:input('p',1)}" type="hidden" />
+						
+					<table class="table table-striped table-bordered table-hover" id="dynamic-table">
+						<thead>
+						<tr>
+							<th class="hidden-xs center">
+							<label class="pos-rel">
+								<input type="checkbox" class="ace"  id='chkAll' onclick='CheckAll(this.form)' value="全选"/>
+								<span class="lbl"></span>
+							</label>
+							</th>
+							<th class="hidden-xs">ID</th>
+							<th class="hidden-xs">产品图片</th>
+							<th class="hidden-sm hidden-xs">简称</th>
+							<th class="hidden-sm hidden-xs">类目</th>
+
+							<th class="hidden-sm hidden-xs">父SKU</th>
+
+							<th class="hidden-xs">导出状态</th>
+							<th class="hidden-xs">产品信息状态</th>
+							<th class="hidden-xs">用户</th>
+							<th class="hidden-xs">采集时间</th>
+
+							<th class="hidden-xs">
+								操作
+							</th>
+
+						</tr>
+						</thead>
+
+						<tbody>
+						{foreach name="goods" item="v"}
+						<tr>
+							<td class="hidden-xs" align="center">
+								<label class="pos-rel">
+									<input name='n_id[]' id="navid" class="ace sel"  type='checkbox' value='{$v.id}'>
+									<span class="lbl"></span>
+								</label>
+							</td>
+							<td class="hidden-xs" align="center">{$v.id}</td>
+							<td class="hidden-xs" align="center">
+								<img style="width:50px;hieght:50px;" src="<?php foreach (explode('|',$v['PICTURE']) as $k1=>$v1){
+									if($k1 == 0){
+										echo $v1;
+									}
+								} ?>"/>
+							</td>
+							<td class="hidden-sm hidden-xs" style="color:green;">
+								{$name}
+							</td>
+							<td class="hidden-sm hidden-xs" style="color:green;">
+								{if condition="$v['CLASS1'] != ''"} {$v.CLASS1|get_classname}{/if}
+								{if condition="$v['CLASS2'] != ''"} /{$v.CLASS2|get_classname}{/if}
+								{if condition="$v['CLASS3'] != ''"} /{$v.CLASS3|get_classname}{/if}
+							</td>
+							<td class="hidden-xs hidden-sm">{$v.FSKU}</td>
+							<td class="hidden-xs hidden-sm">
+								{if condition="$v['DC_STATUS'] eq 1"}
+								<span style="color:green;">已导出</span>
+								{else/}
+								<span style="color:red;">未导出</span>
+								{/if}
+							</td>
+
+
+							<td class="hidden-xs">
+								{if condition="$v['P_STATUS'] eq 1"} <span style="color:green;">价格计算完成</span>{else/} <span style="color:red;">价格计算中</span> {/if}&nbsp;&nbsp;
+								{if condition="$v['F_STATUS'] eq 1"} <span style="color:green;">语言翻译完成</span>{else/} <span style="color:red;">语言翻译中</span> {/if}
+							</td>
+							<td class="hidden-xs">{$v.UID|get_name}</td>
+							<td class="hidden-xs">{$v.TIME|date="Y-m-d H:i:s",###}</td>
+
+							<td>
+								<div class="hidden-sm hidden-xs action-buttons">
+									{if condition="$v['DC_STATUS'] eq 1"}
+										<a class="green" href="{:url('admin/Productupload/product_edit',array('goodsId'=>$v['id']))}" data-toggle="tooltip" title="修改">
+											<i class="ace-icon fa fa-pencil bigger-130"></i>
+										</a>
+									{else/}
+										<span style="color:red;">未付款</span>
+									{/if}
+
+									<!--<a class="red confirm-rst-url-btn" data-info="你确定要删除到回收站吗？" href="{:url('admin/Productupload/product_del',array('goodsId'=>$v['id'],'p'=>input('p',1)))}" title="回收站" data-toggle="tooltip">
+										<i class="ace-icon fa fa-trash-o bigger-130"></i>
+									</a>-->
+								</div>
+								<div class="hidden-md hidden-lg">
+									<div class="inline position-relative">
+										<button class="btn btn-minier btn-primary dropdown-toggle" data-toggle="dropdown" data-position="auto">
+											<i class="ace-icon fa fa-cog icon-only bigger-110"></i>
+										</button>
+										<ul class="dropdown-menu dropdown-only-icon dropdown-yellow dropdown-menu-right dropdown-caret dropdown-close">
+											<li>
+												<a href="{:url('admin/Productupload/product_edit',array('goodsId'=>$v['id']))}" class="tooltip-success" data-rel="tooltip" title="" data-original-title="修改">
+											<span class="green">
+												<i class="ace-icon fa fa-pencil-square-o bigger-120"></i>
+											</span>
+												</a>
+											</li>
+
+
+											<!--<li>
+												<a href="{:url('admin/Productupload/product_del',array('goodsId'=>$v['id'],'p'=>input('p',1)))}" data-info="你确定要删除到回收站吗？" class="tooltip-error confirm-rst-url-btn" data-rel="tooltip" title="回收站" data-original-title="回收站">
+											<span class="red">
+												<i class="ace-icon fa fa-trash-o bigger-120"></i>
+											</span>
+												</a>
+											</li>-->
+										</ul>
+									</div>
+								</div>
+							</td>
+						</tr>
+						{/foreach}
+						<tr>
+							<td align="left" class="hidden-xs center"><button id="btnsubmit" class="btn btn-white btn-yellow btn-sm hidden-xs">导出选中数据</button> </td>
+
+							<td colspan="2" align="left"class="hidden-lg hidden-md hidden-sm">{$page}</td>
+							<td align="left" class="hidden-xs center"><a href="{:url('admin/productupload/daochu',array('addid'=>$addid,'shuju=>1'))}" class="btn btn-white btn-yellow btn-sm">导出全部数据</a><span style="color:red;">数据量大禁用</span></td>
+							<td align="left" class="hidden-xs center" style="color:red;" colspan="1"><a id="ymx" class="btn btn-white btn-yellow btn-sm hidden-xs" onclick="pldc()">批量导出亚马逊模板</a></td>
+							<td align="left" class="hidden-xs center" style="color:red;" colspan="1"><a id="sku" class="btn btn-white btn-yellow btn-sm hidden-xs">批量修改SKU</a></td>
+							<td align="left" class="hidden-xs center" style="color:red;" colspan="1"><a id="upc" class="btn btn-white btn-yellow btn-sm hidden-xs">批量修改UPC</a></td>
+							<td align="left" class="hidden-xs center" style="color:red;" colspan="1"><a id="plxg" class="btn btn-white btn-yellow btn-sm hidden-xs ">批量修改产品信息</a></td>
+							<td colspan="8" align="right" class="hidden-xs">{$page}</td>
+						</tr>
+						</tbody>
+					</table>
+					</form>
+				</div>
+			</div>
+		</div>
+		<script>
+			function pldc(){
+
+
+				var chk_value =[];
+				$('input[class="sel"]:checked').each(function(){
+					chk_value.push($(this).val());
+				});
+				alert(chk_value);
+			}
+
+
+		</script>
+
+
+
+
+
+
+		<!-- 显示修改模态框（Modal） -->
+		<div class="modal fade in" id="myModaledit" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			<div class="modal-backdrop fade in" id="gbbb" style="height: 100%;"></div>
+			<form class="form-horizontal ajaxForm2" name="pro_runedit" method="post" action="{:url('admin/Productupload/piliangxiugai')}">
+				<input type="hidden" name="yonghu_id" id="yonghu_id" value="" />
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" id="gb"  data-dismiss="modal"
+									aria-hidden="true">×
+							</button>
+							<h4 class="modal-title" id="myModalLabel">
+								批量修改产品信息
+							</h4>
+						</div>
+						<div class="modal-body">
+
+
+							<div class="row">
+								<div class="col-xs-12">
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1">总部账号金额：  </label>
+										<div class="col-sm-10" style="margin-top: 8px;" id="zongqian" style="color:red;"></div>
+									</div>
+									<div class="space-4"></div>
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1">分配金额：  </label>
+										<div class="col-sm-10">
+											<input type="number" name="money" id="money"  class="col-xs-10 col-sm-5"/>
+
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+								</div>
+							</div>
+
+
+
+
+						</div>
+						<div class="modal-footer">
+							<button type="submit" class="btn btn-primary">
+								提交分配
+							</button>
+							<button type="button" class="btn btn-default"  id="gbb" >
+								关闭
+							</button>
+						</div>
+					</div><!-- /.modal-content -->
+				</div><!-- /.modal-dialog -->
+			</form>
+		</div><!-- /.modal -->
+
+
+
+
+
+
+
+
+
+
+
+
+	</div><!-- /.page-content -->
+
+<div id="batch_content" class="layui-layer layui-layer-page openClass layer-anim"  type="page" times="9" showtime="0" contype="object" style="margin-top:100px;z-index: 1;left:50%; width: 500px; height: 150px; top: 23.5px;margin-left: -250px; display: none">
+	<span class="layui-layer-setwin close" style="position: fixed">
+		<a class="layui-layer-ico layui-layer-close layui-layer-close2 selectCancle" href="javascript:;"></a>
+	</span>
+
+		<div class="form-group" style="height:30px;clear: both;margin-top: 30px">
+			<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> SKU修正： </label>
+			<div class="col-sm-10">
+				<input type="text" name="correctSku" id="correctSku" placeholder="SKU修正,建议两位英文字母" class="col-xs-10 col-sm-4" style="margin-left:10px;">
+				<span class="help-inline col-xs-12 col-sm-7">
+				<span class="btn btn-sm btn-danger" id="reloadSku">修正</span>
+			</span>
+			</div>
+		</div>
+		<div class="form-group" style="height:30px;clear: both;">
+			<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> EAN修正： </label>
+			<div class="col-sm-10">
+			<span class="help-inline col-xs-12 col-sm-7">
+				<span class="btn btn-sm btn-danger" id="reloadEan">修正</span>
+			</span>
+			</div>
+		</div>
+</div>
+<script>
+	//批量修改
+	$('#batch_edit').click(function(){
+		var ids = getIds()
+		if(ids==""){
+			alert('请勾选要修改的产品')
+			return false;
+		}
+		$('#ids').val(ids)
+		$('#batch_content').show()
+	})
+	//修正ean
+	$('#reloadEan').click(function(){
+		var ids = getIds()
+		$.post("{:url('admin/Productupload/batch_edit_ean')}",{ids:ids},function(data){
+			alert('已修改')
+		});
+	})
+	//修正sku
+	$('#reloadSku').click(function(){
+		var ids = getIds()
+		var correctSku = $('#correctSku').val()
+		$.post("{:url('admin/Productupload/batch_edit_sku')}",{ids:ids,correctSku:correctSku},function(data){
+			alert('已修改')
+		});
+	})
+	//获取id
+	function getIds(){
+		var ids = "";
+		$("input[name='n_id[]']:checked").each(function (index, item) {
+			ids += $(this).val()+",";
+		});
+		return ids;
+	}
+	//关闭弹出
+	$('.close').click(function(){
+		$('#ids').val('')
+		$('#batch_content').hide()
+	})
+</script>
+{/block}

@@ -1,0 +1,14 @@
+<div class="footer">
+	<div class="footer-inner">
+		<div class="footer-content" style="position: fixed;background-color: #438EB9;color:#ffff;line-height:16px;">
+			<span class="bigger-120">
+				<!--<span class="blue bolder"><a href="http://www.rainfer.cn" target="_ablank">亚马逊</a></span>
+				后台管理系统 &copy; 2019-{:date('Y')}-->
+				当日货币汇率 --
+				{foreach name="huilv" item="v"}
+				<span>{$v.currency}:{$v.exchange_rate}</span>&nbsp;&nbsp;
+				{/foreach}
+			</span>
+		</div>
+	</div>
+</div>

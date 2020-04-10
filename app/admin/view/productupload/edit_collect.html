@@ -1,0 +1,598 @@
+{extend name="admin@public/base" /}
+{block name="main-content"}
+<style>
+	.pro_inf>span>p,
+	.pro_inf>p{
+		color: #ffa64c;
+		font-size: 13px;
+	}
+	.check span input{
+		margin-right: 8px;
+		margin-left: 15px;
+	}
+	.check span:nth-child(1) input{
+		margin-left: 0;
+	}
+
+
+	#fenleiTankuang div.con{
+		display: flex;
+		padding: 30px 10px 10px 10px;
+		height: 320px;
+	}
+	#fenleiTankuang div.con>div{
+		flex: 1;
+		/*border: 1px solid #bbb;*/
+		padding: 10px;
+		margin-right: 10px;
+		border-radius: 3px;
+		box-shadow: 0 0 10px #ccc;
+	}
+	#fenleiTankuang div.con>div ul li{
+		color: #555;
+		padding: 5px;
+		cursor: pointer;
+		border-radius: 2px;
+		border-bottom: 2px solid #f0f0f0;
+	}
+	#fenleiTankuang div.con>div ul li.active{
+		/*color: #0f6ab4;*/
+		background: #dbedf7;
+	}
+	#fenleiTankuang{
+		display: none;
+	}
+	form>.fenleiCon{
+		display: none;
+	}
+	.dingsClass{
+		z-index:20000000!important;
+	}
+	.inner-content-div2{
+		height: 270px;
+		overflow-y: scroll;
+	}
+
+</style>
+	<div class="page-content">
+
+		<div class="row maintop">
+			<!--<div class="col-xs-5 col-sm-2  margintop5">
+
+					<button class="btn btn-sm btn-danger">
+						<i class="ace-icon fa fa-bolt bigger-110"></i>
+						<a style="color: #ffffff;" href="{:url('admin/Productupload/myupload')}">立即上传列表</a>
+					</button>
+					<button class="btn btn-sm btn-danger">
+						<i class="ace-icon fa fa-bolt bigger-110"></i>
+						<a style="color: #ffffff;"  href="{:url('admin/Productupload/timing_upload')}">定时上传列表</a>
+					</button>
+
+			</div>-->
+			<div class="col-xs-5 col-sm-2  margintop5" style="width:50%;">
+				<!--<button class="btn btn-info" >
+					<i class="ace-icon fa fa-bolt bigger-110"></i>
+					<a style="color: #ffffff;"  href="{:url('admin/Productupload/new_upload')}">添加新上传</a>
+				</button>-->
+
+				<button  class="btn btn-info" id="submit">
+					<i class="ace-icon fa fa-check bigger-110"></i>
+					修改
+				</button>
+			</div>
+
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12">
+				<div id="step" class="box">
+					<form method="post" action="{:url('admin/feed/creatXml')}" >
+						<input type="hidden" name="recordId" id="recordId" value="{$record['id']}">
+						<div class="form_item">
+							<div class="item">
+								<div>
+									<h4>
+										添加产品
+									</h4>
+								</div>
+								<div class="pro_inf daochu">
+                    <span>
+                        <label for="">
+                            开始ID：
+                        </label>
+                        <input type="text" placeholder="建议填写" class="startId" required="required" value="{$record['startId']}">
+                        <p>
+                            产品ID都是递增的，本次要导出产品起始ID
+                        </p>
+                    </span>
+									&nbsp;&nbsp;&nbsp;&nbsp;
+									<span>
+                        <label for="">
+                            结束ID：
+                        </label>
+                        <input type="text" placeholder="建议填写" class="endId" required="required" value="{$record['endId']}">
+                        <p>
+                            要导出产品的结束ID，结束ID起始ID
+                        </p>
+                    </span>
+								</div>
+							</div>
+						</div>
+						<div class="form_item">
+							<div class="item">
+								<div>
+									<h4>
+										授权店铺
+									</h4>
+								</div>
+								<div class="pro_inf">
+									<div class="el-select">
+										<!---->
+										<div class="el-input el-input--suffix">
+											<!---->
+
+											<!---->
+												<select name="goodsCate"  class="col-sm-5 selector" required id="test111" onchange="fenlei(this.value)" >
+													<option value="">请选择店铺</option>
+													{foreach name="storeList" item="v"}
+													{if $v['plug_khqy'] == 1}
+													<option value="4" {if $record['store_id']==4}selected='selected'{/if}>{$v.plug_dpbm}--德国</option>
+													<option value="5" {if $record['store_id']==5}selected='selected'{/if}>{$v.plug_dpbm}--英国</option>
+													<option value="6" {if $record['store_id']==6}selected='selected'{/if}>{$v.plug_dpbm}--意大利</option>
+													<option value="7" {if $record['store_id']==7}selected='selected'{/if}>{$v.plug_dpbm}--法国</option>
+													<option value="8" {if $record['store_id']==8}selected='selected'{/if}>{$v.plug_dpbm}--西班牙</option>
+													{/if}
+													{if $v['plug_khqy'] == 0}
+													<option value="9" style="color:blue;" {if $record['store_id']==9}selected='selected'{/if}>{$v.plug_dpbm}--美国</option>
+													<option value="10" style="color:blue;" {if $record['store_id']==10}selected='selected'{/if}>{$v.plug_dpbm}--墨西哥</option>
+													<option value="11" style="color:blue;" {if $record['store_id']==11}selected='selected'{/if}>{$v.plug_dpbm}--加拿大</option>
+													{/if}
+													{if $v['plug_khqy'] == 2}
+													<option value="2" style="color:green;" {if $record['store_id']==2}selected='selected'{/if}>{$v.plug_dpbm}--日本</option>
+													{/if}
+													{/foreach}
+												</select>
+                                                                <span class="el-input__suffix">
+                                                    <span class="el-input__suffix-inner">
+                                                        <i class="el-select__caret el-input__icon el-icon-arrow-up">
+                                                        </i>
+
+                                </span>
+												<!---->
+                            </span>
+											<!---->
+											<!---->
+										</div>
+
+									</div>
+									<span>
+                    </span>
+								</div>
+							</div>
+						</div>
+
+						<div class="form_item">
+							<div class="item">
+								<div class="select-res">
+									<h4>
+										选择分类
+									</h4>
+								</div>
+
+								<!--/*********************************************************************/-->
+								<div class="layui-layer layui-layer-page openClass layer-anim" id="layui-layer2" type="page" times="2" showtime="0" contype="object" style="z-index: 19891016; width: 800px; height: 400px;  left: 551.5px;display:none;" >
+									<div id="" class="layui-layer-content" style="height: 347px;">
+										<div id="fenleiTankuang" class="layui-layer-wrap" style="display: block;">
+											<div class="con" id="fenleiContent">
+												<div class="fenleiCon" style="display: none;" id="class1">
+													<div style="width: 100%; margin: 0px auto;">
+														<div class="inner-content-div2">
+															<ul id="class1-1">
+
+															</ul>
+														</div>
+													</div>
+												</div>
+<!--												<div class="fenleiCon" style="display: none;" id="class2">-->
+<!--													<div style="width: 100%; margin: 0px auto;">-->
+<!--														<div class="inner-content-div2">-->
+<!--															<ul id="class2-2">-->
+
+<!--															</ul>-->
+<!--														</div>-->
+<!--													</div>-->
+<!--												</div>-->
+<!--												<div class="fenleiCon"  style="display: none;" id="class3">-->
+<!--													<div style="width: 100%; margin: 0px auto;">-->
+<!--														<div class="inner-content-div2">-->
+<!--															<ul id="class3-3">-->
+
+<!--															</ul>-->
+<!--														</div>-->
+<!--													</div>-->
+<!--												</div>-->
+											</div>
+										</div>
+									</div>
+									<span class="layui-layer-setwin">
+                        <a class="layui-layer-ico layui-layer-close layui-layer-close2" onclick="guanbi()">
+                        </a>
+                    </span>
+									<div class="layui-layer-btn layui-layer-btn-">
+										<input type="hidden" id="categoryName" value="{$record['category_name']}">
+										<a class="layui-layer-btn0" id="confirmNodeid">
+											确定
+										</a>
+										<a class="layui-layer-btn1" onclick="guanbi()">
+											取消
+										</a>
+									</div>
+									<span class="layui-layer-resize">
+                    </span>
+								</div>
+								<script>
+									//关闭分类
+									function guanbi(){
+										$('#layui-layer2').hide();
+
+									}
+									//点击更改背景
+
+									$("#class1-1").on("click","li",function(){
+										$("#class1-1 li").removeClass("active");
+										$(this).addClass("active");
+									});
+									$("#class2-2").on("click","li",function(){
+										$("#class2-2 li").removeClass("active");
+										$(this).addClass("active");
+									});
+									$("#class3-3").on("click","li",function(){
+										$("#class3-3 li").removeClass("active");
+										$(this).addClass("active");
+									});
+									//显示分类
+									function xianshi(){
+
+										zhi = $('#test111').val();//选中的值
+										if(zhi == ''){
+											layer.alert('请选择店铺', {icon: 5});
+										}else{
+											$('#layui-layer2').show();
+										}
+
+
+									}
+									//遍历展示一级分类
+									function fenlei(obj) {
+										$("#class1").nextAll().remove();
+										$('#showNode').val('')
+										$('#nodeId').val('')
+										$.ajax({
+											url:'{:url(\'admin/Feed/firstClass\')}',
+											data:{country:obj},
+											type:'post',
+											dataType: 'json',
+											success:function(result){
+												$("#class1").show();
+												$("#class1-1").html("")
+												if(result.msg == 'success'){
+													$.each(result.data, function(i, item) {
+														$("#class1-1").append("<li data-index=\"0\" data-nodeid='" + item.cid + "' data-id='" + item.nodeId + "' data-categoryname='" + item.categoryName + "' class=' typelist'>" + item.displayName +"/"+ item.categoryName+  "</li>");
+													});
+												}
+
+											}
+										},'json');
+									}
+
+									$("#fenleiTankuang").on("click",".typelist",function(){
+										$(this).addClass('active').siblings().removeClass('active')
+										$(this).parent().parent().parent().parent().nextAll().remove();
+										$('#confirmNodeid').attr("node-id",$(this).attr('data-id'));
+										$('#confirmNodeid').attr("text",$(this).html());
+										$('#confirmNodeid').attr("category-name",$(this).attr('data-categoryname'));
+										var country = $('#test111').val()
+										var id = $(this).attr('data-nodeid')
+										$.ajax({
+											url:'{:url(\'admin/Feed/childClass\')}',
+											data:{country:country,parent:id},
+											type:'post',
+											dataType: 'json',
+											success:function(result){
+													if(result.msg == 'success'){
+														var html = "<div class='fenleiCon'>";
+														html+="<div style='width: 100%; margin: 0px auto;'>";
+														html+="<div class='inner-content-div2'>";
+														html+="<ul>";
+														$.each(result.data, function(i, item) {
+															html+= "<li data-index='0' data-nodeid='" + item.cid + "' data-id='" + item.nodeId + "' data-categoryname='" + item.categoryName + "' class='typelist'>" + item.displayName +"/"+ item.categoryName+  "</li>"
+														});
+														html+="</ul>"
+														html+="</div>"
+														html+="</div>"
+														html+="</div>"
+													$('#fenleiContent').append(html)
+													}
+												}
+										},'json');
+									})
+									$('#confirmNodeid').click(function(){
+										$('#layui-layer2').hide()
+										$('#nodeId').val($(this).attr('node-id'))
+										$('#showNode').val($(this).attr('text'))
+										$("#categoryName").val($(this).attr('category-name'))
+										var categoryDetail = ""
+										$('#fenleiTankuang .active').each(function(index,e){
+											categoryDetail += $(this).html()+"/"
+										})
+										$('#categoryDetail').html(categoryDetail)
+									})
+									$("#submit").click(function(){
+										var startId = $(".startId").val()
+										var endId = $(".endId").val()
+										var categoryName = $("#categoryName").val()
+										if(startId == ''){
+											alert('开始id不能为空')
+											return false;
+										}
+										if(endId == ''){
+											alert('结束id不能为空')
+											return false;
+										}
+										var goodsCate = $("#test111").val()
+										var nodeId = $("#nodeId").val()
+										
+										var templateType = $("#templateType").val()
+										var category = $('#showNode').val();
+										var id = $('#recordId').val()
+										var categoryName = $("#categoryName").val()
+										var categoryDetail = $("#categoryDetail").html()
+										if(showNode == ''){
+											alert('请选择分类')
+											return false;
+										}
+										$.ajax({
+											url:'{:url(\'admin/productupload/updateRecord\')}',
+											data:{startId:startId,endId:endId,goodsCate:goodsCate,nodeId:nodeId,templateType:templateType,category:category,id:id,categoryName:categoryName,categoryDetail:categoryDetail},
+											type:'post',
+											dataType: 'json',
+											success:function(result){
+												// if(result.status=='error'){}
+												alert(result.msg);
+												window.location.href = "{:url(\'admin/productupload/myupload\')}";
+
+											}
+										},'json');
+									})
+								</script>
+								<script type="text/javascript">
+									$(document).ready(function(){ 
+										var country = $('#test111').val()
+										$.ajax({
+											url:'{:url(\'admin/Feed/firstClass\')}',
+											data:{country:country},
+											type:'post',
+											dataType: 'json',
+											success:function(result){
+												$("#class1").show();
+												$("#class1-1").html("")
+												if(result.msg == 'success'){
+													$.each(result.data, function(i, item) {
+														$("#class1-1").append("<li data-index=\"0\" data-nodeid='" + item.cid + "' data-id='" + item.nodeId + "' data-categoryname='" + item.categoryName + "' class=' typelist'>" + item.displayName +"/"+ item.categoryName+  "</li>");
+													});
+												}
+
+											}
+										},'json');
+									}); 
+								</script>
+								<!-- *********************************************************************/ -->
+								<div class="pro_inf">
+                    <span>
+                        <input type="text" placeholder="--请选择--" class="changeType" style="width: 350px;" onclick="xianshi()" id="showNode" value="{$record['category']}">
+                    </span>
+									<input type="text" placeholder="分类节点id" id="nodeId" name="itemType" value="{$record['node_id']}">
+									<!--<input type="button" value="历史选择">-->
+									<p id="categoryDetail">
+										{if isset($record['category_detail'])}
+										{$record['category_detail']}
+										{/if}
+									</p>
+									<input type="text" id="searchCategory" placeholder="输入分类搜索" >
+									<a class="btn btn-info" id="submitSearch">搜索</a>
+									<select  id="searchResult" style="display: none"></select>
+								</div>
+							</div>
+							<div class="item">
+								<div>
+									<h4>
+										分类模板
+									</h4>
+								</div>
+								<div class="pro_inf">
+                    <span>
+                        <div class="el-select">
+                            <!---->
+                            <div class="el-input el-input--suffix">
+                                <!---->
+
+								<select name="templateType"  class="col-sm-3 selector" id="templateType">
+									<option value="Home/BedAndBath" {if $record['template'] == 'Home/BedAndBath'}selected="selected"{/if}>家--床和浴室</option>
+									<option value="Home/FurnitureAndDecor" {if $record['template'] == 'Home/FurnitureAndDecor'}selected="selected"{/if}>家--家具和装饰</option>
+									<option value="Home/Kitchen" {if $record['template'] == 'Home/Kitchen'}selected="selected"{/if}>家--厨房</option>
+									<option value="Home/OutdoorLiving" {if $record['template'] == 'Home/OutdoorLiving'}selected="selected"{/if}>家--户外生活</option>
+									<option value="Home/SeedsAndPlants" {if $record['template'] == 'Home/SeedsAndPlants'}selected="selected"{/if}>家--种子和植物</option>
+									<option value="Home/Art" {if $record['template'] == 'Home/Art'}selected="selected"{/if}>家--艺术</option>
+									<option value="Home/Fabric" {if $record['template'] == 'Home/Fabric'}selected="selected"{/if}>家--布</option>
+									<option value="Home/VacuumCleaner" {if $record['template'] == 'Home/VacuumCleaner'}selected="selected"{/if}>家--吸尘器</option>
+									<option value="Home/Mattress" {if $record['template'] == 'Home/Mattress'}selected="selected"{/if}>家--床垫</option>
+									<option value="Home/Headboard" {if $record['template'] == 'Home/Headboard'}selected="selected"{/if}>家--床头板</option>
+									<option value="Home/Dresser" {if $record['template'] == 'Home/Dresser'}selected="selected"{/if}>家--梳妆台</option>
+									<option value="Home/Cabinet" {if $record['template'] == 'Home/Cabinet'}selected="selected"{/if}>家--内阁</option>
+									<option value="Home/Chair" {if $record['template'] == 'Home/Chair'}selected="selected"{/if}>家--椅子</option>
+									<option value="Home/Table" {if $record['template'] == 'Home/Table'}selected="selected"{/if}>家--桌子</option>
+									<option value="Home/Bench" {if $record['template'] == 'Home/Bench'}selected="selected"{/if}>家--板凳</option>
+									<option value="Home/Sofa" {if $record['template'] == 'Home/Sofa'}selected="selected"{/if}>家--沙发</option>
+									<option value="Home/Desk" {if $record['template'] == 'Home/Desk'}selected="selected"{/if}>家--书桌</option>
+									<option value="Home/FloorCover" {if $record['template'] == 'Home/FloorCover'}selected="selected"{/if}>家--地板盖</option>
+									<option value="Home/Bakeware" {if $record['template'] == 'Home/Bakeware'}selected="selected"{/if}>家--烤盘</option>
+									<option value="Home/Cookware" {if $record['template'] == 'Home/Cookware'}selected="selected"{/if}>家--炊具</option>
+									<option value="Home/Cutlery" {if $record['template'] == 'Home/Cutlery'}selected="selected"{/if}>家--刀具</option>
+									<option value="Home/Dinnerware" {if $record['template'] == 'Home/Dinnerware'}selected="selected"{/if}>家--餐具</option>
+									<option value="Home/Serveware" {if $record['template'] == 'Home/Serveware'}selected="selected"{/if}>家--Serveware</option>
+									<option value="Home/KitchenTools" {if $record['template'] == 'Home/KitchenTools'}selected="selected"{/if}>家--厨房用具</option>
+									<option value="Home/SmallHomeAppliances" {if $record['template'] == 'Home/SmallHomeAppliances'}selected="selected"{/if}>家--小型家电</option>
+									<option value="Health/HealthMisc" {if $record['template'] == 'Health/HealthMisc'}selected="selected"{/if}>健康--健康杂项</option>
+									<option value="Health/PersonalCareAppliances" {if $record['template'] == 'Health/PersonalCareAppliances'}selected="selected"{/if}>健康--个人护理用具</option>
+									<option value="Health/MedicalSupplies" {if $record['template'] == 'Health/MedicalSupplies'}selected="selected"{/if}>健康--医疗用品</option>
+								</select>
+
+								<!---->
+                                <span class="el-input__suffix">
+                                    <span class="el-input__suffix-inner">
+                                        <i class="el-select__caret el-input__icon el-icon-arrow-up">
+                                        </i>
+
+                                    </span>
+									<!---->
+                                </span>
+
+                            </div>
+                            <div class="el-select-dropdown el-popper" style="display: none; min-width: 260px;">
+                                <div class="el-scrollbar" style="display: none;">
+                                    <div class="el-select-dropdown__wrap el-scrollbar__wrap" style="margin-bottom: -17px; margin-right: -17px;">
+                                        <ul class="el-scrollbar__view el-select-dropdown__list">
+                                        </ul>
+                                    </div>
+                                    <div class="el-scrollbar__bar is-horizontal">
+                                        <div class="el-scrollbar__thumb" style="transform: translateX(0%);">
+                                        </div>
+                                    </div>
+                                    <div class="el-scrollbar__bar is-vertical">
+                                        <div class="el-scrollbar__thumb" style="transform: translateY(0%);">
+                                        </div>
+                                    </div>
+                                </div>
+                                <p class="el-select-dropdown__empty">
+                                    无数据
+                                </p>
+                            </div>
+                        </div>
+                    </span>
+								</div>
+							</div>
+							<!---->
+						</div>
+						<div id="fenleiTankuang">
+							<div class="con" id="fenleiContent">
+							</div>
+						</div>
+						<div id="timeUp" style="display: none;">
+							<h3>
+								定时上传
+							</h3>
+							<span>
+                <label for="">
+                    国家
+                </label>
+                <span>
+                </span>
+            </span>
+							<br>
+							<span>
+                <label for="">
+                    选择时间
+                </label>
+                <div class="el-date-editor el-input el-input--prefix el-input--suffix el-date-editor--datetime">
+                    <!---->
+                    <input type="text" autocomplete="off" name="" placeholder="选择日期时间" class="el-input__inner">
+                    <span class="el-input__prefix">
+                        <i class="el-input__icon el-icon-time">
+                        </i>
+						<!---->
+                    </span>
+                    <span class="el-input__suffix">
+                        <span class="el-input__suffix-inner">
+                            <i class="el-input__icon">
+                            </i>
+							<!---->
+							<!---->
+							<!---->
+							<!---->
+                        </span>
+						<!---->
+                    </span>
+					<!---->
+					<!---->
+                </div>
+            </span>
+							<span style="color: rgb(0, 163, 232); cursor: pointer;">
+                <i class="layui-icon layui-icon-fonts-code">
+                </i>
+                转换
+            </span>
+							<p>
+							</p>
+						</div>
+					</form>
+					<div id="lishi" style="display: none;">
+						<h3>
+							历史选择
+						</h3>
+						<div class="some-content-related-div" style="width: 100%; margin: 0px auto;">
+							<div class="inner-content-div2">
+								<ul>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+		<script>
+			//搜索分类
+			$('#submitSearch').click(function(){
+				var store = $('#test111').val()
+				if(store==""){
+					alert("请先选择店铺")
+					return false;
+				}
+				var search = $('#searchCategory').val()
+				$("#searchResult").html('')
+				$.ajax({
+					url:'{:url(\'admin/Product/searchCategory\')}',
+					data:{search:search,store:store},
+					type:'post',
+					dataType: 'json',
+					success:function(result){
+						console.log(result)
+						if(result.msg == 'success'){
+							$('#searchResult').show()
+							$.each(result.data, function(i, item) {
+								$("#searchResult").append("<option  data-nodeid='" + item.cid + "'  data-id='"  + item.nodeId + "' data-categoryname='" + item.categoryName + "' class='searchList'>" + item.displayName + "/"+item.categoryName+"</option>");
+							});
+						}else{
+							alert('未查到相关数据')
+						}
+
+					}
+				},'json');
+				// }
+			})
+			//搜索结果选中
+			$('#searchResult').click(function(){
+				var nodeId = $('#searchResult').find("option:selected").attr("data-id")
+				var showNode = $('#searchResult').find("option:selected").val()
+				var categoryName = $('#searchResult').find("option:selected").attr("data-categoryname")
+				$('#nodeId').val(nodeId)
+				$('#showNode').val(showNode)
+				$("#categoryName").val(categoryName)
+				$('#categoryDetail').html('')
+			})
+		</script>
+
+
+
+		{/block}

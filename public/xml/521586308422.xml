@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>AVOBD5045TVT6</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>51784018360</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>14</MessagesProcessed>
+				<MessagesSuccessful>6</MessagesSuccessful>
+				<MessagesWithError>8</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>11</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.ca/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521585820217</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>12</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.ca/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521585821092</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>13</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.ca/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521585822622</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>14</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.ca/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521585823584</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>4</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.ca/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521585820217-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>5</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.ca/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521585821092-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>6</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.ca/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521585822622-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>7</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.ca/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521585823584-0</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A268926EX62OY7</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>LJJ-281585809908-0</SKU>
+      <StandardPrice currency="EUR">65.98</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>LJJ-281585809908-1</SKU>
+      <StandardPrice currency="EUR">65.98</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <Price>
+      <SKU>LJJ-281585809908-2</SKU>
+      <StandardPrice currency="EUR">65.98</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <Price>
+      <SKU>LJJ-281585809908</SKU>
+      <StandardPrice currency="EUR">65.98</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

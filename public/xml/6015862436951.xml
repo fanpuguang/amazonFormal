@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A1BUJEG2QM7EPD</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>RENC-601586243181-FG</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554857357</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Magnetic Dart Board Safe Easy to Use Double-Sided Darts Protective Hanging Dart Board Set Parent-Child Game Accessories for Kids Fun Game 15-inch</Title>
+        <Brand>NO BRAND</Brand>
+        <Description><![CDATA[Features: <br/>1. Magnetic darts, safe and practical, darts can be rolled up, lanyard, can be played anywhere, and there are beautifully printed rectangular boxes, easy to carry, good tools for fitness and leisure. It replaces the unsafeness of the needle in front of the original dart, and there is no dart tip, which will not hurt people. <br/>2. Eye-catching design can relieve eye fatigue and exercise vision, great for people who sitting in front of a computer for a long time.<br/>3. Parent and children connections are vital to family development. The dart board games are a perfect way to strengthen these connections.<br/>4. Because we need to calculate our score during the process of playing darts, it is a good math teacher develop the children's intelligence.<br/>5. It is also a great leisure activities for the people that sedentary in the office. Make you relex during work. <br/><br/>Parameter:<br/>Name: Double-sided Magnetic Dart Target<br/>Style: positive and negative competition / casual<br/>Material: flannel, PVC<br/>Color: black, color<br/>Size: about 43.5cm x 37 cm/17.13*14.57in<br/>Weight: about 650g<br/>Recommend age: above 6 years old<br/><br/>List:<br/>6*Magnetic darts<br/>1*Double-sided magnetic dart target]]></Description>
+        <BulletPoint>★Portable and Durable Board Games: We can roll up it easily because it is made of the flannel. The material of dartboard are blacker than most products on the market which make sure can be used at least 10 years. If can't reach this time , please contact us for a return.</BulletPoint>
+        <BulletPoint>★Fascinating Gift for Kids and Adults: Double sided can be used in different occasions(professional and amateurish), with 6 darts (3 red &amp;amp; 3 yellow). Enjoy the fun of all the same characteristics of traditional dartboard, but no worried about hurting kids or walls.Adults can use it to relieve stress when they are tired.</BulletPoint>
+        <BulletPoint>★Safety and Powerful Magnetic Dartboard: Our magnet darts have strong magnetic force which ensures every dart flight you shot attached to the magnetic target firmly. In addition, flat dart head instead</BulletPoint>
+        <BulletPoint>★Popular Sport Games : Our magnetic darts have the feel of being close to traditional copper darts, allowing you to get involved anytime, anywhere. Whether you are on an outdoor outing, family gathering, entertainment, you can use it to get more joy.</BulletPoint>
+        <BulletPoint>★Easy to Use: The edges of the decorative lines are used to ensure a completely flat spread when suspended. The suspended state guarantees an absolute vertical plane that make us shot the dart more acc</BulletPoint>
+        <Manufacturer>RENC</Manufacturer>
+        <SearchTerms>Magnetic Dart Board Safe Easy to Use Double-Sided Darts Protective Hanging Dart Board Set Parent-Child Game Accessories for Kids Fun Game 15-inch,Persiverney</SearchTerms>
+        <ItemType>Archery</ItemType>
+        <RecommendedBrowseNode>281372</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData/>
+            </BedAndBath>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

@@ -1,0 +1,431 @@
+---------------------------------------------------------------
+[ 2019-12-07T22:30:31+08:00 ] 172.21.0.9 61.134.242.53 GET /admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html
+[ info ] 192.144.182.88/admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html [运行时间：1.433976s][吞吐率：0.70req/s] [内存消耗：15,267.46kb] [文件加载：120]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'productupload',
+    2 => 'smartupload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.144.182.88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://192.144.182.88/admin/productupload/smartuploads.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=4; PHPSESSID=lgtga9vnn34i9kau0ms2alrun1; signin_token=a8893756d65f202c3478960d8b1ee5223e22b086; yf_logged_user=3%3DAvfehEndajYdfZg',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'Id' => '6',
+  'name' => '闹钟',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.048617s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.002156s ]
+[ info ] [ RUN ] app\admin\controller\Productupload->smartupload[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Productupload.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/productupload/smartupload.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'huilv',
+  7 => 'addid',
+  8 => 'goods',
+  9 => 'page',
+  10 => 'khqy',
+  11 => 'list_fenlei',
+  12 => 'name',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000668s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000431s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.000786s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '61.134.242.53' , '中国 山西 太原 ' , 'Windows 7' , 'Chrome(75.0.3770.100)' , '/admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html' , 'admin' , 'Productupload' , 'smartupload' , 'GET' , 'a:2:{s:2:\"Id\";s:1:\"6\";s:4:\"name\";s:6:\"闹钟\";}' , 1575729030) [ RunTime:0.000501s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000800s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Productupload/smartupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000163s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000247s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Productupload/smartupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000205s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000125s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000161s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.000640s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000141s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_sug` [ RunTime:0.000953s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_sug` WHERE  (  plug_uid = 4 ) [ RunTime:0.000137s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_admin` [ RunTime:0.001082s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000270s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000164s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000151s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000124s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000173s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000156s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000103s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000136s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000100s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000104s ]
+---------------------------------------------------------------
+[ 2019-12-07T23:08:45+08:00 ] 172.21.0.9 61.134.242.53 GET /admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html?page=2
+[ info ] 192.144.182.88/admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html?page=2 [运行时间：1.377031s][吞吐率：0.73req/s] [内存消耗：15,269.84kb] [文件加载：120]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'productupload',
+    2 => 'smartupload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.144.182.88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://192.144.182.88/admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=4; PHPSESSID=lgtga9vnn34i9kau0ms2alrun1; signin_token=a8893756d65f202c3478960d8b1ee5223e22b086; yf_logged_user=3%3DAvfehEndajYdfZg',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'page' => '2',
+  'Id' => '6',
+  'name' => '闹钟',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.047401s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001367s ]
+[ info ] [ RUN ] app\admin\controller\Productupload->smartupload[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Productupload.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/productupload/smartupload.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'huilv',
+  7 => 'addid',
+  8 => 'goods',
+  9 => 'page',
+  10 => 'khqy',
+  11 => 'list_fenlei',
+  12 => 'name',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000782s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000237s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.000741s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '61.134.242.53' , '中国 山西 太原 ' , 'Windows 7' , 'Chrome(75.0.3770.100)' , '/admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html?page=2' , 'admin' , 'Productupload' , 'smartupload' , 'GET' , 'a:3:{s:4:\"page\";s:1:\"2\";s:2:\"Id\";s:1:\"6\";s:4:\"name\";s:6:\"闹钟\";}' , 1575731324) [ RunTime:0.000518s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000842s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Productupload/smartupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000151s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000213s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Productupload/smartupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000136s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000105s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000133s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.000590s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000106s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_sug` [ RunTime:0.000734s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_sug` WHERE  (  plug_uid = 4 ) [ RunTime:0.000171s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_admin` [ RunTime:0.000846s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000139s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000172s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000252s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000144s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000176s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000162s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000162s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000200s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000159s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000142s ]
+---------------------------------------------------------------
+[ 2019-12-07T23:08:47+08:00 ] 172.21.0.9 61.134.242.53 GET /admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html?page=2
+[ info ] 192.144.182.88/admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html?page=2 [运行时间：1.657658s][吞吐率：0.60req/s] [内存消耗：15,271.60kb] [文件加载：120]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'productupload',
+    2 => 'smartupload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.144.182.88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://192.144.182.88/admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=4; PHPSESSID=lgtga9vnn34i9kau0ms2alrun1; signin_token=a8893756d65f202c3478960d8b1ee5223e22b086; yf_logged_user=3%3DAvfehEndajYdfZg',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'page' => '2',
+  'Id' => '6',
+  'name' => '闹钟',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.048456s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001276s ]
+[ info ] [ RUN ] app\admin\controller\Productupload->smartupload[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Productupload.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/productupload/smartupload.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'huilv',
+  7 => 'addid',
+  8 => 'goods',
+  9 => 'page',
+  10 => 'khqy',
+  11 => 'list_fenlei',
+  12 => 'name',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000537s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000272s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.000829s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '61.134.242.53' , '中国 山西 太原 ' , 'Windows 7' , 'Chrome(75.0.3770.100)' , '/admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html?page=2' , 'admin' , 'Productupload' , 'smartupload' , 'GET' , 'a:3:{s:4:\"page\";s:1:\"2\";s:2:\"Id\";s:1:\"6\";s:4:\"name\";s:6:\"闹钟\";}' , 1575731325) [ RunTime:0.000692s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000744s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Productupload/smartupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000147s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000193s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Productupload/smartupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000164s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000208s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000167s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.000530s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000096s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_sug` [ RunTime:0.000919s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_sug` WHERE  (  plug_uid = 4 ) [ RunTime:0.000148s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_admin` [ RunTime:0.000991s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000125s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000171s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000173s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000131s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000105s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000152s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000107s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000162s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000098s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000093s ]
+---------------------------------------------------------------
+[ 2019-12-07T23:08:48+08:00 ] 172.21.0.9 61.134.242.53 GET /admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html?page=2
+[ info ] 192.144.182.88/admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html?page=2 [运行时间：1.381944s][吞吐率：0.72req/s] [内存消耗：15,272.86kb] [文件加载：120]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'productupload',
+    2 => 'smartupload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.144.182.88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://192.144.182.88/admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=4; PHPSESSID=lgtga9vnn34i9kau0ms2alrun1; signin_token=a8893756d65f202c3478960d8b1ee5223e22b086; yf_logged_user=3%3DAvfehEndajYdfZg',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'page' => '2',
+  'Id' => '6',
+  'name' => '闹钟',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.244721s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001724s ]
+[ info ] [ RUN ] app\admin\controller\Productupload->smartupload[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Productupload.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/productupload/smartupload.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'huilv',
+  7 => 'addid',
+  8 => 'goods',
+  9 => 'page',
+  10 => 'khqy',
+  11 => 'list_fenlei',
+  12 => 'name',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000505s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000566s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.000959s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '61.134.242.53' , '中国 山西 太原 ' , 'Windows 7' , 'Chrome(75.0.3770.100)' , '/admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html?page=2' , 'admin' , 'Productupload' , 'smartupload' , 'GET' , 'a:3:{s:4:\"page\";s:1:\"2\";s:2:\"Id\";s:1:\"6\";s:4:\"name\";s:6:\"闹钟\";}' , 1575731327) [ RunTime:0.000733s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.001421s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Productupload/smartupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000148s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000207s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Productupload/smartupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000141s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000103s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000150s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.000607s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000147s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_sug` [ RunTime:0.000767s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_sug` WHERE  (  plug_uid = 4 ) [ RunTime:0.000151s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_admin` [ RunTime:0.000795s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000135s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000105s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000176s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000094s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000094s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000219s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000118s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000103s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000111s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000099s ]
+---------------------------------------------------------------
+[ 2019-12-07T23:08:55+08:00 ] 172.21.0.9 61.134.242.53 GET /admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html?page=3
+[ info ] 192.144.182.88/admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html?page=3 [运行时间：1.539988s][吞吐率：0.65req/s] [内存消耗：15,266.84kb] [文件加载：120]
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'productupload',
+    2 => 'smartupload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.144.182.88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'referer' => 'http://192.144.182.88/admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html?page=2',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'aid=4; PHPSESSID=lgtga9vnn34i9kau0ms2alrun1; signin_token=a8893756d65f202c3478960d8b1ee5223e22b086; yf_logged_user=3%3DAvfehEndajYdfZg',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'page' => '3',
+  'Id' => '6',
+  'name' => '闹钟',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\WebLog @module_init [ RunTime:0.044947s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run Closure @action_begin [ RunTime:0.001284s ]
+[ info ] [ RUN ] app\admin\controller\Productupload->smartupload[ /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/controller/Productupload.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.ldkjmy.com/aaaa/yamaxun/app/admin/view/productupload/smartupload.html [ array (
+  0 => 'lang',
+  1 => 'menus',
+  2 => 'menus_curr',
+  3 => 'menus_child',
+  4 => 'id_curr',
+  5 => 'admin_avatar',
+  6 => 'huilv',
+  7 => 'addid',
+  8 => 'goods',
+  9 => 'page',
+  10 => 'khqy',
+  11 => 'list_fenlei',
+  12 => 'name',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\Cron @app_end [ RunTime:0.000573s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000218s ] mysql:dbname=www_ldkjmy_com;host=localhost;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_web_log` [ RunTime:0.000802s ]
+[ sql ] [ SQL ] INSERT INTO `yf_web_log` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `otime`) VALUES (1 , '61.134.242.53' , '中国 山西 太原 ' , 'Windows 7' , 'Chrome(75.0.3770.100)' , '/admin/productupload/smartupload/Id/6/name/%E9%97%B9%E9%92%9F.html?page=3' , 'admin' , 'Productupload' , 'smartupload' , 'GET' , 'a:3:{s:4:\"page\";s:1:\"3\";s:2:\"Id\";s:1:\"6\";s:4:\"name\";s:6:\"闹钟\";}' , 1575731333) [ RunTime:0.000481s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_auth_rule` [ RunTime:0.000741s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Productupload/smartupload' ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000148s ]
+[ sql ] [ SQL ] SELECT `id`,`pid` FROM `yf_auth_rule` ORDER BY level desc,sort [ RunTime:0.000237s ]
+[ sql ] [ SQL ] SELECT `id` FROM `yf_auth_rule` WHERE  `name` = 'admin/Productupload/smartupload'  AND `status` = 1 ORDER BY level desc,sort LIMIT 1 [ RunTime:0.000184s ]
+[ sql ] [ SQL ] SELECT `pid` FROM `yf_auth_rule` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000102s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_auth_rule` WHERE  `status` = 1  AND `pid` = null ORDER BY `sort` [ RunTime:0.000141s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_currency` [ RunTime:0.000618s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_currency` [ RunTime:0.000091s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_plug_sug` [ RunTime:0.000724s ]
+[ sql ] [ SQL ] SELECT * FROM `yf_plug_sug` WHERE  (  plug_uid = 4 ) [ RunTime:0.000132s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `yf_admin` [ RunTime:0.005492s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000249s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000187s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000266s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000439s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000122s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000133s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000130s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000124s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000107s ]
+[ sql ] [ SQL ] SELECT `admin_realname` FROM `yf_admin` WHERE  (  admin_id=4 ) LIMIT 1 [ RunTime:0.000132s ]

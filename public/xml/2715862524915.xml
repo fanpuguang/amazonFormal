@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2O70136OXEC74</MerchantIdentifier>
+  </Header>
+  <MessageType>Relationship</MessageType>
+  <PurgeAndReplace>false</PurgeAndReplace>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Relationship>
+      <ParentSKU>YXYLD-2715857-HE</ParentSKU>
+      <Relation>
+        <SKU>YXYLD-271585732-0--HR-HE</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>YXYLD-271585732-1--HR-HE</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>YXYLD-271585732-2--HR-HE</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>YXYLD-271585732-3--HR-HE</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>YXYLD-271585732-4--HR-HE</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>YXYLD-271585732-5--HR-HE</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>YXYLD-271585732-6--HR-HE</SKU>
+        <Type>Variation</Type>
+      </Relation>
+    </Relationship>
+  </Message>
+</AmazonEnvelope>

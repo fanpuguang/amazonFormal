@@ -1,0 +1,43 @@
+<html>
+	<div name="goog-te-menu-frame" id="googletranfrm">
+	</div>
+	<script>
+$(document).ready(function () {
+
+    //默认语言：cy,de,el,en,es,fr,it,ja,ko,nl,pl,pt,th,vi,zh-CN,zh-TW
+    var lang = getUrlParam("lang");
+    if (lang != undefined && lang != null) {
+        SetCookie("googtrans", "/zh-CN/" + lang);
+    }
+
+    setTimeout("googleTranlate.InitGoogleTranlateLoadFrame()", 2000);
+    $("body").on("change", function () { googleTranlate.InitGoogleTranlateLoadFrame(); });
+    $("#google_translate_element").on("click", function () { googleTranlate.InitGoogleTranlateLoadFrame(); });
+});
+
+
+var googleTranlate = {
+    InitGoogleTranlateLoadFrame: function () {
+        $(document.getElementsByClassName("goog-te-menu-frame")).attr("id", "googletranfrm")
+        var data = $(document.getElementById("googletranfrm").contentWindow.document.body);
+        if ($(data).find(".selflang").length == 0) {
+            var html = "<a class=‘goog-te-menu2-item selflang‘ href=‘javascript:void(0)‘onclick=\"parent.googleTranlate.GoToInitPage()\"><div style=‘white-space: nowrap;‘><span class=‘indicator‘>?</span><span class=‘text‘>English</span><span style=‘color:red‘>(Original Language)</span></div></a>";
+         //   $(html).insertBefore($(data).find(".goog-te-menu2-item").first());
+        $(data).find(".goog-te-menu2-item").last().parent().append(html);
+
+            $(data).find(".selflang").insertBefore($(data).find(".goog-te-menu2-item").eq(0));
+        }
+    },
+    GoToInitPage: function () {  //清除cookie刷新当前页
+        var expires = new Date();
+        expires.setTime(expires.getTime() - 1000);
+        document.cookie = "googtrans=‘‘;path=/;expires=" + expires.toGMTString() + ";";
+        document.cookie = "googtrans=‘‘;path=/;expires=" + expires.toGMTString() + ";domain=allpcb.com";
+        window.location.href = window.location.href;
+    }
+
+
+}
+
+</script>
+</html>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>ADXLEO062K5E6</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>LJLD-11577065847-0</SKU>
+      <StandardPrice currency="EUR">74.2</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>LJLD-11577065847-1</SKU>
+      <StandardPrice currency="EUR">74.2</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <Price>
+      <SKU>LJLD-11577065847-h</SKU>
+      <StandardPrice currency="EUR">74.2</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>DUYER-521585895972-0</SKU>
+      <StandardPrice currency="CAD">72.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>DUYER-521585904564-0</SKU>
+      <StandardPrice currency="CAD">109.59</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <Price>
+      <SKU>DUYER-521586154759-0</SKU>
+      <StandardPrice currency="CAD">150.68</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <Price>
+      <SKU>DUYER-521586154759-1</SKU>
+      <StandardPrice currency="CAD">150.68</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <Price>
+      <SKU>DUYER-521586157016-0</SKU>
+      <StandardPrice currency="CAD">67.51</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <Price>
+      <SKU>DUYER-521586159996-0</SKU>
+      <StandardPrice currency="CAD">192.76</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <Price>
+      <SKU>DUYER-521586163537-0</SKU>
+      <StandardPrice currency="CAD">167.32</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <Price>
+      <SKU>DUYER-521586165236-0</SKU>
+      <StandardPrice currency="CAD">309.2</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <Price>
+      <SKU>DUYER-521586225656-0</SKU>
+      <StandardPrice currency="CAD">111.55</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <Price>
+      <SKU>DUYER-521586225656-1</SKU>
+      <StandardPrice currency="CAD">111.55</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <Price>
+      <SKU>DUYER-521586225656-2</SKU>
+      <StandardPrice currency="CAD">111.55</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <Price>
+      <SKU>DUYER-521586245859-0</SKU>
+      <StandardPrice currency="CAD">170.25</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>13</MessageID>
+    <Price>
+      <SKU>DUYER-521586246529-0</SKU>
+      <StandardPrice currency="CAD">116.44</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <Price>
+      <SKU>DUYER-521586247254-0</SKU>
+      <StandardPrice currency="CAD">82.19</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>15</MessageID>
+    <Price>
+      <SKU>DUYER-521586248653-0</SKU>
+      <StandardPrice currency="CAD">106.65</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>16</MessageID>
+    <Price>
+      <SKU>DUYER-521586251035-0</SKU>
+      <StandardPrice currency="CAD">143.84</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>17</MessageID>
+    <Price>
+      <SKU>DUYER-521586252445-0</SKU>
+      <StandardPrice currency="CAD">72.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>18</MessageID>
+    <Price>
+      <SKU>DUYER-521586252511-0</SKU>
+      <StandardPrice currency="CAD">104.7</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>19</MessageID>
+    <Price>
+      <SKU>DUYER-521585895972</SKU>
+      <StandardPrice currency="CAD">72.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>20</MessageID>
+    <Price>
+      <SKU>DUYER-521585904564</SKU>
+      <StandardPrice currency="CAD">109.59</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>21</MessageID>
+    <Price>
+      <SKU>DUYER-521586154759</SKU>
+      <StandardPrice currency="CAD">150.68</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>22</MessageID>
+    <Price>
+      <SKU>DUYER-521586157016</SKU>
+      <StandardPrice currency="CAD">67.51</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>23</MessageID>
+    <Price>
+      <SKU>DUYER-521586159996</SKU>
+      <StandardPrice currency="CAD">192.76</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>24</MessageID>
+    <Price>
+      <SKU>DUYER-521586163537</SKU>
+      <StandardPrice currency="CAD">167.32</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>25</MessageID>
+    <Price>
+      <SKU>DUYER-521586165236</SKU>
+      <StandardPrice currency="CAD">309.2</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>26</MessageID>
+    <Price>
+      <SKU>DUYER-521586225656</SKU>
+      <StandardPrice currency="CAD">111.55</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>27</MessageID>
+    <Price>
+      <SKU>DUYER-521586245859</SKU>
+      <StandardPrice currency="CAD">170.25</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>28</MessageID>
+    <Price>
+      <SKU>DUYER-521586246529</SKU>
+      <StandardPrice currency="CAD">116.44</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>29</MessageID>
+    <Price>
+      <SKU>DUYER-521586247254</SKU>
+      <StandardPrice currency="CAD">82.19</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>30</MessageID>
+    <Price>
+      <SKU>DUYER-521586248653</SKU>
+      <StandardPrice currency="CAD">106.65</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>31</MessageID>
+    <Price>
+      <SKU>DUYER-521586251035</SKU>
+      <StandardPrice currency="CAD">143.84</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>32</MessageID>
+    <Price>
+      <SKU>DUYER-521586252445</SKU>
+      <StandardPrice currency="CAD">72.41</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>33</MessageID>
+    <Price>
+      <SKU>DUYER-521586252511</SKU>
+      <StandardPrice currency="CAD">104.7</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

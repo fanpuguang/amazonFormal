@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>ADXLEO062K5E6</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>80229018360</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>3</MessagesProcessed>
+				<MessagesSuccessful>0</MessagesSuccessful>
+				<MessagesWithError>3</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 18, Column 24: cvc-minLength-valid: Value &apos;&apos; with length = &apos;0&apos; is not facet-valid with respect to minLength &apos;1&apos; for type &apos;LongStringNotNull&apos;.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LJLD-11577065847-0-ab-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 18, Column 24: cvc-type.3.1.3: The value &apos;&apos; of element &apos;Title&apos; is not valid.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LJLD-11577065847-0-ab-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 51, Column 24: cvc-minLength-valid: Value &apos;&apos; with length = &apos;0&apos; is not facet-valid with respect to minLength &apos;1&apos; for type &apos;LongStringNotNull&apos;.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LJLD-11577065847-0-ab-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 51, Column 24: cvc-type.3.1.3: The value &apos;&apos; of element &apos;Title&apos; is not valid.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LJLD-11577065847-0-ab-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>3</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 84, Column 24: cvc-minLength-valid: Value &apos;&apos; with length = &apos;0&apos; is not facet-valid with respect to minLength &apos;1&apos; for type &apos;LongStringNotNull&apos;.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LJLD-11577065847-h</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>3</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 84, Column 24: cvc-type.3.1.3: The value &apos;&apos; of element &apos;Title&apos; is not valid.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LJLD-11577065847-h</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

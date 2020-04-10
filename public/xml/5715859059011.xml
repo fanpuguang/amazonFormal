@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585884530-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674453</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Einweghandschuhe, 1 Box Untersuchungshandschuhe ohne Puder Latex Steril Handschuhe für Haus Labor Weiß</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Leicht zu tragen, unzerbrechlich, leicht und flexibel.<br/>★ Willkommen im LDGHL-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden Einweghandschuhe weiterhin aktualisieren und unseren Kunden Qualitätsprodukte anbieten.<br/><br/>★ Spezifikation<br/>- Artikeltyp: Einweghandschuhe<br/>- Farbe weiß<br/>- Material: Emulsion<br/><br/>★ Paketliste:<br/>- 100 Stück / Box<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Einweghandschuhen bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Verschiedene Messmethoden oder Werkzeuge, der Größenfehler beträgt ca. 1-2cm<br/>- Bitte schneiden Sie Ihre Nägel vor dem Tragen. Zu lange oder scharfe Nägel können die Handschuhe leicht beschädigen.<br/>- Tragen Sie beim Tragen bitte den Bauch Ihrer Finger, um ein Herunterfallen der Handschuhe zu vermeiden<br/>- Wenn Sie Handschuhe ausziehen, drehen Sie die Handschuhe an Ihrem Handgelenk hoch und ziehen Sie sie an Ihren Fingern aus<br/>- Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ GUTE Zähigkeit: Leicht zu tragen, unzerbrechlich, leicht und flexibel.</BulletPoint>
+        <BulletPoint>★ LATEX ANTI-PUNCTURE: Keine Angst vor dem Ziehen, einfach zu bedienende Explosion, sicherer.</BulletPoint>
+        <BulletPoint>★ ANTI-STICK-TEST: Bei der täglichen Lebensmittelverarbeitung werden einige Lebensmittel wie z. B. klebriges Mehl kontaktiert. Besonders im Kontakt mit Öl spiegelt sich der Wert des Tragens von Handschuhen für Fischfutter perfekt wider.</BulletPoint>
+        <BulletPoint>★ SEHR FLEXIBEL: Es ist leicht zu greifen und hat einen großen Bewegungsbereich.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Einweghandschuhe Grip-Handschuhe Disposible Gloves Handschuhe Einweg Größe Einzelhandschuhe Praktischer Hygienebereiche Lebensmittelbranche Kosmetik Vinylhandschuhe Transparent Untersuchungshandschuhe Puderfrei Einheitsgröße Gummihandschuhe</SearchTerms>
+        <ItemType>Grip-Handschuhe</ItemType>
+        <RecommendedBrowseNode>2077668031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size</VariationTheme>
+                <Size>S</Size>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585884530-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674460</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Einweghandschuhe, 1 Box Untersuchungshandschuhe ohne Puder Latex Steril Handschuhe für Haus Labor Weiß</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Leicht zu tragen, unzerbrechlich, leicht und flexibel.<br/>★ Willkommen im LDGHL-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden Einweghandschuhe weiterhin aktualisieren und unseren Kunden Qualitätsprodukte anbieten.<br/><br/>★ Spezifikation<br/>- Artikeltyp: Einweghandschuhe<br/>- Farbe weiß<br/>- Material: Emulsion<br/><br/>★ Paketliste:<br/>- 100 Stück / Box<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Einweghandschuhen bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Verschiedene Messmethoden oder Werkzeuge, der Größenfehler beträgt ca. 1-2cm<br/>- Bitte schneiden Sie Ihre Nägel vor dem Tragen. Zu lange oder scharfe Nägel können die Handschuhe leicht beschädigen.<br/>- Tragen Sie beim Tragen bitte den Bauch Ihrer Finger, um ein Herunterfallen der Handschuhe zu vermeiden<br/>- Wenn Sie Handschuhe ausziehen, drehen Sie die Handschuhe an Ihrem Handgelenk hoch und ziehen Sie sie an Ihren Fingern aus<br/>- Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ GUTE Zähigkeit: Leicht zu tragen, unzerbrechlich, leicht und flexibel.</BulletPoint>
+        <BulletPoint>★ LATEX ANTI-PUNCTURE: Keine Angst vor dem Ziehen, einfach zu bedienende Explosion, sicherer.</BulletPoint>
+        <BulletPoint>★ ANTI-STICK-TEST: Bei der täglichen Lebensmittelverarbeitung werden einige Lebensmittel wie z. B. klebriges Mehl kontaktiert. Besonders im Kontakt mit Öl spiegelt sich der Wert des Tragens von Handschuhen für Fischfutter perfekt wider.</BulletPoint>
+        <BulletPoint>★ SEHR FLEXIBEL: Es ist leicht zu greifen und hat einen großen Bewegungsbereich.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Einweghandschuhe Grip-Handschuhe Disposible Gloves Handschuhe Einweg Größe Einzelhandschuhe Praktischer Hygienebereiche Lebensmittelbranche Kosmetik Vinylhandschuhe Transparent Untersuchungshandschuhe Puderfrei Einheitsgröße Gummihandschuhe</SearchTerms>
+        <ItemType>Grip-Handschuhe</ItemType>
+        <RecommendedBrowseNode>2077668031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size</VariationTheme>
+                <Size>M</Size>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585884530-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674477</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Einweghandschuhe, 1 Box Untersuchungshandschuhe ohne Puder Latex Steril Handschuhe für Haus Labor Weiß</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Leicht zu tragen, unzerbrechlich, leicht und flexibel.<br/>★ Willkommen im LDGHL-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden Einweghandschuhe weiterhin aktualisieren und unseren Kunden Qualitätsprodukte anbieten.<br/><br/>★ Spezifikation<br/>- Artikeltyp: Einweghandschuhe<br/>- Farbe weiß<br/>- Material: Emulsion<br/><br/>★ Paketliste:<br/>- 100 Stück / Box<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Einweghandschuhen bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Verschiedene Messmethoden oder Werkzeuge, der Größenfehler beträgt ca. 1-2cm<br/>- Bitte schneiden Sie Ihre Nägel vor dem Tragen. Zu lange oder scharfe Nägel können die Handschuhe leicht beschädigen.<br/>- Tragen Sie beim Tragen bitte den Bauch Ihrer Finger, um ein Herunterfallen der Handschuhe zu vermeiden<br/>- Wenn Sie Handschuhe ausziehen, drehen Sie die Handschuhe an Ihrem Handgelenk hoch und ziehen Sie sie an Ihren Fingern aus<br/>- Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ GUTE Zähigkeit: Leicht zu tragen, unzerbrechlich, leicht und flexibel.</BulletPoint>
+        <BulletPoint>★ LATEX ANTI-PUNCTURE: Keine Angst vor dem Ziehen, einfach zu bedienende Explosion, sicherer.</BulletPoint>
+        <BulletPoint>★ ANTI-STICK-TEST: Bei der täglichen Lebensmittelverarbeitung werden einige Lebensmittel wie z. B. klebriges Mehl kontaktiert. Besonders im Kontakt mit Öl spiegelt sich der Wert des Tragens von Handschuhen für Fischfutter perfekt wider.</BulletPoint>
+        <BulletPoint>★ SEHR FLEXIBEL: Es ist leicht zu greifen und hat einen großen Bewegungsbereich.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Einweghandschuhe Grip-Handschuhe Disposible Gloves Handschuhe Einweg Größe Einzelhandschuhe Praktischer Hygienebereiche Lebensmittelbranche Kosmetik Vinylhandschuhe Transparent Untersuchungshandschuhe Puderfrei Einheitsgröße Gummihandschuhe</SearchTerms>
+        <ItemType>Grip-Handschuhe</ItemType>
+        <RecommendedBrowseNode>2077668031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size</VariationTheme>
+                <Size>L</Size>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585885244-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674507</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Einweghandschuhe, Untersuchungshandschuhe Handschuhe Puderfrei unsteril Disposible Gloves</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Leicht zu tragen, unzerbrechlich, leicht und flexibel.<br/>★ Willkommen im LDGHL-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden Einweghandschuhe weiterhin aktualisieren und unseren Kunden Qualitätsprodukte anbieten.<br/><br/>★ Spezifikation<br/>- Artikeltyp: Einweghandschuhe<br/>- Farbe: Blau, Weiß<br/>- Material: Gummi<br/><br/>★ Paketliste:<br/>- 50 Stück / Box<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Einweghandschuhen bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Verschiedene Messmethoden oder Werkzeuge, der Größenfehler beträgt ca. 1-2cm<br/>- Bitte schneiden Sie Ihre Nägel vor dem Tragen. Zu lange oder scharfe Nägel können die Handschuhe leicht beschädigen.<br/>- Tragen Sie beim Tragen bitte den Bauch Ihrer Finger, um ein Herunterfallen der Handschuhe zu vermeiden<br/>- Wenn Sie Handschuhe ausziehen, drehen Sie die Handschuhe an Ihrem Handgelenk hoch und ziehen Sie sie an Ihren Fingern aus<br/>- Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ KOMFORTABLE PASSFORM: Hochwertiger Butyronitril-Rohstoff, Anti-Öl, hautfreundliche Passform.</BulletPoint>
+        <BulletPoint>★ AUSGEZEICHNETE ELASTIZITÄT: Gute elastische Wirkung, stark und pannensicher, langlebig und langlebig.</BulletPoint>
+        <BulletPoint>★ Rutschfester Finger: Micro-Leinen-Oberflächendesign, effektive Rutschfestigkeit, besserer Grip.</BulletPoint>
+        <BulletPoint>★ STARK UND PUNKTURBESTÄNDIG: Hervorragende Pannensicherheit, stark und langlebig.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Einweghandschuhe Grip-Handschuhe Disposible Gloves Handschuhe Einweg Größe Einzelhandschuhe Praktischer Hygienebereiche Lebensmittelbranche Kosmetik Vinylhandschuhe Transparent Untersuchungshandschuhe Puderfrei Einheitsgröße Gummihandschuhe</SearchTerms>
+        <ItemType>Grip-Handschuhe</ItemType>
+        <RecommendedBrowseNode>2077668031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>S</Size>
+                <Color>Blue</Color>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585885244-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674514</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Einweghandschuhe, Untersuchungshandschuhe Handschuhe Puderfrei unsteril Disposible Gloves</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Leicht zu tragen, unzerbrechlich, leicht und flexibel.<br/>★ Willkommen im LDGHL-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden Einweghandschuhe weiterhin aktualisieren und unseren Kunden Qualitätsprodukte anbieten.<br/><br/>★ Spezifikation<br/>- Artikeltyp: Einweghandschuhe<br/>- Farbe: Blau, Weiß<br/>- Material: Gummi<br/><br/>★ Paketliste:<br/>- 50 Stück / Box<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Einweghandschuhen bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Verschiedene Messmethoden oder Werkzeuge, der Größenfehler beträgt ca. 1-2cm<br/>- Bitte schneiden Sie Ihre Nägel vor dem Tragen. Zu lange oder scharfe Nägel können die Handschuhe leicht beschädigen.<br/>- Tragen Sie beim Tragen bitte den Bauch Ihrer Finger, um ein Herunterfallen der Handschuhe zu vermeiden<br/>- Wenn Sie Handschuhe ausziehen, drehen Sie die Handschuhe an Ihrem Handgelenk hoch und ziehen Sie sie an Ihren Fingern aus<br/>- Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ KOMFORTABLE PASSFORM: Hochwertiger Butyronitril-Rohstoff, Anti-Öl, hautfreundliche Passform.</BulletPoint>
+        <BulletPoint>★ AUSGEZEICHNETE ELASTIZITÄT: Gute elastische Wirkung, stark und pannensicher, langlebig und langlebig.</BulletPoint>
+        <BulletPoint>★ Rutschfester Finger: Micro-Leinen-Oberflächendesign, effektive Rutschfestigkeit, besserer Grip.</BulletPoint>
+        <BulletPoint>★ STARK UND PUNKTURBESTÄNDIG: Hervorragende Pannensicherheit, stark und langlebig.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Einweghandschuhe Grip-Handschuhe Disposible Gloves Handschuhe Einweg Größe Einzelhandschuhe Praktischer Hygienebereiche Lebensmittelbranche Kosmetik Vinylhandschuhe Transparent Untersuchungshandschuhe Puderfrei Einheitsgröße Gummihandschuhe</SearchTerms>
+        <ItemType>Grip-Handschuhe</ItemType>
+        <RecommendedBrowseNode>2077668031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>M</Size>
+                <Color>Blue</Color>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585885244-3</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674521</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Einweghandschuhe, Untersuchungshandschuhe Handschuhe Puderfrei unsteril Disposible Gloves</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Leicht zu tragen, unzerbrechlich, leicht und flexibel.<br/>★ Willkommen im LDGHL-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden Einweghandschuhe weiterhin aktualisieren und unseren Kunden Qualitätsprodukte anbieten.<br/><br/>★ Spezifikation<br/>- Artikeltyp: Einweghandschuhe<br/>- Farbe: Blau, Weiß<br/>- Material: Gummi<br/><br/>★ Paketliste:<br/>- 50 Stück / Box<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Einweghandschuhen bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Verschiedene Messmethoden oder Werkzeuge, der Größenfehler beträgt ca. 1-2cm<br/>- Bitte schneiden Sie Ihre Nägel vor dem Tragen. Zu lange oder scharfe Nägel können die Handschuhe leicht beschädigen.<br/>- Tragen Sie beim Tragen bitte den Bauch Ihrer Finger, um ein Herunterfallen der Handschuhe zu vermeiden<br/>- Wenn Sie Handschuhe ausziehen, drehen Sie die Handschuhe an Ihrem Handgelenk hoch und ziehen Sie sie an Ihren Fingern aus<br/>- Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ KOMFORTABLE PASSFORM: Hochwertiger Butyronitril-Rohstoff, Anti-Öl, hautfreundliche Passform.</BulletPoint>
+        <BulletPoint>★ AUSGEZEICHNETE ELASTIZITÄT: Gute elastische Wirkung, stark und pannensicher, langlebig und langlebig.</BulletPoint>
+        <BulletPoint>★ Rutschfester Finger: Micro-Leinen-Oberflächendesign, effektive Rutschfestigkeit, besserer Grip.</BulletPoint>
+        <BulletPoint>★ STARK UND PUNKTURBESTÄNDIG: Hervorragende Pannensicherheit, stark und langlebig.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Einweghandschuhe Grip-Handschuhe Disposible Gloves Handschuhe Einweg Größe Einzelhandschuhe Praktischer Hygienebereiche Lebensmittelbranche Kosmetik Vinylhandschuhe Transparent Untersuchungshandschuhe Puderfrei Einheitsgröße Gummihandschuhe</SearchTerms>
+        <ItemType>Grip-Handschuhe</ItemType>
+        <RecommendedBrowseNode>2077668031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>L</Size>
+                <Color>Blue</Color>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585885244-4</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674538</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Einweghandschuhe, Untersuchungshandschuhe Handschuhe Puderfrei unsteril Disposible Gloves</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Leicht zu tragen, unzerbrechlich, leicht und flexibel.<br/>★ Willkommen im LDGHL-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden Einweghandschuhe weiterhin aktualisieren und unseren Kunden Qualitätsprodukte anbieten.<br/><br/>★ Spezifikation<br/>- Artikeltyp: Einweghandschuhe<br/>- Farbe: Blau, Weiß<br/>- Material: Gummi<br/><br/>★ Paketliste:<br/>- 50 Stück / Box<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Einweghandschuhen bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Verschiedene Messmethoden oder Werkzeuge, der Größenfehler beträgt ca. 1-2cm<br/>- Bitte schneiden Sie Ihre Nägel vor dem Tragen. Zu lange oder scharfe Nägel können die Handschuhe leicht beschädigen.<br/>- Tragen Sie beim Tragen bitte den Bauch Ihrer Finger, um ein Herunterfallen der Handschuhe zu vermeiden<br/>- Wenn Sie Handschuhe ausziehen, drehen Sie die Handschuhe an Ihrem Handgelenk hoch und ziehen Sie sie an Ihren Fingern aus<br/>- Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ KOMFORTABLE PASSFORM: Hochwertiger Butyronitril-Rohstoff, Anti-Öl, hautfreundliche Passform.</BulletPoint>
+        <BulletPoint>★ AUSGEZEICHNETE ELASTIZITÄT: Gute elastische Wirkung, stark und pannensicher, langlebig und langlebig.</BulletPoint>
+        <BulletPoint>★ Rutschfester Finger: Micro-Leinen-Oberflächendesign, effektive Rutschfestigkeit, besserer Grip.</BulletPoint>
+        <BulletPoint>★ STARK UND PUNKTURBESTÄNDIG: Hervorragende Pannensicherheit, stark und langlebig.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Einweghandschuhe Grip-Handschuhe Disposible Gloves Handschuhe Einweg Größe Einzelhandschuhe Praktischer Hygienebereiche Lebensmittelbranche Kosmetik Vinylhandschuhe Transparent Untersuchungshandschuhe Puderfrei Einheitsgröße Gummihandschuhe</SearchTerms>
+        <ItemType>Grip-Handschuhe</ItemType>
+        <RecommendedBrowseNode>2077668031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>S</Size>
+                <Color>White</Color>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585885244-5</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674545</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Einweghandschuhe, Untersuchungshandschuhe Handschuhe Puderfrei unsteril Disposible Gloves</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Leicht zu tragen, unzerbrechlich, leicht und flexibel.<br/>★ Willkommen im LDGHL-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden Einweghandschuhe weiterhin aktualisieren und unseren Kunden Qualitätsprodukte anbieten.<br/><br/>★ Spezifikation<br/>- Artikeltyp: Einweghandschuhe<br/>- Farbe: Blau, Weiß<br/>- Material: Gummi<br/><br/>★ Paketliste:<br/>- 50 Stück / Box<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Einweghandschuhen bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Verschiedene Messmethoden oder Werkzeuge, der Größenfehler beträgt ca. 1-2cm<br/>- Bitte schneiden Sie Ihre Nägel vor dem Tragen. Zu lange oder scharfe Nägel können die Handschuhe leicht beschädigen.<br/>- Tragen Sie beim Tragen bitte den Bauch Ihrer Finger, um ein Herunterfallen der Handschuhe zu vermeiden<br/>- Wenn Sie Handschuhe ausziehen, drehen Sie die Handschuhe an Ihrem Handgelenk hoch und ziehen Sie sie an Ihren Fingern aus<br/>- Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ KOMFORTABLE PASSFORM: Hochwertiger Butyronitril-Rohstoff, Anti-Öl, hautfreundliche Passform.</BulletPoint>
+        <BulletPoint>★ AUSGEZEICHNETE ELASTIZITÄT: Gute elastische Wirkung, stark und pannensicher, langlebig und langlebig.</BulletPoint>
+        <BulletPoint>★ Rutschfester Finger: Micro-Leinen-Oberflächendesign, effektive Rutschfestigkeit, besserer Grip.</BulletPoint>
+        <BulletPoint>★ STARK UND PUNKTURBESTÄNDIG: Hervorragende Pannensicherheit, stark und langlebig.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Einweghandschuhe Grip-Handschuhe Disposible Gloves Handschuhe Einweg Größe Einzelhandschuhe Praktischer Hygienebereiche Lebensmittelbranche Kosmetik Vinylhandschuhe Transparent Untersuchungshandschuhe Puderfrei Einheitsgröße Gummihandschuhe</SearchTerms>
+        <ItemType>Grip-Handschuhe</ItemType>
+        <RecommendedBrowseNode>2077668031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>M</Size>
+                <Color>White</Color>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585885244-6</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520674552</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Einweghandschuhe, Untersuchungshandschuhe Handschuhe Puderfrei unsteril Disposible Gloves</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Leicht zu tragen, unzerbrechlich, leicht und flexibel.<br/>★ Willkommen im LDGHL-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden Einweghandschuhe weiterhin aktualisieren und unseren Kunden Qualitätsprodukte anbieten.<br/><br/>★ Spezifikation<br/>- Artikeltyp: Einweghandschuhe<br/>- Farbe: Blau, Weiß<br/>- Material: Gummi<br/><br/>★ Paketliste:<br/>- 50 Stück / Box<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Einweghandschuhen bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Verschiedene Messmethoden oder Werkzeuge, der Größenfehler beträgt ca. 1-2cm<br/>- Bitte schneiden Sie Ihre Nägel vor dem Tragen. Zu lange oder scharfe Nägel können die Handschuhe leicht beschädigen.<br/>- Tragen Sie beim Tragen bitte den Bauch Ihrer Finger, um ein Herunterfallen der Handschuhe zu vermeiden<br/>- Wenn Sie Handschuhe ausziehen, drehen Sie die Handschuhe an Ihrem Handgelenk hoch und ziehen Sie sie an Ihren Fingern aus<br/>- Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ KOMFORTABLE PASSFORM: Hochwertiger Butyronitril-Rohstoff, Anti-Öl, hautfreundliche Passform.</BulletPoint>
+        <BulletPoint>★ AUSGEZEICHNETE ELASTIZITÄT: Gute elastische Wirkung, stark und pannensicher, langlebig und langlebig.</BulletPoint>
+        <BulletPoint>★ Rutschfester Finger: Micro-Leinen-Oberflächendesign, effektive Rutschfestigkeit, besserer Grip.</BulletPoint>
+        <BulletPoint>★ STARK UND PUNKTURBESTÄNDIG: Hervorragende Pannensicherheit, stark und langlebig.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Einweghandschuhe Grip-Handschuhe Disposible Gloves Handschuhe Einweg Größe Einzelhandschuhe Praktischer Hygienebereiche Lebensmittelbranche Kosmetik Vinylhandschuhe Transparent Untersuchungshandschuhe Puderfrei Einheitsgröße Gummihandschuhe</SearchTerms>
+        <ItemType>Grip-Handschuhe</ItemType>
+        <RecommendedBrowseNode>2077668031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>L</Size>
+                <Color>White</Color>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585884530</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520668568</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Einweghandschuhe, 1 Box Untersuchungshandschuhe ohne Puder Latex Steril Handschuhe für Haus Labor Weiß</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Leicht zu tragen, unzerbrechlich, leicht und flexibel.<br/>★ Willkommen im LDGHL-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden Einweghandschuhe weiterhin aktualisieren und unseren Kunden Qualitätsprodukte anbieten.<br/><br/>★ Spezifikation<br/>- Artikeltyp: Einweghandschuhe<br/>- Farbe weiß<br/>- Material: Emulsion<br/><br/>★ Paketliste:<br/>- 100 Stück / Box<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Einweghandschuhen bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Verschiedene Messmethoden oder Werkzeuge, der Größenfehler beträgt ca. 1-2cm<br/>- Bitte schneiden Sie Ihre Nägel vor dem Tragen. Zu lange oder scharfe Nägel können die Handschuhe leicht beschädigen.<br/>- Tragen Sie beim Tragen bitte den Bauch Ihrer Finger, um ein Herunterfallen der Handschuhe zu vermeiden<br/>- Wenn Sie Handschuhe ausziehen, drehen Sie die Handschuhe an Ihrem Handgelenk hoch und ziehen Sie sie an Ihren Fingern aus<br/>- Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ GUTE Zähigkeit: Leicht zu tragen, unzerbrechlich, leicht und flexibel.</BulletPoint>
+        <BulletPoint>★ LATEX ANTI-PUNCTURE: Keine Angst vor dem Ziehen, einfach zu bedienende Explosion, sicherer.</BulletPoint>
+        <BulletPoint>★ ANTI-STICK-TEST: Bei der täglichen Lebensmittelverarbeitung werden einige Lebensmittel wie z. B. klebriges Mehl kontaktiert. Besonders im Kontakt mit Öl spiegelt sich der Wert des Tragens von Handschuhen für Fischfutter perfekt wider.</BulletPoint>
+        <BulletPoint>★ SEHR FLEXIBEL: Es ist leicht zu greifen und hat einen großen Bewegungsbereich.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Einweghandschuhe Grip-Handschuhe Disposible Gloves Handschuhe Einweg Größe Einzelhandschuhe Praktischer Hygienebereiche Lebensmittelbranche Kosmetik Vinylhandschuhe Transparent Untersuchungshandschuhe Puderfrei Einheitsgröße Gummihandschuhe</SearchTerms>
+        <ItemType>Grip-Handschuhe</ItemType>
+        <RecommendedBrowseNode>2077668031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size</VariationTheme>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>LDGHL-571585885244</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520668582</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Einweghandschuhe, Untersuchungshandschuhe Handschuhe Puderfrei unsteril Disposible Gloves</Title>
+        <Brand>LDGHL</Brand>
+        <Description><![CDATA[★ Leicht zu tragen, unzerbrechlich, leicht und flexibel.<br/>★ Willkommen im LDGHL-Shop, vielen Dank für Ihre Anwesenheit und Ihr Vertrauen! Sie können auf unseren Shop klicken, um weitere Produkte zu sehen.<br/>★ Wir werden Einweghandschuhe weiterhin aktualisieren und unseren Kunden Qualitätsprodukte anbieten.<br/><br/>★ Spezifikation<br/>- Artikeltyp: Einweghandschuhe<br/>- Farbe: Blau, Weiß<br/>- Material: Gummi<br/><br/>★ Paketliste:<br/>- 50 Stück / Box<br/><br/>★ Hinweis<br/>- Dieses Produkt ist nur zum Verkauf von Einweghandschuhen bestimmt. Anderes Zubehör ist nicht im Lieferumfang enthalten. Bitte beachten Sie beim Kauf.<br/>- Aufgrund des Lichteffekts und der verschiedenen Computermonitore kann es zu Farbunterschieden kommen.<br/>- Verschiedene Messmethoden oder Werkzeuge, der Größenfehler beträgt ca. 1-2cm<br/>- Bitte schneiden Sie Ihre Nägel vor dem Tragen. Zu lange oder scharfe Nägel können die Handschuhe leicht beschädigen.<br/>- Tragen Sie beim Tragen bitte den Bauch Ihrer Finger, um ein Herunterfallen der Handschuhe zu vermeiden<br/>- Wenn Sie Handschuhe ausziehen, drehen Sie die Handschuhe an Ihrem Handgelenk hoch und ziehen Sie sie an Ihren Fingern aus<br/>- Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.]]></Description>
+        <BulletPoint>★ KOMFORTABLE PASSFORM: Hochwertiger Butyronitril-Rohstoff, Anti-Öl, hautfreundliche Passform.</BulletPoint>
+        <BulletPoint>★ AUSGEZEICHNETE ELASTIZITÄT: Gute elastische Wirkung, stark und pannensicher, langlebig und langlebig.</BulletPoint>
+        <BulletPoint>★ Rutschfester Finger: Micro-Leinen-Oberflächendesign, effektive Rutschfestigkeit, besserer Grip.</BulletPoint>
+        <BulletPoint>★ STARK UND PUNKTURBESTÄNDIG: Hervorragende Pannensicherheit, stark und langlebig.</BulletPoint>
+        <BulletPoint>★ KUNDENSERVICE: Wenn Sie Fragen zu diesen Einweghandschuhen haben, können Sie sich gerne an uns wenden. Wir werden Ihnen innerhalb von 24 Stunden per E-Mail antworten und Ihr Problem lösen.</BulletPoint>
+        <Manufacturer>LDGHL</Manufacturer>
+        <SearchTerms>Einweghandschuhe Grip-Handschuhe Disposible Gloves Handschuhe Einweg Größe Einzelhandschuhe Praktischer Hygienebereiche Lebensmittelbranche Kosmetik Vinylhandschuhe Transparent Untersuchungshandschuhe Puderfrei Einheitsgröße Gummihandschuhe</SearchTerms>
+        <ItemType>Grip-Handschuhe</ItemType>
+        <RecommendedBrowseNode>2077668031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <KitchenTools>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+              </VariationData>
+            </KitchenTools>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

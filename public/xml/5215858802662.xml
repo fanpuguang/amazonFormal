@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>DUYER-521585245245-0-1</SKU>
+      <StandardPrice currency="EUR">50.8</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>DUYER-521585245245-1</SKU>
+      <StandardPrice currency="EUR">50.8</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

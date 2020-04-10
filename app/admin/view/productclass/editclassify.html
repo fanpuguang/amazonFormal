@@ -1,0 +1,55 @@
+{extend name="admin@public/base" /}
+{block name="main-content"}
+<div class="page-content">
+
+
+
+<div class="row">
+	<div class="col-xs-12">
+
+					<div class="col-xs-12">
+						<form action="{:url('editclassifydata')}" method="post" class="form-horizontal">
+							<div class="control-group">
+								<label class="control-label">所属栏目：</label>
+								<div class="controls">
+									{if condition="$list['parentId'] eq 0"}
+										<span style="color:#000000;font-weight:bold;" >顶级栏目</span>
+										<input type="hidden" id="parentId" name="parentId" value="0"/>
+									{else/}
+
+											{foreach name="all_fl" item="vo"}
+											{if condition="$vo['categoryId'] eq $list['parentId']"}
+												<span style="color:#000000;font-weight:bold;">{$vo.categoryName}</span>
+												<input type="hidden" id="pid" name="parentId" value="{$vo.categoryId}"/>
+											{/if}
+										{/foreach}
+									{/if}
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label class="control-label">分类名称：</label>
+								<div class="controls">
+									<input type="text" name="categoryName" class="span11" placeholder="分类名称" value="{$list.categoryName}">
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label class="control-label">排序：</label>
+								<div class="controls">
+									<input type="text" name="px" class="span11" placeholder="排序" value="{$list.px}">
+								</div>
+							</div>
+
+							<div class="form-actions">
+								<input type="hidden" id="categoryId" name="categoryId" value="{$list.categoryId}"/>
+								<button type="submit" class="btn btn-success">保存</button>
+							</div>
+						</form>
+					</div>
+				</div>
+
+			</div>
+			</div>
+
+{/block}

@@ -1,0 +1,144 @@
+{extend name="admin@public/base" /}
+{block name="main-content"}
+	<div class="page-content">
+
+		<div class="row maintop">
+
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12">
+				<div>
+					<table class="table table-striped table-bordered table-hover" id="dynamic-table">
+						<thead>
+						<tr>
+							<th>
+								上传编号
+							</th>
+							<th>
+								授权账户
+							</th>
+							<th>
+								产品id
+							</th>
+							<th>
+								AMAZON类目
+							</th>
+							<th>
+								分类类型
+							</th>
+							<th>
+								更新时间
+							</th>
+							<th>
+								产品状态
+							</th>
+
+						</tr>
+						</thead>
+
+						<tbody>
+
+						<tr>
+							<td>
+								101950
+							</td>
+							<td>
+								Onloick US(美国)
+							</td>
+							<td>
+							<span title="10160194,10161284"
+								  style="display: inline-block; width: 80px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">
+								10160194,10161284
+							</span>
+							</td>
+							<td>
+								火把/Torches
+							</td>
+							<td>
+								家居/家居/Home.Home
+							</td>
+							<td>
+								2019-08-22 15:39:36
+							</td>
+							<td>
+
+								<span class="red">
+									上传失败
+							</span>
+
+							</td>
+
+							
+						</tr>
+
+						</tbody>
+					</table>
+
+				</div>
+			</div>
+		</div>
+		<!--添加到后台menu-->
+		<div class="modal fade in" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			<div class="modal-backdrop fade in" id="gbbb" style="height: 100%;"></div>
+			<form class="form-horizontal ajaxForm2" name="model_addmenu" method="post" action="{:url('admin/Model/model_addmenu')}">
+				<input type="hidden" name="model_id" id="model_id" value="" />
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" id="gb" data-dismiss="modal"
+									aria-hidden="true">×
+							</button>
+							<h4 class="modal-title" id="myModalLabel">
+								添加到后台菜单
+							</h4>
+						</div>
+						<div class="modal-body">
+							<div class="row">
+								<div class="col-xs-12">
+
+									<div class="space-4"></div>
+									<div class="form-group">
+										<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 导航标题：  </label>
+										<div class="col-sm-9">
+											<input type="text" name="menu_name" id="menu_name"  class="col-xs-10 col-sm-5" required/>
+											<span class="lbl">&nbsp;&nbsp;<span class="red"></span>后台菜单名</span>
+										</div>
+									</div>
+									<div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 样式名称：  </label>
+										<div class="col-sm-9">
+											<input type="text" name="css" id="css" class="col-xs-10 col-sm-3"/>
+											<span class="lbl">&nbsp;&nbsp;<span class="red">*</span>样式图标样式</span>
+										</div>
+										<span class="col-sm-3"></span><span class="col-sm-9" style="font-size:12px; color:#999; margin-top:5px;">预留样式：fa-tachometer ， fa-folder ， fa-list ， fa-list-alt ， fa-calendar</span>
+									</div>
+									<div class="space-4"></div>
+									<div class="form-group">
+										<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 排序（从小到大）： </label>
+										<div class="col-sm-9">
+											<input type="text" name="sort" id="sort"  value="50" class="col-xs-10 col-sm-3" />
+											<span class="lbl">&nbsp;&nbsp;<span class="red"></span>越小越靠前</span>
+										</div>
+									</div>
+									<div class="space-4"></div>
+								</div>
+							</div>
+
+						</div>
+						<div class="modal-footer">
+							<button type="submit" class="btn btn-primary">
+								提交保存
+							</button>
+							<button type="button" class="btn btn-default" id="gbb" data-dismiss="modal"
+									aria-hidden="true">关闭
+							</button>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div><!--修改-->
+	</div><!-- /.page-content -->
+{/block}

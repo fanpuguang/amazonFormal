@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A2O70136OXEC74</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>51836018358</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>42</MessagesProcessed>
+				<MessagesSuccessful>5</MessagesSuccessful>
+				<MessagesWithError>37</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU YXYLD-271585732740-0-A does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732740-0-A</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>10</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585895823-3]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-3</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>11</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585895823-4]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-4</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>12</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585895823-5]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-5</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>13</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585895823-6]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-6</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>14</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585895823-7]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-7</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>15</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585895823-8]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-8</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>16</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585895823-9]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-9</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>17</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585895823-10]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-10</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>18</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585897357-1]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585897357-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>19</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585897357-2]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585897357-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU YXYLD-271585732740-1-A does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732740-1-A</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>20</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585897357-3]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585897357-3</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>21</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585897357-4]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585897357-4</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>22</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585897357-5]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585897357-5</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>23</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585897357-6]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585897357-6</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>24</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585897357-7]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585897357-7</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>25</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585897357-8]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585897357-8</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>26</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585898497-1]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585898497-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>27</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585898497-2]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585898497-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>28</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585898497-3]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585898497-3</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>29</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585898497-4]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585898497-4</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>3</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU YXYLD-271585732740-2-A does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732740-2-A</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>30</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585898497-5]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585898497-5</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>31</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585898497-6]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585898497-6</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>32</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585898497-7]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585898497-7</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>33</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585898497-8]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585898497-8</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>34</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585898497-9]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585898497-9</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>35</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585901341-0]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585901341-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>36</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585901341-1]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585901341-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>37</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585901341-2]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585901341-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>4</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU YXYLD-271585732740-3-A does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732740-3-A</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>5</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU YXYLD-271585732740-4-A does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732740-4-A</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>6</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU YXYLD-271585732740-5-A does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732740-5-A</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>7</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8567</ResultMessageCode>
+				<ResultDescription>SKU YXYLD-271585732740-6-A does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN.  New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585732740-6-A</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>8</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585895823-1]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>9</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8058</ResultMessageCode>
+				<ResultDescription>The following attributes are missing for SKU: [YXYLD-271585895823-2]: [part_number].For more details, see http://sellercentral.amazon.com/gp/errorcode/8058</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-2</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

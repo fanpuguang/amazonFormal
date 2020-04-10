@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Relationship</MessageType>
+  <PurgeAndReplace>false</PurgeAndReplace>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Relationship>
+      <ParentSKU>ATRNA-571585896517</ParentSKU>
+      <Relation>
+        <SKU>ATRNA-571585896517-0</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>ATRNA-571585896517-1</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>ATRNA-571585896517-2</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>ATRNA-571585896517-3</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>ATRNA-571585896517-4</SKU>
+        <Type>Variation</Type>
+      </Relation>
+    </Relationship>
+  </Message>
+</AmazonEnvelope>

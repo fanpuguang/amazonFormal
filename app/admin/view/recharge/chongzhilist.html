@@ -1,0 +1,57 @@
+{extend name="admin@public/base" /}
+{block name="main-content"}
+<div class="page-content">
+
+
+
+	<div class="row maintop">
+
+		当前管理员账户：<span style="color:red;">{$admin_realname} </span>  当前账号余额：<span style="color:red;">{$money}</span>
+
+	</div>
+
+
+
+	<div class="row">
+		<div class="col-xs-12">
+			<div>
+				<form id="leftnav" name="leftnav" method="post" action="" >
+					<input type="hidden" name="checkk" id="checkk" value="1" /><!--用于判断操作类型-->
+					<table class="table table-striped table-bordered table-hover" id="dynamic-table">
+						<thead>
+						<tr>
+							<th>序号</th>
+							<th>账号</th>
+							<th>充值金额</th>
+							<th>充值时间</th>
+
+						</tr>
+						</thead>
+
+						<tbody>
+
+						{foreach name="money_list" item="v" key="k"}
+						<tr>
+							<td >{$k+1}</td>
+							<td >{$admin_realname}</td>
+							<td style="color:red;">+{$v.money}</td>
+
+							<td>{$v.add_time|date="Y-m-d H:i:s",###}</td>
+
+						</tr>
+						{/foreach}
+						<tr>
+							<td height="50" colspan="11" align="left">{$page}</td>
+						</tr>
+						</tbody>
+					</table>
+				</form>
+			</div>
+		</div>
+	</div>
+
+
+
+
+</div><!-- /.page-content -->
+{/block}

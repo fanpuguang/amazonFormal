@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Relationship</MessageType>
+  <PurgeAndReplace>false</PurgeAndReplace>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Relationship>
+      <ParentSKU>DUYER-521585644903-a</ParentSKU>
+      <Relation>
+        <SKU>DUYER-521585644903-0-a</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>DUYER-521585644903-1-a</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>DUYER-521585644903-2-a</SKU>
+        <Type>Variation</Type>
+      </Relation>
+    </Relationship>
+  </Message>
+</AmazonEnvelope>

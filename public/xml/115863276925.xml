@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>ADXLEO062K5E6</MerchantIdentifier>
+  </Header>
+  <MessageType>Relationship</MessageType>
+  <PurgeAndReplace>false</PurgeAndReplace>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Relationship>
+      <ParentSKU>LJLD-11577065847-h</ParentSKU>
+      <Relation>
+        <SKU>LJLD-11577065847-0</SKU>
+        <Type>Variation</Type>
+      </Relation>
+      <Relation>
+        <SKU>LJLD-11577065847-1</SKU>
+        <Type>Variation</Type>
+      </Relation>
+    </Relationship>
+  </Message>
+</AmazonEnvelope>

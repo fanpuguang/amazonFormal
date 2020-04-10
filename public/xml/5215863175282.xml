@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Price</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <Price>
+      <SKU>DUYER-521585821092-0-</SKU>
+      <StandardPrice currency="EUR">51.8</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <Price>
+      <SKU>DUYER-521585822622-0-</SKU>
+      <StandardPrice currency="EUR">48.46</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <Price>
+      <SKU>DUYER-521585823584-0--</SKU>
+      <StandardPrice currency="EUR">86.9</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <Price>
+      <SKU>DUYER-521585821092-A</SKU>
+      <StandardPrice currency="EUR">51.8</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <Price>
+      <SKU>DUYER-521585822622-A</SKU>
+      <StandardPrice currency="EUR">48.46</StandardPrice>
+    </Price>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <Price>
+      <SKU>DUYER-521585823584-A</SKU>
+      <StandardPrice currency="EUR">86.9</StandardPrice>
+    </Price>
+  </Message>
+</AmazonEnvelope>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>ADXLEO062K5E6</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>80240018360</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>2</MessagesProcessed>
+				<MessagesSuccessful>2</MessagesSuccessful>
+				<MessagesWithError>0</MessagesWithError>
+				<MessagesWithWarning>1</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Warning</ResultCode>
+				<ResultMessageCode>8008</ResultMessageCode>
+				<ResultDescription>We cannot recognize your child SKU: [LJLD-11577065847-0]. For help on how to proceed, see http://sellercentral.amazon.co.uk/gp/errorcode/8008</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LJLD-11577065847-0</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>55717018360</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>33</MessagesProcessed>
+				<MessagesSuccessful>29</MessagesSuccessful>
+				<MessagesWithError>4</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>10</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 364, Column 577: cvc-maxLength-valid: Value &apos;✔ Lüftertaste: 1. Klicken Sie auf die Lüftertaste, um den Lüfter ein- und auszuschalten. Klicken Sie zum ersten Mal auf den ersten Gang des Lüfters (standardmäßig unterer Gang), klicken Sie zum zweiten Mal auf den zweiten Gang und zum dritten Mal auf den dritten Gang. Klicken Sie zum vierten Mal, um den Lüfter auszuschalten. 2. Drücken Sie lange auf die Lüftertaste, um den intermittierenden Blasmodus zu starten, 10 Sekunden lang zu blasen und 10 Sekunden lang anzuhalten. Klicken Sie erneut, um den kontinuierlichen Blasmodus zu wechseln&apos; with length = &apos;541&apos; is not facet-valid with respect to maxLength &apos;500&apos; for type &apos;LongStringNotNull&apos;.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521586225656-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>10</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 364, Column 577: cvc-type.3.1.3: The value &apos;✔ Lüftertaste: 1. Klicken Sie auf die Lüftertaste, um den Lüfter ein- und auszuschalten. Klicken Sie zum ersten Mal auf den ersten Gang des Lüfters (standardmäßig unterer Gang), klicken Sie zum zweiten Mal auf den zweiten Gang und zum dritten Mal auf den dritten Gang. Klicken Sie zum vierten Mal, um den Lüfter auszuschalten. 2. Drücken Sie lange auf die Lüftertaste, um den intermittierenden Blasmodus zu starten, 10 Sekunden lang zu blasen und 10 Sekunden lang anzuhalten. Klicken Sie erneut, um den kontinuierlichen Blasmodus zu wechseln&apos; of element &apos;BulletPoint&apos; is not valid.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521586225656-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>11</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 402, Column 577: cvc-maxLength-valid: Value &apos;✔ Lüftertaste: 1. Klicken Sie auf die Lüftertaste, um den Lüfter ein- und auszuschalten. Klicken Sie zum ersten Mal auf den ersten Gang des Lüfters (standardmäßig unterer Gang), klicken Sie zum zweiten Mal auf den zweiten Gang und zum dritten Mal auf den dritten Gang. Klicken Sie zum vierten Mal, um den Lüfter auszuschalten. 2. Drücken Sie lange auf die Lüftertaste, um den intermittierenden Blasmodus zu starten, 10 Sekunden lang zu blasen und 10 Sekunden lang anzuhalten. Klicken Sie erneut, um den kontinuierlichen Blasmodus zu wechseln&apos; with length = &apos;541&apos; is not facet-valid with respect to maxLength &apos;500&apos; for type &apos;LongStringNotNull&apos;.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521586225656-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>11</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 402, Column 577: cvc-type.3.1.3: The value &apos;✔ Lüftertaste: 1. Klicken Sie auf die Lüftertaste, um den Lüfter ein- und auszuschalten. Klicken Sie zum ersten Mal auf den ersten Gang des Lüfters (standardmäßig unterer Gang), klicken Sie zum zweiten Mal auf den zweiten Gang und zum dritten Mal auf den dritten Gang. Klicken Sie zum vierten Mal, um den Lüfter auszuschalten. 2. Drücken Sie lange auf die Lüftertaste, um den intermittierenden Blasmodus zu starten, 10 Sekunden lang zu blasen und 10 Sekunden lang anzuhalten. Klicken Sie erneut, um den kontinuierlichen Blasmodus zu wechseln&apos; of element &apos;BulletPoint&apos; is not valid.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521586225656-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>26</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 965, Column 577: cvc-maxLength-valid: Value &apos;✔ Lüftertaste: 1. Klicken Sie auf die Lüftertaste, um den Lüfter ein- und auszuschalten. Klicken Sie zum ersten Mal auf den ersten Gang des Lüfters (standardmäßig unterer Gang), klicken Sie zum zweiten Mal auf den zweiten Gang und zum dritten Mal auf den dritten Gang. Klicken Sie zum vierten Mal, um den Lüfter auszuschalten. 2. Drücken Sie lange auf die Lüftertaste, um den intermittierenden Blasmodus zu starten, 10 Sekunden lang zu blasen und 10 Sekunden lang anzuhalten. Klicken Sie erneut, um den kontinuierlichen Blasmodus zu wechseln&apos; with length = &apos;541&apos; is not facet-valid with respect to maxLength &apos;500&apos; for type &apos;LongStringNotNull&apos;.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521586225656</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>26</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 965, Column 577: cvc-type.3.1.3: The value &apos;✔ Lüftertaste: 1. Klicken Sie auf die Lüftertaste, um den Lüfter ein- und auszuschalten. Klicken Sie zum ersten Mal auf den ersten Gang des Lüfters (standardmäßig unterer Gang), klicken Sie zum zweiten Mal auf den zweiten Gang und zum dritten Mal auf den dritten Gang. Klicken Sie zum vierten Mal, um den Lüfter auszuschalten. 2. Drücken Sie lange auf die Lüftertaste, um den intermittierenden Blasmodus zu starten, 10 Sekunden lang zu blasen und 10 Sekunden lang anzuhalten. Klicken Sie erneut, um den kontinuierlichen Blasmodus zu wechseln&apos; of element &apos;BulletPoint&apos; is not valid.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521586225656</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>9</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 326, Column 577: cvc-maxLength-valid: Value &apos;✔ Lüftertaste: 1. Klicken Sie auf die Lüftertaste, um den Lüfter ein- und auszuschalten. Klicken Sie zum ersten Mal auf den ersten Gang des Lüfters (standardmäßig unterer Gang), klicken Sie zum zweiten Mal auf den zweiten Gang und zum dritten Mal auf den dritten Gang. Klicken Sie zum vierten Mal, um den Lüfter auszuschalten. 2. Drücken Sie lange auf die Lüftertaste, um den intermittierenden Blasmodus zu starten, 10 Sekunden lang zu blasen und 10 Sekunden lang anzuhalten. Klicken Sie erneut, um den kontinuierlichen Blasmodus zu wechseln&apos; with length = &apos;541&apos; is not facet-valid with respect to maxLength &apos;500&apos; for type &apos;LongStringNotNull&apos;.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521586225656-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>9</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 326, Column 577: cvc-type.3.1.3: The value &apos;✔ Lüftertaste: 1. Klicken Sie auf die Lüftertaste, um den Lüfter ein- und auszuschalten. Klicken Sie zum ersten Mal auf den ersten Gang des Lüfters (standardmäßig unterer Gang), klicken Sie zum zweiten Mal auf den zweiten Gang und zum dritten Mal auf den dritten Gang. Klicken Sie zum vierten Mal, um den Lüfter auszuschalten. 2. Drücken Sie lange auf die Lüftertaste, um den intermittierenden Blasmodus zu starten, 10 Sekunden lang zu blasen und 10 Sekunden lang anzuhalten. Klicken Sie erneut, um den kontinuierlichen Blasmodus zu wechseln&apos; of element &apos;BulletPoint&apos; is not valid.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>DUYER-521586225656-0</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

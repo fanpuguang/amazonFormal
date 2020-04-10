@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585245245-0-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520662771</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Usb mini ventilador, escritorio Clip Fan, 360 grados de rotación portátil de mano grande del viento del ventilador eléctrico para uso particular</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Nombre del producto: ventilador de escritorio<br/>Material: ABS / PPPC componentes electrónicos<br/>Tamaño del producto: 131X172X201mm<br/>voltaje de la batería: 3.7V<br/>Capacidad de la batería: 2000 mAh<br/>voltaje de entrada / corriente: DC 5V / 1000mAh<br/>Potencia de salida: 4W<br/>La velocidad del motor: una marcha 5.5V / 2.300 rpm, segunda rueda dentada de 7,5 V / 3100 rpm, la tercera marcha 9V / 3400 rpm<br/>Corriente de trabajo: 310mA un engranaje de la segunda marcha 600mA 970mA tercera velocidad<br/>Energía de trabajo: 1.3W uno de engranajes / segundo engranaje 2.5W / 4W tercer engranaje<br/>Peso del producto: 454g<br/>Ámbito de aplicación: salidas, dentro, varios lugares<br/>accesorios del producto: caja / ventilador / línea de carga / Manual]]></Description>
+        <BulletPoint>★ [Diseño estructural] El diseño aerodinámico puede reducir la resistencia del aire con los factores ambientales externos. En comparación con productos similares de la competencia, la velocidad del viento se incrementa en más de un 20%, y la eficiencia de trabajo se incrementó en un 30%.</BulletPoint>
+        <BulletPoint>★ [dirección del viento libre] dirección del viento libre, controlado por usted, gran viento, frío y no fría, suministro de aire ciclo de ajuste 360 ​​° multi-ángulo, de modo que la atmósfera de verano está a la mano.</BulletPoint>
+        <BulletPoint>★ [viento grande] El desarrollo de la tecnología de diseño de volumen de aire y la aerodinámica, la estructura del ventilador de la turbina curva, impulsada por el viento por 4 palas de la turbina a través de la curva estructura frontal neta cuidadosamente diseñado, sopla un viento fresco.</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] ajuste de volumen de aire de tres velocidades, 1 archivo ~ silencioso viento, 2 archivos ~ natural del viento, 3 archivos ~ viento fresco.</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza la logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede ponerse en contacto con nosotros en cualquier momento si tiene algún problema con la primera vez que recibe las mercancías. No hay ninguna razón para devolver la mercancía dentro de un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Ferretería</ItemType>
+        <RecommendedBrowseNode>161050</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585245245-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520662764</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Usb mini ventilador, escritorio Clip Fan, 360 grados de rotación portátil de mano grande del viento del ventilador eléctrico para uso particular</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[Nombre del producto: ventilador de escritorio<br/>Material: ABS / PPPC componentes electrónicos<br/>Tamaño del producto: 131X172X201mm<br/>voltaje de la batería: 3.7V<br/>Capacidad de la batería: 2000 mAh<br/>voltaje de entrada / corriente: DC 5V / 1000mAh<br/>Potencia de salida: 4W<br/>La velocidad del motor: una marcha 5.5V / 2.300 rpm, segunda rueda dentada de 7,5 V / 3100 rpm, la tercera marcha 9V / 3400 rpm<br/>Corriente de trabajo: 310mA un engranaje de la segunda marcha 600mA 970mA tercera velocidad<br/>Energía de trabajo: 1.3W uno de engranajes / segundo engranaje 2.5W / 4W tercer engranaje<br/>Peso del producto: 454g<br/>Ámbito de aplicación: salidas, dentro, varios lugares<br/>accesorios del producto: caja / ventilador / línea de carga / Manual]]></Description>
+        <BulletPoint>★ [Diseño estructural] El diseño aerodinámico puede reducir la resistencia del aire con los factores ambientales externos. En comparación con productos similares de la competencia, la velocidad del viento se incrementa en más de un 20%, y la eficiencia de trabajo se incrementó en un 30%.</BulletPoint>
+        <BulletPoint>★ [dirección del viento libre] dirección del viento libre, controlado por usted, gran viento, frío y no fría, suministro de aire ciclo de ajuste 360 ​​° multi-ángulo, de modo que la atmósfera de verano está a la mano.</BulletPoint>
+        <BulletPoint>★ [viento grande] El desarrollo de la tecnología de diseño de volumen de aire y la aerodinámica, la estructura del ventilador de la turbina curva, impulsada por el viento por 4 palas de la turbina a través de la curva estructura frontal neta cuidadosamente diseñado, sopla un viento fresco.</BulletPoint>
+        <BulletPoint>★ [Selección de la velocidad del viento] ajuste de volumen de aire de tres velocidades, 1 archivo ~ silencioso viento, 2 archivos ~ natural del viento, 3 archivos ~ viento fresco.</BulletPoint>
+        <BulletPoint>★ [Servicio postventa] Nuestra tienda utiliza la logística internacional, y el tiempo estimado de entrega es de 10-20 días. Puede ponerse en contacto con nosotros en cualquier momento si tiene algún problema con la primera vez que recibe las mercancías. No hay ninguna razón para devolver la mercancía dentro de un mes. Te deseo unas felices compras.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Ventilador Computadora De Mano Ventilador Pequeño Tablero De Mesa D Fantix Escritorio Pequeño Ventilador Habitación Para Bebés Ordenador De Mano W Control Remoto Con Enchufe De Usb Habitación Circulador De Aire Ventilador Cancelación De Ruido</SearchTerms>
+        <ItemType>Ferretería</ItemType>
+        <RecommendedBrowseNode>161050</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

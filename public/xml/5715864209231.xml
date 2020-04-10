@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411355-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761714</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barra di Pilates, Fasce Esercizi Tubi Allenamento Impilabili Su Tubi Allenamento per Addome, Vita, Braccio, Yoga Che Allungano Allenamento Dimagrante</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Questo movimento controllato non è solo ottimo per sviluppare la forza atletica di tutto il corpo, ma è anche facile per le articolazioni e i muscoli deboli che si stanno riprendendo da un uso eccessivo e da lesioni.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza<br/>- Materiale: NBR + camera d'aria in metallo + tubo in lattice<br/>- Colore: rosa, nero, blu<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * banda di resistenza<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di Resistance Band, altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ CINTURINO PIEDE ANTISCIVOLO: comodo da toccare, antiscivolo per proteggere la caviglia dallo sforzo.</BulletPoint>
+        <BulletPoint>★ CORDA IN LATTICE ANTI-ROTTURA: elevata elasticità, non facile da deformare dopo più prove di trazione.</BulletPoint>
+        <BulletPoint>★ SCHIUMA CONFORTEVOLE: schiuma spessa avvolge il tubo metallico, che è forte e resistente alla rottura e si sente a suo agio.</BulletPoint>
+        <BulletPoint>★ DESIGN RIMOVIBILE: design rimovibile, spazio di archiviazione semplice non occupa spazio, facile da trasportare.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste lampade da tavolo, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411355-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761721</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barra di Pilates, Fasce Esercizi Tubi Allenamento Impilabili Su Tubi Allenamento per Addome, Vita, Braccio, Yoga Che Allungano Allenamento Dimagrante</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Questo movimento controllato non è solo ottimo per sviluppare la forza atletica di tutto il corpo, ma è anche facile per le articolazioni e i muscoli deboli che si stanno riprendendo da un uso eccessivo e da lesioni.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza<br/>- Materiale: NBR + camera d'aria in metallo + tubo in lattice<br/>- Colore: rosa, nero, blu<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * banda di resistenza<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di Resistance Band, altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ CINTURINO PIEDE ANTISCIVOLO: comodo da toccare, antiscivolo per proteggere la caviglia dallo sforzo.</BulletPoint>
+        <BulletPoint>★ CORDA IN LATTICE ANTI-ROTTURA: elevata elasticità, non facile da deformare dopo più prove di trazione.</BulletPoint>
+        <BulletPoint>★ SCHIUMA CONFORTEVOLE: schiuma spessa avvolge il tubo metallico, che è forte e resistente alla rottura e si sente a suo agio.</BulletPoint>
+        <BulletPoint>★ DESIGN RIMOVIBILE: design rimovibile, spazio di archiviazione semplice non occupa spazio, facile da trasportare.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste lampade da tavolo, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Black</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411355-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761738</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barra di Pilates, Fasce Esercizi Tubi Allenamento Impilabili Su Tubi Allenamento per Addome, Vita, Braccio, Yoga Che Allungano Allenamento Dimagrante</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Questo movimento controllato non è solo ottimo per sviluppare la forza atletica di tutto il corpo, ma è anche facile per le articolazioni e i muscoli deboli che si stanno riprendendo da un uso eccessivo e da lesioni.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza<br/>- Materiale: NBR + camera d'aria in metallo + tubo in lattice<br/>- Colore: rosa, nero, blu<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * banda di resistenza<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di Resistance Band, altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ CINTURINO PIEDE ANTISCIVOLO: comodo da toccare, antiscivolo per proteggere la caviglia dallo sforzo.</BulletPoint>
+        <BulletPoint>★ CORDA IN LATTICE ANTI-ROTTURA: elevata elasticità, non facile da deformare dopo più prove di trazione.</BulletPoint>
+        <BulletPoint>★ SCHIUMA CONFORTEVOLE: schiuma spessa avvolge il tubo metallico, che è forte e resistente alla rottura e si sente a suo agio.</BulletPoint>
+        <BulletPoint>★ DESIGN RIMOVIBILE: design rimovibile, spazio di archiviazione semplice non occupa spazio, facile da trasportare.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste lampade da tavolo, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Blue</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411767-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761769</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barra di Pilates, Fasce Tirare Corda Dell'attrezzo Fitness Fascia Di Resistenza Pedale L'addestramento Che Allunga L'allungamento / Vita / Braccio / Yoga</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Perché scegliere l'estrattore per sit-up?<br/>1. Migliore scelta di regali: è uno dei migliori regali per la tua famiglia e i tuoi amici per perdere peso.<br/>2.L'allenamento con le fasce di resistenza può non solo aiutare con esercizi riabilitativi, perdita di grasso, aumento della massa muscolare, ma anche prevenire dolori alla colonna vertebrale e dolore lombare, mantenendo un corpo sano per te.<br/>3.Ideale per tonificare e rafforzare stomaco, vita e gambe, braccia, fianchi, cosce e contemporaneamente lavorare sulla pancia.<br/>4.Espansione del bodybuilding per l'addestramento dimagrante addome / vita / braccio / gamba.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza del pedale per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza del pedale<br/>- Materiale: tubi di alta qualità, schiuma, lattice<br/>- Colore: rosso, nero<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * Fascia di resistenza del pedale<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita della fascia di resistenza del pedale, altri accessori non sono inclusi nella portata della vendita, prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ SUPPORTO PIEDI: aumenta l'asta di supporto del piede, l'antiscivolo è più sicuro. La superficie è coperta con schiuma antiscivolo per prevenire lesioni sportive</BulletPoint>
+        <BulletPoint>★ IL BLOCCO PU BE ESSERE RISOLTO: premere delicatamente il blocco per fissarlo saldamente, facile da usare, più comodo da usare.</BulletPoint>
+        <BulletPoint>★ ALTEZZA REGOLABILE: 3 marce possono essere regolate in base alle diverse esigenze, libere di cambiare.</BulletPoint>
+        <BulletPoint>★ FELPA ANTISCIVOLO: rivestimento in schiuma addensata, ammortizzazione efficace, riduzione degli infortuni sportivi, sport più sicuro.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste bande di resistenza, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Red</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411767-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761776</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barra di Pilates, Fasce Tirare Corda Dell'attrezzo Fitness Fascia Di Resistenza Pedale L'addestramento Che Allunga L'allungamento / Vita / Braccio / Yoga</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Perché scegliere l'estrattore per sit-up?<br/>1. Migliore scelta di regali: è uno dei migliori regali per la tua famiglia e i tuoi amici per perdere peso.<br/>2.L'allenamento con le fasce di resistenza può non solo aiutare con esercizi riabilitativi, perdita di grasso, aumento della massa muscolare, ma anche prevenire dolori alla colonna vertebrale e dolore lombare, mantenendo un corpo sano per te.<br/>3.Ideale per tonificare e rafforzare stomaco, vita e gambe, braccia, fianchi, cosce e contemporaneamente lavorare sulla pancia.<br/>4.Espansione del bodybuilding per l'addestramento dimagrante addome / vita / braccio / gamba.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza del pedale per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza del pedale<br/>- Materiale: tubi di alta qualità, schiuma, lattice<br/>- Colore: rosso, nero<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * Fascia di resistenza del pedale<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita della fascia di resistenza del pedale, altri accessori non sono inclusi nella portata della vendita, prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ SUPPORTO PIEDI: aumenta l'asta di supporto del piede, l'antiscivolo è più sicuro. La superficie è coperta con schiuma antiscivolo per prevenire lesioni sportive</BulletPoint>
+        <BulletPoint>★ IL BLOCCO PU BE ESSERE RISOLTO: premere delicatamente il blocco per fissarlo saldamente, facile da usare, più comodo da usare.</BulletPoint>
+        <BulletPoint>★ ALTEZZA REGOLABILE: 3 marce possono essere regolate in base alle diverse esigenze, libere di cambiare.</BulletPoint>
+        <BulletPoint>★ FELPA ANTISCIVOLO: rivestimento in schiuma addensata, ammortizzazione efficace, riduzione degli infortuni sportivi, sport più sicuro.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste bande di resistenza, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Black</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412177-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761806</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barra di Pilates, Bodybuilding Yoga Pilates Stick Palestra Resistance Band Bar Ideale Per L'allenamento Totale Corpo Domestico, Palestra, Sollevamento Pesi</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Questo movimento controllato non è solo ottimo per sviluppare la forza atletica di tutto il corpo, ma è anche facile per le articolazioni e i muscoli deboli che si stanno riprendendo da un uso eccessivo e da lesioni.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza<br/>- Materiale: NBR + camera d'aria in metallo + tubo flessibile<br/>- Colore: viola, nero, rosa<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * banda di resistenza<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di Resistance Band, altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ TUBO INTERNO IN METALLO SPESSORE: smontaggio e montaggio gratuiti.</BulletPoint>
+        <BulletPoint>★ SCHIUMA SPESSA E CONFORTEVOLE: Previene lesioni alle mani durante l'esercizio.</BulletPoint>
+        <BulletPoint>★ BUONA FORZA: allungata molte volte, non facile da rompere.</BulletPoint>
+        <BulletPoint>★ CINTURA PROTETTIVA SPESSA: proteggi mani e caviglie da lesioni.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste bande di resistenza, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Purple</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412177-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761813</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barra di Pilates, Bodybuilding Yoga Pilates Stick Palestra Resistance Band Bar Ideale Per L'allenamento Totale Corpo Domestico, Palestra, Sollevamento Pesi</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Questo movimento controllato non è solo ottimo per sviluppare la forza atletica di tutto il corpo, ma è anche facile per le articolazioni e i muscoli deboli che si stanno riprendendo da un uso eccessivo e da lesioni.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza<br/>- Materiale: NBR + camera d'aria in metallo + tubo flessibile<br/>- Colore: viola, nero, rosa<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * banda di resistenza<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di Resistance Band, altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ TUBO INTERNO IN METALLO SPESSORE: smontaggio e montaggio gratuiti.</BulletPoint>
+        <BulletPoint>★ SCHIUMA SPESSA E CONFORTEVOLE: Previene lesioni alle mani durante l'esercizio.</BulletPoint>
+        <BulletPoint>★ BUONA FORZA: allungata molte volte, non facile da rompere.</BulletPoint>
+        <BulletPoint>★ CINTURA PROTETTIVA SPESSA: proteggi mani e caviglie da lesioni.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste bande di resistenza, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Black</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412177-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761820</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barra di Pilates, Bodybuilding Yoga Pilates Stick Palestra Resistance Band Bar Ideale Per L'allenamento Totale Corpo Domestico, Palestra, Sollevamento Pesi</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Questo movimento controllato non è solo ottimo per sviluppare la forza atletica di tutto il corpo, ma è anche facile per le articolazioni e i muscoli deboli che si stanno riprendendo da un uso eccessivo e da lesioni.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza<br/>- Materiale: NBR + camera d'aria in metallo + tubo flessibile<br/>- Colore: viola, nero, rosa<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * banda di resistenza<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di Resistance Band, altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ TUBO INTERNO IN METALLO SPESSORE: smontaggio e montaggio gratuiti.</BulletPoint>
+        <BulletPoint>★ SCHIUMA SPESSA E CONFORTEVOLE: Previene lesioni alle mani durante l'esercizio.</BulletPoint>
+        <BulletPoint>★ BUONA FORZA: allungata molte volte, non facile da rompere.</BulletPoint>
+        <BulletPoint>★ CINTURA PROTETTIVA SPESSA: proteggi mani e caviglie da lesioni.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste bande di resistenza, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412823-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761851</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Fascia di Resistenza, Attrezzatura Multifunzionale Allenamento Rullo Facile Usare Nessun Rumore L'allenamento Addominale Ruote Allenatore Donne Macchina a Casa Gemma</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Questo movimento controllato non è solo ottimo per sviluppare la forza atletica di tutto il corpo, ma è anche facile per le articolazioni e i muscoli deboli che si stanno riprendendo da un uso eccessivo e da lesioni.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza<br/>- Colore: viola, rosa, verde<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * banda di resistenza<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di Resistance Band, altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ INTENSITÀ DI ESERCIZIO REGOLABILE: maggiore è l'angolo di separazione delle due ruote, migliore è l'effetto e maggiore è l'intensità dell'esercizio.</BulletPoint>
+        <BulletPoint>★ PAVIMENTO SENZA INFORTUNI: gomma morbida TPR resistente all'anello esterno ruota, non ferire il pavimento.</BulletPoint>
+        <BulletPoint>★ MODALITÀ VITA SOTTILE: rimbalzo automatico, quattro ruote sono più stabili, silenziose e antiscivolo.</BulletPoint>
+        <BulletPoint>★ IN QUALSIASI MOMENTO OVUNQUE: Casa, camere d'albergo, uffici e persino all'aperto Sempre e ovunque tu voglia iniziare un evento sportivo o lo sport che desideri, è molto facile da trasportare e una piccola palestra portatile. Perfetto allenamento della forza a casa</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste bande di resistenza, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Purple</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412823-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761868</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Fascia di Resistenza, Attrezzatura Multifunzionale Allenamento Rullo Facile Usare Nessun Rumore L'allenamento Addominale Ruote Allenatore Donne Macchina a Casa Gemma</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Questo movimento controllato non è solo ottimo per sviluppare la forza atletica di tutto il corpo, ma è anche facile per le articolazioni e i muscoli deboli che si stanno riprendendo da un uso eccessivo e da lesioni.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza<br/>- Colore: viola, rosa, verde<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * banda di resistenza<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di Resistance Band, altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ INTENSITÀ DI ESERCIZIO REGOLABILE: maggiore è l'angolo di separazione delle due ruote, migliore è l'effetto e maggiore è l'intensità dell'esercizio.</BulletPoint>
+        <BulletPoint>★ PAVIMENTO SENZA INFORTUNI: gomma morbida TPR resistente all'anello esterno ruota, non ferire il pavimento.</BulletPoint>
+        <BulletPoint>★ MODALITÀ VITA SOTTILE: rimbalzo automatico, quattro ruote sono più stabili, silenziose e antiscivolo.</BulletPoint>
+        <BulletPoint>★ IN QUALSIASI MOMENTO OVUNQUE: Casa, camere d'albergo, uffici e persino all'aperto Sempre e ovunque tu voglia iniziare un evento sportivo o lo sport che desideri, è molto facile da trasportare e una piccola palestra portatile. Perfetto allenamento della forza a casa</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste bande di resistenza, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412823-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761875</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Fascia di Resistenza, Attrezzatura Multifunzionale Allenamento Rullo Facile Usare Nessun Rumore L'allenamento Addominale Ruote Allenatore Donne Macchina a Casa Gemma</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Questo movimento controllato non è solo ottimo per sviluppare la forza atletica di tutto il corpo, ma è anche facile per le articolazioni e i muscoli deboli che si stanno riprendendo da un uso eccessivo e da lesioni.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza<br/>- Colore: viola, rosa, verde<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * banda di resistenza<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di Resistance Band, altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ INTENSITÀ DI ESERCIZIO REGOLABILE: maggiore è l'angolo di separazione delle due ruote, migliore è l'effetto e maggiore è l'intensità dell'esercizio.</BulletPoint>
+        <BulletPoint>★ PAVIMENTO SENZA INFORTUNI: gomma morbida TPR resistente all'anello esterno ruota, non ferire il pavimento.</BulletPoint>
+        <BulletPoint>★ MODALITÀ VITA SOTTILE: rimbalzo automatico, quattro ruote sono più stabili, silenziose e antiscivolo.</BulletPoint>
+        <BulletPoint>★ IN QUALSIASI MOMENTO OVUNQUE: Casa, camere d'albergo, uffici e persino all'aperto Sempre e ovunque tu voglia iniziare un evento sportivo o lo sport che desideri, è molto facile da trasportare e una piccola palestra portatile. Perfetto allenamento della forza a casa</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste bande di resistenza, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Green</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411355</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761707</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barra di Pilates, Fasce Esercizi Tubi Allenamento Impilabili Su Tubi Allenamento per Addome, Vita, Braccio, Yoga Che Allungano Allenamento Dimagrante</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Questo movimento controllato non è solo ottimo per sviluppare la forza atletica di tutto il corpo, ma è anche facile per le articolazioni e i muscoli deboli che si stanno riprendendo da un uso eccessivo e da lesioni.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza<br/>- Materiale: NBR + camera d'aria in metallo + tubo in lattice<br/>- Colore: rosa, nero, blu<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * banda di resistenza<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di Resistance Band, altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ CINTURINO PIEDE ANTISCIVOLO: comodo da toccare, antiscivolo per proteggere la caviglia dallo sforzo.</BulletPoint>
+        <BulletPoint>★ CORDA IN LATTICE ANTI-ROTTURA: elevata elasticità, non facile da deformare dopo più prove di trazione.</BulletPoint>
+        <BulletPoint>★ SCHIUMA CONFORTEVOLE: schiuma spessa avvolge il tubo metallico, che è forte e resistente alla rottura e si sente a suo agio.</BulletPoint>
+        <BulletPoint>★ DESIGN RIMOVIBILE: design rimovibile, spazio di archiviazione semplice non occupa spazio, facile da trasportare.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste lampade da tavolo, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>13</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411637</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761745</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barra di Pilates, Corda Elastica Fitness Attrezzatura Fitness Espansore Per Bodybuilding Allenamento Dimagrante Per Addome / Vita / Braccio / Gamba</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Perché scegliere l'estrattore per sit-up?<br/>1. Migliore scelta di regali: è uno dei migliori regali per la tua famiglia e i tuoi amici per perdere peso.<br/>2.L'allenamento con le fasce di resistenza può non solo aiutare con esercizi riabilitativi, perdita di grasso, aumento della massa muscolare, ma anche prevenire dolori alla colonna vertebrale e dolore lombare, mantenendo un corpo sano per te.<br/>3.Ideale per tonificare e rafforzare stomaco, vita e gambe, braccia, fianchi, cosce e contemporaneamente lavorare sulla pancia.<br/>4.Espansione del bodybuilding per l'addestramento dimagrante addome / vita / braccio / gamba.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza del pedale per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza del pedale<br/>- Materiale: TPE + schiuma + acciaio legato<br/>- Colore viola<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * Fascia di resistenza del pedale<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita della fascia di resistenza del pedale, altri accessori non sono inclusi nella portata della vendita, prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ MANIGLIA IN SCHIUMA: impugnatura in schiuma morbida, alta densità, comoda e non ferisce le mani.</BulletPoint>
+        <BulletPoint>★ Poggiapiedi antiscivolo: materiale NBR, sicuro e sicuro da usare.</BulletPoint>
+        <BulletPoint>★ PANNO ANTINFORTUNISTICO: rifiutare di rompere, tessere bene il tessuto, il fattore di sicurezza è aumentato del 50% rispetto al vecchio modello.</BulletPoint>
+        <BulletPoint>★ FIBBIA FIBBIA IN ACCIAIO: regola arbitrariamente, scegli la tua forza, esercita nel modo giusto.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste lampade da tavolo, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData/>
+            </OutdoorLiving>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411767</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761752</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barra di Pilates, Fasce Tirare Corda Dell'attrezzo Fitness Fascia Di Resistenza Pedale L'addestramento Che Allunga L'allungamento / Vita / Braccio / Yoga</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Perché scegliere l'estrattore per sit-up?<br/>1. Migliore scelta di regali: è uno dei migliori regali per la tua famiglia e i tuoi amici per perdere peso.<br/>2.L'allenamento con le fasce di resistenza può non solo aiutare con esercizi riabilitativi, perdita di grasso, aumento della massa muscolare, ma anche prevenire dolori alla colonna vertebrale e dolore lombare, mantenendo un corpo sano per te.<br/>3.Ideale per tonificare e rafforzare stomaco, vita e gambe, braccia, fianchi, cosce e contemporaneamente lavorare sulla pancia.<br/>4.Espansione del bodybuilding per l'addestramento dimagrante addome / vita / braccio / gamba.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza del pedale per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza del pedale<br/>- Materiale: tubi di alta qualità, schiuma, lattice<br/>- Colore: rosso, nero<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * Fascia di resistenza del pedale<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita della fascia di resistenza del pedale, altri accessori non sono inclusi nella portata della vendita, prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ SUPPORTO PIEDI: aumenta l'asta di supporto del piede, l'antiscivolo è più sicuro. La superficie è coperta con schiuma antiscivolo per prevenire lesioni sportive</BulletPoint>
+        <BulletPoint>★ IL BLOCCO PU BE ESSERE RISOLTO: premere delicatamente il blocco per fissarlo saldamente, facile da usare, più comodo da usare.</BulletPoint>
+        <BulletPoint>★ ALTEZZA REGOLABILE: 3 marce possono essere regolate in base alle diverse esigenze, libere di cambiare.</BulletPoint>
+        <BulletPoint>★ FELPA ANTISCIVOLO: rivestimento in schiuma addensata, ammortizzazione efficace, riduzione degli infortuni sportivi, sport più sicuro.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste bande di resistenza, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>15</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411966</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761783</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barra di Pilates, Banda Resistenza All'esercizio Yoga Pilates Bar Barra Tonificante Muscolare Portatile Palestra Casa Allenamento Total Body Migliora</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Questo movimento controllato non è solo ottimo per sviluppare la forza atletica di tutto il corpo, ma è anche facile per le articolazioni e i muscoli deboli che si stanno riprendendo da un uso eccessivo e da lesioni.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza<br/>- Materiale: tubo in lattice naturale / fibbia in nylon / acciaio<br/>- Colore: nero-rosso<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * banda di resistenza<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di Resistance Band, altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ COMODO E ROBUSTO: il palo può essere diviso e strappato, l'EVA si sente comodo, resistente.</BulletPoint>
+        <BulletPoint>★ LUNGHEZZA REGOLABILE: fibbia regolabile, regolazione rapida della lunghezza, rapida e comoda.</BulletPoint>
+        <BulletPoint>★ MATERIALE SICURO: design sicuro e anti-rottura, robusta struttura in nylon imitazione.</BulletPoint>
+        <BulletPoint>★ IN QUALSIASI MOMENTO OVUNQUE: Casa, camere d'albergo, uffici e persino all'aperto Sempre e ovunque tu voglia iniziare un evento sportivo o lo sport che desideri, è molto facile da trasportare e una piccola palestra portatile. Perfetto allenamento della forza a casa.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste bande di resistenza, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData/>
+            </OutdoorLiving>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>16</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412177</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761790</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barra di Pilates, Bodybuilding Yoga Pilates Stick Palestra Resistance Band Bar Ideale Per L'allenamento Totale Corpo Domestico, Palestra, Sollevamento Pesi</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Questo movimento controllato non è solo ottimo per sviluppare la forza atletica di tutto il corpo, ma è anche facile per le articolazioni e i muscoli deboli che si stanno riprendendo da un uso eccessivo e da lesioni.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza<br/>- Materiale: NBR + camera d'aria in metallo + tubo flessibile<br/>- Colore: viola, nero, rosa<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * banda di resistenza<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di Resistance Band, altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ TUBO INTERNO IN METALLO SPESSORE: smontaggio e montaggio gratuiti.</BulletPoint>
+        <BulletPoint>★ SCHIUMA SPESSA E CONFORTEVOLE: Previene lesioni alle mani durante l'esercizio.</BulletPoint>
+        <BulletPoint>★ BUONA FORZA: allungata molte volte, non facile da rompere.</BulletPoint>
+        <BulletPoint>★ CINTURA PROTETTIVA SPESSA: proteggi mani e caviglie da lesioni.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste bande di resistenza, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>17</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412429</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761837</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Barra di Pilates, Banda Resistenza Yoga Pilates Stick Yoga Barra Per Esercizi Con Passante Per Yoga, Stretch, Sculpt, Twisting, Sit-up Bar Resistance Band</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Questo movimento controllato non è solo ottimo per sviluppare la forza atletica di tutto il corpo, ma è anche facile per le articolazioni e i muscoli deboli che si stanno riprendendo da un uso eccessivo e da lesioni.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza<br/>- Materiale: lattice / filato di poliestere / ferro / cotone PP<br/>- Colore arancione<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * banda di resistenza<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di Resistance Band, altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ INSTEAD OF BARBELL: la barra fitness può sostituire il bilanciere, che è più sicuro, comodo da riporre, esercitare i muscoli della schiena.</BulletPoint>
+        <BulletPoint>★ SUPPORTO YOGA: il fitness stick può aiutare l'esercizio di yoga, aiutare a esercitare la forma dell'anca.</BulletPoint>
+        <BulletPoint>★ ALL'INTERNO DELLA TORCITURA DELLA MACCHINA DELLA VITA: il bastone fitness può sostituire la macchina per torcere la vita, proteggere la vita dalla slogatura.</BulletPoint>
+        <BulletPoint>★ INSTEAD OF PULL ROPE: la barra fitness può sostituire la fune di trazione, mostrare più metodi di allenamento, scrollarsi di dosso il braccio a farfalla e creare gambe lunghe.</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste bande di resistenza, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData/>
+            </OutdoorLiving>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>18</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412823</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761844</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Fascia di Resistenza, Attrezzatura Multifunzionale Allenamento Rullo Facile Usare Nessun Rumore L'allenamento Addominale Ruote Allenatore Donne Macchina a Casa Gemma</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Questo movimento controllato non è solo ottimo per sviluppare la forza atletica di tutto il corpo, ma è anche facile per le articolazioni e i muscoli deboli che si stanno riprendendo da un uso eccessivo e da lesioni.<br/>★ Benvenuto nel negozio ATRNA, grazie per la tua presenza e fiducia! Puoi fare clic sul nostro negozio per vedere più prodotti.<br/>★ Continueremo ad aggiornare la banda di resistenza per fornire ai clienti prodotti di qualità.<br/><br/>★ specifica<br/>- Tipo di elemento: fascia di resistenza<br/>- Colore: viola, rosa, verde<br/><br/>★ Elenco dei pacchetti:<br/>- 1 * banda di resistenza<br/><br/>★ Nota<br/>- Questo prodotto è destinato esclusivamente alla vendita di Resistance Band, altri accessori non sono inclusi nell'ambito di vendita, si prega di prestare attenzione al momento dell'acquisto.<br/>- A causa dell'effetto luce e dei diversi monitor del computer, potrebbe esserci una differenza di colore.<br/>- La dimensione è una misurazione manuale, ci sarà un errore di 1-2 cm.<br/>- Se hai domande su queste bande di resistenza dei pedali, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il tuo problema in 24 ore.]]></Description>
+        <BulletPoint>★ INTENSITÀ DI ESERCIZIO REGOLABILE: maggiore è l'angolo di separazione delle due ruote, migliore è l'effetto e maggiore è l'intensità dell'esercizio.</BulletPoint>
+        <BulletPoint>★ PAVIMENTO SENZA INFORTUNI: gomma morbida TPR resistente all'anello esterno ruota, non ferire il pavimento.</BulletPoint>
+        <BulletPoint>★ MODALITÀ VITA SOTTILE: rimbalzo automatico, quattro ruote sono più stabili, silenziose e antiscivolo.</BulletPoint>
+        <BulletPoint>★ IN QUALSIASI MOMENTO OVUNQUE: Casa, camere d'albergo, uffici e persino all'aperto Sempre e ovunque tu voglia iniziare un evento sportivo o lo sport che desideri, è molto facile da trasportare e una piccola palestra portatile. Perfetto allenamento della forza a casa</BulletPoint>
+        <BulletPoint>★ SERVIZIO CLIENTI: Se hai domande su queste bande di resistenza, non esitare a contattarci e ti risponderemo via e-mail e risolveremo il problema in 24 ore.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Attrezzatura Esercizi Resistenza Pedale Fascia Elastica Palestra casa Yoga Allenamento Braccio Espansore Fitness Sit-up in Addominale Stretching Bodybuilding Corda elastica Attrezzature addome braccio palestra dimagrante Estrattore Tensione</SearchTerms>
+        <ItemType>Cinghie Fitness</ItemType>
+        <RecommendedBrowseNode>968391031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

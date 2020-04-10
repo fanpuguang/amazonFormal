@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585820217-0-</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554861149</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mobile KlimageräTe, Air Cooler, 4-In-1-LuftbefeuchterküHler, 3-Gang-Desktop-LüFter, Geeignet FüR Zuhause, Raum, BüRo</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Sie möchten im heißen Sommer kühl bleiben, befürchten jedoch, dass der Betrieb der Klimaanlage den ganzen Tag über viel kostet und normale Ventilatoren nur warme Luft in Ihr Gesicht blasen.<br/><br/>✔ Möchten Sie sich besser beruhigen?<br/>Verwenden Sie unseren Mini-Luftkühler, um diesen persönlichen Raumkühler für Ihre Komfortzone zu erhalten. Geben Sie einfach Wasser und Eis in den Wassertank, entspannen Sie sich und genießen Sie einen frischen und feuchten Atemzug.<br/><br/>✔ Lüfter und Luftbefeuchter<br/>Die Klimaanlage, der tragbare Verdunstungsluftkühler und der Zerstäuber-Luftbefeuchter sind in einem kombiniert, wodurch Haut und Luft befeuchtet, von trockener Luft ferngehalten und die Kühle des Sommers genossen werden können.<br/><br/>✔ Frische Luft und ein gesundes Leben genießen<br/>Es senkt die Temperatur durch Wasserverdunstung und erzeugt frische Luft. Geringer Stromverbrauch und lange Befeuchtungszeit! Es ist energieeffizient und kohlenstoffarm.<br/><br/>✔ Tragbarer persönlicher Luftkühler<br/>Mini persönlicher Luftkühler für den persönlichen Gebrauch, bitte nicht mehr als 3 Fuß bis 4 Fuß platzieren.<br/><br/>✔ Paket beinhaltet:<br/>1 x Klimaanlage<br/>1 x USB-Datenkabel]]></Description>
+        <BulletPoint>✔ 4-in-1-Design: Dieser Verdunstungsluftkühler verfügt über eine tragbare Lüfterkühlung, Sprühbefeuchtung, Luftreinigung und 4-in-1-Funktionen von 7 LED-Leuchten, wodurch nicht nur die Temperatur gesenkt wird, sondern auch trockene Luft vermieden wird. Darüber hinaus verfügt es über ein 7-Farben-LED-Umgebungslicht und ein weiches und farbenfrohes LED-Licht, das eine romantische Atmosphäre schafft und Ihnen ein besseres Schlafumfeld bietet.</BulletPoint>
+        <BulletPoint>✔ 3-Gang-Einstellung: Unsere Mini-Klimaanlage verfügt über 3-Gang-Modi, die je nach Ihren Anforderungen (niedrig / mittel / hoch) frei eingestellt werden können. Bei Bedarf können Sie auch die Windrichtung so einstellen, dass sie sich vertikal dreht. (Hinweis: Tragbare Luftkühler eignen sich nicht zur Kühlung des gesamten Raums.)</BulletPoint>
+        <BulletPoint>✔ Energieeinsparung und Gesundheit: Dieser tragbare Luftkühler hat einen geringen Energieverbrauch und ist frei von Freon. Es schützt nicht nur die Gesundheit Ihrer Familie, sondern verbraucht auch nur 3,5 Watt Strom, um Energieverluste zu minimieren und die Umwelt zu schützen. Ideal für die Kühlung von Wohnzimmer, Schlafzimmer, Büro usw. im Sommer. Kann auch bei der Arbeit und auf Reisen verwendet werden.</BulletPoint>
+        <BulletPoint>✔ Einfach zu bedienen und leicht: Fügen Sie einfach Wasser oder Eiswasser hinzu und schließen Sie das USB-Kabel an ein mobiles Netzteil oder eine USB-Schnittstelle an. Sie können den tragbaren Mini-Luftkühler durch Drücken der Funktionstaste verwenden.</BulletPoint>
+        <BulletPoint>✔ 100% After-Sales-Service: Unser Geschäft nutzt internationale Logistik. Sie können uns jederzeit per E-Mail kontaktieren. Wir werden Ihre Fragen innerhalb von 24 Stunden beantworten. Der Kunde ist immer der Erste. Sie können sich selbst finden, indem Sie nach &amp;quot;DUYER&amp;quot; suchen. Lieblingsprodukte, ich wünsche Ihnen viel Spaß beim Einkaufen!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585820217-A</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554861132</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Mobile KlimageräTe, Air Cooler, 4-In-1-LuftbefeuchterküHler, 3-Gang-Desktop-LüFter, Geeignet FüR Zuhause, Raum, BüRo</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ Sie möchten im heißen Sommer kühl bleiben, befürchten jedoch, dass der Betrieb der Klimaanlage den ganzen Tag über viel kostet und normale Ventilatoren nur warme Luft in Ihr Gesicht blasen.<br/><br/>✔ Möchten Sie sich besser beruhigen?<br/>Verwenden Sie unseren Mini-Luftkühler, um diesen persönlichen Raumkühler für Ihre Komfortzone zu erhalten. Geben Sie einfach Wasser und Eis in den Wassertank, entspannen Sie sich und genießen Sie einen frischen und feuchten Atemzug.<br/><br/>✔ Lüfter und Luftbefeuchter<br/>Die Klimaanlage, der tragbare Verdunstungsluftkühler und der Zerstäuber-Luftbefeuchter sind in einem kombiniert, wodurch Haut und Luft befeuchtet, von trockener Luft ferngehalten und die Kühle des Sommers genossen werden können.<br/><br/>✔ Frische Luft und ein gesundes Leben genießen<br/>Es senkt die Temperatur durch Wasserverdunstung und erzeugt frische Luft. Geringer Stromverbrauch und lange Befeuchtungszeit! Es ist energieeffizient und kohlenstoffarm.<br/><br/>✔ Tragbarer persönlicher Luftkühler<br/>Mini persönlicher Luftkühler für den persönlichen Gebrauch, bitte nicht mehr als 3 Fuß bis 4 Fuß platzieren.<br/><br/>✔ Paket beinhaltet:<br/>1 x Klimaanlage<br/>1 x USB-Datenkabel]]></Description>
+        <BulletPoint>✔ 4-in-1-Design: Dieser Verdunstungsluftkühler verfügt über eine tragbare Lüfterkühlung, Sprühbefeuchtung, Luftreinigung und 4-in-1-Funktionen von 7 LED-Leuchten, wodurch nicht nur die Temperatur gesenkt wird, sondern auch trockene Luft vermieden wird. Darüber hinaus verfügt es über ein 7-Farben-LED-Umgebungslicht und ein weiches und farbenfrohes LED-Licht, das eine romantische Atmosphäre schafft und Ihnen ein besseres Schlafumfeld bietet.</BulletPoint>
+        <BulletPoint>✔ 3-Gang-Einstellung: Unsere Mini-Klimaanlage verfügt über 3-Gang-Modi, die je nach Ihren Anforderungen (niedrig / mittel / hoch) frei eingestellt werden können. Bei Bedarf können Sie auch die Windrichtung so einstellen, dass sie sich vertikal dreht. (Hinweis: Tragbare Luftkühler eignen sich nicht zur Kühlung des gesamten Raums.)</BulletPoint>
+        <BulletPoint>✔ Energieeinsparung und Gesundheit: Dieser tragbare Luftkühler hat einen geringen Energieverbrauch und ist frei von Freon. Es schützt nicht nur die Gesundheit Ihrer Familie, sondern verbraucht auch nur 3,5 Watt Strom, um Energieverluste zu minimieren und die Umwelt zu schützen. Ideal für die Kühlung von Wohnzimmer, Schlafzimmer, Büro usw. im Sommer. Kann auch bei der Arbeit und auf Reisen verwendet werden.</BulletPoint>
+        <BulletPoint>✔ Einfach zu bedienen und leicht: Fügen Sie einfach Wasser oder Eiswasser hinzu und schließen Sie das USB-Kabel an ein mobiles Netzteil oder eine USB-Schnittstelle an. Sie können den tragbaren Mini-Luftkühler durch Drücken der Funktionstaste verwenden.</BulletPoint>
+        <BulletPoint>✔ 100% After-Sales-Service: Unser Geschäft nutzt internationale Logistik. Sie können uns jederzeit per E-Mail kontaktieren. Wir werden Ihre Fragen innerhalb von 24 Stunden beantworten. Der Kunde ist immer der Erste. Sie können sich selbst finden, indem Sie nach &amp;quot;DUYER&amp;quot; suchen. Lieblingsprodukte, ich wünsche Ihnen viel Spaß beim Einkaufen!</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>Lüfter Handheld Kleiner Lüfter Tischplatte D Fantix Kleiner Tischventilator Baby Room Hand W-Fernbedienung Mit USB-Stecker Raum-Luftumwälzventilator</SearchTerms>
+        <ItemType>Mobile Klimageräte</ItemType>
+        <RecommendedBrowseNode>3677549031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

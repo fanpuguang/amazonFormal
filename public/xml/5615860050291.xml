@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A1A3K0BAQPDN3U</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>AIWKR-561585733533</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666939</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Magische Rückenstütze, Multi-level Verbessern Glöckner Zurück Tragbahre, Rückenschmerzen Entlastungmassager Lordosenstütze Taille Rückenschmerzen Relax</Title>
+        <Brand>AIWKR</Brand>
+        <Description><![CDATA[Willkommen bei AIWKR! Wir werden auch weiterhin unsere Produkte aktualisieren, vielen Dank für Ihr Vertrauen!<br/><br/>Die Back Tragbahre, kann Ihren Lendenwirbel auf gesunden Curve Stretch!<br/><br/>✔ Eigenschaften:<br/>◆ Einfache Installation.<br/>◆ Gibt den Rücken vollständig strecken und zu unterstützen.<br/>◆ Reduziert Nervenkompression.<br/>◆ Hilft Ihren Rücken zurück zur gesunden körperlichen Kurve ausrichten.<br/>◆ Es ist tragbar, dass Sie tun, überall Strecken kann.<br/><br/>✔Specification:<br/>◆ Material: ABS<br/>◆ Dimension: 25,5 * 38,5 * 16.8cm (10.04 * 15.16 * 6.61in)<br/>◆ Paket-Inhalt: 1 * Home Gebrauch zurück Zugvorrichtungen<br/><br/>✔Tips:<br/>◆ Gestatten Abweichung durch manuelle Messung.<br/>◆ Durch die Aufnahmebedingungen können die Farben variieren, konzentrieren sich bitte auf dem tatsächlichen Produktfarbe.<br/>◆ Wenn Sie Fragen oder Unzufriedenheit mit unseren Produkten haben, können Sie uns eine E-Mail jederzeit senden kann, werden wir Ihnen innerhalb von 24 Stunden dienen.]]></Description>
+        <BulletPoint>★ Ergonomisches Design für Back Pain Relief: Das ergonomische Design können Sie Ihre Rückenschmerzen und Beschwerden bequem die Rücken, Akupunktur-Therapie unterstützen, verbessert Flexibilität Muskel und Blutzirkulation im Rücken stimulieren.</BulletPoint>
+        <BulletPoint>★ perfekte mobile Lösung für alle Rückenprobleme: Wie prall Scheibe, Bandscheibenvorfall und andere niedere Probleme Rückenschmerzen. Diese einfach gewölbte lumbalen Bahre ermöglicht die Wirbelsäule selbst neu ausrichten spinal Druck entlastet.</BulletPoint>
+        <BulletPoint>★ Einfache Installation mit 3 verschiedenen Ebenen: Die lumbalen Rücken Bahre mit einstellbarem Multi-Level-Therapiegerät, das flexibel ist entsprechend Ihre unterschiedlichen Grade einzustellen erfordert, vollständig strecken und lindern Schmerzen in der unteren Rücken, Schulter- und Rückenmuskulatur.</BulletPoint>
+        <BulletPoint>★ MULTI ZWECK: Die Lenden Ausrichtung Bahre verwendet werden kann, wann immer Sie liegen oder sitzen. Die hintere Ausrichtungsvorrichtung kann auf einem Stuhl zu Hilfe gelegt werden korrigieren Sie Ihre Sitzhaltung oder Autositz als Lordosenstütze für Auto zu dienen, die die Müdigkeit vor allem helfen zu reduzieren.</BulletPoint>
+        <BulletPoint>★ ZUFRIEDENHEIT nach-verkaufen Service: Sie können weitere Produkte finden Sie mögen, indem für AIWKR suchen. Wenn Sie Fragen haben, zögern Sie nicht uns zu kontaktieren. Wir werden Ihnen innerhalb von 24 Stunden beantworten.</BulletPoint>
+        <Manufacturer>AIWKR</Manufacturer>
+        <SearchTerms>magic back stretcher lordosenstütze stretching gerät körperhaltung korrektor akupunktur massager lower lendenwirbelsäule schmerzen bekommen muskelspannung rückenstrecker leichtem  wirbelsäulenstrecker</SearchTerms>
+        <ItemType>Rückenmassage</ItemType>
+        <RecommendedBrowseNode>3326260031</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData/>
+            </BedAndBath>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

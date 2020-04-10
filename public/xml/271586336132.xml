@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A7WLACVLY9SQQ</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>55595018360</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>94</MessagesProcessed>
+				<MessagesSuccessful>0</MessagesSuccessful>
+				<MessagesWithError>94</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586157697-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>10</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158235-7</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>11</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158235-8</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>12</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158235-9</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>13</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158235-10</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>14</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158235-11</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>15</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158235-12</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>16</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>17</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>18</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-3</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>19</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-4</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586157697-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>20</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-5</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>21</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-6</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>22</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-7</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>23</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-8</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>24</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-9</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>25</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-10</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>26</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-11</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>27</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-12</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>28</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-13</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>29</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-14</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>3</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586157697-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>30</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-15</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>31</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-16</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>32</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-17</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>33</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470-18</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>34</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158583-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>35</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158583-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>36</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158583-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>37</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158583-3</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>38</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158583-4</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>39</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158785-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>4</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158235-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>40</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158785-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>41</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158785-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>42</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158893-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>43</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158893-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>44</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158893-3</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>45</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158893-4</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>46</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158893-5</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>47</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158893-6</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>48</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158893-7</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>49</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158893-8</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>5</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158235-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>50</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586242661-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>51</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586242661-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>52</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586242661-3</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>53</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586242661-4</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>54</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586242661-5</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>55</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586242661-6</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>56</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586242839-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>57</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586242839-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>58</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>59</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>6</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158235-3</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>60</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018-3</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>61</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018-4</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>62</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018-5</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>63</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018-6</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>64</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018-7</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>65</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018-8</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>66</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018-9</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>67</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018-10</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>68</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018-11</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>69</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018-12</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>7</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158235-4</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>70</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018-13</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>71</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018-14</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>72</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018-15</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>73</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243130-1</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>74</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243130-2</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>75</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243130-3</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>76</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243130-4</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>77</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243130-5</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>78</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243130-6</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>79</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243130-7</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>8</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158235-5</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>80</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243130-8</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>81</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243130-9</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>82</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243130-10</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>83</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243130-11</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>84</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243130-12</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>85</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586157697</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>86</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158235</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>87</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158470</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>88</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158583</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>89</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158785</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>9</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158235-6</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>90</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586158893</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>91</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586242661</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>92</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586242839</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>93</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243018</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>94</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8005</ResultMessageCode>
+				<ResultDescription>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate the SKU with the appropriate identity attribute. For more information and detailed instructions, see: http://sellercentral.amazon.co.uk/gp/help/23191</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271586243130</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

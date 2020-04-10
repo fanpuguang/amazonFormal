@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A2O70136OXEC74</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>51873018359</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>11</MessagesProcessed>
+				<MessagesSuccessful>1</MessagesSuccessful>
+				<MessagesWithError>10</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>6039</ResultMessageCode>
+				<ResultDescription>Merchant is not authorized to sell products under this restricted product group.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-1--HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>10</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>6039</ResultMessageCode>
+				<ResultDescription>Merchant is not authorized to sell products under this restricted product group.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-10--HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>6039</ResultMessageCode>
+				<ResultDescription>Merchant is not authorized to sell products under this restricted product group.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-2--HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>3</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>6039</ResultMessageCode>
+				<ResultDescription>Merchant is not authorized to sell products under this restricted product group.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-3--HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>4</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>6039</ResultMessageCode>
+				<ResultDescription>Merchant is not authorized to sell products under this restricted product group.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-4--HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>5</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>6039</ResultMessageCode>
+				<ResultDescription>Merchant is not authorized to sell products under this restricted product group.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-5--HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>6</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>6039</ResultMessageCode>
+				<ResultDescription>Merchant is not authorized to sell products under this restricted product group.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-6--HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>7</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>6039</ResultMessageCode>
+				<ResultDescription>Merchant is not authorized to sell products under this restricted product group.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-7--HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>8</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>6039</ResultMessageCode>
+				<ResultDescription>Merchant is not authorized to sell products under this restricted product group.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-8--HR</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>9</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>6039</ResultMessageCode>
+				<ResultDescription>Merchant is not authorized to sell products under this restricted product group.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>YXYLD-271585895823-9--HR</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

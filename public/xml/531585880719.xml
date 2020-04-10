@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A4ZDWTIWQS2GL</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>56415018355</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>0</MessagesProcessed>
+				<MessagesSuccessful>0</MessagesSuccessful>
+				<MessagesWithError>1</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>0</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5001</ResultMessageCode>
+				<ResultDescription>XML Parsing Fatal Error at Line 9, Column 18: cvc-complex-type.2.4.b: The content of element &apos;AmazonEnvelope&apos; is not complete. One of &apos;{EffectiveDate, Message}&apos; is expected. cvc-complex-type.2.4.b: The content of element &apos;AmazonEnvelope&apos; is not complete. One of &apos;{EffectiveDate, Message}&apos; is expected.</ResultDescription>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

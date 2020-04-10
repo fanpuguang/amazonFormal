@@ -1,0 +1,504 @@
+{extend name="admin@public/base" /}
+{block name="main-content"}
+<style>
+	.pro_inf>span>p,
+	.pro_inf>p{
+		color: #ffa64c;
+		font-size: 13px;
+	}
+	.check span input{
+		margin-right: 8px;
+		margin-left: 15px;
+	}
+	.check span:nth-child(1) input{
+		margin-left: 0;
+	}
+
+
+	#fenleiTankuang div.con{
+		display: flex;
+		padding: 30px 10px 10px 10px;
+		height: 320px;
+	}
+	#fenleiTankuang div.con>div{
+		flex: 1;
+		/*border: 1px solid #bbb;*/
+		padding: 10px;
+		margin-right: 10px;
+		border-radius: 3px;
+		box-shadow: 0 0 10px #ccc;
+	}
+	#fenleiTankuang div.con>div ul li{
+		color: #555;
+		padding: 5px;
+		cursor: pointer;
+		border-radius: 2px;
+		border-bottom: 2px solid #f0f0f0;
+	}
+	#fenleiTankuang div.con>div ul li.active{
+		/*color: #0f6ab4;*/
+		background: #dbedf7;
+	}
+	#fenleiTankuang{
+		display: none;
+	}
+	form>.fenleiCon{
+		display: none;
+	}
+	.dingsClass{
+		z-index:20000000!important;
+	}
+	.inner-content-div2{
+		height: 270px;
+		overflow-y: scroll;
+	}
+
+</style>
+	<div class="page-content">
+
+		<div class="row maintop">
+			<!--<div class="col-xs-5 col-sm-2  margintop5">
+
+					<button class="btn btn-sm btn-danger">
+						<i class="ace-icon fa fa-bolt bigger-110"></i>
+						<a style="color: #ffffff;" href="{:url('admin/Productupload/myupload')}">立即上传列表</a>
+					</button>
+					<button class="btn btn-sm btn-danger">
+						<i class="ace-icon fa fa-bolt bigger-110"></i>
+						<a style="color: #ffffff;"  href="{:url('admin/Productupload/timing_upload')}">定时上传列表</a>
+					</button>
+
+			</div>-->
+			<div class="col-xs-5 col-sm-2  margintop5" style="width:50%;">
+				<!--<button class="btn btn-info" >
+					<i class="ace-icon fa fa-bolt bigger-110"></i>
+					<a style="color: #ffffff;"  href="{:url('admin/Productupload/new_upload')}">添加新上传</a>
+				</button>-->
+
+				<button  class="btn btn-info" >
+					<i class="ace-icon fa fa-check bigger-110"></i>
+					立即上传亚马逊
+				</button>
+			</div>
+
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12">
+				<div id="step" class="box">
+					<form>
+
+						<div class="form_item">
+							<div class="item">
+								<div>
+									<h4>
+										导出产品
+									</h4>
+								</div>
+								<div class="pro_inf daochu">
+                    <span>
+                        <label for="">
+                            开始ID：
+                        </label>
+                        <input type="text" placeholder="建议填写" class="startId">
+                        <p>
+                            产品ID都是递增的，本次要导出产品起始ID
+                        </p>
+                    </span>
+									&nbsp;&nbsp;&nbsp;&nbsp;
+									<span>
+                        <label for="">
+                            结束ID：
+                        </label>
+                        <input type="text" placeholder="建议填写" class="endId">
+                        <p>
+                            要导出产品的结束ID，结束ID起始ID
+                        </p>
+                    </span>
+								</div>
+							</div>
+						</div>
+						<div class="form_item">
+							<div class="item">
+								<div>
+									<h4>
+										产品ID
+									</h4>
+								</div>
+								<div class="pro_inf">
+                    <span>
+                        <textarea placeholder="产品ID" class="textareaId">
+                        </textarea>
+                    </span>
+									<br>
+									<p>
+										填写产品ID后（逗号隔开，逗号为英文逗号，不能有空格），将只上传填写的ID列表，不填写则上传其他条件筛选出的产品，标准格式：12,123,456,789
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="form_item">
+							<div class="item">
+								<div>
+									<h4>
+										授权店铺
+									</h4>
+								</div>
+								<div class="pro_inf">
+									<div class="el-select">
+										<!---->
+										<div class="el-input el-input--suffix">
+											<!---->
+
+											<!---->
+												<select name="goodsCate"  class="col-sm-5 selector" required id="test111" onchange="fenlei(this.value)" >
+													<option value="">请选择店铺</option>
+													{foreach name="dianpu" item="v"}
+														<option value="{$v.plug_khqy}">{$admin_realname}
+															{if $v['plug_khqy'] == 0}-(北美){/if}
+															{if $v['plug_khqy'] == 1}-(欧洲){/if}
+															{if $v['plug_khqy'] == 2}-(日本){/if}
+															{if $v['plug_khqy'] == 3}-(澳大利亚){/if}
+
+
+														</option>
+													{/foreach}
+												</select>
+                                                                <span class="el-input__suffix">
+                                                    <span class="el-input__suffix-inner">
+                                                        <i class="el-select__caret el-input__icon el-icon-arrow-up">
+                                                        </i>
+
+                                </span>
+												<!---->
+                            </span>
+											<!---->
+											<!---->
+										</div>
+
+									</div>
+									<span>
+                    </span>
+								</div>
+							</div>
+							<div class="item">
+								<div>
+									<h4>
+										更新选项
+									</h4>
+								</div>
+								<div id="operateItem" class="pro_inf check">
+                    <span>
+                        <input type="checkbox" id="check3" value="all" class="input_check">
+                        全部
+                    </span>
+									<span>
+                        <input type="checkbox" value="0" class="input_check">
+                        基本信息
+                    </span>
+									<span>
+                        <input type="checkbox" value="1" class="input_check">
+                        关系
+                    </span>
+									<span>
+                        <input type="checkbox" value="2" class="input_check">
+                        图片
+                    </span>
+									<span>
+                        <input type="checkbox" value="3" class="input_check">
+                        库存
+                    </span>
+									<span>
+                        <input type="checkbox" value="4" class="input_check">
+                        价格
+                    </span>
+									<p>
+										如果只更新产品信息，则不需要选中上面选项
+									</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="form_item">
+							<div class="item">
+								<div class="select-res">
+									<h4>
+										选择分类
+									</h4>
+								</div>
+
+								<!--/*********************************************************************/-->
+								<div class="layui-layer layui-layer-page openClass layer-anim" id="layui-layer2" type="page" times="2" showtime="0" contype="object" style="z-index: 19891016; width: 800px; height: 400px;  left: 551.5px;display:none;" >
+									<div id="" class="layui-layer-content" style="height: 347px;">
+										<div id="fenleiTankuang" class="layui-layer-wrap" style="display: block;">
+											<div class="con">
+												<div class="fenleiCon" style="display: none;" id="class1">
+													<div style="width: 100%; margin: 0px auto;">
+														<div class="inner-content-div2">
+															<ul id="class1-1">
+
+															</ul>
+														</div>
+													</div>
+												</div>
+												<div class="fenleiCon" style="display: none;" id="class2">
+													<div style="width: 100%; margin: 0px auto;">
+														<div class="inner-content-div2">
+															<ul id="class2-2">
+
+															</ul>
+														</div>
+													</div>
+												</div>
+												<div class="fenleiCon"  style="display: none;" id="class3">
+													<div style="width: 100%; margin: 0px auto;">
+														<div class="inner-content-div2">
+															<ul id="class3-3">
+
+															</ul>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<span class="layui-layer-setwin">
+                        <a class="layui-layer-ico layui-layer-close layui-layer-close2" onclick="guanbi()">
+                        </a>
+                    </span>
+									<div class="layui-layer-btn layui-layer-btn-">
+										<a class="layui-layer-btn0">
+											确定
+										</a>
+										<a class="layui-layer-btn1" onclick="guanbi()">
+											取消
+										</a>
+									</div>
+									<span class="layui-layer-resize">
+                    </span>
+								</div>
+								<script>
+									//关闭分类
+									function guanbi(){
+										$('#layui-layer2').hide();
+
+									}
+									//点击更改背景
+
+									$("#class1-1").on("click","li",function(){
+										$("#class1-1 li").removeClass("active");
+										$(this).addClass("active");
+									});
+									$("#class2-2").on("click","li",function(){
+										$("#class2-2 li").removeClass("active");
+										$(this).addClass("active");
+									});
+									$("#class3-3").on("click","li",function(){
+										$("#class3-3 li").removeClass("active");
+										$(this).addClass("active");
+									});
+									//显示分类
+									function xianshi(){
+
+										zhi = $('#test111').val();//选中的值
+										if(zhi == ''){
+											layer.alert('请选择店铺', {icon: 5});
+										}else{
+											$('#layui-layer2').show();
+										}
+
+
+									}
+									//遍历展示一级分类
+									function fenlei(obj) {
+
+										$.ajax({
+											url:'{:url(\'admin/Productupload/class1\')}',
+											data:{obj:obj},
+											type:'post',
+											dataType: 'json',
+											success:function(result){
+												$("#class1").show();
+												$.each(result, function(i, item) {
+													$("#class1-1").append("<li data-index=\"0\" data-nodeid='" + item.cid + "' onclick='fenlei2("+ item.cid +")'>" + item.displayName + "</li>");
+												});
+
+											}
+										});
+									}
+									//遍历展示二级分类
+									function fenlei2(class2) {
+										$.ajax({
+											url:'{:url(\'admin/Productupload/class2\')}',
+											data:{class2:class2},
+											type:'post',
+											dataType: 'json',
+											success:function(result){
+												$("#class2").show();
+												$("#class2-2").empty();
+												$.each(result, function(i, item) {
+													$("#class2-2").append("<li data-index=\"0\" data-nodeid='" + item.cid + "'onclick='fenlei3("+ item.cid +")'>" + item.displayName + "</li>");
+												});
+
+											}
+										});
+									}
+									//遍历展示三级分类
+									function fenlei3(class3) {
+										$.ajax({
+											url:'{:url(\'admin/Productupload/class3\')}',
+											data:{class3:class3},
+											type:'post',
+											dataType: 'json',
+											success:function(result){
+												if(result){
+													$("#class3").show();
+													$("#class3-3").empty();
+													$.each(result, function(i, item) {
+														$("#class3-3").append("<li data-index=\"0\" data-nodeid='" + item.cid + "'>" + item.displayName + "</li>");
+													});
+												}
+											}
+										});
+									}
+								</script>
+
+								<!-- *********************************************************************/ -->
+								<div class="pro_inf">
+                    <span>
+                        <input type="text" placeholder="--请选择--" class="changeType" style="width: 350px;" onclick="xianshi()">
+                    </span>
+									<input type="text" placeholder="分类节点id">
+									<!--<input type="button" value="历史选择">-->
+									<p>
+									</p>
+								</div>
+							</div>
+							<div class="item">
+								<div>
+									<h4>
+										分类模板
+									</h4>
+								</div>
+								<div class="pro_inf">
+                    <span>
+                        <div class="el-select">
+                            <!---->
+                            <div class="el-input el-input--suffix">
+                                <!---->
+
+								<select name="goodsCate"  class="col-sm-3 selector" >
+									<option value="">--请选择--</option>
+									{foreach name="class_templet" item="v"}
+									<option value="{$v.name}">{$v.zyname}</option>
+									{/foreach}
+								</select>
+
+								<!---->
+                                <span class="el-input__suffix">
+                                    <span class="el-input__suffix-inner">
+                                        <i class="el-select__caret el-input__icon el-icon-arrow-up">
+                                        </i>
+
+                                    </span>
+									<!---->
+                                </span>
+
+                            </div>
+                            <div class="el-select-dropdown el-popper" style="display: none; min-width: 260px;">
+                                <div class="el-scrollbar" style="display: none;">
+                                    <div class="el-select-dropdown__wrap el-scrollbar__wrap" style="margin-bottom: -17px; margin-right: -17px;">
+                                        <ul class="el-scrollbar__view el-select-dropdown__list">
+                                        </ul>
+                                    </div>
+                                    <div class="el-scrollbar__bar is-horizontal">
+                                        <div class="el-scrollbar__thumb" style="transform: translateX(0%);">
+                                        </div>
+                                    </div>
+                                    <div class="el-scrollbar__bar is-vertical">
+                                        <div class="el-scrollbar__thumb" style="transform: translateY(0%);">
+                                        </div>
+                                    </div>
+                                </div>
+                                <p class="el-select-dropdown__empty">
+                                    无数据
+                                </p>
+                            </div>
+                        </div>
+                    </span>
+								</div>
+							</div>
+							<!---->
+						</div>
+						<div id="fenleiTankuang">
+							<div class="con">
+							</div>
+						</div>
+						<div id="timeUp" style="display: none;">
+							<h3>
+								定时上传
+							</h3>
+							<span>
+                <label for="">
+                    国家
+                </label>
+                <span>
+                </span>
+            </span>
+							<br>
+							<span>
+                <label for="">
+                    选择时间
+                </label>
+                <div class="el-date-editor el-input el-input--prefix el-input--suffix el-date-editor--datetime">
+                    <!---->
+                    <input type="text" autocomplete="off" name="" placeholder="选择日期时间" class="el-input__inner">
+                    <span class="el-input__prefix">
+                        <i class="el-input__icon el-icon-time">
+                        </i>
+						<!---->
+                    </span>
+                    <span class="el-input__suffix">
+                        <span class="el-input__suffix-inner">
+                            <i class="el-input__icon">
+                            </i>
+							<!---->
+							<!---->
+							<!---->
+							<!---->
+                        </span>
+						<!---->
+                    </span>
+					<!---->
+					<!---->
+                </div>
+            </span>
+							<span style="color: rgb(0, 163, 232); cursor: pointer;">
+                <i class="layui-icon layui-icon-fonts-code">
+                </i>
+                转换
+            </span>
+							<p>
+							</p>
+						</div>
+					</form>
+					<div id="lishi" style="display: none;">
+						<h3>
+							历史选择
+						</h3>
+						<div class="some-content-related-div" style="width: 100%; margin: 0px auto;">
+							<div class="inner-content-div2">
+								<ul>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+
+
+
+{/block}

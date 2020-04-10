@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A1BXR3JT8264T2</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>50574018358</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>2</MessagesProcessed>
+				<MessagesSuccessful>0</MessagesSuccessful>
+				<MessagesWithError>2</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586134888、 指定のない属性 part_number。 SKU AIWKR-561586134888はどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586134888</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>2</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8560</ResultMessageCode>
+				<ResultDescription>SKU AIWKR-561586159108、 指定のない属性 part_number。 SKU AIWKR-561586159108はどのASINとも一致しません。新しいASINを作成する場合は、次の属性が必要になります: part_number。 Feed ID: 0。 詳しくは、 http://sellercentral.amazon.co.jp/gp/errorcode/8560 を参照してください。</ResultDescription>
+				<AdditionalInfo>
+					<SKU>AIWKR-561586159108</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>A4ZDWTIWQS2GL</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>56494018359</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>23</MessagesProcessed>
+				<MessagesSuccessful>21</MessagesSuccessful>
+				<MessagesWithError>2</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>13</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8541</ResultMessageCode>
+				<ResultDescription>The SKU data provided is different from what&apos;s already in the Amazon catalog. The standard_product_id data provided matches ASIN B07Q57FJK9, but the following data is different from what&apos;s already in the Amazon catalog: item_name (Merchant: &apos;LYTLD Speed Skipping Rope, Jump Rope, Foam Handle Colored PVC Lengthened Skipping Rope Weight Bearing Fitness&apos; / Amazon: &apos;FidgetGear The Colorful Butterfly Waterproof Fabric Home Decor Shower Curtain Bathroom Mat Metal 12 Pcs Hooks/Lot&apos;). If this is the right ASIN for your product, update your data to match what&apos;s in the Amazon catalog. If it&apos;s not the right ASIN, make sure that your data for standard_product_id is correct. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>LYTLD-531585897651-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>20</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8541</ResultMessageCode>
+				<ResultDescription>The SKU data provided is different from what&apos;s already in the Amazon catalog. The standard_product_id data provided matches ASIN B07Q8JPGGH, but the following data is different from what&apos;s already in the Amazon catalog: item_name (Merchant: &apos;Jump Rope for Fitness, Speed Skipping Rope, Lightweight Anti-Slip Matte Handle, Free Adjustment of Rope Length&apos; / Amazon: &apos;FidgetGear Halloween Waterproof Fabric Home Decor Shower Curtain Liner Bathroom Mat 71inch Metal 12 Pcs Hooks/Lot&apos;). If this is the right ASIN for your product, update your data to match what&apos;s in the Amazon catalog. If it&apos;s not the right ASIN, make sure that your data for standard_product_id is correct. </ResultDescription>
+				<AdditionalInfo>
+					<SKU>LYTLD-531585893991</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

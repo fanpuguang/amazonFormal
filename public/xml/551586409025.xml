@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>AEVNUXOBWGAO5</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>56903018361</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>16</MessagesProcessed>
+				<MessagesSuccessful>14</MessagesSuccessful>
+				<MessagesWithError>2</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 23, Column 547: cvc-maxLength-valid: Value &apos;★ 【Profitez Anytime Fitness, Partout】 La conception simple de la bande de résistance vous permet de profiter de remise en forme dans toute la maison sans être affectée par l&apos;environnement. Vous avez seulement besoin d&apos;une personne à l&apos;exercice. La bande de résistance est facile à installer, facile à utiliser. Vous pouvez utiliser un cadre de porte et un verrou de porte comme une aide de remise en forme à la maison. Si vous verrouillez avec serrures de pied et porte, vous pouvez étirer vos bras et le corps.&apos; with length = &apos;511&apos; is not facet-valid with respect to maxLength &apos;500&apos; for type &apos;LongStringNotNull&apos;.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LDLL-551586328979-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>1</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 23, Column 547: cvc-type.3.1.3: The value &apos;★ 【Profitez Anytime Fitness, Partout】 La conception simple de la bande de résistance vous permet de profiter de remise en forme dans toute la maison sans être affectée par l&apos;environnement. Vous avez seulement besoin d&apos;une personne à l&apos;exercice. La bande de résistance est facile à installer, facile à utiliser. Vous pouvez utiliser un cadre de porte et un verrou de porte comme une aide de remise en forme à la maison. Si vous verrouillez avec serrures de pied et porte, vous pouvez étirer vos bras et le corps.&apos; of element &apos;BulletPoint&apos; is not valid.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LDLL-551586328979-0</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>9</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 328, Column 547: cvc-maxLength-valid: Value &apos;★ 【Profitez Anytime Fitness, Partout】 La conception simple de la bande de résistance vous permet de profiter de remise en forme dans toute la maison sans être affectée par l&apos;environnement. Vous avez seulement besoin d&apos;une personne à l&apos;exercice. La bande de résistance est facile à installer, facile à utiliser. Vous pouvez utiliser un cadre de porte et un verrou de porte comme une aide de remise en forme à la maison. Si vous verrouillez avec serrures de pied et porte, vous pouvez étirer vos bras et le corps.&apos; with length = &apos;511&apos; is not facet-valid with respect to maxLength &apos;500&apos; for type &apos;LongStringNotNull&apos;.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LDLL-551586328979</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>9</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>5000</ResultMessageCode>
+				<ResultDescription>XML Parsing Error at Line 328, Column 547: cvc-type.3.1.3: The value &apos;★ 【Profitez Anytime Fitness, Partout】 La conception simple de la bande de résistance vous permet de profiter de remise en forme dans toute la maison sans être affectée par l&apos;environnement. Vous avez seulement besoin d&apos;une personne à l&apos;exercice. La bande de résistance est facile à installer, facile à utiliser. Vous pouvez utiliser un cadre de porte et un verrou de porte comme une aide de remise en forme à la maison. Si vous verrouillez avec serrures de pied et porte, vous pouvez étirer vos bras et le corps.&apos; of element &apos;BulletPoint&apos; is not valid.</ResultDescription>
+				<AdditionalInfo>
+					<SKU>LDLL-551586328979</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

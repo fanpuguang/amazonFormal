@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A1A3K0BAQPDN3U</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>AIWKR-561585733533</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6954520666939</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Camilla De Espalda, Mejorar Jorobado Volver Camilla, Inferior Y Superior De La Espalda Alivio Del Dolor Lumbar Masajeador Ayuda De La Cintura De La Espina Dorsal Dolor Relax</Title>
+        <Brand>AIWKR</Brand>
+        <Description><![CDATA[La bienvenida a AIWKR! Vamos a seguir para actualizar nuestros productos, gracias por su confianza!<br/><br/>La Volver Camilla, puede estirar su lumbar con el fin Curva saludable!<br/><br/>✔ características:<br/>Fácil instalación ◆.<br/>◆ Da la espalda totalmente recta final y apoyo.<br/>◆ Reduce la compresión del nervio.<br/>◆ ayuda a alinear la columna vertebral de la espalda a la curva física saludable.<br/>◆ Es portátil que se puede hacer en cualquier lugar de estiramiento.<br/><br/>✔Specification:<br/>◆ Material: ABS<br/>◆ Dimensión: 25.5 * 38.5 * 16.8cm (10.04 * 15.16 * 6.61in)<br/>◆ Contenido del paquete: 1 * dispositivos de uso doméstico tracción trasera<br/><br/>✔Tips:<br/>◆ Por favor permita medir la desviación debido a la medida manual.<br/>◆ Debido a las condiciones de disparo, los colores pueden variar, por favor, se centran en el color real del producto.<br/>◆ Si tiene alguna pregunta o insatisfacción con nuestros productos, puede enviar un correo electrónico en cualquier momento, vamos a servirle a usted dentro de 24 horas.]]></Description>
+        <BulletPoint>★ ERGONÓMICO DISEÑO PARA DOLOR DE ESPALDA DE SOCORRO: El diseño ergonómico puede apoyar cómodamente la espalda, la terapia de acupuntura su dolor de espalda y molestias, mejorar la flexibilidad muscular y estimular la circulación de la sangre en la parte trasera.</BulletPoint>
+        <BulletPoint>★ PERFECTO solución portátil PARA TODOS LOS PROBLEMAS DE NUEVO: Tal como hernia de disco, hernia de disco y otros problemas de dolor de espalda baja. Esta camilla lumbar arqueada simplemente permite que la columna vertebral para aliviar la presión vuelve a su posición vertebral.</BulletPoint>
+        <BulletPoint>★ instalación fácil con 3 niveles diferentes: La parte posterior lumbar de Camilla con dispositivo de terapia multi-nivel ajustable, es flexible para ajustarse de acuerdo a su grado diferente requerirá, totalmente el dolor y aliviar el estiramiento en la espalda, hombros y músculos de la espalda inferiores.</BulletPoint>
+        <BulletPoint>★ MULTIUSO: La alineación camilla lumbar puede ser utilizado cada vez que está acostado o sentado. El dispositivo de alineación posterior se puede colocar en una silla para ayudar a corregir la postura de asiento o asiento de seguridad para servir como un soporte lumbar para el coche que ayuda a reducir el cansancio en especial.</BulletPoint>
+        <BulletPoint>★ SATISFACCIÓN DE SERVICIO POST-VENTA: Puede encontrar más productos que desea mediante la búsqueda de AIWKR. Si tienes alguna pregunta, no dude en ponerse en contacto con nosotros. Le responderemos dentro de las 24 horas.</BulletPoint>
+        <Manufacturer>AIWKR</Manufacturer>
+        <SearchTerms>dispositivo estiramiento espalda multinivel camilla soporte lumbar baja masajea dores espal corrección volver columna vertebral cojín disco vértebras tracción ortopédico spine descompresión curvado</SearchTerms>
+        <ItemType>Masajeadores de Espalda</ItemType>
+        <RecommendedBrowseNode>9845589011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData/>
+            </BedAndBath>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

@@ -1,0 +1,78 @@
+{extend name="admin@public/base" /}
+{block name="main-content"}
+<div class="page-content">
+
+
+
+	<!--主题-->
+	<div class="page-header">
+		<h1>
+			您当前操作
+			<small>
+				<i class="ace-icon fa fa-angle-double-right"></i>
+				UPC/EAN码生成
+			</small>
+		</h1>
+	</div>
+	<div class="row">
+
+		<div class="tabbable">
+			<ul class="nav nav-tabs" id="myTab">
+				<li class="active">
+					<a data-toggle="tab" href="#urllist">
+						UPC/EAN码
+					</a>
+				</li>
+			</ul>
+			<div class="tab-content">
+
+				<div id="urllist" class="tab-pane fade in active">
+					<div class="row maintop">
+						<div class="col-xs-12 col-sm-1">
+							<!-- 点击添加模态框（Modal） -->
+							<button class="btn btn-xs btn-danger" data-toggle="modal" data-target="#myModal">
+								<i class="ace-icon fa fa-bolt bigger-110"></i>
+								添加EAN/UPC码
+							</button>
+
+						</div>
+
+					</div>
+
+
+					<form class="form-horizontal ajaxForm2" name="excel_runimport" method="post" action="{:url('admin/Batchdeletion/excel_runean')}"  enctype="multipart/form-data">
+						<div class="form-group">
+							<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 【EAN/UPC】选择上传的EXCEL文件： </label>
+							<div class="col-sm-4">
+								<a href="javascript:;" class="file">
+									<input type="file" name="file_stu" id="file_stu" class="file" multiple="multiple" >
+									选择上传文件
+								</a>
+								<span class="input-group-btn" style="float:inherit; left:140px; top:2px;">
+									<button type="submit" class="btn btn-xs  btn-purple">
+										<span class="ace-icon fa fa-search icon-on-right bigger-110"></span>
+										批量导入
+									</button>
+								</span>
+								<span style="float:right; line-height:35px; top:2px;"><a href="#" target="_blank">下载示例表格</a></span>
+
+							</div>
+
+						</div>
+					</form>
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+	</div><!-- /.modal -->
+<script>
+	function shengcheng(){
+		layer.msg('EAN码生成中');
+	}
+</script>
+
+
+</div><!-- /.page-content -->
+{/block}

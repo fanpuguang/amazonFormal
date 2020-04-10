@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2OI2L2OPFI67W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585822622-0-</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554861088</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Portable Air Cooler, Mini Air Conditioner, Touch Control 3 Speed Fan Speed, Usb Powered, For Home Office Outdoor</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ You want to stay cool in the hot summer, but worry that it will cost a lot to run the air conditioner all day, and ordinary fans will only blow warm air to your face.<br/><br/>✔ Do you want a better way to calm down?<br/>Use our mini air cooler to get this personal space cooler to create your comfort zone. Just add water and ice to the water tank, then relax and enjoy a fresh and moist breath.<br/><br/>✔ Product name: USB Mini Cooler<br/>✔ Material: ABS material<br/>✔ Product size: 140 * 155 * 175mm<br/>✔ Power: 5W<br/>✔ Working voltage: 1A<br/>✔ Input voltage: 5V<br/>✔ Size: 170 * 170 * 205mm<br/><br/>✔ Packing list<br/>1 * Cooler<br/>1 * USB cable<br/>1 * Manual (Chinese and English)]]></Description>
+        <BulletPoint>✔ With three functions of cooling, humidification and air purification, the wind speed can be adjusted in three speeds;</BulletPoint>
+        <BulletPoint>✔ Quiet use, free of freon in environmental protection and refrigeration;</BulletPoint>
+        <BulletPoint>✔ Built-in 160ml water tank, once filled, can last 8 hours;</BulletPoint>
+        <BulletPoint>✔ USB charging or AC power supply; USB cable length: 85cm</BulletPoint>
+        <BulletPoint>✔ Use place: office, home living room, kitchen, bedroom, bathroom and home construction area, etc.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Air Conditioning</ItemType>
+        <RecommendedBrowseNode>9164129011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>White</Color>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>DUYER-521585822622-A</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>3895554861071</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Portable Air Cooler, Mini Air Conditioner, Touch Control 3 Speed Fan Speed, Usb Powered, For Home Office Outdoor</Title>
+        <Brand>DUYER</Brand>
+        <Description><![CDATA[✔ You want to stay cool in the hot summer, but worry that it will cost a lot to run the air conditioner all day, and ordinary fans will only blow warm air to your face.<br/><br/>✔ Do you want a better way to calm down?<br/>Use our mini air cooler to get this personal space cooler to create your comfort zone. Just add water and ice to the water tank, then relax and enjoy a fresh and moist breath.<br/><br/>✔ Product name: USB Mini Cooler<br/>✔ Material: ABS material<br/>✔ Product size: 140 * 155 * 175mm<br/>✔ Power: 5W<br/>✔ Working voltage: 1A<br/>✔ Input voltage: 5V<br/>✔ Size: 170 * 170 * 205mm<br/><br/>✔ Packing list<br/>1 * Cooler<br/>1 * USB cable<br/>1 * Manual (Chinese and English)]]></Description>
+        <BulletPoint>✔ With three functions of cooling, humidification and air purification, the wind speed can be adjusted in three speeds;</BulletPoint>
+        <BulletPoint>✔ Quiet use, free of freon in environmental protection and refrigeration;</BulletPoint>
+        <BulletPoint>✔ Built-in 160ml water tank, once filled, can last 8 hours;</BulletPoint>
+        <BulletPoint>✔ USB charging or AC power supply; USB cable length: 85cm</BulletPoint>
+        <BulletPoint>✔ Use place: office, home living room, kitchen, bedroom, bathroom and home construction area, etc.</BulletPoint>
+        <Manufacturer>ZYC</Manufacturer>
+        <SearchTerms>desk fan usb quiet mini cooling battery handheld portable rechargeable turbo lcd touch screen, 3-speed mode easy to operate retro design 4inch bedroom office living room speeds turbofan 35w energy saving powered with led</SearchTerms>
+        <ItemType>Air Conditioning</ItemType>
+        <RecommendedBrowseNode>9164129011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </BedAndBath>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

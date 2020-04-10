@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A1BUJEG2QM7EPD</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>RENC-601586160730</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6337735455480</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Rally Rope,Two-wheeled Abdominal Device Pull Rope,Fitness Elastic Rally Wheel,Double Wheel Abdominal Device Rally Rope,Abdominal Muscle Wheel Home Fitness Equipment</Title>
+        <Brand>RENC</Brand>
+        <Description><![CDATA[<b>Description:</b> <br/>Ten minutes a day, 6 levels of force can be adjusted, step by step let you change<br/>Boys can use this exercise to have eight pack abs, arm muscle lines, latissimus dorsi, firming buttocks.<br/>Girls can use this exercise to have thin arms, breast enlargement, thin waist, abdomen, lifting leg lines, firming buttocks<br/>The material is latex, good elasticity, strong and long service life.<br/>It can adjust the length of the rope and adjust the tension by the hole position at the bottom of the raft.<br/>Anti-pulley bottom, elastic rubber rope, professional skid plate<br/><b>Specification</b> <br/>Color: blue<br/>Material: ABS/PP<br/>Cushion: EVA<br/>Hose: High elastic elastic tube<br/>Pull rope: 35-95cm<br/>Net weight: 1100g<br/><b>Specifications:</b> <br/>The devil stretches the bodybuilder, and it is easy for you to be healthy and beautiful.<br/>From easy to difficult, step by step exercise, let you more insist.<br/>The phased changes in the completion of exercise are restricted by the physiological functions of the human body. Under the control of the comprehensive logical thinking laws such as conditioning and analysis, there is a simple to complex exercise process.<br/><b>Single Included:</b> <br/>1* Pull Rope Abdomen<br/><b>Package Included:</b> <br/>1* Pull Rope Abdomen<br/>2* Yoga Stretch Band(Color Random)]]></Description>
+        <BulletPoint>★Exercise effect: Boys can use this exercise to get eight abdominal muscles, arm muscle lines, latissimus dorsi muscles, and tight hips. Girls can use this exercise to thin arms, breasts, thin waists, abdomen, leg lifts, firm The buttocks, ten minutes a day, can adjust the strength of level 6, and gradually let you change.</BulletPoint>
+        <BulletPoint>★High-quality materials: natural latex tube has excellent elasticity, environmental protection, high-strength and high-elasticity elastic tube, good elasticity, strong durability, long service life, can replace commonly used metal springs, good tensile toughness, make sports more comfortable and more enthusiastic , And the movement effect is doubled.</BulletPoint>
+        <BulletPoint>★All-round muscle training: Multi-functional fitness equipment to exercise abdominal muscles to make the abdomen firm, and to exercise shoulders, back, chest stretch waist, exercise abdominal muscles, chest muscles, stretch arms. Our abdominal fitness equipment is perfect for your home gym!</BulletPoint>
+        <BulletPoint>★Dual mode: dumbbell weight loss mode: dumbbell hand lifting exercise, exercise arm muscles to help shape the arm; twisting slimming mode: 360 degree rotating torsion board, full body rotation exercise, exercise leg waist muscles, keeping healthy, relaxed and safe Adjust and tighten waist, legs and arms, and relax shoulders.</BulletPoint>
+        <BulletPoint>★Anti-skid plate: The non-slip texture can stabilize the sliding, and the bottom of the pulley has a professional texture to ensure sliding stability and prevent side slip. The professional anti-skid pedal is durable. Foot pressure, drop resistance, adjustable tension tube can completely burn fat, quality is guaranteed. (We also have a package option to give away two yoga stretch bands).</BulletPoint>
+        <Manufacturer>RENC</Manufacturer>
+        <SearchTerms>Rally Rope,Two-wheeled Abdominal Device Pull Rope,Fitness Elastic Rally Wheel,Double Wheel Abdominal Device Rally Rope,Abdominal Muscle Wheel Home Fitness Equipment,</SearchTerms>
+        <ItemType>Yoga</ItemType>
+        <RecommendedBrowseNode>299154</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <BedAndBath>
+              <VariationData/>
+            </BedAndBath>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

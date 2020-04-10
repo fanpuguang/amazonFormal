@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>AIEQD2KLS1F6W</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411355-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761714</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates stick, Exercise Tubing Workout Bands Stackable up Training Tubes for Abdomen, Waist, Arm, Yoga Stretching Slimming Training</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ This controlled movement is not only great for building full-body athletic strength, it is also easy on joints and weak muscles that are recovering from overuse and injury. <br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Resistance Band<br/>- Material: NBR + metal inner tube + latex tube<br/>- Color: Pink, Black, Blue<br/><br/>★ Package List: <br/>- 1 * Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ NON-SLIP FOOT STRAP: Comfortable to touch, non-slip to protect the ankle from strain.</BulletPoint>
+        <BulletPoint>★ ANTI-BREAKING LATEX ROPE: High elasticity, not easy to deform after multiple tensile tests.</BulletPoint>
+        <BulletPoint>★ COMFORTABLE FOAM: Thick foam wraps the metal tube, which is strong and break-proof and feels comfortable.</BulletPoint>
+        <BulletPoint>★ REMOVABLE DESIGN: Detachable design,simple storage does not occupy space,easy to carry.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411355-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761721</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates stick, Exercise Tubing Workout Bands Stackable up Training Tubes for Abdomen, Waist, Arm, Yoga Stretching Slimming Training</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ This controlled movement is not only great for building full-body athletic strength, it is also easy on joints and weak muscles that are recovering from overuse and injury. <br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Resistance Band<br/>- Material: NBR + metal inner tube + latex tube<br/>- Color: Pink, Black, Blue<br/><br/>★ Package List: <br/>- 1 * Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ NON-SLIP FOOT STRAP: Comfortable to touch, non-slip to protect the ankle from strain.</BulletPoint>
+        <BulletPoint>★ ANTI-BREAKING LATEX ROPE: High elasticity, not easy to deform after multiple tensile tests.</BulletPoint>
+        <BulletPoint>★ COMFORTABLE FOAM: Thick foam wraps the metal tube, which is strong and break-proof and feels comfortable.</BulletPoint>
+        <BulletPoint>★ REMOVABLE DESIGN: Detachable design,simple storage does not occupy space,easy to carry.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Black</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411355-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761738</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates stick, Exercise Tubing Workout Bands Stackable up Training Tubes for Abdomen, Waist, Arm, Yoga Stretching Slimming Training</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ This controlled movement is not only great for building full-body athletic strength, it is also easy on joints and weak muscles that are recovering from overuse and injury. <br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Resistance Band<br/>- Material: NBR + metal inner tube + latex tube<br/>- Color: Pink, Black, Blue<br/><br/>★ Package List: <br/>- 1 * Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ NON-SLIP FOOT STRAP: Comfortable to touch, non-slip to protect the ankle from strain.</BulletPoint>
+        <BulletPoint>★ ANTI-BREAKING LATEX ROPE: High elasticity, not easy to deform after multiple tensile tests.</BulletPoint>
+        <BulletPoint>★ COMFORTABLE FOAM: Thick foam wraps the metal tube, which is strong and break-proof and feels comfortable.</BulletPoint>
+        <BulletPoint>★ REMOVABLE DESIGN: Detachable design,simple storage does not occupy space,easy to carry.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Blue</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411767-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761769</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pedal Resistance Band, Fitness Exerciser Rope Pull Bands,Pedal Resistance Band for Abdomen/Waist/Arm/Yoga Stretching Slimming Training</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Why choose Sit-ups puller?<br/>1.Best gift choice-It is one of the best gifts to your family and friends for weight losing.<br/>2.Training with the resistance bands may not only assist with rehabilitative exercises, fat loss, building muscle, but also prevent of getting cervical spine and lumbar pain, maintaining a healthy body for you.<br/>3.Ideal for toning &amp; strengthening stomach, waist and legs, arms, hips, thighs and works on the tummy at the same time.<br/>4.Bodybuilding Expander for Abdomen/Waist/Arm/Leg Stretching Slimming Training.<br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Pedal Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Pedal Resistance Band<br/>- Material: High-quality pipes, foam, latex<br/>- Color: Red, Black<br/><br/>★ Package List: <br/>- 1 * Pedal Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Pedal Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ FOOT SUPPORT: Increase the foot support rod, anti-skid is safer. The surface is covered with non-slip foam to prevent sports injuries</BulletPoint>
+        <BulletPoint>★ LOCK CAN BE FIXED: Press the lock gently to fix it firmly,easy to operate,more convenient to use.</BulletPoint>
+        <BulletPoint>★ HEIGHT ADJUSTABLE: 3 gears can be adjusted according to different needs, free to switch.</BulletPoint>
+        <BulletPoint>★ ANTI-SLIP SWEAT: Thickened foam wrap, effective cushioning, reduce sports injuries, sports safer.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Red</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411767-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761776</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pedal Resistance Band, Fitness Exerciser Rope Pull Bands,Pedal Resistance Band for Abdomen/Waist/Arm/Yoga Stretching Slimming Training</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Why choose Sit-ups puller?<br/>1.Best gift choice-It is one of the best gifts to your family and friends for weight losing.<br/>2.Training with the resistance bands may not only assist with rehabilitative exercises, fat loss, building muscle, but also prevent of getting cervical spine and lumbar pain, maintaining a healthy body for you.<br/>3.Ideal for toning &amp; strengthening stomach, waist and legs, arms, hips, thighs and works on the tummy at the same time.<br/>4.Bodybuilding Expander for Abdomen/Waist/Arm/Leg Stretching Slimming Training.<br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Pedal Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Pedal Resistance Band<br/>- Material: High-quality pipes, foam, latex<br/>- Color: Red, Black<br/><br/>★ Package List: <br/>- 1 * Pedal Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Pedal Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ FOOT SUPPORT: Increase the foot support rod, anti-skid is safer. The surface is covered with non-slip foam to prevent sports injuries</BulletPoint>
+        <BulletPoint>★ LOCK CAN BE FIXED: Press the lock gently to fix it firmly,easy to operate,more convenient to use.</BulletPoint>
+        <BulletPoint>★ HEIGHT ADJUSTABLE: 3 gears can be adjusted according to different needs, free to switch.</BulletPoint>
+        <BulletPoint>★ ANTI-SLIP SWEAT: Thickened foam wrap, effective cushioning, reduce sports injuries, sports safer.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Black</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412177-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761806</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates stick, Bodybuilding Yoga Pilates Stick Gym Resistance Band Bar Ideal for Home Total Body Workout, Gym, Weighlifting</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ This controlled movement is not only great for building full-body athletic strength, it is also easy on joints and weak muscles that are recovering from overuse and injury. <br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Resistance Band<br/>- Material: NBR + metal inner tube + soft hose<br/>- Color: Purple, Black, Pink<br/><br/>★ Package List: <br/>- 1 * Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ THICK METAL INNER TUBE: Free disassembly and assembly.</BulletPoint>
+        <BulletPoint>★ THICK AND COMFORTABLE FOAM: Prevent injuries to hands during exercise.</BulletPoint>
+        <BulletPoint>★ GOOD TOUGHNESS: Stretched many times,not easy to break.</BulletPoint>
+        <BulletPoint>★ THICKENED PROTECTIVE BELT: Protect hands and ankles from injury.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Purple</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412177-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761813</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates stick, Bodybuilding Yoga Pilates Stick Gym Resistance Band Bar Ideal for Home Total Body Workout, Gym, Weighlifting</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ This controlled movement is not only great for building full-body athletic strength, it is also easy on joints and weak muscles that are recovering from overuse and injury. <br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Resistance Band<br/>- Material: NBR + metal inner tube + soft hose<br/>- Color: Purple, Black, Pink<br/><br/>★ Package List: <br/>- 1 * Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ THICK METAL INNER TUBE: Free disassembly and assembly.</BulletPoint>
+        <BulletPoint>★ THICK AND COMFORTABLE FOAM: Prevent injuries to hands during exercise.</BulletPoint>
+        <BulletPoint>★ GOOD TOUGHNESS: Stretched many times,not easy to break.</BulletPoint>
+        <BulletPoint>★ THICKENED PROTECTIVE BELT: Protect hands and ankles from injury.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Black</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412177-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761820</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates stick, Bodybuilding Yoga Pilates Stick Gym Resistance Band Bar Ideal for Home Total Body Workout, Gym, Weighlifting</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ This controlled movement is not only great for building full-body athletic strength, it is also easy on joints and weak muscles that are recovering from overuse and injury. <br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Resistance Band<br/>- Material: NBR + metal inner tube + soft hose<br/>- Color: Purple, Black, Pink<br/><br/>★ Package List: <br/>- 1 * Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ THICK METAL INNER TUBE: Free disassembly and assembly.</BulletPoint>
+        <BulletPoint>★ THICK AND COMFORTABLE FOAM: Prevent injuries to hands during exercise.</BulletPoint>
+        <BulletPoint>★ GOOD TOUGHNESS: Stretched many times,not easy to break.</BulletPoint>
+        <BulletPoint>★ THICKENED PROTECTIVE BELT: Protect hands and ankles from injury.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412823-0</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761851</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Resistance Band, Roller Multifunctional Workout Equipment Easy To Use No Noise For Abdominal Exercise Core Wheels Trainer For Women Machine At Home Gem</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ This controlled movement is not only great for building full-body athletic strength, it is also easy on joints and weak muscles that are recovering from overuse and injury. <br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Resistance Band<br/>- Color: Purple, Pink, Green<br/><br/>★ Package List: <br/>- 1 * Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ ADJUSTABLE EXERCISE INTENSITY: The greater the separation angle of the two wheels,the better the effect and the higher the exercise intensity.</BulletPoint>
+        <BulletPoint>★ INJURY-FREE FLOOR: Wheel outer ring wear-resistant TPR soft rubber, do not hurt the floor.</BulletPoint>
+        <BulletPoint>★ THIN WAIST MODE: Automatic rebound,four wheels are more stable, silent and non-slip.</BulletPoint>
+        <BulletPoint>★ ANYTIME ANYWHERE: Home, hotel rooms, offices, and even outdoors Anytime, anywhere you want to start a sporting event or sport you want, it's very easy to carry and a small portable gym. Perfect home-based strength training</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Purple</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412823-1</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761868</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Resistance Band, Roller Multifunctional Workout Equipment Easy To Use No Noise For Abdominal Exercise Core Wheels Trainer For Women Machine At Home Gem</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ This controlled movement is not only great for building full-body athletic strength, it is also easy on joints and weak muscles that are recovering from overuse and injury. <br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Resistance Band<br/>- Color: Purple, Pink, Green<br/><br/>★ Package List: <br/>- 1 * Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ ADJUSTABLE EXERCISE INTENSITY: The greater the separation angle of the two wheels,the better the effect and the higher the exercise intensity.</BulletPoint>
+        <BulletPoint>★ INJURY-FREE FLOOR: Wheel outer ring wear-resistant TPR soft rubber, do not hurt the floor.</BulletPoint>
+        <BulletPoint>★ THIN WAIST MODE: Automatic rebound,four wheels are more stable, silent and non-slip.</BulletPoint>
+        <BulletPoint>★ ANYTIME ANYWHERE: Home, hotel rooms, offices, and even outdoors Anytime, anywhere you want to start a sporting event or sport you want, it's very easy to carry and a small portable gym. Perfect home-based strength training</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Pink</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412823-2</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761875</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Resistance Band, Roller Multifunctional Workout Equipment Easy To Use No Noise For Abdominal Exercise Core Wheels Trainer For Women Machine At Home Gem</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ This controlled movement is not only great for building full-body athletic strength, it is also easy on joints and weak muscles that are recovering from overuse and injury. <br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Resistance Band<br/>- Color: Purple, Pink, Green<br/><br/>★ Package List: <br/>- 1 * Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ ADJUSTABLE EXERCISE INTENSITY: The greater the separation angle of the two wheels,the better the effect and the higher the exercise intensity.</BulletPoint>
+        <BulletPoint>★ INJURY-FREE FLOOR: Wheel outer ring wear-resistant TPR soft rubber, do not hurt the floor.</BulletPoint>
+        <BulletPoint>★ THIN WAIST MODE: Automatic rebound,four wheels are more stable, silent and non-slip.</BulletPoint>
+        <BulletPoint>★ ANYTIME ANYWHERE: Home, hotel rooms, offices, and even outdoors Anytime, anywhere you want to start a sporting event or sport you want, it's very easy to carry and a small portable gym. Perfect home-based strength training</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+                <Color>Green</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>12</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411355</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761707</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates stick, Exercise Tubing Workout Bands Stackable up Training Tubes for Abdomen, Waist, Arm, Yoga Stretching Slimming Training</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ This controlled movement is not only great for building full-body athletic strength, it is also easy on joints and weak muscles that are recovering from overuse and injury. <br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Resistance Band<br/>- Material: NBR + metal inner tube + latex tube<br/>- Color: Pink, Black, Blue<br/><br/>★ Package List: <br/>- 1 * Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ NON-SLIP FOOT STRAP: Comfortable to touch, non-slip to protect the ankle from strain.</BulletPoint>
+        <BulletPoint>★ ANTI-BREAKING LATEX ROPE: High elasticity, not easy to deform after multiple tensile tests.</BulletPoint>
+        <BulletPoint>★ COMFORTABLE FOAM: Thick foam wraps the metal tube, which is strong and break-proof and feels comfortable.</BulletPoint>
+        <BulletPoint>★ REMOVABLE DESIGN: Detachable design,simple storage does not occupy space,easy to carry.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>13</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411637</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761745</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pedal Resistance Band, Elastic Pull Rope Fitness Equipment Bodybuilding Expander for Abdomen/Waist/Arm/Leg Stretching Slimming Training</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Why choose Sit-ups puller?<br/>1.Best gift choice-It is one of the best gifts to your family and friends for weight losing.<br/>2.Training with the resistance bands may not only assist with rehabilitative exercises, fat loss, building muscle, but also prevent of getting cervical spine and lumbar pain, maintaining a healthy body for you.<br/>3.Ideal for toning &amp; strengthening stomach, waist and legs, arms, hips, thighs and works on the tummy at the same time.<br/>4.Bodybuilding Expander for Abdomen/Waist/Arm/Leg Stretching Slimming Training.<br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Pedal Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Pedal Resistance Band<br/>- Material: TPE + foam + alloy steel<br/>- Color: Purple<br/><br/>★ Package List: <br/>- 1 * Pedal Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Pedal Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ FOAM HANDLE: Soft foam handle, high density, comfortable and not hurt your hands.</BulletPoint>
+        <BulletPoint>★ NON-SLIP FOOTREST: NBR material, safe and secure to use.</BulletPoint>
+        <BulletPoint>★ ANTI-BREAKING CLOTH: Refuse to break,weave cloth tightly,the safety factor is increased by 50% compared to the old model.</BulletPoint>
+        <BulletPoint>★ BOLD STEEL BUCKLE: Arbitrarily adjust, choose your strength, exercise just right.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Table lamp, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData/>
+            </OutdoorLiving>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>14</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411767</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761752</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pedal Resistance Band, Fitness Exerciser Rope Pull Bands,Pedal Resistance Band for Abdomen/Waist/Arm/Yoga Stretching Slimming Training</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ Why choose Sit-ups puller?<br/>1.Best gift choice-It is one of the best gifts to your family and friends for weight losing.<br/>2.Training with the resistance bands may not only assist with rehabilitative exercises, fat loss, building muscle, but also prevent of getting cervical spine and lumbar pain, maintaining a healthy body for you.<br/>3.Ideal for toning &amp; strengthening stomach, waist and legs, arms, hips, thighs and works on the tummy at the same time.<br/>4.Bodybuilding Expander for Abdomen/Waist/Arm/Leg Stretching Slimming Training.<br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Pedal Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Pedal Resistance Band<br/>- Material: High-quality pipes, foam, latex<br/>- Color: Red, Black<br/><br/>★ Package List: <br/>- 1 * Pedal Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Pedal Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ FOOT SUPPORT: Increase the foot support rod, anti-skid is safer. The surface is covered with non-slip foam to prevent sports injuries</BulletPoint>
+        <BulletPoint>★ LOCK CAN BE FIXED: Press the lock gently to fix it firmly,easy to operate,more convenient to use.</BulletPoint>
+        <BulletPoint>★ HEIGHT ADJUSTABLE: 3 gears can be adjusted according to different needs, free to switch.</BulletPoint>
+        <BulletPoint>★ ANTI-SLIP SWEAT: Thickened foam wrap, effective cushioning, reduce sports injuries, sports safer.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>15</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586411966</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761783</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates Stick, Exercise Resistance Band Yoga Pilates Bar Portable Muscle Toning Bar Home Gym for Total Body Workout Enhance</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ This controlled movement is not only great for building full-body athletic strength, it is also easy on joints and weak muscles that are recovering from overuse and injury. <br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Resistance Band<br/>- Material: Natural latex tube / nylon / steel buckle<br/>- Color: Black-Red<br/><br/>★ Package List: <br/>- 1 * Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ CONVENIENT AND STURDY: The pole can be split and torn,the EVA feel comfortable,durable.</BulletPoint>
+        <BulletPoint>★ ADJUSTABLE LENGTH: Adjustable buckle,quick length adjustment, quick and convenient.</BulletPoint>
+        <BulletPoint>★ SAFE MATERIAL: Safe and anti-breaking design,sturdy imitation nylon structure.</BulletPoint>
+        <BulletPoint>★ ANYTIME ANYWHERE: Home, hotel rooms, offices, and even outdoors Anytime, anywhere you want to start a sporting event or sport you want, it's very easy to carry and a small portable gym. Perfect home-based strength training.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData/>
+            </OutdoorLiving>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>16</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412177</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761790</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates stick, Bodybuilding Yoga Pilates Stick Gym Resistance Band Bar Ideal for Home Total Body Workout, Gym, Weighlifting</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ This controlled movement is not only great for building full-body athletic strength, it is also easy on joints and weak muscles that are recovering from overuse and injury. <br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Resistance Band<br/>- Material: NBR + metal inner tube + soft hose<br/>- Color: Purple, Black, Pink<br/><br/>★ Package List: <br/>- 1 * Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ THICK METAL INNER TUBE: Free disassembly and assembly.</BulletPoint>
+        <BulletPoint>★ THICK AND COMFORTABLE FOAM: Prevent injuries to hands during exercise.</BulletPoint>
+        <BulletPoint>★ GOOD TOUGHNESS: Stretched many times,not easy to break.</BulletPoint>
+        <BulletPoint>★ THICKENED PROTECTIVE BELT: Protect hands and ankles from injury.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>17</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412429</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761837</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Pilates Stick, Resistance Band Yoga Pilates Stick Yoga Exercise Bar with Foot Loop for Yoga,Stretch,Sculpt,Twisting,Sit-Up Bar Resistance Band</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ This controlled movement is not only great for building full-body athletic strength, it is also easy on joints and weak muscles that are recovering from overuse and injury. <br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Resistance Band<br/>- Material: Latex / polyester yarn / iron / PP cotton<br/>- Color: Orange<br/><br/>★ Package List: <br/>- 1 * Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ INSTEAD OF BARBELL: The fitness bar can replace the barbell,which is more safe,convenient to store,exercise the back muscles.</BulletPoint>
+        <BulletPoint>★ YOGA SUPPORT: Fitness stick can assist yoga exercise,help to exercise hip shape.</BulletPoint>
+        <BulletPoint>★ INSTEAD OF TWISTING THE WAIST MACHINE: The fitness stick can replace the waist twisting machine,protect the waist from being sprained.</BulletPoint>
+        <BulletPoint>★ INSTEAD OF PULL ROPE: The fitness bar can replace the pull rope,show more exercise methods,shake off the butterfly arm,and create long legs.</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData/>
+            </OutdoorLiving>
+          </ProductType>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>18</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>ATRNA-571586412823</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>9859476761844</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Resistance Band, Roller Multifunctional Workout Equipment Easy To Use No Noise For Abdominal Exercise Core Wheels Trainer For Women Machine At Home Gem</Title>
+        <Brand>ATRNA</Brand>
+        <Description><![CDATA[★ This controlled movement is not only great for building full-body athletic strength, it is also easy on joints and weak muscles that are recovering from overuse and injury. <br/>★ Welcome to ATRNA shop, thank your presence and trust! You can click on our shop to see more products.<br/>★ We will continue to update Resistance Band to provide customers with quality products.<br/><br/>★ Specification<br/>- Item Type: Resistance Band<br/>- Color: Purple, Pink, Green<br/><br/>★ Package List: <br/>- 1 * Resistance Band<br/><br/>★ Note<br/>- This product is only for sale of Resistance Band, other accessories are not included in the scope of sale, please pay attention when purchasing.<br/>- Because of the light effect and the different computer monitors, there may be the color difference.<br/>- Size is manual measurement, there will be 1-2cm error.<br/>- If you have any questions about these Pedal Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.]]></Description>
+        <BulletPoint>★ ADJUSTABLE EXERCISE INTENSITY: The greater the separation angle of the two wheels,the better the effect and the higher the exercise intensity.</BulletPoint>
+        <BulletPoint>★ INJURY-FREE FLOOR: Wheel outer ring wear-resistant TPR soft rubber, do not hurt the floor.</BulletPoint>
+        <BulletPoint>★ THIN WAIST MODE: Automatic rebound,four wheels are more stable, silent and non-slip.</BulletPoint>
+        <BulletPoint>★ ANYTIME ANYWHERE: Home, hotel rooms, offices, and even outdoors Anytime, anywhere you want to start a sporting event or sport you want, it's very easy to carry and a small portable gym. Perfect home-based strength training</BulletPoint>
+        <BulletPoint>★ CUSTOMERS SERVICE: If you have any questions about these Resistance Band, please feel free to contact us and we will reply you email and solve your problem in 24h.</BulletPoint>
+        <Manufacturer>ATRNA</Manufacturer>
+        <SearchTerms>Pedal Resistance Band Tube Natural Latex Sit-up Bodybuilding Expander Elastic Pull Rope Fitness Equipment Abdomen Waist Arm Yoga Stretching Slimming Training Comfort Handles Exercise Portable Workouts Physical Therapy Strength Muscle Tension</SearchTerms>
+        <ItemType>Exercise Bands</ItemType>
+        <RecommendedBrowseNode>3407931</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Color</VariationTheme>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>

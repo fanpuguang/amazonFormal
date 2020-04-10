@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf8"?>
+<AmazonEnvelope>
+  <Header>
+    <DocumentVersion>1.01</DocumentVersion>
+    <MerchantIdentifier>A2O70136OXEC74</MerchantIdentifier>
+  </Header>
+  <MessageType>Product</MessageType>
+  <Message>
+    <MessageID>1</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>YXYLD-271585895823-1--HR-HE</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6111945923034</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Compression Socks/Stockings,Speed Up Recovery For Travel Running Boost Stamina Circulation For Men Women Best Graduated Athletic Fit </Title>
+        <Brand>YXYLD</Brand>
+        <Description><![CDATA[★ Whether you are traveling long distances, need a pair of flying socks or spend most of your working time on feet, compression socks for men and women graduates are perfect for gifts and gifts on the go.<br/><br/>★ Product parameters<br/>- Product name: pressure socks<br/>- Product size: M (35 yards-39 yards), L (39 yards-44 yards)<br/>- Product color: gray, khaki, orange, blue, bright yellow<br/>- Fabric composition: nylon / nylon<br/>- Suitable season: spring, autumn, winter, summer<br/><br/>★ These ankle, muscle and calf support socks are perfect for<br/>- Nurse<br/>- Pregnant women and pregnant women<br/>- Patients with varicose veins,postoperative recovery<br/>- Runner<br/>- Hiker<br/>- Bikers and more.<br/><br/>★ High-quality fabric keeps your feet dry and free of irritation, and enhances the heel, toe and ankle support, which can improve athletic performance and protect yourself from injury.<br/><br/>★ Whether you're a busy nurse, avid cross-country hiker, or a traveler who wants to protect ankles and legs from discomfort, these socks can add affordable yet priceless treasure to your wardrobe.<br/><br/>★ Unique and attractive heel design, maximum comfort and usability, let you be amazed at how fast they improve blood circulation from the moment you first use them. Stylish, reliable, affordable and most importantly, high-knee compression socks are a big deal.<br/><br/>★ Do yourself a favor and make sure not to miss it, buy it today!]]></Description>
+        <BulletPoint>★ High-quality compression socks: stand out from the competition. Our knee socks are made from a high quality blend of 90% nylon and 10% spandex. They have perfect breathability and strong moisture absorption, reducing your mobility and keeping your legs vulnerable.</BulletPoint>
+        <BulletPoint>★ The best match: Sports, travel and daily wear, there are 2 different sizes to choose from to ensure you get the focus support you need and reduce muscle fatigue.</BulletPoint>
+        <BulletPoint>★ Lightweight, durable and breathable fabric design: standing for a long time is particularly good.antistatic fabrics , while eliminating moisture / sweat on the feet.</BulletPoint>
+        <BulletPoint>★ Progressive compression can improve blood circulation: Our graded compression technology (20-30mmHg) can provide ideal compression effect to maximize blood circulation.</BulletPoint>
+        <BulletPoint>★ Good value unisex socks: it is 100% machine washable and anti-hook, we use unisex packaging to provide 3 pairs of stylish high caliber socks, universal.</BulletPoint>
+        <Manufacturer>YXYLD</Manufacturer>
+        <SearchTerms>compression socks stockings men womenspeed recovery graduated athletic fit travel plantar fasciitis foot care sleeve ankle support speed up running shin splints pairs high sock relieves pain supports heel blood prevent clots reduced fatigue</SearchTerms>
+        <ItemType>Compression Socks</ItemType>
+        <RecommendedBrowseNode>5006378011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>M(35</Size>
+                <Color>Blue</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>2</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>YXYLD-271585895823-2--HR-HE</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6111945923041</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Compression Socks/Stockings,Speed Up Recovery For Travel Running Boost Stamina Circulation For Men Women Best Graduated Athletic Fit </Title>
+        <Brand>YXYLD</Brand>
+        <Description><![CDATA[★ Whether you are traveling long distances, need a pair of flying socks or spend most of your working time on feet, compression socks for men and women graduates are perfect for gifts and gifts on the go.<br/><br/>★ Product parameters<br/>- Product name: pressure socks<br/>- Product size: M (35 yards-39 yards), L (39 yards-44 yards)<br/>- Product color: gray, khaki, orange, blue, bright yellow<br/>- Fabric composition: nylon / nylon<br/>- Suitable season: spring, autumn, winter, summer<br/><br/>★ These ankle, muscle and calf support socks are perfect for<br/>- Nurse<br/>- Pregnant women and pregnant women<br/>- Patients with varicose veins,postoperative recovery<br/>- Runner<br/>- Hiker<br/>- Bikers and more.<br/><br/>★ High-quality fabric keeps your feet dry and free of irritation, and enhances the heel, toe and ankle support, which can improve athletic performance and protect yourself from injury.<br/><br/>★ Whether you're a busy nurse, avid cross-country hiker, or a traveler who wants to protect ankles and legs from discomfort, these socks can add affordable yet priceless treasure to your wardrobe.<br/><br/>★ Unique and attractive heel design, maximum comfort and usability, let you be amazed at how fast they improve blood circulation from the moment you first use them. Stylish, reliable, affordable and most importantly, high-knee compression socks are a big deal.<br/><br/>★ Do yourself a favor and make sure not to miss it, buy it today!]]></Description>
+        <BulletPoint>★ High-quality compression socks: stand out from the competition. Our knee socks are made from a high quality blend of 90% nylon and 10% spandex. They have perfect breathability and strong moisture absorption, reducing your mobility and keeping your legs vulnerable.</BulletPoint>
+        <BulletPoint>★ The best match: Sports, travel and daily wear, there are 2 different sizes to choose from to ensure you get the focus support you need and reduce muscle fatigue.</BulletPoint>
+        <BulletPoint>★ Lightweight, durable and breathable fabric design: standing for a long time is particularly good.antistatic fabrics , while eliminating moisture / sweat on the feet.</BulletPoint>
+        <BulletPoint>★ Progressive compression can improve blood circulation: Our graded compression technology (20-30mmHg) can provide ideal compression effect to maximize blood circulation.</BulletPoint>
+        <BulletPoint>★ Good value unisex socks: it is 100% machine washable and anti-hook, we use unisex packaging to provide 3 pairs of stylish high caliber socks, universal.</BulletPoint>
+        <Manufacturer>YXYLD</Manufacturer>
+        <SearchTerms>compression socks stockings men womenspeed recovery graduated athletic fit travel plantar fasciitis foot care sleeve ankle support speed up running shin splints pairs high sock relieves pain supports heel blood prevent clots reduced fatigue</SearchTerms>
+        <ItemType>Compression Socks</ItemType>
+        <RecommendedBrowseNode>5006378011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>L(39</Size>
+                <Color>Blue</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>3</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>YXYLD-271585895823-3--HR-HE</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6111945923058</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Compression Socks/Stockings,Speed Up Recovery For Travel Running Boost Stamina Circulation For Men Women Best Graduated Athletic Fit </Title>
+        <Brand>YXYLD</Brand>
+        <Description><![CDATA[★ Whether you are traveling long distances, need a pair of flying socks or spend most of your working time on feet, compression socks for men and women graduates are perfect for gifts and gifts on the go.<br/><br/>★ Product parameters<br/>- Product name: pressure socks<br/>- Product size: M (35 yards-39 yards), L (39 yards-44 yards)<br/>- Product color: gray, khaki, orange, blue, bright yellow<br/>- Fabric composition: nylon / nylon<br/>- Suitable season: spring, autumn, winter, summer<br/><br/>★ These ankle, muscle and calf support socks are perfect for<br/>- Nurse<br/>- Pregnant women and pregnant women<br/>- Patients with varicose veins,postoperative recovery<br/>- Runner<br/>- Hiker<br/>- Bikers and more.<br/><br/>★ High-quality fabric keeps your feet dry and free of irritation, and enhances the heel, toe and ankle support, which can improve athletic performance and protect yourself from injury.<br/><br/>★ Whether you're a busy nurse, avid cross-country hiker, or a traveler who wants to protect ankles and legs from discomfort, these socks can add affordable yet priceless treasure to your wardrobe.<br/><br/>★ Unique and attractive heel design, maximum comfort and usability, let you be amazed at how fast they improve blood circulation from the moment you first use them. Stylish, reliable, affordable and most importantly, high-knee compression socks are a big deal.<br/><br/>★ Do yourself a favor and make sure not to miss it, buy it today!]]></Description>
+        <BulletPoint>★ High-quality compression socks: stand out from the competition. Our knee socks are made from a high quality blend of 90% nylon and 10% spandex. They have perfect breathability and strong moisture absorption, reducing your mobility and keeping your legs vulnerable.</BulletPoint>
+        <BulletPoint>★ The best match: Sports, travel and daily wear, there are 2 different sizes to choose from to ensure you get the focus support you need and reduce muscle fatigue.</BulletPoint>
+        <BulletPoint>★ Lightweight, durable and breathable fabric design: standing for a long time is particularly good.antistatic fabrics , while eliminating moisture / sweat on the feet.</BulletPoint>
+        <BulletPoint>★ Progressive compression can improve blood circulation: Our graded compression technology (20-30mmHg) can provide ideal compression effect to maximize blood circulation.</BulletPoint>
+        <BulletPoint>★ Good value unisex socks: it is 100% machine washable and anti-hook, we use unisex packaging to provide 3 pairs of stylish high caliber socks, universal.</BulletPoint>
+        <Manufacturer>YXYLD</Manufacturer>
+        <SearchTerms>compression socks stockings men womenspeed recovery graduated athletic fit travel plantar fasciitis foot care sleeve ankle support speed up running shin splints pairs high sock relieves pain supports heel blood prevent clots reduced fatigue</SearchTerms>
+        <ItemType>Compression Socks</ItemType>
+        <RecommendedBrowseNode>5006378011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>M(35</Size>
+                <Color>Pink</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>4</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>YXYLD-271585895823-4--HR-HE</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6111945923065</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Compression Socks/Stockings,Speed Up Recovery For Travel Running Boost Stamina Circulation For Men Women Best Graduated Athletic Fit </Title>
+        <Brand>YXYLD</Brand>
+        <Description><![CDATA[★ Whether you are traveling long distances, need a pair of flying socks or spend most of your working time on feet, compression socks for men and women graduates are perfect for gifts and gifts on the go.<br/><br/>★ Product parameters<br/>- Product name: pressure socks<br/>- Product size: M (35 yards-39 yards), L (39 yards-44 yards)<br/>- Product color: gray, khaki, orange, blue, bright yellow<br/>- Fabric composition: nylon / nylon<br/>- Suitable season: spring, autumn, winter, summer<br/><br/>★ These ankle, muscle and calf support socks are perfect for<br/>- Nurse<br/>- Pregnant women and pregnant women<br/>- Patients with varicose veins,postoperative recovery<br/>- Runner<br/>- Hiker<br/>- Bikers and more.<br/><br/>★ High-quality fabric keeps your feet dry and free of irritation, and enhances the heel, toe and ankle support, which can improve athletic performance and protect yourself from injury.<br/><br/>★ Whether you're a busy nurse, avid cross-country hiker, or a traveler who wants to protect ankles and legs from discomfort, these socks can add affordable yet priceless treasure to your wardrobe.<br/><br/>★ Unique and attractive heel design, maximum comfort and usability, let you be amazed at how fast they improve blood circulation from the moment you first use them. Stylish, reliable, affordable and most importantly, high-knee compression socks are a big deal.<br/><br/>★ Do yourself a favor and make sure not to miss it, buy it today!]]></Description>
+        <BulletPoint>★ High-quality compression socks: stand out from the competition. Our knee socks are made from a high quality blend of 90% nylon and 10% spandex. They have perfect breathability and strong moisture absorption, reducing your mobility and keeping your legs vulnerable.</BulletPoint>
+        <BulletPoint>★ The best match: Sports, travel and daily wear, there are 2 different sizes to choose from to ensure you get the focus support you need and reduce muscle fatigue.</BulletPoint>
+        <BulletPoint>★ Lightweight, durable and breathable fabric design: standing for a long time is particularly good.antistatic fabrics , while eliminating moisture / sweat on the feet.</BulletPoint>
+        <BulletPoint>★ Progressive compression can improve blood circulation: Our graded compression technology (20-30mmHg) can provide ideal compression effect to maximize blood circulation.</BulletPoint>
+        <BulletPoint>★ Good value unisex socks: it is 100% machine washable and anti-hook, we use unisex packaging to provide 3 pairs of stylish high caliber socks, universal.</BulletPoint>
+        <Manufacturer>YXYLD</Manufacturer>
+        <SearchTerms>compression socks stockings men womenspeed recovery graduated athletic fit travel plantar fasciitis foot care sleeve ankle support speed up running shin splints pairs high sock relieves pain supports heel blood prevent clots reduced fatigue</SearchTerms>
+        <ItemType>Compression Socks</ItemType>
+        <RecommendedBrowseNode>5006378011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>L(39</Size>
+                <Color>Pink</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>5</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>YXYLD-271585895823-5--HR-HE</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6111945923072</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Compression Socks/Stockings,Speed Up Recovery For Travel Running Boost Stamina Circulation For Men Women Best Graduated Athletic Fit </Title>
+        <Brand>YXYLD</Brand>
+        <Description><![CDATA[★ Whether you are traveling long distances, need a pair of flying socks or spend most of your working time on feet, compression socks for men and women graduates are perfect for gifts and gifts on the go.<br/><br/>★ Product parameters<br/>- Product name: pressure socks<br/>- Product size: M (35 yards-39 yards), L (39 yards-44 yards)<br/>- Product color: gray, khaki, orange, blue, bright yellow<br/>- Fabric composition: nylon / nylon<br/>- Suitable season: spring, autumn, winter, summer<br/><br/>★ These ankle, muscle and calf support socks are perfect for<br/>- Nurse<br/>- Pregnant women and pregnant women<br/>- Patients with varicose veins,postoperative recovery<br/>- Runner<br/>- Hiker<br/>- Bikers and more.<br/><br/>★ High-quality fabric keeps your feet dry and free of irritation, and enhances the heel, toe and ankle support, which can improve athletic performance and protect yourself from injury.<br/><br/>★ Whether you're a busy nurse, avid cross-country hiker, or a traveler who wants to protect ankles and legs from discomfort, these socks can add affordable yet priceless treasure to your wardrobe.<br/><br/>★ Unique and attractive heel design, maximum comfort and usability, let you be amazed at how fast they improve blood circulation from the moment you first use them. Stylish, reliable, affordable and most importantly, high-knee compression socks are a big deal.<br/><br/>★ Do yourself a favor and make sure not to miss it, buy it today!]]></Description>
+        <BulletPoint>★ High-quality compression socks: stand out from the competition. Our knee socks are made from a high quality blend of 90% nylon and 10% spandex. They have perfect breathability and strong moisture absorption, reducing your mobility and keeping your legs vulnerable.</BulletPoint>
+        <BulletPoint>★ The best match: Sports, travel and daily wear, there are 2 different sizes to choose from to ensure you get the focus support you need and reduce muscle fatigue.</BulletPoint>
+        <BulletPoint>★ Lightweight, durable and breathable fabric design: standing for a long time is particularly good.antistatic fabrics , while eliminating moisture / sweat on the feet.</BulletPoint>
+        <BulletPoint>★ Progressive compression can improve blood circulation: Our graded compression technology (20-30mmHg) can provide ideal compression effect to maximize blood circulation.</BulletPoint>
+        <BulletPoint>★ Good value unisex socks: it is 100% machine washable and anti-hook, we use unisex packaging to provide 3 pairs of stylish high caliber socks, universal.</BulletPoint>
+        <Manufacturer>YXYLD</Manufacturer>
+        <SearchTerms>compression socks stockings men womenspeed recovery graduated athletic fit travel plantar fasciitis foot care sleeve ankle support speed up running shin splints pairs high sock relieves pain supports heel blood prevent clots reduced fatigue</SearchTerms>
+        <ItemType>Compression Socks</ItemType>
+        <RecommendedBrowseNode>5006378011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>M(35</Size>
+                <Color>Yellow</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>6</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>YXYLD-271585895823-6--HR-HE</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6111945923089</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Compression Socks/Stockings,Speed Up Recovery For Travel Running Boost Stamina Circulation For Men Women Best Graduated Athletic Fit </Title>
+        <Brand>YXYLD</Brand>
+        <Description><![CDATA[★ Whether you are traveling long distances, need a pair of flying socks or spend most of your working time on feet, compression socks for men and women graduates are perfect for gifts and gifts on the go.<br/><br/>★ Product parameters<br/>- Product name: pressure socks<br/>- Product size: M (35 yards-39 yards), L (39 yards-44 yards)<br/>- Product color: gray, khaki, orange, blue, bright yellow<br/>- Fabric composition: nylon / nylon<br/>- Suitable season: spring, autumn, winter, summer<br/><br/>★ These ankle, muscle and calf support socks are perfect for<br/>- Nurse<br/>- Pregnant women and pregnant women<br/>- Patients with varicose veins,postoperative recovery<br/>- Runner<br/>- Hiker<br/>- Bikers and more.<br/><br/>★ High-quality fabric keeps your feet dry and free of irritation, and enhances the heel, toe and ankle support, which can improve athletic performance and protect yourself from injury.<br/><br/>★ Whether you're a busy nurse, avid cross-country hiker, or a traveler who wants to protect ankles and legs from discomfort, these socks can add affordable yet priceless treasure to your wardrobe.<br/><br/>★ Unique and attractive heel design, maximum comfort and usability, let you be amazed at how fast they improve blood circulation from the moment you first use them. Stylish, reliable, affordable and most importantly, high-knee compression socks are a big deal.<br/><br/>★ Do yourself a favor and make sure not to miss it, buy it today!]]></Description>
+        <BulletPoint>★ High-quality compression socks: stand out from the competition. Our knee socks are made from a high quality blend of 90% nylon and 10% spandex. They have perfect breathability and strong moisture absorption, reducing your mobility and keeping your legs vulnerable.</BulletPoint>
+        <BulletPoint>★ The best match: Sports, travel and daily wear, there are 2 different sizes to choose from to ensure you get the focus support you need and reduce muscle fatigue.</BulletPoint>
+        <BulletPoint>★ Lightweight, durable and breathable fabric design: standing for a long time is particularly good.antistatic fabrics , while eliminating moisture / sweat on the feet.</BulletPoint>
+        <BulletPoint>★ Progressive compression can improve blood circulation: Our graded compression technology (20-30mmHg) can provide ideal compression effect to maximize blood circulation.</BulletPoint>
+        <BulletPoint>★ Good value unisex socks: it is 100% machine washable and anti-hook, we use unisex packaging to provide 3 pairs of stylish high caliber socks, universal.</BulletPoint>
+        <Manufacturer>YXYLD</Manufacturer>
+        <SearchTerms>compression socks stockings men womenspeed recovery graduated athletic fit travel plantar fasciitis foot care sleeve ankle support speed up running shin splints pairs high sock relieves pain supports heel blood prevent clots reduced fatigue</SearchTerms>
+        <ItemType>Compression Socks</ItemType>
+        <RecommendedBrowseNode>5006378011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>L(39</Size>
+                <Color>Yellow</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>7</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>YXYLD-271585895823-7--HR-HE</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6111945923096</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Compression Socks/Stockings,Speed Up Recovery For Travel Running Boost Stamina Circulation For Men Women Best Graduated Athletic Fit </Title>
+        <Brand>YXYLD</Brand>
+        <Description><![CDATA[★ Whether you are traveling long distances, need a pair of flying socks or spend most of your working time on feet, compression socks for men and women graduates are perfect for gifts and gifts on the go.<br/><br/>★ Product parameters<br/>- Product name: pressure socks<br/>- Product size: M (35 yards-39 yards), L (39 yards-44 yards)<br/>- Product color: gray, khaki, orange, blue, bright yellow<br/>- Fabric composition: nylon / nylon<br/>- Suitable season: spring, autumn, winter, summer<br/><br/>★ These ankle, muscle and calf support socks are perfect for<br/>- Nurse<br/>- Pregnant women and pregnant women<br/>- Patients with varicose veins,postoperative recovery<br/>- Runner<br/>- Hiker<br/>- Bikers and more.<br/><br/>★ High-quality fabric keeps your feet dry and free of irritation, and enhances the heel, toe and ankle support, which can improve athletic performance and protect yourself from injury.<br/><br/>★ Whether you're a busy nurse, avid cross-country hiker, or a traveler who wants to protect ankles and legs from discomfort, these socks can add affordable yet priceless treasure to your wardrobe.<br/><br/>★ Unique and attractive heel design, maximum comfort and usability, let you be amazed at how fast they improve blood circulation from the moment you first use them. Stylish, reliable, affordable and most importantly, high-knee compression socks are a big deal.<br/><br/>★ Do yourself a favor and make sure not to miss it, buy it today!]]></Description>
+        <BulletPoint>★ High-quality compression socks: stand out from the competition. Our knee socks are made from a high quality blend of 90% nylon and 10% spandex. They have perfect breathability and strong moisture absorption, reducing your mobility and keeping your legs vulnerable.</BulletPoint>
+        <BulletPoint>★ The best match: Sports, travel and daily wear, there are 2 different sizes to choose from to ensure you get the focus support you need and reduce muscle fatigue.</BulletPoint>
+        <BulletPoint>★ Lightweight, durable and breathable fabric design: standing for a long time is particularly good.antistatic fabrics , while eliminating moisture / sweat on the feet.</BulletPoint>
+        <BulletPoint>★ Progressive compression can improve blood circulation: Our graded compression technology (20-30mmHg) can provide ideal compression effect to maximize blood circulation.</BulletPoint>
+        <BulletPoint>★ Good value unisex socks: it is 100% machine washable and anti-hook, we use unisex packaging to provide 3 pairs of stylish high caliber socks, universal.</BulletPoint>
+        <Manufacturer>YXYLD</Manufacturer>
+        <SearchTerms>compression socks stockings men womenspeed recovery graduated athletic fit travel plantar fasciitis foot care sleeve ankle support speed up running shin splints pairs high sock relieves pain supports heel blood prevent clots reduced fatigue</SearchTerms>
+        <ItemType>Compression Socks</ItemType>
+        <RecommendedBrowseNode>5006378011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>M(35</Size>
+                <Color>Khaki</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>8</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>YXYLD-271585895823-8--HR-HE</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6111945923102</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Compression Socks/Stockings,Speed Up Recovery For Travel Running Boost Stamina Circulation For Men Women Best Graduated Athletic Fit </Title>
+        <Brand>YXYLD</Brand>
+        <Description><![CDATA[★ Whether you are traveling long distances, need a pair of flying socks or spend most of your working time on feet, compression socks for men and women graduates are perfect for gifts and gifts on the go.<br/><br/>★ Product parameters<br/>- Product name: pressure socks<br/>- Product size: M (35 yards-39 yards), L (39 yards-44 yards)<br/>- Product color: gray, khaki, orange, blue, bright yellow<br/>- Fabric composition: nylon / nylon<br/>- Suitable season: spring, autumn, winter, summer<br/><br/>★ These ankle, muscle and calf support socks are perfect for<br/>- Nurse<br/>- Pregnant women and pregnant women<br/>- Patients with varicose veins,postoperative recovery<br/>- Runner<br/>- Hiker<br/>- Bikers and more.<br/><br/>★ High-quality fabric keeps your feet dry and free of irritation, and enhances the heel, toe and ankle support, which can improve athletic performance and protect yourself from injury.<br/><br/>★ Whether you're a busy nurse, avid cross-country hiker, or a traveler who wants to protect ankles and legs from discomfort, these socks can add affordable yet priceless treasure to your wardrobe.<br/><br/>★ Unique and attractive heel design, maximum comfort and usability, let you be amazed at how fast they improve blood circulation from the moment you first use them. Stylish, reliable, affordable and most importantly, high-knee compression socks are a big deal.<br/><br/>★ Do yourself a favor and make sure not to miss it, buy it today!]]></Description>
+        <BulletPoint>★ High-quality compression socks: stand out from the competition. Our knee socks are made from a high quality blend of 90% nylon and 10% spandex. They have perfect breathability and strong moisture absorption, reducing your mobility and keeping your legs vulnerable.</BulletPoint>
+        <BulletPoint>★ The best match: Sports, travel and daily wear, there are 2 different sizes to choose from to ensure you get the focus support you need and reduce muscle fatigue.</BulletPoint>
+        <BulletPoint>★ Lightweight, durable and breathable fabric design: standing for a long time is particularly good.antistatic fabrics , while eliminating moisture / sweat on the feet.</BulletPoint>
+        <BulletPoint>★ Progressive compression can improve blood circulation: Our graded compression technology (20-30mmHg) can provide ideal compression effect to maximize blood circulation.</BulletPoint>
+        <BulletPoint>★ Good value unisex socks: it is 100% machine washable and anti-hook, we use unisex packaging to provide 3 pairs of stylish high caliber socks, universal.</BulletPoint>
+        <Manufacturer>YXYLD</Manufacturer>
+        <SearchTerms>compression socks stockings men womenspeed recovery graduated athletic fit travel plantar fasciitis foot care sleeve ankle support speed up running shin splints pairs high sock relieves pain supports heel blood prevent clots reduced fatigue</SearchTerms>
+        <ItemType>Compression Socks</ItemType>
+        <RecommendedBrowseNode>5006378011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>L(39</Size>
+                <Color>Khaki</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>9</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>YXYLD-271585895823-9--HR-HE</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6111945923119</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Compression Socks/Stockings,Speed Up Recovery For Travel Running Boost Stamina Circulation For Men Women Best Graduated Athletic Fit </Title>
+        <Brand>YXYLD</Brand>
+        <Description><![CDATA[★ Whether you are traveling long distances, need a pair of flying socks or spend most of your working time on feet, compression socks for men and women graduates are perfect for gifts and gifts on the go.<br/><br/>★ Product parameters<br/>- Product name: pressure socks<br/>- Product size: M (35 yards-39 yards), L (39 yards-44 yards)<br/>- Product color: gray, khaki, orange, blue, bright yellow<br/>- Fabric composition: nylon / nylon<br/>- Suitable season: spring, autumn, winter, summer<br/><br/>★ These ankle, muscle and calf support socks are perfect for<br/>- Nurse<br/>- Pregnant women and pregnant women<br/>- Patients with varicose veins,postoperative recovery<br/>- Runner<br/>- Hiker<br/>- Bikers and more.<br/><br/>★ High-quality fabric keeps your feet dry and free of irritation, and enhances the heel, toe and ankle support, which can improve athletic performance and protect yourself from injury.<br/><br/>★ Whether you're a busy nurse, avid cross-country hiker, or a traveler who wants to protect ankles and legs from discomfort, these socks can add affordable yet priceless treasure to your wardrobe.<br/><br/>★ Unique and attractive heel design, maximum comfort and usability, let you be amazed at how fast they improve blood circulation from the moment you first use them. Stylish, reliable, affordable and most importantly, high-knee compression socks are a big deal.<br/><br/>★ Do yourself a favor and make sure not to miss it, buy it today!]]></Description>
+        <BulletPoint>★ High-quality compression socks: stand out from the competition. Our knee socks are made from a high quality blend of 90% nylon and 10% spandex. They have perfect breathability and strong moisture absorption, reducing your mobility and keeping your legs vulnerable.</BulletPoint>
+        <BulletPoint>★ The best match: Sports, travel and daily wear, there are 2 different sizes to choose from to ensure you get the focus support you need and reduce muscle fatigue.</BulletPoint>
+        <BulletPoint>★ Lightweight, durable and breathable fabric design: standing for a long time is particularly good.antistatic fabrics , while eliminating moisture / sweat on the feet.</BulletPoint>
+        <BulletPoint>★ Progressive compression can improve blood circulation: Our graded compression technology (20-30mmHg) can provide ideal compression effect to maximize blood circulation.</BulletPoint>
+        <BulletPoint>★ Good value unisex socks: it is 100% machine washable and anti-hook, we use unisex packaging to provide 3 pairs of stylish high caliber socks, universal.</BulletPoint>
+        <Manufacturer>YXYLD</Manufacturer>
+        <SearchTerms>compression socks stockings men womenspeed recovery graduated athletic fit travel plantar fasciitis foot care sleeve ankle support speed up running shin splints pairs high sock relieves pain supports heel blood prevent clots reduced fatigue</SearchTerms>
+        <ItemType>Compression Socks</ItemType>
+        <RecommendedBrowseNode>5006378011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>M(35</Size>
+                <Color>Gray</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>10</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>YXYLD-271585895823-10--HR-HE</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6111945923126</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Compression Socks/Stockings,Speed Up Recovery For Travel Running Boost Stamina Circulation For Men Women Best Graduated Athletic Fit </Title>
+        <Brand>YXYLD</Brand>
+        <Description><![CDATA[★ Whether you are traveling long distances, need a pair of flying socks or spend most of your working time on feet, compression socks for men and women graduates are perfect for gifts and gifts on the go.<br/><br/>★ Product parameters<br/>- Product name: pressure socks<br/>- Product size: M (35 yards-39 yards), L (39 yards-44 yards)<br/>- Product color: gray, khaki, orange, blue, bright yellow<br/>- Fabric composition: nylon / nylon<br/>- Suitable season: spring, autumn, winter, summer<br/><br/>★ These ankle, muscle and calf support socks are perfect for<br/>- Nurse<br/>- Pregnant women and pregnant women<br/>- Patients with varicose veins,postoperative recovery<br/>- Runner<br/>- Hiker<br/>- Bikers and more.<br/><br/>★ High-quality fabric keeps your feet dry and free of irritation, and enhances the heel, toe and ankle support, which can improve athletic performance and protect yourself from injury.<br/><br/>★ Whether you're a busy nurse, avid cross-country hiker, or a traveler who wants to protect ankles and legs from discomfort, these socks can add affordable yet priceless treasure to your wardrobe.<br/><br/>★ Unique and attractive heel design, maximum comfort and usability, let you be amazed at how fast they improve blood circulation from the moment you first use them. Stylish, reliable, affordable and most importantly, high-knee compression socks are a big deal.<br/><br/>★ Do yourself a favor and make sure not to miss it, buy it today!]]></Description>
+        <BulletPoint>★ High-quality compression socks: stand out from the competition. Our knee socks are made from a high quality blend of 90% nylon and 10% spandex. They have perfect breathability and strong moisture absorption, reducing your mobility and keeping your legs vulnerable.</BulletPoint>
+        <BulletPoint>★ The best match: Sports, travel and daily wear, there are 2 different sizes to choose from to ensure you get the focus support you need and reduce muscle fatigue.</BulletPoint>
+        <BulletPoint>★ Lightweight, durable and breathable fabric design: standing for a long time is particularly good.antistatic fabrics , while eliminating moisture / sweat on the feet.</BulletPoint>
+        <BulletPoint>★ Progressive compression can improve blood circulation: Our graded compression technology (20-30mmHg) can provide ideal compression effect to maximize blood circulation.</BulletPoint>
+        <BulletPoint>★ Good value unisex socks: it is 100% machine washable and anti-hook, we use unisex packaging to provide 3 pairs of stylish high caliber socks, universal.</BulletPoint>
+        <Manufacturer>YXYLD</Manufacturer>
+        <SearchTerms>compression socks stockings men womenspeed recovery graduated athletic fit travel plantar fasciitis foot care sleeve ankle support speed up running shin splints pairs high sock relieves pain supports heel blood prevent clots reduced fatigue</SearchTerms>
+        <ItemType>Compression Socks</ItemType>
+        <RecommendedBrowseNode>5006378011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+                <Size>L(39</Size>
+                <Color>Gray</Color>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>child</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+  <Message>
+    <MessageID>11</MessageID>
+    <OperationType>Update</OperationType>
+    <Product>
+      <SKU>YXYLD-271585895823-HE</SKU>
+      <StandardProductID>
+        <Type>EAN</Type>
+        <Value>6111945923027</Value>
+      </StandardProductID>
+      <DescriptionData>
+        <Title>Compression Socks/Stockings,Speed Up Recovery For Travel Running Boost Stamina Circulation For Men Women Best Graduated Athletic Fit </Title>
+        <Brand>YXYLD</Brand>
+        <Description><![CDATA[★ Whether you are traveling long distances, need a pair of flying socks or spend most of your working time on feet, compression socks for men and women graduates are perfect for gifts and gifts on the go.<br/><br/>★ Product parameters<br/>- Product name: pressure socks<br/>- Product size: M (35 yards-39 yards), L (39 yards-44 yards)<br/>- Product color: gray, khaki, orange, blue, bright yellow<br/>- Fabric composition: nylon / nylon<br/>- Suitable season: spring, autumn, winter, summer<br/><br/>★ These ankle, muscle and calf support socks are perfect for<br/>- Nurse<br/>- Pregnant women and pregnant women<br/>- Patients with varicose veins,postoperative recovery<br/>- Runner<br/>- Hiker<br/>- Bikers and more.<br/><br/>★ High-quality fabric keeps your feet dry and free of irritation, and enhances the heel, toe and ankle support, which can improve athletic performance and protect yourself from injury.<br/><br/>★ Whether you're a busy nurse, avid cross-country hiker, or a traveler who wants to protect ankles and legs from discomfort, these socks can add affordable yet priceless treasure to your wardrobe.<br/><br/>★ Unique and attractive heel design, maximum comfort and usability, let you be amazed at how fast they improve blood circulation from the moment you first use them. Stylish, reliable, affordable and most importantly, high-knee compression socks are a big deal.<br/><br/>★ Do yourself a favor and make sure not to miss it, buy it today!]]></Description>
+        <BulletPoint>★ High-quality compression socks: stand out from the competition. Our knee socks are made from a high quality blend of 90% nylon and 10% spandex. They have perfect breathability and strong moisture absorption, reducing your mobility and keeping your legs vulnerable.</BulletPoint>
+        <BulletPoint>★ The best match: Sports, travel and daily wear, there are 2 different sizes to choose from to ensure you get the focus support you need and reduce muscle fatigue.</BulletPoint>
+        <BulletPoint>★ Lightweight, durable and breathable fabric design: standing for a long time is particularly good.antistatic fabrics , while eliminating moisture / sweat on the feet.</BulletPoint>
+        <BulletPoint>★ Progressive compression can improve blood circulation: Our graded compression technology (20-30mmHg) can provide ideal compression effect to maximize blood circulation.</BulletPoint>
+        <BulletPoint>★ Good value unisex socks: it is 100% machine washable and anti-hook, we use unisex packaging to provide 3 pairs of stylish high caliber socks, universal.</BulletPoint>
+        <Manufacturer>YXYLD</Manufacturer>
+        <SearchTerms>compression socks stockings men womenspeed recovery graduated athletic fit travel plantar fasciitis foot care sleeve ankle support speed up running shin splints pairs high sock relieves pain supports heel blood prevent clots reduced fatigue</SearchTerms>
+        <ItemType>Compression Socks</ItemType>
+        <RecommendedBrowseNode>5006378011</RecommendedBrowseNode>
+      </DescriptionData>
+      <ProductData>
+        <Home>
+          <ProductType>
+            <OutdoorLiving>
+              <VariationData>
+                <VariationTheme>Size-Color</VariationTheme>
+              </VariationData>
+            </OutdoorLiving>
+          </ProductType>
+          <Parentage>parent</Parentage>
+        </Home>
+      </ProductData>
+    </Product>
+  </Message>
+</AmazonEnvelope>
